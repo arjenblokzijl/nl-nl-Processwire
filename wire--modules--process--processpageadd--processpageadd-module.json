@@ -1,1 +1,66 @@
-{"file":"wire\/modules\/Process\/ProcessPageAdd\/ProcessPageAdd.module","textdomain":"wire--modules--process--processpageadd--processpageadd-module","translations":{"278c491bdd8a53618c149c4ac790da34":{"text":"Template"},"c9cc8cce247e49bae79f15173ce97354":{"text":"Opslaan"},"de9ced9bf5e9829de4a93ad8c9d7a170":{"text":"Nieuwe pagina toevoegen"},"5d1b7adfdc7ca6d81d9ddbfa22b443af":{"text":"Je voegt een nieuwe pagina toe met de '%s' template"},"abc32b2bc5cd1b61b5d3738f09405c0d":{"text":"Verplicht veld ontbreekt: naam"},"9e31eadc87a42dd9b75f4b4d141c192b":{"text":"De naam die je hebt opgegeven is al in gebruik. Kies een andere naam."},"9c99ecab6aa8967c077e01a0b3f51668":{"text":"Pagina %1$s is aangemaakt met de volgende template: %2$s"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageAdd\/ProcessPageAdd.module",
+    "textdomain": "wire--modules--process--processpageadd--processpageadd-module",
+    "translations": {
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Opslaan"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Nieuwe pagina toevoegen"
+        },
+        "abc32b2bc5cd1b61b5d3738f09405c0d": {
+            "text": "Verplicht veld ontbreekt: naam"
+        },
+        "9e31eadc87a42dd9b75f4b4d141c192b": {
+            "text": "De naam die je hebt opgegeven is al in gebruik. Kies een andere naam."
+        },
+        "9c99ecab6aa8967c077e01a0b3f51668": {
+            "text": "Pagina %1$s is aangemaakt met de volgende template: %2$s"
+        },
+        "a3e80c9c5e2dfb9f58712a83e2006a5e": {
+            "text": "Waar wil je de nieuwe %s toevoegen?"
+        },
+        "100e1438e523c6553ac21fd872262d56": {
+            "text": "Selecteer een bovenliggende %s pagina:"
+        },
+        "1f03189503b2b085455900a07777134c": {
+            "text": "Bezet"
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "Okee"
+        },
+        "5ffb937a7aaced6b2c652cd8b8650135": {
+            "text": "Deze naam is al in gebruik. Indien je het niet aanpast, maken we de naam (name) uniek nadat je het opslaat."
+        },
+        "d337f7f6b3b52602b84f206e80fc6a85": {
+            "text": "Geen toegestande templates om nieuwe pagina's toe te voegen"
+        },
+        "76effbf5625101a8e29d5720e986ee6a": {
+            "text": "Template \"%s\" is hier niet toegestaan."
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Bovenliggende pagina"
+        },
+        "7d4be9f67818bd22d064880270a3e4af": {
+            "text": "Opslaan + publiceren"
+        },
+        "41553b358b6daba19bf079d5ad3eefb1": {
+            "text": "Ongebruikte tijdelijke pagina"
+        },
+        "bd71df4fde063d60b0fe33d87f52f7ff": {
+            "text": "Waarschuwing, de naam \"%1$s\" die je selecteert is in gebruik en is aangepast naar \"%2$s\"."
+        },
+        "c4f4f1adddc771c086745ca04050d415": {
+            "text": "Pagina toevoegen"
+        },
+        "e1622ba9f41f5b695bddc69e3ceaa204": {
+            "text": "Voeg een nieuwe pagina toe"
+        },
+        "bb8bbda58833ce19eef6193e1918e8cf": {
+            "text": "Zet automatisch publiceren uit"
+        },
+        "13148993e6c4399880e879c88a664347": {
+            "text": "Standaard worden pagina's met alleen globale velden automatisch gepubliceerd wanneer ze worden toegevoegd. Dit levert normaal tijdswinst op. Dit gedrag kan je beinvloeden door deze optie te gebruiken."
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/Fields.php",
+    "textdomain": "wire--core--fields-php",
+    "translations": {
+        "0c6ba1befbcac7213ccc923d1ecf573a": {
+            "text": "Field \"%1$s\" data in %2$d rij(en) van %3$d pagina(s) is verwijderd."
+        },
+        "b9e9528a32781ceaefec638ec3bfa62e": {
+            "text": "Fout tijdens verwijderen field \"%1$s\" data, %2$d rij(en), %3$d pagina(s)."
+        }
+    }
+}

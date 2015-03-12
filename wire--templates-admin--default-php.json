@@ -1,1 +1,51 @@
-{"file":"wire\/templates-admin\/default.php","textdomain":"wire--templates-admin--default-php","translations":{"453aceb005ceaf54a47da15fee8b2a26":{"text":"Pagina's"},"ad2376beebecdcf7846ba973fa1a005b":{"text":"Instellingen"},"bf733d8a933c1601697f364223fc7ecb":{"text":"Toegang"},"9cfefed8fb9497baa5cd519d7d2bb5d7":{"text":"en"},"7d97481b1fe66f4b51db90da7e794d9f":{"text":"profiel"},"4236a440a662cc8253d7536e5aa17942":{"text":"uitloggen"},"e3afed0047b08059d0fada10f400c1e5":{"text":"Beheer"}}}
+{
+    "file": "wire\/templates-admin\/default.php",
+    "textdomain": "wire--templates-admin--default-php",
+    "translations": {
+        "453aceb005ceaf54a47da15fee8b2a26": {
+            "text": "Pagina's"
+        },
+        "ad2376beebecdcf7846ba973fa1a005b": {
+            "text": "Instellingen"
+        },
+        "bf733d8a933c1601697f364223fc7ecb": {
+            "text": "Toegang"
+        },
+        "e3afed0047b08059d0fada10f400c1e5": {
+            "text": "Beheer"
+        },
+        "3b0c14770e6bd663518496da60f524da": {
+            "text": "Structuur"
+        },
+        "4cfa6c981549e990fe2344e4c805405e": {
+            "text": "Zoeken"
+        },
+        "5e248eb2e87e649e91cc3168e20adf90": {
+            "text": "Bekijk site"
+        },
+        "3a08e2e340ab29fd9263af48193cbf8e": {
+            "text": "Talen"
+        },
+        "f9aae5fda8d810a29f12d1e61b4ab25f": {
+            "text": "Gebruikers"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Rollen"
+        },
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Permissies"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Voeg toe"
+        },
+        "dae52b80711ee1029c7006f95018d300": {
+            "text": "Recent"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profiel"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Uitloggen"
+        }
+    }
+}

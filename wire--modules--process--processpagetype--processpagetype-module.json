@@ -1,1 +1,30 @@
-{"file":"wire\/modules\/Process\/ProcessPageType\/ProcessPageType.module","textdomain":"wire--modules--process--processpagetype--processpagetype-module","translations":{"49ee3087348e8d44e1feda1917443987":{"text":"Naam"},"de9ced9bf5e9829de4a93ad8c9d7a170":{"text":"Nieuwe toevoegen"},"89872ab3eb9af52f34b4dd82077758fc":{"text":"Filter per template"},"8cd0d0c99b062b3d22e8c7188ba33ab2":{"text":"Toon alles"},"6a5b847af3d97df722040debdbccfbed":{"text":"Soort pagina"},"3d10fda1b8b9895bade8da5233636cbf":{"text":"Tonen, bewerken en toevoegen van een specifiek paginatype"},"bce455aa81509f2a4dbb9acb3581a0be":{"text":"Welke velden moeten weergegeven worden in de paginalijst?"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageType\/ProcessPageType.module",
+    "textdomain": "wire--modules--process--processpagetype--processpagetype-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Naam"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Nieuwe toevoegen"
+        },
+        "89872ab3eb9af52f34b4dd82077758fc": {
+            "text": "Filter per template"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Toon alles"
+        },
+        "6a5b847af3d97df722040debdbccfbed": {
+            "text": "Soort pagina"
+        },
+        "3d10fda1b8b9895bade8da5233636cbf": {
+            "text": "Tonen, bewerken en toevoegen van een specifiek paginatype"
+        },
+        "bce455aa81509f2a4dbb9acb3581a0be": {
+            "text": "Welke velden mogen weergegeven worden in de paginalijst?"
+        },
+        "9f8f70e6d54311627f02da284603db7a": {
+            "text": "Er zijn (nog) geen items om weer te geven."
+        }
+    }
+}

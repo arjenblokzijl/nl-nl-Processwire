@@ -1,1 +1,180 @@
-{"file":"wire\/modules\/Process\/ProcessPageEditImageSelect\/ProcessPageEditImageSelect.module","textdomain":"wire--modules--process--processpageeditimageselect--processpageeditimageselect-module","translations":{"5d13ae1a65403891ac0fe044f3acc865":{"text":"Er zijn geen afbeeldingsvelden (image fields) op deze pagina. Kies een andere pagina om afbeeldingen uit te kiezen."},"64a201e91bd521f5640318d844920b31":{"text":"Er zijn geen afbeeldingen beschikbaar op deze pagina. Sluit dit venster en upload afbeeldingen of selecteer een afbeelding van een andere pagina."},"83ea3ed3245ed2ce30aabecdc6b4d354":{"text":"Afbeeldingen op de pagina:"},"48448404ecc9e95975b334dbe421c0bd":{"text":"Wanneer je afbeeldingen van een andere pagina wilt selecteren, kies je hieronde de pagina."},"48ccf48dcf2218a413ce473262f21a0c":{"text":"Breedte:"},"e933dc24fb245d863a43b4fefe9b45f5":{"text":"Hoogte:"},"9178792605ed21e1641c9b2a2e16a721":{"text":"Je kunt de grootte van de afbeelding ook wijzigen door de rechter onderhoek te verslepen."},"e853a6aca1b442d161c2642e88346bf9":{"text":"Geen uitlijning"},"811398cb1e49b4f45851cc25fcc6501f":{"text":"Links uitlijnen"},"ad68675da1db2fb44a8d1cabcbbbb65e":{"text":"Rechts uitlijnen"},"e36098607b9dd3b6d7107a449b6a25bd":{"text":"Centreren"},"d7e02762cdb4621a77388689b2ee53c0":{"text":"Link maken naar de grotere versie van de afbeelding?"},"63c7dee42e04e2757472031aa7164d81":{"text":"Breedte en hoogte overslaan op de afbeelding-tags?"},"5a8f9d5840811602e6806392ffef0523":{"text":"Standaard zal deze module zijn breedte en hoogte waarden in de tag <img>. Als u gebruik maakt responsive afbeeldingen, wilt u dit gedrag misschien uit schakelen. Vink het vakje aan breedte en hoogte waarden om deze uit te schakelen."},"9909fb0aacb4a219f4b3cb8f57f63a87":{"text":"Links uitlijnen class"},"5e37ad68682589a77a924cdffb018f23":{"text":"Rechts uitlijnen class"},"9d2836f3ff372cd7964b90d118710202":{"text":"In het midden uitlijnen class"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageEditImageSelect\/ProcessPageEditImageSelect.module",
+    "textdomain": "wire--modules--process--processpageeditimageselect--processpageeditimageselect-module",
+    "translations": {
+        "5d13ae1a65403891ac0fe044f3acc865": {
+            "text": "Er zijn geen afbeeldingsvelden (image fields) op deze pagina. Kies een andere pagina om afbeeldingen uit te kiezen."
+        },
+        "64a201e91bd521f5640318d844920b31": {
+            "text": "Er zijn geen afbeeldingen beschikbaar op deze pagina. Sluit dit venster en upload afbeeldingen of selecteer een afbeelding van een andere pagina."
+        },
+        "83ea3ed3245ed2ce30aabecdc6b4d354": {
+            "text": "Afbeeldingen op de pagina:"
+        },
+        "48448404ecc9e95975b334dbe421c0bd": {
+            "text": "Wanneer je afbeeldingen van een andere pagina wilt selecteren, kies je hieronde de pagina."
+        },
+        "48ccf48dcf2218a413ce473262f21a0c": {
+            "text": "Breedte:"
+        },
+        "e933dc24fb245d863a43b4fefe9b45f5": {
+            "text": "Hoogte:"
+        },
+        "e853a6aca1b442d161c2642e88346bf9": {
+            "text": "Geen uitlijning"
+        },
+        "811398cb1e49b4f45851cc25fcc6501f": {
+            "text": "Links uitlijnen"
+        },
+        "ad68675da1db2fb44a8d1cabcbbbb65e": {
+            "text": "Rechts uitlijnen"
+        },
+        "e36098607b9dd3b6d7107a449b6a25bd": {
+            "text": "Centreren"
+        },
+        "9909fb0aacb4a219f4b3cb8f57f63a87": {
+            "text": "Links uitlijnen class"
+        },
+        "5e37ad68682589a77a924cdffb018f23": {
+            "text": "Rechts uitlijnen class"
+        },
+        "9d2836f3ff372cd7964b90d118710202": {
+            "text": "In het midden uitlijnen class"
+        },
+        "52c9a1be3c0e025b4aa30857a474fea5": {
+            "text": "Links"
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Beschrijving"
+        },
+        "f8927cab12c03e7537c735cd3117fba2": {
+            "text": "Link naar originele versie"
+        },
+        "9d723d04c40bfd81835c0766a698cf63": {
+            "text": "Wijzigen"
+        },
+        "77fb47f76c22aae57cce393488dfee23": {
+            "text": "Opslaan met deze grootte?"
+        },
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Bijsnijden"
+        },
+        "adf1ab3ee834260ba6338ab9c84345ce": {
+            "text": "Sla uitsnede op"
+        },
+        "2c968d3065f948e7d3e6086c46fdcb68": {
+            "text": "Volledige breedte"
+        },
+        "2d43ecd8d6e1e6e4bd564dd3b15515bc": {
+            "text": "Aanpassen aan scherm"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Annuleren"
+        },
+        "3f67a6c93bc61e24e9ba2a9b47712010": {
+            "text": "Opslaan en vervangen"
+        },
+        "c87935037e12cf6f0302989fd23bcf37": {
+            "text": "Opslaan als kopie"
+        },
+        "575f5f86d2c7ea113c6710c1037c4465": {
+            "text": "Opslaan..."
+        },
+        "a7d784a6301793f61c070496d6988d36": {
+            "text": "Aanpassen..."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Ja"
+        },
+        "b1a0a023c5df1b1928e1176fca487837": {
+            "text": "Nee, gebruik %s"
+        },
+        "8524de963f07201e5c086830d370797f": {
+            "text": "Laden..."
+        },
+        "fef2a86d13179e1022a0f692ad9f521b": {
+            "text": "Er zijn geen wijzigingen nodig voor de afbeeldingsvariaties."
+        },
+        "46ce1195125fefcac9df32093fb8f238": {
+            "text": "Geen wijzigingen gemaakt"
+        },
+        "a39537e1c6a1b744127450b81c4f8173": {
+            "text": "Verwijderde variant"
+        },
+        "966c5c54ae383420f05957c520436202": {
+            "text": "Fout bij verwijderen variant"
+        },
+        "a2c7bdf75d9141ef485ca345d5a3b50c": {
+            "text": "Verwijder gekozen"
+        },
+        "d3d2e617335f08df83599665eef8a418": {
+            "text": "Sluiten"
+        },
+        "68155ca6e2858626c370f0fb3ea9bfc5": {
+            "text": "HiDPI\/Retina checkbox standaard aan?"
+        },
+        "3608b24ec08977c76c40c8514f3bcbd5": {
+            "text": "Vink deze optie aan indien je HiDPI\/Retina checkbox standaard aangevinkt wilt hebben voor nieuwe afbeeldingen."
+        },
+        "6cefecef91de145c3ca72fb3d5e59702": {
+            "text": "Genereer geen miniatuurafbeeldingen"
+        },
+        "a60c49010df18fff7f99db0d0d5a1522": {
+            "text": "Indien aangevinkt wordt de afbeeldingsselectie gebruikt op volledige grootte in plaats van de miniatuurafbeelding."
+        },
+        "36171be725b020fde0f22b3ceb047280": {
+            "text": "Field namen overslaan voor selectie"
+        },
+        "fd8d17a2ebc3643f78fc97b8e5c3a7f3": {
+            "text": "Geef de namen op van afbeeldingsvelden (gescheiden door een spatie) waarvoor je niet wilt dat deze module gebruikt wordt."
+        },
+        "0bedb7a49466cc5abddacd2003be55b3": {
+            "text": "Toon geen breedte attribuut bij afbeeldingstags."
+        },
+        "cf4a792de8b81c847ece5501f00def00": {
+            "text": "Standaard voegt deze module het width attribuut toe in de <img> tag. Als je responsive afbeeldingen gebruikt, wil je deze optie wellicht niet gebruik."
+        },
+        "66e1d61daf21cfd5a9a0c3c172d7215d": {
+            "text": "We raden af deze checkbox te gebruiken aangezien het de werking van een aantal functions kan verstoren."
+        },
+        "7fde437e01b597d729484cfc830eb4c5": {
+            "text": "Aangeraden waarde:"
+        },
+        "792530c475571d1e0faf0c94f333e6f2": {
+            "text": "Afbeelding"
+        },
+        "41aecd06bffa8d91e4b860af01295890": {
+            "text": "Bestand"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Grootte"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Aangepast"
+        },
+        "4f42496817221234f2297f3605183f29": {
+            "text": "Notities"
+        },
+        "0220ca2a43c59a70842cafc215b6430e": {
+            "text": "Gemaakt om in textarea te plaatsen"
+        },
+        "8cc1cfd47373070e2d8f4fc7d367abf3": {
+            "text": "Automatisch gegenereerde admin miniatuur"
+        },
+        "671bf4e51334fa684ae31fdaa130b6db": {
+            "text": "API-gegenereerde variatie"
+        },
+        "1c8ce444e68e56abf58edd178ed3bf54": {
+            "text": "Bijgesneden versie"
+        },
+        "a3921791372620c674562de0f5b0f9ed": {
+            "text": "Ingevoegd vanaf pagina:"
+        },
+        "8df4dcb71975633a0a9e60b4d05c37d8": {
+            "text": "%1$d variatie van afbeelding %2$s"
+        },
+        "02b1a8c5ed34fba75d6ce56f68435743": {
+            "text": "%1$d variaties van afbeelding %2$s"
+        }
+    }
+}

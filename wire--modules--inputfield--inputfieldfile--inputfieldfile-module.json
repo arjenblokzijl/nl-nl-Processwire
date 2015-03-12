@@ -1,1 +1,63 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldFile\/InputfieldFile.module","textdomain":"wire--modules--inputfield--inputfieldfile--inputfieldfile-module","translations":{"b5a7adde1af5c87d7fd797b6245c2a39":{"text":"Beschrijving"},"5e176961ecb3a67e9c653e60de703fdb":{"text":"sleep de bestanden hier naar toe (drag and drop)"},"1a6d5576222d1a16320dda443f43b1fa":{"text":"Bestand toegevoegd:"},"a2c68b109a7c8855b92e56e64bdf4c01":{"text":"Bestand verwijderd:"},"b896cdc3267a288d8a0082126a91cb06":{"text":"Limiet voor het uploaden van bestanden is bereikt."},"bed8a5795ff53ecfd7b9dab0face84b6":{"text":"Zipbestanden uitpakken?"},"fab7f7d0de48baa58342b39e975c9aab":{"text":"Indien aangevinkt, zullen Zipbestanden worden gedecomprimeerd en alle geldige bestanden toegevoegd als upload (indien ondersteund door de hosting-omgeving). MAx files moet op 0 gezet worden om deze functionaliteit te laten werken."},"91015caeadb6afed86544257b5d796f5":{"text":"Hoeveel regels voor het omschrijvingsveld?"},"27eebd9281cfaa6f4173d02986c9ad71":{"text":"Hoeveel rijen mogen er beschikbaar zijn voor het omschrijvingsveld. Voeg een 0 toe voor geen omschrijving."},"cde86841445e53259c5beb7b61aaf389":{"text":"destinationPath bestaat niet of is leeg"},"53fbb1f98e15224437792f2ea80847a2":{"text":"destinationPath is niet schrijfbaar"}}}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFile\/InputfieldFile.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfile--inputfieldfile-module",
+    "translations": {
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Beschrijving"
+        },
+        "5e176961ecb3a67e9c653e60de703fdb": {
+            "text": "sleep de bestanden hier naar toe (drag and drop)"
+        },
+        "1a6d5576222d1a16320dda443f43b1fa": {
+            "text": "Bestand toegevoegd:"
+        },
+        "a2c68b109a7c8855b92e56e64bdf4c01": {
+            "text": "Bestand verwijderd:"
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "Limiet voor het uploaden van bestanden is bereikt."
+        },
+        "bed8a5795ff53ecfd7b9dab0face84b6": {
+            "text": "Zipbestanden uitpakken?"
+        },
+        "fab7f7d0de48baa58342b39e975c9aab": {
+            "text": "Indien aangevinkt, zullen zipbestanden worden gedecomprimeerd en alle geldige bestanden toegevoegd als upload (indien ondersteund door de hosting-omgeving). Max files moet op 0 gezet worden om deze functionaliteit te laten werken."
+        },
+        "91015caeadb6afed86544257b5d796f5": {
+            "text": "Hoeveel regels voor het omschrijvingsveld?"
+        },
+        "27eebd9281cfaa6f4173d02986c9ad71": {
+            "text": "Hoeveel rijen mogen er beschikbaar zijn voor het omschrijvingsveld. Voeg een 0 toe voor geen omschrijving."
+        },
+        "cde86841445e53259c5beb7b61aaf389": {
+            "text": "destinationPath bestaat niet of is leeg"
+        },
+        "53fbb1f98e15224437792f2ea80847a2": {
+            "text": "destinationPath is niet schrijfbaar"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Verwijder"
+        },
+        "004a10c5de4a2eea5fc8f15e97a8030c": {
+            "text": "Er zijn geen extensies gedefinieerd voor dit veld."
+        },
+        "5d28dcd09c5073bb0e454aee16d9b349": {
+            "text": "Bestand %s is geweigerd omdat het al aanwezig is in het bestandssystem en in een ander veld (field) wordt gebruikt."
+        },
+        "4839f7d2588943e6763c3c91cbd8d7f2": {
+            "text": "Overschrijf betaande bestanden?"
+        },
+        "35a96944722fb825db8bf04ab791c209": {
+            "text": "Indien aangevinkt, worden geuploade bestanden met dezelfde naam overschreven (omschrijving en tags blijven intact). Indien niet aangevinkt, worden geuploade bestanden hernoemt naar een unieke naam."
+        },
+        "2713d4f20fb5e7947fb2bb844d57322d": {
+            "text": "Let erop dat wanneer deze optie is aanvinkt, bestanden die geupload zijn via AJAX direct worden opgeslagen."
+        },
+        "1aac69c83eb57d215a710401956430f1": {
+            "text": "Zet meertalige omschrijvingen uit"
+        },
+        "9c0e34e99b5acfb622d682dabefa5578": {
+            "text": "Standaard zijn omschrijvingen meertalig wanneer de module \"Language Support\" in geinstalleerd. Indien je meertaligheid niet wilt gebruiken voor de omschrijvingen, vind deze optie aan."
+        }
+    }
+}

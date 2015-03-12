@@ -1,1 +1,54 @@
-{"file":"wire\/modules\/Process\/ProcessPageClone.module","textdomain":"wire--modules--process--processpageclone-module","translations":{"5fb63579fc981698f97d55bfecb213ea":{"text":"Kopi\u00ebren"},"779e23d04b68b9515ffc345454994895":{"text":"Kopieer pagina"},"0ac579c02e8d96b65a4bff917771b245":{"text":"Pagina kan niet geladen worden"},"3311bb66a5349309e01c99050e744f0b":{"text":"Een kopie maken van %s"},"59eeb47edc78526e0e13dc0dfa8f6b07":{"text":"Titel van de nieuwe pagina"},"415d40999f28fef452f65616dabfc7a0":{"text":"De nieuwe pagina nog niet publiceren?"},"2627956e008c08b8affd8608d7980ff4":{"text":"Wanneer deze optie geselecteerd is, zal de pagina de status \"ongepubliceerd\" krijgen en daarom niet zichtbaar zijn voor bezoekers van de site."},"5061c76f17ce15eb2a6092a51cb22aa3":{"text":"Ook de kinderen\/subpagina's kopi\u00ebren?"},"a6c4c88eb6c7d256bf2e4aa56df4430f":{"text":"Selecteer deze optie om ook alle onderliggende pagina's te kopi\u00ebren."},"06170efdb0d3840cd32dea984d32067a":{"text":"Waarschuwing: wanneer er een zeer groot aantal subpagina's zijn, kan het kopi\u00ebren een langdurig proces zijn. In uitzonderlijke gevallen is het kopi\u00ebren zelfs niet mogelijk."},"6a26ee7a6d1234006bf3806ee697f7d0":{"text":"Het kopi\u00ebren van pagina %s is mislukt"},"a53383ccbc1435fbbe9b2454dd11deb8":{"text":"De naam '%s' was al in gebruik, daarom is er automatisch een nieuwe naam aangemaakt."},"7e263f9f6a65e1126c6a599ea015a27c":{"text":"Pagina \"%1$s\" gekopieerd naar \"%2$s\"."},"0a198ede7ab46185f2e9fb2a3628419b":{"text":"(kopie)"},"884ba0e5457b084e152567fd52b66f6c":{"text":"(kopie %d)"}}}
+{
+    "file": "wire\/modules\/Process\/ProcessPageClone.module",
+    "textdomain": "wire--modules--process--processpageclone-module",
+    "translations": {
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "Kopi\u00ebren"
+        },
+        "779e23d04b68b9515ffc345454994895": {
+            "text": "Kopieer pagina"
+        },
+        "0ac579c02e8d96b65a4bff917771b245": {
+            "text": "Pagina kan niet geladen worden"
+        },
+        "3311bb66a5349309e01c99050e744f0b": {
+            "text": "Een kopie maken van %s"
+        },
+        "59eeb47edc78526e0e13dc0dfa8f6b07": {
+            "text": "Titel van de nieuwe pagina"
+        },
+        "415d40999f28fef452f65616dabfc7a0": {
+            "text": "De nieuwe pagina nog niet publiceren?"
+        },
+        "2627956e008c08b8affd8608d7980ff4": {
+            "text": "Wanneer deze optie geselecteerd is, zal de pagina de status \"ongepubliceerd\" krijgen en daarom niet zichtbaar zijn voor bezoekers van de site."
+        },
+        "5061c76f17ce15eb2a6092a51cb22aa3": {
+            "text": "Ook de kinderen\/subpagina's kopi\u00ebren?"
+        },
+        "a6c4c88eb6c7d256bf2e4aa56df4430f": {
+            "text": "Selecteer deze optie om ook alle onderliggende pagina's te kopi\u00ebren."
+        },
+        "06170efdb0d3840cd32dea984d32067a": {
+            "text": "Waarschuwing: wanneer er een zeer groot aantal subpagina's zijn, kan het kopi\u00ebren een langdurig proces zijn. In uitzonderlijke gevallen is het kopi\u00ebren zelfs niet mogelijk."
+        },
+        "6a26ee7a6d1234006bf3806ee697f7d0": {
+            "text": "Het kopi\u00ebren van pagina %s is mislukt"
+        },
+        "7e263f9f6a65e1126c6a599ea015a27c": {
+            "text": "Pagina \"%1$s\" gekopieerd naar \"%2$s\"."
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(kopie)"
+        },
+        "884ba0e5457b084e152567fd52b66f6c": {
+            "text": "(kopie %d)"
+        },
+        "366637b8eb1e99b85f6d6535e326a491": {
+            "text": "Pagina kopi\u00ebren"
+        },
+        "fae7550bf964aa09e51752b154a6cb23": {
+            "text": "Geeft de mogelijkheden om pagina's te kopi\u00ebren\/dupliceren in het beheergedeelte. Voegt een extra optie toe in de PageList."
+        }
+    }
+}

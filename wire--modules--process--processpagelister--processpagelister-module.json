@@ -1,0 +1,93 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageLister.module",
+    "textdomain": "wire--modules--process--processpagelister--processpagelister-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Naam"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Aangemaakt"
+        },
+        "35e0c8c0b180c95d4e122e55ed62cc64": {
+            "text": "Gewijzigt"
+        },
+        "a5e3d3ad4b54f37c48d9391d5ab35eed": {
+            "text": "Aangepast door"
+        },
+        "7b1255f8fdd0cb8751baee55621164e1": {
+            "text": "Aangemaakt door"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Bovenliggende pagina"
+        },
+        "379a82f72eacfec4228f74d4e39f3eec": {
+            "text": "Aantal subpagina's"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Verborden"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Ongepubliceerd"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "Vergrendeld"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Prullenbank"
+        },
+        "57c17efa48d527f45393fdbf800500a0": {
+            "text": "Bookmark wordt niet herkend"
+        },
+        "860515850b6c6beae4343c42ecf3060f": {
+            "text": "Voeg filter toe"
+        },
+        "d050438ea9af830fff49ddbbad2218b0": {
+            "text": "Standaard kolommen"
+        },
+        "6d0999f49ddabda93eae8276595abe62": {
+            "text": "Selecteer en sorteer de kolommen die zichtbaar worden in de paginatabel."
+        },
+        "97bff91e1e9c0a1d8a8cc9a0c1ae88fc": {
+            "text": "De gebruiker kan eventueel de zichtbaarheid van de kolommen aanpassen. Deze optie geldt als standaard."
+        },
+        "0e305a04b5eb6dc8bf502625710a74d3": {
+            "text": "De wijzigingen die hier gemaakt worden zijn direct zichtbaar in de resultaten hieronder."
+        },
+        "60170ad1f8db03dc180ee0ced484b19f": {
+            "text": "Welke kolommen zichtbaar maken in de resultaten"
+        },
+        "0c8ee3eeadc96eeeeb24e2a6dc9d4a5e": {
+            "text": "Welke pagina's zichtbaar maken"
+        },
+        "e4ef81cce7e4e10033ebb10962dfdd5e": {
+            "text": "Leeg"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "wijzig"
+        },
+        "1bda80f2be4d3658e0baa43fbe7ae8c1": {
+            "text": "bekijk"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "nieuw"
+        },
+        "a5158728109d8e67ae31b7b02bdc8b86": {
+            "text": "%1$d tot %2$d van %3$d"
+        },
+        "3b8769d187c6c3306c50729bc43a9903": {
+            "text": "Geen resultaten."
+        },
+        "ef7de3f485174ff47f061ad27d83d0ee": {
+            "text": "geselecteerd"
+        },
+        "7b0fb34fcab89b5e58429e5e917b98bb": {
+            "text": "Alle wijzigingen zijn hersteld."
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Voeg nieuwe toe"
+        },
+        "590345301b23eb45c176da0fc139b191": {
+            "text": "Kolommen"
+        }
+    }
+}

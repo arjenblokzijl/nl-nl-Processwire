@@ -1,1 +1,27 @@
-{"file":"wire\/modules\/process\/processprofile\/processprofile.module","textdomain":"wire--modules--process--processprofile--processprofile-module","translations":{"9fbf3617c6172a75648e9ac0a864bb56":{"text":"Profiel"},"f9e0ddbbff17d789d7844835e71e789f":{"text":"Profiel niet opgeslagen"},"f29de224c874ad891ea1c3627aa468be":{"text":"Profiel opgeslagen"}}}
+{
+    "file": "wire\/modules\/process\/processprofile\/processprofile.module",
+    "textdomain": "wire--modules--process--processprofile--processprofile-module",
+    "translations": {
+        "9fbf3617c6172a75648e9ac0a864bb56": {
+            "text": "Profiel"
+        },
+        "f9e0ddbbff17d789d7844835e71e789f": {
+            "text": "Profiel niet opgeslagen"
+        },
+        "f29de224c874ad891ea1c3627aa468be": {
+            "text": "Profiel opgeslagen"
+        },
+        "d57a97a659253e107095a0ad40576d9f": {
+            "text": "Het e-mailadres \"%s\" is al in gebruikt door een andere gebruiker."
+        },
+        "90b1f6651953fcf8b43ddc0da6760aaf": {
+            "text": "Gebruikersprofiel"
+        },
+        "1a59a80bd045dd8cb5a37b841028cc00": {
+            "text": "Zorgt ervoor dat de gebruiker hun wachtwoord, e-mailadres en andere instellingen die u gedefinieerd zijn te veranderen."
+        },
+        "85337e04345622f27e1230c61efa9fd0": {
+            "text": "Welke velden kan een gebruiker wijzigen in zijn profiel?"
+        }
+    }
+}

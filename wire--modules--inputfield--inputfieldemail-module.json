@@ -1,1 +1,24 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldEmail.module","textdomain":"wire--modules--inputfield--inputfieldemail-module","translations":{"16f09bacbf690906417db0a60cda359c":{"text":"Geef een geldig e-mailadres op"},"082e55a73f10496681c84231dc1c88f7":{"text":"E-mail"},"70d9be9b139893aa6c69b5e77e614311":{"text":"Bevestigen"},"729be41e3a896b691a703fda562f4c98":{"text":"De e-mails die je hebt opgegeven komen niet overeen, probeer het opnieuw"},"afce6fcb2d736e43b0bf509e385d477a":{"text":"Bevestig e-mailadres"}}}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldEmail.module",
+    "textdomain": "wire--modules--inputfield--inputfieldemail-module",
+    "translations": {
+        "16f09bacbf690906417db0a60cda359c": {
+            "text": "Geef een geldig e-mailadres op"
+        },
+        "082e55a73f10496681c84231dc1c88f7": {
+            "text": "E-mail"
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Bevestigen"
+        },
+        "729be41e3a896b691a703fda562f4c98": {
+            "text": "De e-mails die je hebt opgegeven komen niet overeen, probeer het opnieuw"
+        },
+        "afce6fcb2d736e43b0bf509e385d477a": {
+            "text": "Bevestig e-mailadres"
+        },
+        "f98e5e5fd93bc01f60e2a0a30c90618a": {
+            "text": "Indien aangevinkt worden er twee invoervelden getoond zodat de gebruiker zijn e-mailadres twee keer moet invoeren. Dit verminderd het risico op typefouten."
+        }
+    }
+}

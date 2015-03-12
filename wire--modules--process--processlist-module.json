@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Process\/ProcessList.module",
+    "textdomain": "wire--modules--process--processlist-module",
+    "translations": {
+        "5b4883d0e89e3d445d1cd1ccad668cf1": {
+            "text": "De Process module toegewezen aan deze pagina lijkt niet te zijn geinstalleerd."
+        },
+        "9040adb9c035d31a6f59c34259371121": {
+            "text": "Geen beschrijving beschikbaar."
+        }
+    }
+}
