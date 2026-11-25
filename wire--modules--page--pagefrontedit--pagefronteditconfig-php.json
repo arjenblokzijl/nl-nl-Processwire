@@ -1,0 +1,120 @@
+{
+    "file": "wire/modules/Page/PageFrontEdit/PageFrontEditConfig.php",
+    "textdomain": "wire--modules--page--pagefrontedit--pagefronteditconfig-php",
+    "translations": {
+        "2e3924cdf708580effa1682a30cc024c": {
+            "text": "Lees voordat je front-end bewerken gaat gebruiken eerst de [help over front-end bewerken](%s)."
+        },
+        "728f08c6a5722017ce7fb9747da7bac3": {
+            "text": "Instellingen voor de inline-editor"
+        },
+        "180efa8a9b1cfee25988715f7d673dbc": {
+            "text": "Optie A: bewerkbare velden in de front-edit"
+        },
+        "6e8a63eb8616bdb680f111e0b1a5bea3": {
+            "text": "Deze tekstvelden worden bewerkbaar in de front-end, direct op de pagina, door simpelweg de onderstaande vakjes aan te vinken."
+        },
+        "d0526ac74110f73ee2926fd2d650c4a9": {
+            "text": "**Wees voorzichtig met deze optie:** Als je de waarde van een veld op meer dan één plek op een pagina weergeeft, moet je in plaats daarvan [optie B, C of D] gebruiken (https://processwire.com/api/modules/front-end-editing/)."
+        },
+        "78badcbc932189f3c876e9f2f55350cd": {
+            "text": "(niet aanbevolen)"
+        },
+        "f16845125537677cf6b52cc53b2e1ee7": {
+            "text": "Optie A: werkgebied van de editor"
+        },
+        "5fd733ebd21770ef2dff6a0382db2117": {
+            "text": "Als de hierboven aangevinkte velden worden weergegeven, waar moeten ze dan bewerkbaar zijn?"
+        },
+        "2fac3d64842df30df607c68da216acd7": {
+            "text": "Velden zijn alleen bewerkbaar als ze afkomstig zijn van de pagina die wordt weergegeven (aanbevolen)"
+        },
+        "aa27ca4492b42802705a21889bb9a27e": {
+            "text": "Velden die je kunt bewerken, ongeacht de pagina"
+        },
+        "8b0326c326b1dddbdc4bf7b3519c02f6": {
+            "text": "Knoppen voor opslaan/annuleren"
+        },
+        "046d8235ad520c64afae23d7aaa4ffcc": {
+            "text": "Plaats van de knoppen"
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "Auto"
+        },
+        "a4d0d101d6a34bf80ffeee601c3ff84a": {
+            "text": "Linksboven"
+        },
+        "d3708546a929dfcf66eaeaba794486eb": {
+            "text": "Rechtsboven"
+        },
+        "b67554192c50f4f6a4c1bd4797f6c3f8": {
+            "text": "Linksonder"
+        },
+        "5968e3c37145f57587afcba727d2b120": {
+            "text": "Rechtsonder"
+        },
+        "61a4338583e41efc9ecde01cc622f21c": {
+            "text": "Type knoppen"
+        },
+        "de39b6da18c671eec0524a2bfc0da0c2": {
+            "text": "Auto (pictogrammen en tekst voor desktop, pictogrammen voor touchscreen-apparaten)"
+        },
+        "fb8bc05d9bb7a27307aff0d799f995fd": {
+            "text": "Pictogrammen en tekst"
+        },
+        "e01d2e7e85c1522149ddd1abead1167f": {
+            "text": "Alleen tekst"
+        },
+        "bf1079a9cc453b4caaa03e1b4d3c41d7": {
+            "text": "Alleen pictogrammen"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Meer"
+        },
+        "fdf8ef9fa133d1852bef33c7c85144cb": {
+            "text": "Er zijn een paar verschillende manieren waarop je front-end bewerken voor dit veld kunt inschakelen. Welke optie je ook kiest, front-end bewerken verschijnt alleen als de gebruiker de juiste permissies heeft voor de pagina en het veld."
+        },
+        "4cb305eca1333573edc880819fc7c977": {
+            "text": "De vereiste permissies zijn [page-edit](%s) en [page-edit-front](%s)."
+        },
+        "5e7f95d663a3711b9965a6fa8707ef6f": {
+            "text": "Als een veld bewerkbaar is, verschijnt er een contextmuisaanwijzer in plaats van een gewone aanwijzer wanneer je er met de muis overheen gaat. Om het veld op de front-end te bewerken, moet je er **dubbelklikken**."
+        },
+        "17dc7a031f9540dbeb3cf9e10a7a1ebf": {
+            "text": "Deze optie wordt voor dit veld niet ondersteund."
+        },
+        "5f858c76077c44036b1442243b30ac34": {
+            "text": "Optie A: Automatisch bewerken"
+        },
+        "88dad1b60aca7105bd5e7e185fa221ec": {
+            "text": "Als de opgemaakte waarde van het veld uit een $page wordt opgehaald, kun je die bewerken zonder dat je daar zelf markup of code voor hoeft te schrijven. Hierbij wordt ervan uitgegaan dat de gebruiker permissie heeft om het te bewerken."
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Configureren"
+        },
+        "c214147662040e46e52c3cd0006a1122": {
+            "text": "Deze optie is momenteel INGESCHAKELD voor dit veld."
+        },
+        "c4755719068ffa0049bab373cee32aef": {
+            "text": "Optie B: API-methodeaanroep"
+        },
+        "b4da834069eb28c98cdf74c0dd7179d3": {
+            "text": "Gebruik $page->edit(\"%s\"); in plaats van $page->%s; als je de waarde wilt weergeven."
+        },
+        "a88ea479a9d66a019262dbfd5b4879b7": {
+            "text": "Een van de volgende syntaxisopties wordt ondersteund (kies er één). De \"1001\" kan elk pagina-ID of pad zijn, en de \"...\" kan elke opmaak of code zijn, meestal waar je je veldwaarde weergeeft."
+        },
+        "48f403566075715027bd7fc9e1902cbc": {
+            "text": "Optie C: Voeg HTML-bewerkingstags toe om een bewerkbaar gebied te maken"
+        },
+        "ee885b8843c6c111129d0eaca536bbbe": {
+            "text": "Optie D: Voeg HTML-bewerkingsattributen toe aan bestaande markup-tags om een bewerkbaar gebied te maken"
+        },
+        "0e060a7eca98daf0e3c2e5280319e907": {
+            "text": "De hieronder weergegeven div-tag kan elke bestaande HTML-tag zijn die je bewerkbare gebied omsluit."
+        },
+        "5c23fae6f3e37e699b6663a4fa6dbf08": {
+            "text": "Let op: bij het bewerken van attributen wordt altijd de modale editor gebruikt. Bij alle andere opties wordt de inline-editor gebruikt, als die wordt ondersteund."
+        }
+    }
+}

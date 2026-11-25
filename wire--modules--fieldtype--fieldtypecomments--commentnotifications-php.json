@@ -1,0 +1,93 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeComments/CommentNotifications.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentnotifications-php",
+    "translations": {
+        "017e8b29849843b6daa2501aad99f7c1": {
+            "text": "In afwachting van goedkeuring"
+        },
+        "2ddc852b4c56d7eb5b88fc7b539f6899": {
+            "text": "Nu goedkeuren"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Goedgekeurd"
+        },
+        "72af4a9852b0c2800d279f8d1f8c0661": {
+            "text": "Markeer als SPAM"
+        },
+        "19af9433f96a08338dbcf1ea82186f7c": {
+            "text": "SPAM – wordt automatisch verwijderd na %d dagen"
+        },
+        "86c1d4d493979ef59b39ac2ff666bff8": {
+            "text": "Geen SPAM: Nu goedkeuren"
+        },
+        "4a97712de239878854839560e1765f5a": {
+            "text": "Reactie geplaatst op: %s"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Bewerken"
+        },
+        "e8107568f6e83f5b0241f7b880e41a4b": {
+            "text": "Je hebt je afgemeld voor meldingen over reacties op deze pagina."
+        },
+        "c6c6e3cf945863d4f61ef6f648fb973c": {
+            "text": "Je hebt bevestigd dat je meldingen van deze pagina wilt ontvangen."
+        },
+        "2bdedaef502bd65a7190ee7077fc9d23": {
+            "text": "Reactie %d bijgewerkt naar „%s“"
+        },
+        "91087eab2782aae45085cf5476081138": {
+            "text": "Geplaatst op: %s"
+        },
+        "92295f3f7fe39fd61f8ce27b523aa341": {
+            "text": "Geplaatst door: %s"
+        },
+        "27d7f48b990974bef40abd6a857c4e0c": {
+            "text": "Geplaatst op %s door %s"
+        },
+        "f6c4779fa5259e211efefe8cae45f4b2": {
+            "text": "Bekijken of beantwoorden"
+        },
+        "3b5617424ffc943d996c686a376e807c": {
+            "text": "Schrijf je uit voor deze meldingen"
+        },
+        "4b71ef4218c5669aa7d3e360902e5fcd": {
+            "text": "Er is een nieuwe reactie geplaatst:"
+        },
+        "c7c47e22cdf07075fbc40c3197b822e0": {
+            "text": "Bevestig de melding"
+        },
+        "b5525fa352b1e9c09e58ab014b5273a3": {
+            "text": "Je hebt gevraagd om een melding te krijgen als er reacties zijn op je reactie op %s. Bevestig dit door op de onderstaande link te klikken. Als je hier niet om hebt gevraagd, negeer deze e-mail dan maar."
+        },
+        "8130425aab908bac67e8b4ace4861b21": {
+            "text": "Bevestig meldingen"
+        },
+        "e0c0bcd1370c684469277f8066e3c64f": {
+            "text": "Pagina"
+        },
+        "957cba65c7639be540b3bce16e2c8e57": {
+            "text": "Van"
+        },
+        "d856205677eeb676b9b04c173a231c6b": {
+            "text": "E-mail"
+        },
+        "4df6dabe367988d938bbf565bbcdbe43": {
+            "text": "Website"
+        },
+        "0182aa91273730ac7c4f3df026234683": {
+            "text": "Sterren"
+        },
+        "5be3f30f5db8303d4baac9920be07c45": {
+            "text": "Status"
+        },
+        "bc5db30ce176afbea33060365cda9e6d": {
+            "text": "Actie"
+        },
+        "15ede22296b59c623fa73c28c6dbe629": {
+            "text": "Tekst"
+        },
+        "61d8be701930d3db7ca0e8d32d041ab6": {
+            "text": "processwire"
+        }
+    }
+}

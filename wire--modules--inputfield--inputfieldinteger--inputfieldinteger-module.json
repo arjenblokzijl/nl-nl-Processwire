@@ -1,0 +1,57 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldInteger/InputfieldInteger.module",
+    "textdomain": "wire--modules--inputfield--inputfieldinteger--inputfieldinteger-module",
+    "translations": {
+        "100b8cad7cf2a56f6df78f171f97a1ec": {
+            "text": "elk"
+        },
+        "004d36e4fa95eec8357b066aa20e9d8d": {
+            "text": "De opgegeven waarde %3$s is verwijderd omdat deze buiten het toegestane bereik valt (min=%1$s, max=%2$s)"
+        },
+        "ddf1608e4f7def4fd584f806267255d4": {
+            "text": "Type numerieke invoer"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Tekst"
+        },
+        "edb082a8145b0705db7f2b843ed57471": {
+            "text": "Getal (HTML5)"
+        },
+        "339f8a8a3ec4255e3982690df6c764fc": {
+            "text": "Als je het type „Getal“ kiest, wordt er extra validatie aan de clientzijde uitgevoerd in browsers die dit ondersteunen."
+        },
+        "bf23ca4feca536a9667209e45869c2f1": {
+            "text": "Invoergrootte"
+        },
+        "320e94493eb997536f4ec1eb75a61c38": {
+            "text": "Geef het attribuut ‘size’ op voor het invoerveld, of geef 0 op voor volledige breedte."
+        },
+        "08adfc4e3f75347c88b665609425d43a": {
+            "text": "De standaardwaarde is %d."
+        },
+        "702a538a7348a9e52b08913558867f70": {
+            "text": "Minimumwaarde"
+        },
+        "e9aac774de6f4b2d481938ff2403e5a8": {
+            "text": "De minimaal toegestane waarde voor dit veld. Laat leeg om te negeren."
+        },
+        "48b0ece3cdd23c3605c8d7ee617c43ca": {
+            "text": "Maximale waarde"
+        },
+        "41f052267baa5d7342df9bad1b957733": {
+            "text": "De maximaal toegestane waarde voor dit veld. Laat leeg om te negeren."
+        },
+        "3a5dcb943d6bc607c6b2658350526bc5": {
+            "text": "Startwaarde"
+        },
+        "6b2dbf9c383cf3fcf4cc27147020c3b5": {
+            "text": "Aanvankelijk toegewezen waarde."
+        },
+        "a0faef0851b4294c06f2b94bb1cb2044": {
+            "text": "Geheel getal"
+        },
+        "15b920388c8c88882ae50ac7e68a52ad": {
+            "text": "Geheel getal (positief of negatief)"
+        }
+    }
+}

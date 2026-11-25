@@ -1,0 +1,153 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeTextarea/FieldtypeTextareaHelper.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextarea--fieldtypetextareahelper-php",
+    "translations": {
+        "ffb81312066680e472a3392467b06d40": {
+            "text": "Verwijder ‘HTML Entity Encoder’ uit ‘Tekstopmaak’ aangezien dit veld Markup/HTML toestaat."
+        },
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Type inputfield"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "Het type veld dat wordt gebruikt om invoer te verzamelen (Textarea is de standaardinstelling). Let op: als je dit wijzigt en op Verzenden klikt, kunnen de beschikbare configuratieopties in het tabblad „Invoer“ veranderen."
+        },
+        "e9d6c26a86350de8002c93886f74249f": {
+            "text": "We raden aan om TinyMCE te gebruiken in plaats van CKEditor bij het aanmaken van nieuwe rich-text-velden."
+        },
+        "5bed2fb5d791f65cae338238f04c0ac4": {
+            "text": "Klik hier om TinyMCE te installeren"
+        },
+        "5d85f44b69f9d7e86c7f3f473f97f771": {
+            "text": "Markup/HTML"
+        },
+        "2effa58f13159d138a634233e246713d": {
+            "text": "Inhoudstype"
+        },
+        "a9b2702617bab3152e6c7018a2285a92": {
+            "text": "Onbekend/Tekst"
+        },
+        "d337592463bb66726521716a080b78da": {
+            "text": "De optie [u]Markup/HTML[/u] wordt aanbevolen voor velden die gebruikmaken van rich text-editors (zoals CKEditor) en velden die HTML bevatten. Deze optie biedt extra controles tijdens de uitvoering om de kwaliteit te waarborgen."
+        },
+        "0601bf716a208a7476c5f97c040fc44c": {
+            "text": "Als je de optie [u]Onbekend/Tekst[/u] selecteert, wordt het [om veiligheidsredenen] sterk aangeraden om ook de \"HTML Entity Encoder\" te selecteren in het veld [u]Tekstopmaak[/u] hierboven."
+        },
+        "f49044eb0f5ff823c157a2feedf2b9f8": {
+            "text": "Voor meer informatie over de bovenstaande opties, zie [beschrijving van de opties voor inhoudstypen](%s)."
+        },
+        "2addde1795e171e77196f84ba88dbcbf": {
+            "text": "HTML-opties"
+        },
+        "22f8b4c1c9e9fb845bebab08141575db": {
+            "text": "De volgende opties zorgen voor extra kwaliteitscontrole van HTML tijdens het uitvoeren."
+        },
+        "6691dadd4bc16c7d23fee64a309e2eaa": {
+            "text": "**Opmerking:** Deze opties zijn momenteel experimenteel. Let op eventuele problemen en meld eventuele fouten."
+        },
+        "8985f62bfdbc5d278d07342bc4a7f5c2": {
+            "text": "De bovenstaande opties loggen fouten op in Instellingen > Logboeken > markup-qa-errors."
+        },
+        "4518ac1588b93d4b89d45741c610a3f5": {
+            "text": "Link-abstractie:"
+        },
+        "9bf757dce49f1b058b55e0234e5b422a": {
+            "text": "Werk href-attributen automatisch bij wanneer interne links veranderen"
+        },
+        "1721f5bf2ec99fbb54f5ff6cea84968c": {
+            "text": "Werk de alt-attributen van afbeeldingen bij:"
+        },
+        "e18d0ae0d4d738e2afb687643527b107": {
+            "text": "Vervang lege alt-attributen door een beschrijving van de afbeelding"
+        },
+        "87b47dca906c93d9e1a035e8d14e6e95": {
+            "text": "Repareer kapotte afbeeldingen:"
+        },
+        "1d88fc19dbd058dc84585c30ab49b306": {
+            "text": "Verwijder img-tags die een 404-fout zouden veroorzaken, of maak de afbeeldingen indien mogelijk opnieuw aan"
+        },
+        "3b51a8c40e3436386b687d45ddb5f836": {
+            "text": "Toegangscontrole voor afbeeldingen:"
+        },
+        "4d1e0f588db26c2678b311717d9d5c65": {
+            "text": "Verwijder afbeeldingen uit de opmaak waarvoor de gebruiker geen weergaverechten heeft"
+        },
+        "4ea852d9d5dbc8faddfdfe9117bd5c03": {
+            "text": "Lazy loading van afbeeldingen:"
+        },
+        "bf5bfe62d66b9634f77dcafa1c3661f0": {
+            "text": "Vul het attribuut loading=\"lazy\" in bij img-tags tijdens het uitvoeren, wanneer de pagina wordt opgemaakt"
+        },
+        "8ab4f511bd5b2971beecbe09b1462818": {
+            "text": "Pas nu HTML-opties toe"
+        },
+        "5fe0528e0c4b792b394749289ad392f1": {
+            "text": "Vink dit vakje aan om de bovenstaande opties nu meteen op alle bestaande pagina’s toe te passen. Dit heeft vooral betrekking op de optie voor linkabstractie."
+        },
+        "7b4f1bb8cb43086b5d5f3b850d06a6c3": {
+            "text": "Let op: dit voert een update uit op mogelijk honderden pagina’s (max. 300 per keer) en past de wijzigingsdatums van de pagina’s aan. Als je site veel pagina’s heeft, moet je dit misschien meerdere keren uitvoeren."
+        },
+        "d9acd327c0ee998a16c85324936d214d": {
+            "text": "**Voor de zekerheid is het aan te raden om een back-up van je database te maken voordat je dit uitvoert.**"
+        },
+        "0f754c670b9d8c02b22eaeebd630181e": {
+            "text": "Het lijkt erop dat we klaar zijn! De HTML-opties zijn nu volledig toegepast."
+        },
+        "2029a900eb62eecaaf188a654c2c084d": {
+            "text": "Toekomstige updates worden automatisch toegepast wanneer elke pagina wordt opgeslagen."
+        },
+        "4b9ad9f31022ef1c2c6d202da55a0365": {
+            "text": "Er zijn nog meer pagina’s die je moet aanpassen. Vink het vakje nogmaals aan om de resterende pagina’s aan te passen."
+        },
+        "2c1df5375d9f20282b3df677f8a4bc0c": {
+            "text": "Wil je meerdere pagina’s tegelijk aanpassen? Je kunt dan de instelling %s toevoegen aan je /site/config.php-bestand."
+        },
+        "d4705c271d7e1e75a05e9b6236ad836c": {
+            "text": "(zie %s-log)"
+        },
+        "d53200ec5949152baffbeed6c4d58966": {
+            "text": "%1$d van de %2$d pagina's zijn bijgewerkt voor HTML-opties."
+        },
+        "8a64cae4f29b541d3e532599d513e04e": {
+            "text": "Samenvatting kwaliteitscontrole markup/HTML:"
+        },
+        "7b538279515341a88a5fcfb4197111f6": {
+            "text": "Andere HTML-opties worden tijdens de uitvoering toegepast."
+        },
+        "9b039b000924bae6bb0977867cc455a0": {
+            "text": "%d externe a[href]-tags"
+        },
+        "211db397a32350b16b977f65a9acada6": {
+            "text": "%d lokale a[href]-tags"
+        },
+        "bb83c854fd76ba88b57f700280e65291": {
+            "text": "%d interne/abstracte pagina's"
+        },
+        "52b8044e625821dcc4f2002c70f05881": {
+            "text": "%d verwijzingen naar bestanden/assets"
+        },
+        "b49218c47bb7e184c12776471a865612": {
+            "text": "%d relatieve a[href]-tags bijgewerkt"
+        },
+        "84a543e559f6e8ae86ba9ca203f6c57f": {
+            "text": "%d lokale a[href]-tags die geen pagina's zijn of niet herkend worden"
+        },
+        "2fb3cb1dbd223aca0a255df639afabb1": {
+            "text": "%d niet-http a[href]-links zoals mailto, tel, enz."
+        },
+        "a0b71249600398fd6f497273a8fbd0c6": {
+            "text": "%d niet-opgeloste a[href]-tags"
+        },
+        "9a2c2c21237a6938a98824b3993a9623": {
+            "text": "%d lokale img[src]-tags"
+        },
+        "1207ad89efff06ef7ff663d9b3a61af4": {
+            "text": "%d onopgeloste img[src]-tags"
+        },
+        "29cf35e7a0357a5a759b715afbcfa857": {
+            "text": "%d onopgeloste en gecorrigeerde img[src]-tags"
+        },
+        "bf488dca57621015b17e715b49053f72": {
+            "text": "%d lege img[alt]-tags die tijdens de uitvoering moeten worden ingevuld"
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "file": "wire/modules/System/SystemNotifications/SystemNotificationsConfig.php",
+    "textdomain": "wire--modules--system--systemnotifications--systemnotificationsconfig-php",
+    "translations": {
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "Aan"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Uit"
+        },
+        "945d5e233cf7d6240f6b783b36a374ff": {
+            "text": "Links"
+        },
+        "92b09c7c48c520c3c55e497875da437c": {
+            "text": "Rechts"
+        },
+        "64930416d9c5663de5d4ef880d8e0b0e": {
+            "text": "Status van meldingen"
+        },
+        "2e9cdb9adc7f7c13f750d7fe7ab46979": {
+            "text": "Als deze optie is uitgeschakeld, worden er geen meldingen weergegeven."
+        },
+        "1983cbef846882d5eb60db0f1af3cf4a": {
+            "text": "Pagina-bewerkingen bijhouden?"
+        },
+        "6f089aa14345991d2dc5234b61b2841c": {
+            "text": "Geeft gebruikers een melding wanneer ze een pagina proberen te bewerken die al in bewerking is."
+        },
+        "51bcb0deba18f3c17526ac9589275a1b": {
+            "text": "Volgorde van meldingen"
+        },
+        "452fe939bf3b82240e39d4e32402f191": {
+            "text": "Kies in welke volgorde de meldingen moeten worden weergegeven."
+        },
+        "dbc0773df87763dba658c0718cb23cbd": {
+            "text": "Van nieuw naar oud"
+        },
+        "795c06257e98282a98f9b4372343154c": {
+            "text": "Van oud naar nieuw"
+        },
+        "2871a976bc7a1ed674bc578c34af81ee": {
+            "text": "Actieve hooks voor automatische meldingen"
+        },
+        "b106396b3992fc580dd88f36d98c32b5": {
+            "text": "Telkens wanneer een van deze gebeurtenissen plaatsvindt, krijgt de bovengenoemde systeemgebruiker een melding."
+        },
+        "53af239ee5d3e261545dededcb6ffd57": {
+            "text": "404 pagina niet gevonden"
+        },
+        "926febaa3f486221378c09d2fb900eff": {
+            "text": "Succesvolle en mislukte aanmelding van gebruikers"
+        },
+        "6d204ddabcf344603448790344217ec5": {
+            "text": "Gebruiker uitloggen"
+        },
+        "1bb51316162ffaecdae67003acc36d00": {
+            "text": "Dit zijn vooral gewoon voorbeelden van meldingen ter illustratie."
+        },
+        "d9b71f69d8afdf5b522a5529ec7434f5": {
+            "text": "Naam van de gebruiker die systeemmeldingen ontvangt"
+        },
+        "2495a34a1379d1325ca518e3c0b2b098": {
+            "text": "Tijd tussen updates"
+        },
+        "d4f7e0a594dd8d1eb92264b3d43c507d": {
+            "text": "Hoe vaak moet er worden gecontroleerd op updates van meldingen (in milliseconden). Voorbeeld: 5000 betekent 5 seconden."
+        },
+        "534fd46732986cba0efeda8701592427": {
+            "text": "Datumnotatie"
+        },
+        "414f2eb480e8f38b6f93f41ca28279fb": {
+            "text": "Datumnotatie die wordt gebruikt voor meldingen. Gebruik de notatie van date() of strftime(), of „relative“ voor relatieve datum/tijd, „rel“ voor afgekorte datum/tijd."
+        },
+        "64a87d656e89eca4f73f4ecda74480f5": {
+            "text": "Meldingspictogram"
+        },
+        "b454aae1916829fd90512b2c31a01e68": {
+            "text": "Waarschuwingspictogram"
+        },
+        "c59e636f1291af56f91d53c3a51ac8f8": {
+            "text": "Foutpictogram"
+        },
+        "b386baeabf452105b52ddd8a8dbebf1c": {
+            "text": "Ghost-vertraging"
+        },
+        "fa3ed13e0d1d3606900f0d0fcb96b94e": {
+            "text": "Hoe lang blijven spookberichten zichtbaar (in ms)?"
+        },
+        "a24efc3293365b4ca44161c70fffe1b7": {
+            "text": "Vertraging bij spookfout"
+        },
+        "0673410c6de314e9317a7f593f6a99b6": {
+            "text": "Hoe lang 'ghost'-fouten zichtbaar blijven (in ms)."
+        },
+        "cc7148e90f03a6539cd11c343d8fdf8a": {
+            "text": "Ghost volledige dekking"
+        },
+        "4f8b65fe69b4b13c2a02bf47648c9a34": {
+            "text": "Volledige dekking van ghosts (0,1-1,0)"
+        },
+        "333da8687b16a586812b92b6acda8674": {
+            "text": "Ghost-limiet"
+        },
+        "8a1cf8cf2597193851e727307d3d3b31": {
+            "text": "Laat een samenvattingsvenster zien als er meer is."
+        },
+        "a2736075ee5bcaeaad4650b9a1bb7d43": {
+            "text": "Snelheid van het uitfaden"
+        },
+        "c4f9ba7565ccdd1b1ec3e06265ef4995": {
+            "text": "Snelheid waarmee ghost-effecten in- of uitfaden."
+        },
+        "081b98759749efbb07052c62da920324": {
+            "text": "Direct (geen fade-in/fade-out)"
+        },
+        "e16b5b7f26f54214445cbe38d72c2828": {
+            "text": "Snel"
+        },
+        "960b44c579bc2f6818d2daaf9e4c16f0": {
+            "text": "Normaal"
+        },
+        "efa5397985b8609a5dbeb430a4bcadd3": {
+            "text": "Traag"
+        },
+        "4b3f62787ef2a663f5af7c2a25c0c617": {
+            "text": "Ghost-positie"
+        },
+        "22c3a11778dfb998611f45125023b39c": {
+            "text": "Aan welke kant van het scherm de spookjes moeten zweven."
+        },
+        "d6e7bc4caa8b68af7f00ff457e4d3344": {
+            "text": "Meldingen tijdens de uitvoering/per verzoek"
+        },
+        "a2e68070d70d39ee23fe1edf9767c11c": {
+            "text": "Weergeven als meldingen"
+        },
+        "9650b6be51970b497f28b3f079f7bf79": {
+            "text": "Laat ze met rust"
+        }
+    }
+}

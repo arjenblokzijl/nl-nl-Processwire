@@ -1,0 +1,36 @@
+{
+    "file": "wire/core/Fieldtype/FieldtypeMulti.php",
+    "textdomain": "wire--core--fieldtype--fieldtypemulti-php",
+    "translations": {
+        "e2942a04780e223b215eb8b663cf5353": {
+            "text": "aantal"
+        },
+        "0f87dcdd9cbafb48e5d9e444ba7c14a7": {
+            "text": "Sorteren en paginering"
+        },
+        "7f99274f686fafb79a69fb49fd22b087": {
+            "text": "Deze instellingen gelden zowel voor de front-end (website) als voor de back-end (editor)."
+        },
+        "bfc4400f3a3f1f3ad8647c7391cc3f1c": {
+            "text": "(omgekeerd)"
+        },
+        "1785200c818e6b465cab76d18f05aa40": {
+            "text": "Automatisch sorteren"
+        },
+        "c1e2087d761e1449f626c96d45bb1c3e": {
+            "text": "Kies hieronder één of meer velden om op te sorteren. Laat deze instelling leeg als je handmatig wilt sorteren."
+        },
+        "53fc83e55c6d5a04fd63ffe5c4e90d1c": {
+            "text": "Pagineringlimiet / items per pagina"
+        },
+        "cc4713abaa08f23ce8f1a1143a04ee77": {
+            "text": "Dit beperkt het aantal items dat per paginering wordt geladen/bewerkt. De waarde „0“ betekent dat er geen limiet is (standaard)."
+        },
+        "0b01fc6afe7ee324751846ccf0dfc735": {
+            "text": "Paginering wordt aanbevolen als je met honderden tot duizenden items (of meer) gaat werken."
+        },
+        "ab7c5fc204d8e160a7b731a0799bf450": {
+            "text": "Deze instelling werkt pas als je “Automatisch sorteren” hebt aangevinkt."
+        }
+    }
+}

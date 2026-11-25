@@ -1,27 +1,72 @@
 {
-    "file": "wire\/modules\/process\/processprofile\/processprofile.module",
+    "file": "wire/modules/Process/ProcessProfile/ProcessProfile.module",
     "textdomain": "wire--modules--process--processprofile--processprofile-module",
     "translations": {
+        "2ed85673c671a4f6a96ccccf154dab83": {
+            "text": "Gebruikersnaam"
+        },
         "9fbf3617c6172a75648e9ac0a864bb56": {
             "text": "Profiel"
+        },
+        "75ac88c5fefdf1235b5f0484d3c88a2b": {
+            "text": "Voer voor de veiligheid je huidige wachtwoord in om deze wijzigingen op te slaan:"
+        },
+        "cb6f985e3af3f01a7f7f9e2d3cc6fe77": {
+            "text": "De gebruikersnaam mag kleine letters a-z, cijfers 0-9, een koppelteken of een onderstrepingsteken bevatten."
         },
         "f9e0ddbbff17d789d7844835e71e789f": {
             "text": "Profiel niet opgeslagen"
         },
+        "31ed16771212c1b9c52ea8680a61c5bb": {
+            "text": "Het gevraagde wachtwoord is ingevoerd, maar klopt niet"
+        },
+        "b54db85c5475befbb8e4d05e3985853b": {
+            "text": "Het vereiste wachtwoord is niet opgegeven"
+        },
+        "d57a97a659253e107095a0ad40576d9f": {
+            "text": "Het e-mailadres \"%s\" is al in gebruik door een andere gebruiker."
+        },
         "f29de224c874ad891ea1c3627aa468be": {
             "text": "Profiel opgeslagen"
         },
-        "d57a97a659253e107095a0ad40576d9f": {
-            "text": "Het e-mailadres \"%s\" is al in gebruikt door een andere gebruiker."
+        "c0902bb307af1c623dc07a6070c33261": {
+            "text": "Niet toegestaan"
+        },
+        "c41276451b92f986f438a836dd99ed69": {
+            "text": "Gecleanseerd naar „%s“, wat afwijkt van wat je hebt ingevoerd"
+        },
+        "c012e2a8b9e129403f8b93547086500a": {
+            "text": "Te kort"
+        },
+        "b2df7887a34999a0fee743420750a9ec": {
+            "text": "Te lang"
+        },
+        "8d7dadc018de46d934c7f3a9c0ade8b7": {
+            "text": "Wordt al gebruikt"
+        },
+        "0be33c8c71eb4cbffd8ff2999d0660db": {
+            "text": "Mag niet beginnen of eindigen met tekens die geen letters of cijfers zijn"
+        },
+        "642249113906da67a3b9d3d446555c93": {
+            "text": "Mag geen aaneengesloten koppeltekens, onderstrepingstekens of punten bevatten"
+        },
+        "85337e04345622f27e1230c61efa9fd0": {
+            "text": "Welke velden kan een gebruiker wijzigen in zijn profiel?"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Naam"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Label"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Type"
         },
         "90b1f6651953fcf8b43ddc0da6760aaf": {
             "text": "Gebruikersprofiel"
         },
         "1a59a80bd045dd8cb5a37b841028cc00": {
             "text": "Zorgt ervoor dat de gebruiker hun wachtwoord, e-mailadres en andere instellingen die u gedefinieerd zijn te veranderen."
-        },
-        "85337e04345622f27e1230c61efa9fd0": {
-            "text": "Welke velden kan een gebruiker wijzigen in zijn profiel?"
         }
     }
 }

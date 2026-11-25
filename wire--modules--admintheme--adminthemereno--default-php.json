@@ -1,0 +1,15 @@
+{
+    "file": "wire/modules/AdminTheme/AdminThemeReno/default.php",
+    "textdomain": "wire--modules--admintheme--adminthemereno--default-php",
+    "translations": {
+        "9cfefed8fb9497baa5cd519d7d2bb5d7": {
+            "text": "nl"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profiel"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Uitloggen"
+        }
+    }
+}

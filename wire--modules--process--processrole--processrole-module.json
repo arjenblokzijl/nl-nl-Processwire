@@ -1,0 +1,99 @@
+{
+    "file": "wire/modules/Process/ProcessRole/ProcessRole.module",
+    "textdomain": "wire--modules--process--processrole--processrole-module",
+    "translations": {
+        "73a0430d4108945b73c1d27c8d048339": {
+            "text": "Welke soorten pagina’s mag deze rol bekijken?"
+        },
+        "1c572404150327a35e463b4638740073": {
+            "text": "Welke soorten pagina’s mag deze rol bewerken?"
+        },
+        "b2295468aae810dba114aeafc6affecc": {
+            "text": "Aan welke soorten pagina’s mag deze rol subpagina’s toevoegen?"
+        },
+        "a94285c99473e5cb477bfebd41f5b479": {
+            "text": "Welke soorten pagina’s mag deze rol aanmaken?"
+        },
+        "2121718f2638e1afe762097a7981ea3c": {
+            "text": "Als je {permission} alleen aan bepaalde templates wilt toevoegen, vink dan hieronder de vakjes aan voor de templates waar je het aan wilt toevoegen, en laat het vakje voor {permission} leeg."
+        },
+        "308b65bff5801587885912db1a2aacdf": {
+            "text": "De {permission}-permissie is aangevinkt, waardoor deze geldt voor alle templates die door de rol kunnen worden bewerkt. Om de {permission}-permissie voor specifieke templates in te trekken, vink je de onderstaande vakjes aan. Om deze permissie alleen aan specifieke templates toe te voegen, vink je eerst de {permission}-permissie uit."
+        },
+        "0cb74f3f98993beb92d1fa5e9dbdeb64": {
+            "text": "Let op: de rol moet ook permissies voor bewerking van pagina’s hebben voor alle hierboven aangevinkte templates."
+        },
+        "46e843d341c23fcc923e4057f2011f5e": {
+            "text": "Voor de meeste permissies die via een template kunnen worden toegewezen, moet de gebruiker ook het recht hebben om de pagina van de template te bewerken. Als een template dat je nodig hebt niet in de lijst staat, moet je eerst de toegangscontrole ervoor inschakelen (zie het tabblad „Toegang“ bij het bewerken van een template)."
+        },
+        "bd6e3218368542ea8b8ec79e212960c3": {
+            "text": "In tegenstelling tot de meeste andere permissies is de permissie om een template te bewerken geen voorwaarde voor deze permissie."
+        },
+        "2c32a8fe6caf47e8f89b0929211639df": {
+            "text": "Templates met een sterretje (*) zijn zo ingesteld dat permissies voor bewerking ook worden doorgegeven aan subpagina's en via de paginaboom, tenzij/totdat dit wordt overschreven door een pagina die een ander template met toegangsbeheer gebruikt."
+        },
+        "1900cd4f8e202940060d2129a70df995": {
+            "text": "Deze permissie wordt ook doorgegeven aan subpagina’s en via de paginaboom, tenzij/totdat deze wordt overschreven door een pagina die een andere template met toegangsbeheer gebruikt."
+        },
+        "10928cc0ee4f4ca5cd54b8f7d90fe439": {
+            "text": "Opmerking: de superuser-rol heeft altijd alle permissies, dus het veld ‘permissies’ wordt niet weergegeven."
+        },
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Permissies"
+        },
+        "e0c8b59640bc35bac606431203d2d9b0": {
+            "text": "Voor gedetailleerde beschrijvingen van deze permissies, zie de [referentie over permissies](%s)."
+        },
+        "e92cdb67062c4b4fa95179b9130677a9": {
+            "text": "naam|beschrijving| "
+        },
+        "dc3abfaff3190368a09f01d6589eeeea": {
+            "text": "Voeg onderliggende elementen toe aan pagina’s met behulp van een template"
+        },
+        "9c281188158fc34cf5afc9d2820a761c": {
+            "text": "Maak pagina’s aan met behulp van een template"
+        },
+        "bdeb3e0cbe3d8f44757a86e8da219abc": {
+            "text": "Deze permissie kan alleen via een template worden toegekend."
+        },
+        "9bfb6e6af6e6793bfa9387e728187c87": {
+            "text": "(verplicht)"
+        },
+        "3cac60e98937c01a72ef6e6cfe66f90f": {
+            "text": "Deze permissie is vereist voor alle rollen."
+        },
+        "1def073965e264ae40ae1d9877290fd3": {
+            "text": "geldt voor alle bewerkbare templates"
+        },
+        "26c77f67debae46ee5b0a12626817076": {
+            "text": "%1$s toegevoegd door template %2$s, klik om te bewerken"
+        },
+        "37ef521112472af77d381e834922a7af": {
+            "text": "%1$s ingetrokken door template %2$s, klik om te bewerken"
+        },
+        "1754bfdd544e98486c2ed46753ca8edd": {
+            "text": "Als je dit vakje aanvinkt, wordt de permissie toegevoegd voor alle bewerkbare templates, maar deze permissie wordt al apart toegepast door een of meer templates. Om het overzichtelijk te houden, raden we aan om de permissie uit die templates te verwijderen voordat je deze voor alle templates inschakelt. Weet je zeker dat je dit nu wilt inschakelen?"
+        },
+        "596d1c90537af3c3c588dceedde6bf03": {
+            "text": "(vereist omdat dit is overgenomen van de gastrol)"
+        },
+        "76ea2cfb7138b9f6db1ca5385ffd6bec": {
+            "text": "Toevoegen aan: %s"
+        },
+        "484a603504d7ed70ae95310674989236": {
+            "text": "Intrekken van: %s"
+        },
+        "862ca20a14a289ffa53aa7b458c0f288": {
+            "text": "Klik om de permissie-instellingen per template te openen/sluiten"
+        },
+        "4106d43df925487225450293085f8bad": {
+            "text": "Permissie „%1$s“ voor template „%2$s“ is niet toegestaan (vereist de permissie „%3$s“)"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Rollen"
+        },
+        "e5e77ccf470959bc6be60127730908b5": {
+            "text": "Beheer gebruikersrollen en de bijbehorende permissies"
+        }
+    }
+}

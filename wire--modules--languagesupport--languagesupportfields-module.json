@@ -1,0 +1,21 @@
+{
+    "file": "wire/modules/LanguageSupport/LanguageSupportFields.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportfields-module",
+    "translations": {
+        "16d43921f6466356a5420de1d357ffb6": {
+            "text": "Taalondersteuning / Gedrag bij lege velden"
+        },
+        "d5984c66ace0dae1773e991655e79484": {
+            "text": "Wat moet er gebeuren als de waarde van dit veld leeg is?"
+        },
+        "2890518e61caa93e64ca13dbc48fd26a": {
+            "text": "Geldt alleen voor taalwaarden die niet standaard zijn ingesteld op de front-end van je site."
+        },
+        "b22ada5d7a2fc27462f6c477fc5c4dbd": {
+            "text": "Waarde overnemen uit de standaardtaal"
+        },
+        "58d2e94541b468a4154422bbbc8a6ba5": {
+            "text": "Laat leeg"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeOptions/FieldtypeOptions.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--fieldtypeoptions-module",
+    "translations": {
+        "69b3176dd209b9a908446d55ceb0cfd2": {
+            "text": "De ingestelde voorselectie is niet ingevuld, omdat de waarde niet altijd verplicht is. Corrigeer deze veldconfiguratie alsjeblieft."
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titel"
+        },
+        "d88cb87988c18a5b8e9652d49d857d4c": {
+            "text": "Waarde-tekst"
+        },
+        "aee44a384657fe502a5b91c94fbc7713": {
+            "text": "Het importeren van opties is nog niet geïmplementeerd. Je kunt ze echter makkelijk van de ene site naar de andere importeren door ze rechtstreeks vanuit het scherm voor veldbewerking te kopiëren en te plakken."
+        },
+        "aa4c3e66841030399406dbc07e179a86": {
+            "text": "Eén optie:"
+        },
+        "490c0cb936421cca0433ef4af53158c1": {
+            "text": "Meerdere opties:"
+        },
+        "446be6c9a3b09c4af5a9f6a8d70fb186": {
+            "text": "Meerdere sorteeropties:"
+        },
+        "33568d5ff03072672cce95681df20964": {
+            "text": "Selecteer opties"
+        },
+        "440494bea619acd17c0a19326d9030fd": {
+            "text": "Veld waarin opties voor enkele en meervoudige selectie worden opgeslagen."
+        }
+    }
+}

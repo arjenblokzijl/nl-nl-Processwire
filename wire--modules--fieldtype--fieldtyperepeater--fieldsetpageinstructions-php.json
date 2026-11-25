@@ -1,0 +1,51 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeRepeater/FieldsetPageInstructions.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldsetpageinstructions-php",
+    "translations": {
+        "fce8db7e35654f2d39ed13c88caeb595": {
+            "text": "Dit is een voorbeeldtekst"
+        },
+        "e24b5159feaf11cbc2866fc792dcb205": {
+            "text": "Instructies voor het gebruik van dit veld"
+        },
+        "dda3c63808783d90468ffc36857b1ad2": {
+            "text": "Dit type veldset gebruikt (achter de schermen) een aparte pagina om de waarden op te slaan voor de velden die je hierboven selecteert."
+        },
+        "43ef844d717ad05c793ebe3fc0bfa46f": {
+            "text": "Een voordeel is dat je velden kunt hergebruiken die misschien al op je pagina staan, buiten de fieldset om."
+        },
+        "450f315bbf5a730f06d882603e2351ee": {
+            "text": "Je zou bijvoorbeeld een veld ‘title’ op je pagina kunnen hebben, en nog een in je fieldset. Hetzelfde geldt voor alle andere velden."
+        },
+        "082323774f8bcc4a3b546017f4699653": {
+            "text": "Dit is mogelijk omdat de velden in de fieldset in hun eigen naamruimte staan – een andere pagina – los van de hoofdpagina."
+        },
+        "1c965c7b269c1b604d6490030b52cb9a": {
+            "text": "Hieronder vind je een aantal voorbeelden van hoe je dit veld kunt gebruiken in je template-bestanden en via de API."
+        },
+        "2b9532c496c737a7d979ede12021cbfc": {
+            "text": "Een waarde ophalen:"
+        },
+        "3cdf9e98ed82c4005e72a8d904f2c396": {
+            "text": "Een waarde weergeven:"
+        },
+        "e77be29cea913a45c5a64261aab889fe": {
+            "text": "Een waarde weergeven in markup:"
+        },
+        "a1846e66c3581626834fa2b2b713a751": {
+            "text": "Een waarde instellen:"
+        },
+        "c17698c4f96778fb0e1c2cf7e08354fa": {
+            "text": "Een waarde instellen en opslaan:"
+        },
+        "07eb153eceddb68a89d41166e566601a": {
+            "text": "hiermee schakel je de opmaak van de uitvoer uit, indien nodig"
+        },
+        "d4dcb894c9c0f44c78175f84b15a0b57": {
+            "text": "Een fieldset toewijzen aan een andere (kortere) variabele en een waarde weergeven:"
+        },
+        "89c8a04262edb041b1d1cf735fd36a4b": {
+            "text": "Pagina’s zoeken met een fieldset waarin het veld „%s“ de tekst „example“ bevat:"
+        }
+    }
+}

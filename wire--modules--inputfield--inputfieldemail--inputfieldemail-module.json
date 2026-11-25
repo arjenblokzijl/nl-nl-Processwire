@@ -1,0 +1,78 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldEmail/InputfieldEmail.module",
+    "textdomain": "wire--modules--inputfield--inputfieldemail--inputfieldemail-module",
+    "translations": {
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Bevestigen"
+        },
+        "082e55a73f10496681c84231dc1c88f7": {
+            "text": "E-mail"
+        },
+        "16f09bacbf690906417db0a60cda359c": {
+            "text": "Geef een geldig e-mailadres op"
+        },
+        "729be41e3a896b691a703fda562f4c98": {
+            "text": "De e-mails die je hebt opgegeven komen niet overeen, probeer het opnieuw"
+        },
+        "14d866744fd30744389cd711c4a8d4c7": {
+            "text": "Het e-mailadres „%s“ wordt al gebruikt, kies alsjeblieft een ander adres"
+        },
+        "0b3011446bcaaad42a9a544dbb09a3ed": {
+            "text": "E-mailadressen met speciale tekens in het lokale deel van local-part@domain.com zijn niet toegestaan"
+        },
+        "2e24bd715edd4dbbff781d4aa0355e99": {
+            "text": "E-mailadressen met geïnternationaliseerde domeinnamen (IDN) zijn niet ingeschakeld; gebruik alsjeblieft een e-mailadres zonder IDN"
+        },
+        "f462a55cf22cc9382696a17a198c2aae": {
+            "text": "Het e-mailadres overschrijdt de maximaal toegestane lengte van %d tekens"
+        },
+        "afce6fcb2d736e43b0bf509e385d477a": {
+            "text": "Bevestig e-mailadres"
+        },
+        "f98e5e5fd93bc01f60e2a0a30c90618a": {
+            "text": "Indien aangevinkt worden er twee invoervelden getoond zodat de gebruiker zijn e-mailadres twee keer moet invoeren. Dit verminderd het risico op typefouten."
+        },
+        "dbc0ea7ae14b0b77eca995f4ba7aa9e8": {
+            "text": "E-mailadressen met geïnternationaliseerde domeinnamen (IDN) toestaan?"
+        },
+        "35faac2c070c8d9722bc01c2c60509e3": {
+            "text": "Houd er rekening mee dat niet alle e-mailsystemen het verzenden en ontvangen van e-mails met IDN’s en/of UTF-8-tekens ondersteunen."
+        },
+        "7dd390401b61e8e6e4a7559e5fa9a4cb": {
+            "text": "Kies voor standaard ASCII-e-mailadressen voor de breedste compatibiliteit."
+        },
+        "d906bf971f8572d11f7b4d040b3fbf2d": {
+            "text": "Gebruik de ASCII-standaard als het e-mailadres wordt gebruikt voor welke vorm van authenticatie of inloggen dan ook."
+        },
+        "b038597ded41c029ae3476c546aad739": {
+            "text": "We raden ook aan om standaard ASCII-e-mails te gebruiken als je berichten naar het e-mailadres gaat sturen."
+        },
+        "4f514521d7af0462558b76d5d3417c98": {
+            "text": "Gebruik standaard ASCII-e-mailadressen"
+        },
+        "53de25d6c86c7b2cbb480abafaeba140": {
+            "text": "bob@domain.com"
+        },
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(aanbevolen)"
+        },
+        "949a6edbe4db961f93c5a31476e8b8b3": {
+            "text": "IDN-host/domein toestaan"
+        },
+        "9375e41f23d4749e59b3e9dffd4018d4": {
+            "text": "bob@dømain.com"
+        },
+        "ec06902273583078f0de63360295d321": {
+            "text": "Sta UTF-8 toe voor het lokale deel en IDN-host/domein"
+        },
+        "6273f560e9ae747701c150abeff0e331": {
+            "text": "bøb@dømain.com"
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "E-mail"
+        },
+        "3918809b01dd88b1c1c892aec102512b": {
+            "text": "E-mailadres in geldig formaat"
+        }
+    }
+}

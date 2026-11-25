@@ -1,0 +1,90 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeRepeater/InputfieldRepeater.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--inputfieldrepeater-module",
+    "translations": {
+        "7264d8c26ac9671a31cd3eb3ddd4a447": {
+            "text": "Dit item kun je bewerken nadat je het hebt opgeslagen."
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "Nieuw"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Verwijder"
+        },
+        "6b46ae48421828d9973deec5fa9aa0c3": {
+            "text": "Sorteren"
+        },
+        "675056ad1441b6375b2c5abd48c27ef1": {
+            "text": "Diepte"
+        },
+        "4ee8d3067ffde7991e2c009f775ceb75": {
+            "text": "Waarschuwing: alleen de eerste %d item(s) worden gebruikt."
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Nieuwe pagina toevoegen"
+        },
+        "36bb6559696dc9124986ae120515984f": {
+            "text": "Plakken"
+        },
+        "44a3084a1ce251fb76ba7fe540a18863": {
+            "text": "Deze actie is uitgeschakeld op basis van de instellingen voor het minimum- en/of maximumaantal items."
+        },
+        "be3fb8f18ddcd8f47b92e020f1474b1b": {
+            "text": "Fouten in „%s“, item %d"
+        },
+        "84b9f1e68847c185ca36db3bc2f8de18": {
+            "text": "Klik om dit item te verwijderen, of dubbelklik om alles te verwijderen"
+        },
+        "9a04ad51e71ca7e14841c880abe89a44": {
+            "text": "Alle items verwijderen?"
+        },
+        "485c9b5a61ede20a8ccc332f120da1f9": {
+            "text": "Klik om een item in of uit te schakelen, of dubbelklik om alle items te openen of te verbergen"
+        },
+        "b08aa2661c47b855f0d19241bbcd533d": {
+            "text": "Acties klonen/kopiëren/plakken"
+        },
+        "2ca001ee3992ee08c53099d65cbde4eb": {
+            "text": "Instellingen weergeven?"
+        },
+        "b5fab487adaf66b676d31b8fd16af85b": {
+            "text": "Alle items openen?"
+        },
+        "d7280b1cbbae6481f050a9184b8fa445": {
+            "text": "Alle items samenvouwen?"
+        },
+        "28deaa9cdfe4f45e2a939dc59571818f": {
+            "text": "Voeg een nieuw item in vóór dit item"
+        },
+        "393953d8fb0ef2812c824d0289a6374f": {
+            "text": "Voeg een nieuw item toe na dit item"
+        },
+        "202f13dbe40c7bc01cc962912fdd9947": {
+            "text": "Voeg hier een nieuw item toe"
+        },
+        "2020359603b0f865a5403d499d17cd63": {
+            "text": "Kies een actie voor dit item "
+        },
+        "12f7a820373a9eaf83b664efcd81cf5b": {
+            "text": "Kopieer dit item in het klembord om het ergens anders te plakken"
+        },
+        "f56fa1882f668e5cd2b2eedcc372a4cc": {
+            "text": "Item in het klembord"
+        },
+        "1be669e51975cbb293eb0f681a8231f2": {
+            "text": "KLOON dit item en plaats het BOVEN dit"
+        },
+        "e99d82e0ea1ce2a652c0f37bd32535dc": {
+            "text": "KLOON dit item en voeg het HIERONDER in"
+        },
+        "644415464da017bcc4ee5387c90f98b6": {
+            "text": "PLAATS het gekopieerde item HIERBOVEN"
+        },
+        "36e5afb31c8d93603a1f4a38ae05c342": {
+            "text": "PLAATS het gekopieerde item HIERONDER"
+        },
+        "b374d8e1bbf5987f273d3e5c49b1086b": {
+            "text": "GEHEUGEN WISSEN (kopiëren/plakken)"
+        }
+    }
+}

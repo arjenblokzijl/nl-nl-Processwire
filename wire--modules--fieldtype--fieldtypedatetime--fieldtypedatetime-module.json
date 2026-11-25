@@ -1,0 +1,72 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeDatetime/FieldtypeDatetime.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedatetime--fieldtypedatetime-module",
+    "translations": {
+        "eb44c7b0eebc98a8441abb862a254b3d": {
+            "text": "Weergaveformaat voor datums"
+        },
+        "e7033eefffec056f8898dab5295ef2f6": {
+            "text": "Kies de notatie die je wilt gebruiken bij het weergeven van datums met dit veld."
+        },
+        "5bdb46a370b6d6a509c68a76551e5e3d": {
+            "text": "Zie het tijdweergaveformaat voor relatieve datum- en tijdnotaties."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Geen"
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "(Unix-tijdstempel)"
+        },
+        "8a4b7daad69389d978a2ea6bab5b07f8": {
+            "text": "Weergaveformaat voor tijd"
+        },
+        "cce774e589c4c23ce9c8cc7cb958861a": {
+            "text": "Als je naast de datum ook de tijd wilt weergeven, kies dan hier het formaat dat je wilt gebruiken voor de tijdweergave bij dit veld. Dit wordt gecombineerd met het datumformaat."
+        },
+        "c1a326c2753f410fad585781390da97f": {
+            "text": "Code voor de weergave van datum en tijd"
+        },
+        "7b9ea642d1b10d7efc18d2c64a8940f8": {
+            "text": "De datum/tijd wordt weergegeven volgens het onderstaande formaat. Dit wordt automatisch samengesteld op basis van de bovenstaande datum- en tijdselecties, maar je kunt het indien nodig aanpassen aan je eigen wensen."
+        },
+        "933a4e03586f37e44d1daeff7431cf9b": {
+            "text": "Zie de functiereferentie voor [PHP date](https://www.php.net/manual/en/function.date.php) voor meer informatie over hoe je dit formaat kunt aanpassen. Je kunt desgewenst ook een [PHP strftime](https://www.php.net/manual/en/function.strftime.php)-formaat gebruiken voor lokalisatie."
+        },
+        "22a396f3a84b3aff1960dbed98c1fb31": {
+            "text": "Datum en tijd"
+        },
+        "996afaf46e72e3de0d83772e6d54084f": {
+            "text": "j F Y H:i"
+        },
+        "5016138c85a562108655c5e404dee4eb": {
+            "text": "Y-m-d"
+        },
+        "c320173a826e45ddf8441fb15cef2e27": {
+            "text": "H:i"
+        },
+        "8dad1a7f7165bc81f4c1f3310bb74b85": {
+            "text": "html"
+        },
+        "a6e25708f325c204e3e7e9dfebd1eea7": {
+            "text": "Datum"
+        },
+        "7a8a5dde66084f603f1f42c925ecd0b1": {
+            "text": "j F Y"
+        },
+        "8e880eba57880269daae24f267c9a97f": {
+            "text": "Y-m-d"
+        },
+        "82abd94b86d047adbaf31374e95f5b43": {
+            "text": "html"
+        },
+        "428e3341e08cd52abb9578cca03936c1": {
+            "text": "Tijd"
+        },
+        "f3235d2266c6746633a2aa592a5aeb27": {
+            "text": "H:i"
+        },
+        "9ba45c7d168b58883ab8bf14cd240de8": {
+            "text": "html"
+        }
+    }
+}

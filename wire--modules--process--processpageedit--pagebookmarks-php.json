@@ -1,0 +1,45 @@
+{
+    "file": "wire/modules/Process/ProcessPageEdit/PageBookmarks.php",
+    "textdomain": "wire--modules--process--processpageedit--pagebookmarks-php",
+    "translations": {
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Bladwijzers"
+        },
+        "d0b0f5485a703781d56c4c55bdce4da7": {
+            "text": "Bladwijzers bewerken"
+        },
+        "a181a603769c1f98ad927e7367c7aa51": {
+            "text": "alles"
+        },
+        "e0748a9891a21b21d3c6f6376ab12f8f": {
+            "text": "Er zijn momenteel geen bladwijzers gedefinieerd"
+        },
+        "ed881bac6397ede33c0a285c9f50bb83": {
+            "text": "iedereen"
+        },
+        "d5a8dcb24e93ee00847e32750d56eca5": {
+            "text": "Bladwijzers voor: %s"
+        },
+        "9a013ed2472d5e17678963b8a653a0ac": {
+            "text": "%s-bladwijzer-editor"
+        },
+        "cfbe50a1f9e891f884e3e6318d635a89": {
+            "text": "Let op: alleen supergebruikers kunnen deze editor zien."
+        },
+        "7317631eaad804856acd03ce85bd8ef7": {
+            "text": "Bladwijzer toevoegen"
+        },
+        "1aaddfb42057a3f42fbd26b95d3b9c78": {
+            "text": "Klik hieronder op de knop ‘bladwijzer toevoegen’ om pagina’s te selecteren die je als bladwijzers wilt toevoegen. Als je wilt dat de bladwijzers alleen zichtbaar zijn voor een bepaalde gebruikersrol, selecteer dan eerst de rol hierboven."
+        },
+        "09c3829dccd8e7db10887f1ec26c7431": {
+            "text": "Opgeslagen bladwijzers"
+        },
+        "e750f199f551e1b0b52dd0f5228da48d": {
+            "text": "Wil je het gebruik van bladwijzers toestaan?"
+        },
+        "53b820d38e547eb253a74a242a29e16f": {
+            "text": "Met bladwijzers kun je snelkoppelingen naar pagina’s vanuit deze module maken, die je per rol kunt instellen. Handig voor grote applicaties."
+        }
+    }
+}

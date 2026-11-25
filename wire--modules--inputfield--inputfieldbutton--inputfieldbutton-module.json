@@ -1,0 +1,12 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldButton/InputfieldButton.module",
+    "textdomain": "wire--modules--inputfield--inputfieldbutton--inputfieldbutton-module",
+    "translations": {
+        "87b7760f14fbff78d8819291f36ab9a0": {
+            "text": "Knop"
+        },
+        "3691c9189afe50505955f4ef8181ae3c": {
+            "text": "Formulierknopelement waaraan je optioneel een href-attribuut kunt doorgeven."
+        }
+    }
+}

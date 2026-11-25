@@ -1,0 +1,12 @@
+{
+    "file": "wire/core/Module/FileCompilerModule.php",
+    "textdomain": "wire--core--module--filecompilermodule-php",
+    "translations": {
+        "e774dc32721ed4babc1996a83868058f": {
+            "text": "Uitvoeringsvolgorde tijdens runtime"
+        },
+        "26ca6e7fb5ade62330c73e93dc083cab": {
+            "text": "Geef aan in welke volgorde deze module wordt uitgevoerd ten opzichte van andere FileCompiler-modules. Lagere nummers worden eerst uitgevoerd."
+        }
+    }
+}

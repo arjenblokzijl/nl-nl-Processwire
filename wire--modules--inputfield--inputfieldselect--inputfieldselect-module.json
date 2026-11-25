@@ -1,0 +1,69 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldSelect/InputfieldSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselect--inputfieldselect-module",
+    "translations": {
+        "7c63f89ebf4832b00f3e7365c794b642": {
+            "text": "Om vooraf geselecteerde standaardwaarden in te stellen, voer je hieronder de optiewaarden in (één per regel)."
+        },
+        "032f6def0f9076885bcd8366ce324178": {
+            "text": "Om een vooraf geselecteerde standaardwaarde in te stellen, voer je hieronder de waarde van de optie in."
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Standaardwaarde"
+        },
+        "d1fd1babab2eaee3f04bcbc5278193d2": {
+            "text": "Bij de standaardpagina-selectie is de waarde het pagina-ID-nummer."
+        },
+        "5c6d4a4ac74797a290100dc74f6cd79d": {
+            "text": "BELANGRIJK: De standaardwaarde wordt alleen gebruikt als het veld verplicht is (zie het selectievakje ‘verplicht’ op dit scherm)."
+        },
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "Opties"
+        },
+        "3a4accfa68ff7300f67ad7d89e07770e": {
+            "text": "Voer de opties in die geselecteerd kunnen worden, één per regel."
+        },
+        "be1ae5e510797cd29556ba58e16bb3cd": {
+            "text": "Als je meertalige optielabels wilt gebruiken, bekijk dan de instructies onder dit veld."
+        },
+        "e1d42070d11f4e125dd41933a7931336": {
+            "text": "Instructies:"
+        },
+        "c3a5b7cc9aad41a355971c9da775b523": {
+            "text": "Geef één optie per regel op."
+        },
+        "75d2fefda1196dd14f506b0273ebed38": {
+            "text": "Om de waarde en het label apart te houden, scheid je ze met een gelijkteken. Voorbeeld: value=My Option"
+        },
+        "6cdf2b7c6a202509ddad22ed4e6d1c3d": {
+            "text": "Als je je lijst wilt laten beginnen met een lege optie, voer dan gewoon een gelijkteken \"=\" in als eerste optie."
+        },
+        "378f6008c3dc6eb2be984683df372592": {
+            "text": "Om een optie geselecteerd te maken, zet je er een plusteken voor. Voorbeeld: +Mijn optie"
+        },
+        "663f303f44a9a25504e3c434fc37b34d": {
+            "text": "Om een optgroup (optiegroep) aan te maken, zet je de opties in de groep 3 of meer spaties naar binnen."
+        },
+        "cc56b7dd49d4042aa921e44a93428c3f": {
+            "text": "Om een horizontale lijn toe te voegen, zet je 3 of meer streepjes op één regel zonder iets anders erbij. Voorbeeld: ---"
+        },
+        "318d7ecad4ade4ae80008273a964b97d": {
+            "text": "Meertalige instructies:"
+        },
+        "f189fffae88b8e320c77d585dda388d4": {
+            "text": "We raden aan om `value=label` te gebruiken, waarbij `value` in alle talen hetzelfde is en `label` wordt vertaald."
+        },
+        "276062e72d8dad493a3c12ee48129c09": {
+            "text": "Stel eerst je standaardtaalopties in, en kopieer en plak vervolgens de tekst naar de andere talen om de labels te vertalen."
+        },
+        "1de150b2c32ea78f720ed5680ede3e36": {
+            "text": "Geselecteerde opties en optgroepen zijn gedefinieerd in de standaardtaal; de overige invoervelden zijn alleen bedoeld voor het vertalen van labels."
+        },
+        "6fad098a8ac595a164cf68a53d2669ec": {
+            "text": "Labels die niet vertaald zijn, krijgen het standaardlabel voor de taal."
+        },
+        "f645f1e738bbb01f10d1fdbdc5ca2d5f": {
+            "text": "Optgroup-labels mogen in andere talen worden vertaald als `Default label=Translated label`"
+        }
+    }
+}

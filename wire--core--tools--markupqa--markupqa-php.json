@@ -1,0 +1,21 @@
+{
+    "file": "wire/core/Tools/MarkupQA/MarkupQA.php",
+    "textdomain": "wire--core--tools--markupqa--markupqa-php",
+    "translations": {
+        "2c8c8cc955bc953e099536d83ba3f9be": {
+            "text": "het zit in de prullenbak"
+        },
+        "246a94be559f0335084685fddb9debf3": {
+            "text": "verwijst naar het beheerdersgedeelte"
+        },
+        "bb07bf84b3c2188ebdc8883e128685f8": {
+            "text": "Kan de link op pagina %1$s in het veld \"%2$s\" niet vinden: %3$s"
+        },
+        "82767b749996ed727738e156e277919f": {
+            "text": "Opnieuw gemaakte afbeeldingsvariant"
+        },
+        "e7f0084e8dc972e4cd7d238f17f5cbce": {
+            "text": "Kan afbeeldingsvariant niet opnieuw aanmaken"
+        }
+    }
+}

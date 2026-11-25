@@ -1,0 +1,27 @@
+{
+    "file": "wire/core/Modules/ModulesInfo.php",
+    "textdomain": "wire--core--modules--modulesinfo-php",
+    "translations": {
+        "9639e32cab248434a17ab32237cb3b71": {
+            "text": "Toepassen"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Bewerken"
+        },
+        "5a2fc11bf796d8311be4cbec0b42de6a": {
+            "text": "%d nieuwe module(s) gevonden:"
+        },
+        "c6c027ba8c6c5d40e280070bd29ded16": {
+            "text": "%d verplaatste module(s) gevonden:"
+        },
+        "fcdbac603f98c3289eae424e2b3c1f2f": {
+            "text": "%d module(s) gevonden waarbij een bestand ontbreekt of die opnieuw moeten worden vernieuwd:"
+        },
+        "ad9906aa0524fdfe2d135ea6be8c4a6a": {
+            "text": "%d wijzigingen in de moduleversies gevonden (worden toegepast wanneer elke module wordt geladen):"
+        },
+        "3ba3666c48feabf2f2506e1f835ea92e": {
+            "text": "Module wordt bijgewerkt"
+        }
+    }
+}

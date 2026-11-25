@@ -1,0 +1,21 @@
+{
+    "file": "wire/modules/LanguageSupport/LanguagePorter.php",
+    "textdomain": "wire--modules--languagesupport--languageporter-php",
+    "translations": {
+        "e29dcc5c9ac228a6986599e4ec13613c": {
+            "text": "CSV-import:"
+        },
+        "b817c7fc9a774b9a22172e59c228a9cb": {
+            "text": "%s bestaat niet of is geen map"
+        },
+        "b012fb6e4f8ea5ec13a5797b60145bb3": {
+            "text": "Onbekend textdomain voor bestand: %s"
+        },
+        "8d8b8c1b707b1cc979c41ca7cb2a2020": {
+            "text": "%d vertalingen in totaal, %d wijzigingen in totaal"
+        },
+        "610d28b5e07bce623b5dcbcefc043344": {
+            "text": "%d wijziging(en) opgeslagen voor bestand: %s"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "wire/core/Modules/Modules.php",
+    "textdomain": "wire--core--modules--modules-php",
+    "translations": {
+        "3919fe955716c54c409b522a1003f3e0": {
+            "text": "Je hebt geen permissie om deze module uit te voeren"
+        },
+        "0a6712f704d759c81cdc4416397e7faf": {
+            "text": "Kan module niet aanmaken: %s"
+        }
+    }
+}

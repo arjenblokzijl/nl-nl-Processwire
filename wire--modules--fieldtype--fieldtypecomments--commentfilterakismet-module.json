@@ -1,0 +1,18 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeComments/CommentFilterAkismet.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentfilterakismet-module",
+    "translations": {
+        "00fee5e9143358a3b00c985f3ed3c43e": {
+            "text": "Akismet-sleutel"
+        },
+        "69dccaed52b0f6af3c11c97b72d0b963": {
+            "text": "Als je wilt dat reacties automatisch als spam worden gemarkeerd, kan het fieldtype ‘Comments’ hiervoor gebruikmaken van de Akismet-service. Om dit te kunnen gebruiken, moet je een Akismet API-sleutel invoeren die je op akismet.com kunt aanvragen. Het gebruik van deze service is optioneel, maar wordt aanbevolen."
+        },
+        "4f56cc1383c1e4170dfe1e715a97f5d6": {
+            "text": "Reactiefilter: Akismet"
+        },
+        "c6fbad5a67362793950bf96bd0e6dad5": {
+            "text": "Maakt gebruik van de Akismet-service om spamberichten in reacties te herkennen. Module-plugin voor het fieldtype ‘Reacties’."
+        }
+    }
+}

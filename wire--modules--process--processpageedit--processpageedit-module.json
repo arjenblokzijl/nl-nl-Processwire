@@ -1,24 +1,45 @@
 {
-    "file": "wire\/modules\/Process\/ProcessPageEdit\/ProcessPageEdit.module",
+    "file": "wire/modules/Process/ProcessPageEdit/ProcessPageEdit.module",
     "textdomain": "wire--modules--process--processpageedit--processpageedit-module",
     "translations": {
-        "df74a326081d841aef061c999c7979f3": {
-            "text": "Wijzigen: %s"
+        "7ba9fe21b073af37b16f989e23112967": {
+            "text": "Onbekende pagina"
         },
-        "c0df350b3d4fe22546834d74cdc77023": {
-            "text": "Gepubliceerde pagina: %s"
+        "b8e75fd085c6615286cee6fdc4e880ec": {
+            "text": "De pagina is vergrendeld voor wijzigingen"
         },
-        "9ce0bc0d85071636f750e39ea86f86c0": {
-            "text": "Opgeslagen pagina: %s"
+        "386397f000925f7d90c87a913a678eed": {
+            "text": "Je hebt geen rechten om te bewerken"
         },
-        "f15c1cae7882448b3fb0404682e17e61": {
-            "text": "Inhoud"
+        "19959897b0f9d04ebbea294594c10f5d": {
+            "text": "Deze pagina bevat mogelijk een of meer onvolledige velden (probeer op te slaan of te publiceren voor meer info)"
+        },
+        "a9581db07856efb481fddef1b3e168f8": {
+            "text": "Geen pagina gevonden"
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + Afsluiten"
+        },
+        "1040873c1bf94b1995201c648a15989d": {
+            "text": "%s + Bekijken"
+        },
+        "407911b74ab384304ea0190675a00894": {
+            "text": "%s + Nieuw toevoegen"
+        },
+        "cc231fc91e42d1e391bbce1fc541959f": {
+            "text": "%s + Volgende"
+        },
+        "109f29a4bda4c9b4a00ffd5452fe9515": {
+            "text": "Weet je het zeker? Er is momenteel een upload bezig en deze kan verloren gaan als je doorgaat."
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Opslaan"
+        },
+        "425fb24086db3ce13f4db8b65c055e11": {
+            "text": "Deze pagina heeft ten onrechte de status ‘prullenbak’; klik op ‘opslaan’ om dit te verhelpen"
         },
         "a1c508c8dcf832bde214942a479c63e5": {
             "text": "Deze pagina bevindt zich in de prullenbak"
-        },
-        "2cb4bb1ee54691377c8778a8823eb4dd": {
-            "text": "Deze pagina is momenteel niet gepubliceerd"
         },
         "404dd23de1c6c7edc7927e5262b93a1b": {
             "text": "Alleen opslaan (Niet publiceren)"
@@ -26,17 +47,20 @@
         "110a4b01beabd53b661a47d4b44bd7a8": {
             "text": "Publiceren"
         },
-        "c9cc8cce247e49bae79f15173ce97354": {
-            "text": "Opslaan"
+        "f15c1cae7882448b3fb0404682e17e61": {
+            "text": "Inhoud"
         },
         "64e4aca4297806247f62a7b5f8cbd3df": {
             "text": "Kinderen"
         },
         "9b30437c5e1e966fa90525c93356fd3f": {
-            "text": "Kinderen \/ Subpagina's"
+            "text": "Kinderen / Subpagina's"
         },
         "b5c4bc5ddd4b490f3e2bf5abc0945f1d": {
-            "text": "Er zijn op dit moment geen kinderen\/subpagina's onder deze pagina."
+            "text": "Er zijn op dit moment geen kinderen/subpagina's onder deze pagina."
+        },
+        "fcdd8c7fe4647ee6186ea45dd69d425d": {
+            "text": "Kinderen worden gesorteerd door \"%s\", bepaald door de instelling van de template."
         },
         "a13cc55582da47cab1f7cc7518700c6e": {
             "text": "Voeg hier een nieuwe pagina toe"
@@ -44,35 +68,128 @@
         "7e92f49c92e3f91ed88f03063fc34748": {
             "text": "Instellingen voor sorteren"
         },
-        "591acadb8502cd6db313b718df45a6f4": {
-            "text": "Ingebouwde velden"
-        },
-        "833956a760d996ae61ea8b385e9fb6f0": {
-            "text": "Aangepaste velden"
-        },
-        "d49042595c2674084c92d561b714d522": {
-            "text": "Sorteren in omgkeerde volgorde?"
+        "ea1a60a080fc428d2c18d9e6d33ded08": {
+            "text": "Wanneer je alle huidige en toekomstige kinderen automatisch wilt sorteren op een bepaald veld, kies hieronder het veld en kies eventueel voor 'omgekeerd' om in omgekeerde volgorde te sorteren. Laat het sorteerveld leeg wanneer je de pagina's zelf in de juiste volgorde wilt zetten (drag-n-drop)."
         },
         "f4f70727dc34561dfde1a3c529b6205c": {
             "text": "Instellingen"
         },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Template"
+        },
         "30269022e9d8f51beaabb52e5d0de2b7": {
-            "text": "Ouder (bovenliggende pagina)"
+            "text": "Bovenliggende pagina"
+        },
+        "1ad359c38781f8fc924a380559d60c42": {
+            "text": "Aangemaakt door gebruiker"
+        },
+        "e4d5ce77afa1ac8b139234c7e641d5cd": {
+            "text": "Welke pagina's linken naar deze pagina?"
+        },
+        "b9c25fdc76ccaff0426b33dc56852e77": {
+            "text": "Niet zichtbaar in lijsten"
+        },
+        "60c6e03c99253b3bca28a08aa5102fdc": {
+            "text": "Er zijn %d andere pagina('s) gevonden die naar deze pagina linken in paginavelden of href-links."
+        },
+        "bd3cc7d2c61580ec64f4225eae3a330e": {
+            "text": "(in het paginaveld)"
+        },
+        "ccab4e644acf8e1bc8a9bef59f811803": {
+            "text": "(in href-link)"
+        },
+        "ea31b3f98bd7b1a8e71fad1f47ab4bae": {
+            "text": "%d extra pagina's worden niet weergegeven."
+        },
+        "3b3ad8a776bd0a0e7498a58c538a95b9": {
+            "text": "Er zijn geen andere pagina’s gevonden die naar deze pagina verwijzen in paginavelden of href-links."
+        },
+        "3efee15199d0046c4a68bd6c96c66800": {
+            "text": "Welke andere URL’s leiden naar deze pagina?"
+        },
+        "c665039391ab01a70f17f05adcc566df": {
+            "text": "Als een pagina wordt verplaatst of de naam verandert, onthouden we de vorige locatie voor omleidingen."
+        },
+        "d9a0149000506e68eb258bab1ef93e2f": {
+            "text": "Hieronder vind je een lijst met URL's (paden) die automatisch naar deze pagina doorverwijzen (met een permanente 301-omleiding)."
+        },
+        "bc84a6916935bff7a425f45f894a18a6": {
+            "text": "Je mag paden/URL's verwijderen of handmatig nieuwe toevoegen."
+        },
+        "1324a129fbb956748409f981833c0736": {
+            "text": "Geen omleidingspaden"
+        },
+        "9d76aca60838d896fb7754d4a890eb9d": {
+            "text": "Nog niet"
+        },
+        "593d4b34403b76f5c134df5b3c033420": {
+            "text": "Verwijzing naar vorige URL verwijderd: %s"
+        },
+        "ca2593b9cdd313f5fc57d68fb0e94470": {
+            "text": "Voeg nieuwe omleidings-URL's toe"
+        },
+        "71fc4eb5d7649ced69d2936060e7774c": {
+            "text": "Voer extra paden/URL's in (één per regel) die naar deze pagina moeten doorverwijzen."
+        },
+        "1715e12396d2512d6a079d39809bd855": {
+            "text": "Voer alleen het URL-pad in (bijv. „/hello/world/“), voeg GEEN protocol, domein, poort, query-string of fragmenten toe."
+        },
+        "05977549ad6511429ee4d274f710771d": {
+            "text": "Paden zijn relatief ten opzichte van de hoofdmap van de site, dus voeg aan het begin GEEN %s-submap toe."
+        },
+        "b74adc728406a06b4e47a2bcfd534281": {
+            "text": "Om een taal voor de omleiding op te geven, voer je het pad/de URL in op de regel, voorafgegaan door de taalnaam:"
+        },
+        "beb808c0ab58b957ea0350e633392cee": {
+            "text": "/jouw/%s/url/"
+        },
+        "ab2435deb08297062617b30c57c0ef9e": {
+            "text": "(voor %s)"
+        },
+        "e638e85311e9a6c568c715cb46e7ac01": {
+            "text": "Omleiding toegevoegd: %s"
+        },
+        "4ece098a04808389cd88f5e62f8a6fa0": {
+            "text": "Kan de omleiding %s niet toevoegen, omdat deze een conflict lijkt te veroorzaken met een ander pad"
+        },
+        "567d412904b379e49382b6e3b90881ca": {
+            "text": "Gemaakt door %1$s op %2$s"
+        },
+        "1dec6a532601f755520b9567091e1bf8": {
+            "text": "Laatst gewijzigd door %1$s op %2$s"
+        },
+        "0b7b79dc6ffa228f9e59cecc61c4efb6": {
+            "text": "Gepubliceerd op %s"
         },
         "4059b0251f66a18cb56f544728796875": {
             "text": "Informatie"
         },
-        "cacab211629daeffac10e13574e49d9e": {
-            "text": "Verborgen: Uitgesloten van lijsten en zoekopdrachten"
+        "353fd9c25db4b85b975e2248cd165618": {
+            "text": "Pagina-objectklasse: %s"
         },
-        "ab4b835121255016ef73bea7f4ea45a7": {
-            "text": "Geblokkeerd: Kan niet gewijzigd worden"
+        "5c3e31837320d9c2e9bf33224985ee6c": {
+            "text": "Meta (%d)"
         },
-        "0fdd10ee950975e58b122abb2de3a49b": {
-            "text": "Niet gepubliceerd: Niet zichtbaar op de site"
+        "8c81c7ed5763b0128bc201e43f76922a": {
+            "text": "Om het bewerken van metadata in te schakelen, zie de [configuratie](%s) van de module voor het bewerken van pagina's."
+        },
+        "fde804c5a8064267f627f04b171486e3": {
+            "text": "Metadata is momenteel alleen toegankelijk voor supergebruikers."
+        },
+        "5eff9a4d2744aee530397babaaca9b24": {
+            "text": "Om het bekijken of bewerken van paginametadata (voor supergebruikers) in te schakelen, zie de pagina-bewerkingsmodule [configuratie](%s)."
+        },
+        "b6755d218d5f4e1cef9cce9cc39aeda9": {
+            "text": "Meta"
+        },
+        "621778cc3b883e89aa8347f48ed97328": {
+            "text": "Wat is paginametadata?"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Status"
         },
         "f2a6c498fb90ee345d997f888fce3b18": {
-            "text": "Verwijderen"
+            "text": "Verwijder"
         },
         "aa47bb0913144619a0a9abc59d59d6ed": {
             "text": "Definitief verwijderen"
@@ -83,8 +200,26 @@
         "62a92c8e1a013dc0c9a67f2769642e9f": {
             "text": "Bevestig dat je dit werkelijk wilt."
         },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Bevestigen"
+        },
         "6e2e3de95055596f315a073f771342e3": {
             "text": "Deze pagina kan op dit moment niet verwijderd worden"
+        },
+        "2bd339d85ee3b33e513359ce781b60cc": {
+            "text": "Herstellen"
+        },
+        "0f9445b68a3d6fffc41f65efa9711f6e": {
+            "text": "Uit de prullenbak halen en terugzetten op de oorspronkelijke locatie"
+        },
+        "514327d866bf40803bfdf3a678af92ba": {
+            "text": "Vink het vakje aan om te bevestigen dat je deze pagina wilt herstellen."
+        },
+        "d8514ace7bcb47e0d419377402b13142": {
+            "text": "De pagina wordt hersteld naar: **%s**."
+        },
+        "e6c6e3f3e972de9c735faefa037529ab": {
+            "text": "De oorspronkelijke naam wordt aangepast van **%1$s** naar **%2$s** om uniek te zijn."
         },
         "4351cfebe4b61d8aa5efa1d020710005": {
             "text": "Bekijken"
@@ -95,17 +230,68 @@
         "bbbabdbe1b262f75d99d62880b953be1": {
             "text": "Rol"
         },
+        "36c2b914f293a142343cba0f3157d748": {
+            "text": "Wat ze kunnen doen"
+        },
         "13944cf77acdf1b9e49f6383c101ae89": {
             "text": "(iedereen)"
         },
-        "eec429d33814974270e5ab8a04a3d23e": {
-            "text": "Toegang is ingesteld in de template van de deze pagina: %s"
+        "802d4ac742bc4c352f14d68f10856b2d": {
+            "text": "De toegang wordt bepaald door de template van deze pagina: %s"
         },
         "890e4f4dd63b6c580cbf534f25914565": {
             "text": "Toegang is overgenomen van pagina \"%1$s\" en ingesteld in de volgende template: %2$s"
         },
+        "be308063778a2b4976cb94b0e8c7ee84": {
+            "text": "Te bekijken via de URL als de pagina een template-bestand had (dat is momenteel niet het geval)."
+        },
+        "df74a326081d841aef061c999c7979f3": {
+            "text": "Wijzigen: %s"
+        },
+        "c71458ba699635fcdbc6a15dd2b81c4c": {
+            "text": "De status ‘gemarkeerd’ is verwijderd omdat er geen fouten zijn gemeld tijdens het opslaan"
+        },
+        "c0df350b3d4fe22546834d74cdc77023": {
+            "text": "Gepubliceerde pagina: %s"
+        },
+        "9ce0bc0d85071636f750e39ea86f86c0": {
+            "text": "Opgeslagen pagina: %s"
+        },
+        "421318b075c43ddcd5426197f778c43c": {
+            "text": "Kan niet gepubliceerd worden totdat de fouten zijn opgelost"
+        },
+        "91ce4ed84b455bf383570b705a732cd6": {
+            "text": "De pagina kan niet worden hersteld zolang er fouten zijn"
+        },
+        "e4da3fa39ff5ce0fd581bc97389b5cdf": {
+            "text": "Herstelde pagina: %s"
+        },
+        "e8691f66b2ae08756dac17d0e3b91eb2": {
+            "text": "Fout bij het herstellen van de pagina"
+        },
+        "30b78fb546fe9686f84a740a5e5524a3": {
+            "text": "Omdat de pagina URL naam al in gebruik was, is deze gewijzigd naar \"%s\"."
+        },
+        "4c2915288e6804dd4b1adf9819439b19": {
+            "text": "Er is geen volgende pagina die je kunt bewerken."
+        },
+        "e1ccd342c70dde8fd239432c69aa55e0": {
+            "text": "Vorige waarde hersteld"
+        },
+        "f3e0ef028ad1fda84b2b567684c67846": {
+            "text": "Pagina niet gepubliceerd omdat het veld „%s“ verplicht is"
+        },
         "17f8097b4af11ef352554fc7dd416c34": {
             "text": "Template '%s' is niet toegestaan"
+        },
+        "f5fafb7927ee3b6486882051f8f1c9b4": {
+            "text": "Status toegevoegd: %s"
+        },
+        "a8e9b386531e893ec224b5712121f1fe": {
+            "text": "Status verwijderd: %s"
+        },
+        "8add0d1d53fb4f5b1c160acd454e6244": {
+            "text": "Status ‘prullenbak’ verwijderd"
         },
         "c4101b17a6f3bb8ffbe40eb9edef2347": {
             "text": "Deze pagina kan niet verwijderd worden"
@@ -129,49 +315,55 @@
             "text": "Let op! Door het wijzigen van de template zullen de volgende velden verwijderd worden:"
         },
         "729a51874fe901b092899e9e8b31c97a": {
-            "text": "Weet je het zeken?"
+            "text": "Weet je het zeker?"
         },
         "e4c2fcbaac781d00fe1e192a4d94c0e9": {
             "text": "Bevestig dat je bovenstaande begrepen hebt."
         },
-        "6b102e11bd33fb8f4be6a6cecf2c491b": {
-            "text": "Je hebt onvoldoende rechten om de template van deze pagina te wijzigen"
-        },
-        "854de5f33bda667c67117b0aaee5a9cf": {
-            "text": "Deze template is niet toegestaan"
-        },
         "d4ad7f8661990f191def1fb3a6accbd9": {
-            "text": "De template is gewijzig in '%s'"
+            "text": "De template is gewijzigd in '%s'"
         },
-        "ea1a60a080fc428d2c18d9e6d33ded08": {
-            "text": "Waneer je alle huidige en toekomstige kinderen automatisch wilt sorteren op een bepaald veld, kies hieronde het veld en kies eventueel voor 'omgekeerd' om in omgekeerde volgorde te sorteren. Laat het soorteerveld leeg waneer je de pagina's zelf in de juiste volgorde wilt zetten (drag-n-drop)."
+        "0fdd10ee950975e58b122abb2de3a49b": {
+            "text": "Niet gepubliceerd: Niet zichtbaar op de site"
         },
-        "7ba9fe21b073af37b16f989e23112967": {
-            "text": "Onbekende pagina"
+        "cacab211629daeffac10e13574e49d9e": {
+            "text": "Verborgen: Uitgesloten van lijsten en zoekopdrachten"
         },
-        "b8e75fd085c6615286cee6fdc4e880ec": {
-            "text": "De pagina is vergrendeld voor wijzigingen"
+        "ab4b835121255016ef73bea7f4ea45a7": {
+            "text": "Geblokkeerd: Kan niet gewijzigd worden"
         },
-        "386397f000925f7d90c87a913a678eed": {
-            "text": "Je hebt geen rechten om te bewerken"
+        "9d4409be42bd401755ef515b91df93bc": {
+            "text": "(alleen in de standaardtaal)"
         },
-        "36c2b914f293a142343cba0f3157d748": {
-            "text": "Wat ze kunnen doen"
+        "0bcdea7c9e6f5289b7cf4c51e001a8fa": {
+            "text": "Uniek: paginanaam „%s“ moet overal uniek zijn"
         },
-        "567d412904b379e49382b6e3b90881ca": {
-            "text": "Gemaakt door %1$s op %2$s"
+        "7b9bb8a9e6b0d2b64837e652485e11c9": {
+            "text": "Wijzig pagina: %s"
         },
-        "1dec6a532601f755520b9567091e1bf8": {
-            "text": "Laatst gwijzigd door %1$s op %2$s"
+        "90a2c610d9bb43ef59bc60c944c7633f": {
+            "text": "Standaard \"view\"-locatie/actie"
         },
-        "421318b075c43ddcd5426197f778c43c": {
-            "text": "Kan niet gepubliceerd worden totdat de fouten zijn opgelost"
+        "d6b9987fabd38f232ada46d046aa4f88": {
+            "text": "Het standaardtype actie dat wordt gebruikt wanneer je op het tabblad „view“ klikt in de pagina-editor."
         },
-        "fcdd8c7fe4647ee6186ea45dd69d425d": {
-            "text": "Kinderen worden gesorteerd door \"%s\", bepaald door de instelling van de template."
+        "6693f0637fd269d6dc92f48127cd664e": {
+            "text": "Paginametadata inschakelen op het tabblad Instellingen?"
         },
-        "1ad359c38781f8fc924a380559d60c42": {
-            "text": "Aangemaakt door gebruiker"
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Uitgeschakeld"
+        },
+        "9f2834d49c9989d7a09ec8f0923ebaab": {
+            "text": "Alleen-lezen"
+        },
+        "26a09af249233d78f7e42753ba7e199d": {
+            "text": "Bewerken en bekijken"
+        },
+        "ada6df2863cfba5c94a5674acd6f470f": {
+            "text": "Deze instelling geldt alleen voor de superuser."
+        },
+        "b9bd5ea88dc84a279914234f91d9f018": {
+            "text": "Niet-supergebruikers kunnen de metagegevens van pagina's in het beheerdersgedeelte niet bekijken of bewerken."
         },
         "7ddc881b8c4b63699dd8487273384a38": {
             "text": "Kinderen worden gesorteerd door"
@@ -182,20 +374,56 @@
         "20a90cbb1d0984f5ecf4fe0cf01fe47e": {
             "text": "Handmatige drag-n-drop"
         },
+        "591acadb8502cd6db313b718df45a6f4": {
+            "text": "Ingebouwde velden"
+        },
+        "833956a760d996ae61ea8b385e9fb6f0": {
+            "text": "Aangepaste velden"
+        },
+        "d49042595c2674084c92d561b714d522": {
+            "text": "Sorteren in omgekeerde volgorde?"
+        },
+        "25ed18e06e982b711a80310caf119563": {
+            "text": "Paginaweergave"
+        },
+        "43aaebd9ba4408c30e8e5164b4860ae6": {
+            "text": "Paneel"
+        },
+        "c772431f8a16790370305c86f948c6f5": {
+            "text": "Modale pop-up"
+        },
+        "c97f398820bf360b28776372f47a115a": {
+            "text": "Nieuw venster/tabblad"
+        },
+        "7e7b8eaf9921d2a698937d925748e85b": {
+            "text": "Afsluiten + Bekijken"
+        },
+        "ea1056a7e305406e5662eb74ed8eb9f1": {
+            "text": "Verwijderen"
+        },
+        "c28806887f7038aa8c83cef389bfcec6": {
+            "text": "URL"
+        },
+        "a413997b3fa1374648ebd250435071c5": {
+            "text": "Wanneer"
+        },
+        "5ee35a979708ef27ee71dcc13f862da0": {
+            "text": "Taal"
+        },
+        "1443a205d4656be20da9f81a5b7a5da9": {
+            "text": "Huidig"
+        },
+        "2623934b184a9c5b44a0c9992499b5f6": {
+            "text": "Bovenliggende pagina"
+        },
+        "e76ea9d62d4a434a98238f3ec7932075": {
+            "text": "alles"
+        },
         "265dabf958cffe4bf96d445dcddf8678": {
             "text": "%d wijziging"
         },
         "4e5878c0e4b4e901ee96c19e7fd05914": {
             "text": "%d wijzigingen"
-        },
-        "7b9bb8a9e6b0d2b64837e652485e11c9": {
-            "text": "Wijzig pagina: %s"
-        },
-        "30b78fb546fe9686f84a740a5e5524a3": {
-            "text": "Omdat de pagina URL naam al in gebruik was, is deze gewijzigd naar \"%s\"."
-        },
-        "70d9be9b139893aa6c69b5e77e614311": {
-            "text": "Bevestigen"
         }
     }
 }

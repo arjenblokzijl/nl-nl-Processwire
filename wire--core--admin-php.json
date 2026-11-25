@@ -1,0 +1,33 @@
+{
+    "file": "wire/core/admin.php",
+    "textdomain": "wire--core--admin-php",
+    "translations": {
+        "657e7a4fc0a8b4f44a06c216edf02d64": {
+            "text": "Onbekende HTTP-host:"
+        },
+        "b6823820033b6cf18c3aa27d252861e0": {
+            "text": "Pas je instelling $config->httpHosts aan in /site/config.php"
+        },
+        "d959bbe25cc020e2db5276cb42927c7c": {
+            "text": "lees meer"
+        },
+        "3d6623b8d5249788a0d797d4bbc5e5a1": {
+            "text": "Actie vereist"
+        },
+        "cfdf33cbd93768327b807066fb473750": {
+            "text": "Schakel tweefactorauthenticatie in"
+        },
+        "7d1e877f40bcb7e917038fddfbc95043": {
+            "text": "Je hebt de PHP-instelling „max_input_vars“ van %d bereikt — verhoog deze alsjeblieft."
+        },
+        "c0e293a452a1d7be53a199d8b0a387bd": {
+            "text": "DEBUG-MODUS BACKTRACE"
+        },
+        "af1595f0c5186db6cc35577429366e6d": {
+            "text": "Aan deze pagina is geen proces toegewezen."
+        },
+        "905d286d5f512b563448eedeb744206d": {
+            "text": "Het proces heeft geen inhoud opgeleverd."
+        }
+    }
+}

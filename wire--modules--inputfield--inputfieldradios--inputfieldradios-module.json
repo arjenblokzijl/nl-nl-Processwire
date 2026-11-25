@@ -1,0 +1,12 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldRadios/InputfieldRadios.module",
+    "textdomain": "wire--modules--inputfield--inputfieldradios--inputfieldradios-module",
+    "translations": {
+        "7041d69f9024a46791714e59812fa68f": {
+            "text": "Keuzerondjes"
+        },
+        "692fd08ceebbbf5818d492fae7ebe7db": {
+            "text": "Keuzerondjes om één item te selecteren"
+        }
+    }
+}

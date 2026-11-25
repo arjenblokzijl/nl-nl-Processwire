@@ -1,0 +1,36 @@
+{
+    "file": "wire/modules/Session/SessionLoginThrottle/SessionLoginThrottle.module",
+    "textdomain": "wire--modules--session--sessionloginthrottle--sessionloginthrottle-module",
+    "translations": {
+        "1e1e8e326d1d9a6a539b91fbe60a702a": {
+            "text": "Inlogpoging niet uitgevoerd vanwege overflow."
+        },
+        "87f1eff9c1a8afd8f0ecee1583f88ab2": {
+            "text": "Wacht alsjeblieft minstens %d seconden voordat je opnieuw probeert in te loggen."
+        },
+        "2a5391490b60fb767804efa36b94d79c": {
+            "text": "Beperking op basis van IP-adres?"
+        },
+        "8d6451e8c8b2f9d07c6a9701e270025a": {
+            "text": "Standaard wordt de beperking alleen op basis van de gebruikersnaam toegepast. Als je dit vakje aanvinkt, wordt de beperking ook op basis van het IP-adres toegepast. We raden je aan deze optie in te schakelen als je gebruikers niet via een gedeeld IP-adres inloggen."
+        },
+        "55c8511d5d205cbddcbc743e49a39100": {
+            "text": "Aantal seconden dat de gebruiker moet wachten na een mislukte inlogpoging"
+        },
+        "42fc6578b1d8c5ab930e827eb9f10a27": {
+            "text": "Dit getal wordt vermenigvuldigd met het aantal mislukte pogingen, dus elke mislukte poging verlengt de wachttijd lineair. Let er daarom op dat je deze waarde niet te hoog instelt."
+        },
+        "9e72aded18bb6821af87ef367e7e002e": {
+            "text": "Het maximale aantal seconden dat een gebruiker ooit zou moeten wachten voordat hij of zij opnieuw kan inloggen"
+        },
+        "6a2cd9d9b7507e5d972cca6591440828": {
+            "text": "Omdat de wachttijd bij elke poging lineair toeneemt, wordt er een maximum (limiet) aan de wachttijd gesteld. Je kunt dit het beste op een vrij hoog getal laten staan."
+        },
+        "ed6ad8c8924b2e836590cad9cc6c9328": {
+            "text": "60 = 1 minuut, 300 = 5 minuten, 600 = 10 minuten, 3600 = 1 uur, 86400 = 1 dag"
+        },
+        "8d20dfe684273bce0c81cab1de853cc9": {
+            "text": "Opslaan in logbestand wanneer naam/IP wordt geblokkeerd?"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeFieldsetOpen/FieldtypeFieldsetTabOpen.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefieldsetopen--fieldtypefieldsettabopen-module",
+    "translations": {
+        "7d46168ae11400e7b496a22b2bfe6c6f": {
+            "text": "Openen in een modaal venster?"
+        },
+        "fb6e6fc9f3f435218d01763c02dec7c3": {
+            "text": "Vink het vakje aan om dit tabblad in een apart modaal venster te openen. Dit kan de prestaties bij grote formulieren verbeteren."
+        },
+        "e9f1e9337e418af0267d9475c5b46940": {
+            "text": "Om een soortgelijk probleem op te lossen, kun je in plaats daarvan de AJAX-optie overwegen, die je kunt vinden onder: Invoer (tabblad) > Zichtbaarheid > Weergave."
+        }
+    }
+}

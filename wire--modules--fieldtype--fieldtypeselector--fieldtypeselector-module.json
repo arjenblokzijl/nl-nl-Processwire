@@ -1,0 +1,24 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeSelector/FieldtypeSelector.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeselector--fieldtypeselector-module",
+    "translations": {
+        "edcca7404d60fa39e1e56bbb6c85c519": {
+            "text": "Startwaarde van de selector"
+        },
+        "7705e5655113c7b4e5b224010ac7af38": {
+            "text": "Voer een initiële selectiestring in die als verplicht startpunt zal dienen voor alle selecties die vanuit dit veld worden gegenereerd. Alle pagina’s die overeenkomen met de selectie van de gebruiker worden gekoppeld aan de selectie die je hier invoert."
+        },
+        "4795bb99893dc26981eb889746b21499": {
+            "text": "Voorbeeld: template=product"
+        },
+        "8de040fe605622e9683d5c72a79d28b4": {
+            "text": "Voorbeeldkolommen"
+        },
+        "e4dad406b489c052036f2de2bd7dc3a5": {
+            "text": "Voer een CSV-reeks met kolom-/veldnamen in die je wilt weergeven in voorbeelden die op basis van dit veld worden gegenereerd."
+        },
+        "9079d8cb5302982d2d861798bc2a2d38": {
+            "text": "Voorbeeld: naam, template, bovenliggend, id"
+        }
+    }
+}

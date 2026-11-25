@@ -1,0 +1,36 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeFile/FieldtypeFile.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile--fieldtypefile-module",
+    "translations": {
+        "3e560c05ba6d07bcd41ac1053b5b9437": {
+            "text": "Het veld „%s“ is nog niet klaar voor gebruik en moet worden geconfigureerd."
+        },
+        "a8d5114d10f7846bf0263c4e4207137e": {
+            "text": "De instellingen zijn nog niet opgeslagen."
+        },
+        "d950e30995efd1abcc2dc812404f03c5": {
+            "text": "Bekijk de instellingen op deze pagina nog eens en sla ze nogmaals op (ook als je niets verandert) om te bevestigen dat je ze accepteert."
+        },
+        "54bf039e6e56c708e1b84c590ac81ea2": {
+            "text": "Eén bestand"
+        },
+        "e4adda44aef254f7c658a623c973eae2": {
+            "text": "Meerdere bestanden"
+        },
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "bestandsnaam"
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Bestanden"
+        },
+        "2cb39a29b55cb3b4480c782dbe367518": {
+            "text": "Veld waarin één of meer bestanden worden opgeslagen"
+        },
+        "421cbdd7bacaf7fc3eef0cfadb94b8f3": {
+            "text": "Sjabloon voor gekloonde velden - %1$s => %2$s"
+        },
+        "8b844396e686bb466640ca0be39c2739": {
+            "text": "Fout bij het klonen van een template - %1$s => %2$s"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldSelectMultiple/InputfieldSelectMultiple.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselectmultiple--inputfieldselectmultiple-module",
+    "translations": {
+        "019fce53dcc7e7f5a3abea240de44d77": {
+            "text": "Grootte: aantal rijen dat tegelijk zichtbaar is in de select multiple"
+        },
+        "eefa4a712878aa9e7c3a4fdb9ab10adf": {
+            "text": "Meerdere selecteren"
+        },
+        "6faad70d6719b405a08c5121e31e258b": {
+            "text": "Selecteer meerdere items uit een lijst"
+        }
+    }
+}

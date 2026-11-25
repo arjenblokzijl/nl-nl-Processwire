@@ -1,0 +1,18 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeComments/FieldtypeComments.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--fieldtypecomments-module",
+    "translations": {
+        "cf5bd74bd24d341a63cdcf36fba20dbb": {
+            "text": "Je hebt al op deze opmerking gestemd"
+        },
+        "511c09f7e853bcc074d29ba36a8da7f7": {
+            "text": "Fout bij het registreren van een stem"
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Reacties"
+        },
+        "a27c92ebebda4931039636893b5c716d": {
+            "text": "Veld waarin reacties van gebruikers op één bepaalde pagina worden opgeslagen"
+        }
+    }
+}

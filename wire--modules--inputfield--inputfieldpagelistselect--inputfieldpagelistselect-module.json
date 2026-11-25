@@ -1,5 +1,5 @@
 {
-    "file": "wire\/modules\/Inputfield\/InputfieldPageListSelect\/InputfieldPageListSelect.module",
+    "file": "wire/modules/Inputfield/InputfieldPageListSelect/InputfieldPageListSelect.module",
     "textdomain": "wire--modules--inputfield--inputfieldpagelistselect--inputfieldpagelistselect-module",
     "translations": {
         "f4ec5f57bd4d31b803312d873be40da9": {
@@ -14,11 +14,14 @@
         "46b816f573557a53c93ac78bbcfa9493": {
             "text": "Deselecteren"
         },
-        "417c313c31381894998d5fa72eac82c8": {
-            "text": "Niet in staat om dit veld weer te geven als gevolg van ontbrekende bovenliggende pagina in de instellingen van het veld."
-        },
         "d3da97e2d9aee5c8fbe03156ad051c99": {
             "text": "Meer"
+        },
+        "9f3f3426fca77479498742b32c7d5d31": {
+            "text": "Paginalijst selecteren"
+        },
+        "a140a80c76193cb5a6bd75c2f9a13393": {
+            "text": "Selectie van één pagina uit een ProcessWire-paginaboomlijst"
         }
     }
 }

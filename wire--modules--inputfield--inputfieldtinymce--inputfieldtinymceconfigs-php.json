@@ -1,0 +1,561 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldTinyMCE/InputfieldTinyMCEConfigs.php",
+    "textdomain": "wire--modules--inputfield--inputfieldtinymce--inputfieldtinymceconfigs-php",
+    "translations": {
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Voorbeeld:"
+        },
+        "e5f7f63d66023847e693fd34bea09d41": {
+            "text": "Standaard:"
+        },
+        "d5c9769aa46da4eae9db3661e9b8e07e": {
+            "text": "Geef `default` op om de standaardwaarde te gebruiken."
+        },
+        "8b9035807842a4e4dbe009f3f1478127": {
+            "text": "aangepast"
+        },
+        "1cb251ec0d568de6a929b520c4aed8d1": {
+            "text": "tekst"
+        },
+        "8c7dd922ad47494fc02c388e12c00eac": {
+            "text": "bestand"
+        },
+        "324003a4dfcaf85c9e0824eef031764b": {
+            "text": "TinyMCE"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Meer"
+        },
+        "3ec365dd533ddb7ef3d1c111186ce872": {
+            "text": "Details"
+        },
+        "ef05c8098cdb2b34e39c80515fc037bd": {
+            "text": "Werkbalk"
+        },
+        "f694e073eb9e67f37e64b4f92bd462ec": {
+            "text": "Schakelt de werkbalk met pictogrammen in die toegang geven tot de meeste tools voor het bewerken van opmaaktekst."
+        },
+        "50c2e8e0ce3810a576d145650a60bfdc": {
+            "text": "Menubalk"
+        },
+        "6e80e432881c796d50f54a87dd726cfb": {
+            "text": "Schakelt een aparte menubalk in met vervolgkeuzemenu's en tekstlabels, die boven de werkbalk verschijnt."
+        },
+        "e1d8009677f826c92600706adf4315c8": {
+            "text": "Dit kan naar keuze naast of in plaats van de werkbalk worden gebruikt."
+        },
+        "624639e9b35ac69c68613b2dc8685127": {
+            "text": "Statusbalk"
+        },
+        "abe0d9304ce091d84da37d901a0138af": {
+            "text": "De statusbalk verschijnt onderaan de editor en toont het huidige element, aanklikbare bovenliggende elementen en de bediening om de editor te vergroten of te verkleinen."
+        },
+        "3462a6118d45197dc629efde57ec89d4": {
+            "text": "Er wordt ook een woordentelling weergegeven als de wordcount-plugin is ingeschakeld."
+        },
+        "d83ff1fe83b7c45fce50406799a063dc": {
+            "text": "Verplicht voor de gewone editor, optioneel voor de inline-editor."
+        },
+        "ad6292f4a1df9a0929e5c7bd7c9be778": {
+            "text": "Stickybars"
+        },
+        "14af37aa37254a0dcabb802c7be40170": {
+            "text": "Zet de werkbalk en menubalk bovenaan het scherm vast wanneer je scrolt, totdat de editor niet meer zichtbaar is."
+        },
+        "a33b45232be3f1e357d94772a3eaa4f1": {
+            "text": "Spellingscontrole"
+        },
+        "5f59bbdce5eaa63a0d2c0e71e33a7ecb": {
+            "text": "De spellingcontrole van de browser onderstreept (in het rood) verkeerd gespelde of onbekende woorden terwijl je typt."
+        },
+        "bda62012057b9ddaf62c5aeae3a6275a": {
+            "text": "Purifier"
+        },
+        "9e75732767f6994561dbec1d2989952c": {
+            "text": "Zuivert ingevoerde HTML/markup met [htmlpurifier](%s)."
+        },
+        "866f42febaba4acc2a839512df2cf011": {
+            "text": "Dit helpt voorkomen dat potentieel gevaarlijke HTML wordt opgeslagen en voorkomt XSS-aanvallen."
+        },
+        "762356662ec1c462f1fc1ff4f5e7e9fd": {
+            "text": "Dit vergroot wel de kans dat er iets in de weg zit bij bepaalde beoogde opmaak."
+        },
+        "f7a34228a921543d1889dae31a6d1f80": {
+            "text": "Het wordt sterk aangeraden om dit in te schakelen, tenzij alle huidige en toekomstige gebruikers expliciet vertrouwd worden."
+        },
+        "cf6f1b3647a1c6ff036edabab75fa820": {
+            "text": "Schakel dit op eigen risico uit."
+        },
+        "0945359809dad1fbf3dea1c95a0da951": {
+            "text": "Document"
+        },
+        "60e4d5009ff6f1a557dd190cbc61538a": {
+            "text": "Overschrijf de standaard inhoudsstijl van de editor om de inhoudsstijl van het document te gebruiken."
+        },
+        "9ff9a9ddf963999bea4689881a50871a": {
+            "text": "Dit ziet eruit als een vel papier, net zoals het er in een tekstverwerker uit zou kunnen zien."
+        },
+        "bee5b0207812bb9c218a68cc27568b0a": {
+            "text": "ImgUpload"
+        },
+        "88ec884112a58f66c778a7fce270a22a": {
+            "text": "Hiermee kun je afbeeldingen automatisch uploaden door ze naar de editor te slepen en neer te zetten."
+        },
+        "1cae0a5855580eedd8a4d772200601a0": {
+            "text": "Hiervoor is het nodig dat de pagina die je bewerkt een afbeeldingenveld bevat."
+        },
+        "9d723d04c40bfd81835c0766a698cf63": {
+            "text": "Wijzigen"
+        },
+        "c9840f8df0795a01571e8710d9701046": {
+            "text": "Maakt automatisch geoptimaliseerde afbeeldingsbestanden aan wanneer afbeeldingen worden aangepast door aan de aanpassingshandvatten te slepen."
+        },
+        "7850329ddaac44bd91ceb775daa322a9": {
+            "text": "Als deze optie niet is ingeschakeld, kun je de grootte van afbeeldingen nog steeds aanpassen door aan de aanpassingshandvatten te slepen, maar er worden geen nieuwe afbeeldingsbestanden aangemaakt."
+        },
+        "bf3f06eae0ae8d538bbf2c6a6cfc6e7c": {
+            "text": "Je kunt ook het pop-upvenster voor afbeeldingen gebruiken om op beide manieren afbeeldingsformaten en uitsneden te maken."
+        },
+        "4f1ced2092b8f0c040d240eb40279a98": {
+            "text": "Pastefilter"
+        },
+        "9738758347c7e43e1f0c17015eb1527b": {
+            "text": "Zet de meeste geplakte inhoud om naar de basis-HTML om te voorkomen dat er door het plakken rommelige tags en attributen in de editor terechtkomen."
+        },
+        "ffab43041f34145c09f677c53f958962": {
+            "text": "Toegestane elementen en attributen kun je instellen in de instellingen van de InputfieldTinyMCE-module."
+        },
+        "675041c0688049e3611aeb5a830a0749": {
+            "text": "Pastefilter wordt alleen toegepast op inhoud die extern is gekopieerd, van buiten het TinyMCE-veld."
+        },
+        "d5c48f937a78ecb3d8a9ef88e04f0eaf": {
+            "text": "Instellingen van de TinyMCE-editor"
+        },
+        "6e50a47cad93f586976e7433498d8348": {
+            "text": "Veld waarvan de TinyMCE-instellingen moeten worden overgenomen"
+        },
+        "16f547f7396586718c4ccf855bc3784b": {
+            "text": "Als je hier een veld selecteert, gebruiken we de instellingen van het geselecteerde veld in plaats van de instellingen die hier zijn geconfigureerd."
+        },
+        "daeea6fec3b4998f276dfd0423f284fd": {
+            "text": "Nadat je je keuze hebt aangepast, moet je eerst opslaan voordat je verdere wijzigingen aanbrengt, omdat dit invloed heeft op welke velden hieronder worden weergegeven."
+        },
+        "d6717f8e8af4b13dee9fe7e9d8af3079": {
+            "text": "Geen (configureer dit veld hier)"
+        },
+        "dcf7506e0509678fa1ddf71866c8c164": {
+            "text": "Voor dit veld is een bestaand TinyMCE-veld nodig om de instellingen uit te gebruiken, en er zijn momenteel geen andere TinyMCE-velden."
+        },
+        "4c2f9712147b8f95ef0f6a549899582f": {
+            "text": "Maak een ProcessWire-veld van het type „textarea”, kies TinyMCE als inputfield-type en configureer het."
+        },
+        "bb2c9c0028e85b422410bd52618a3ec8": {
+            "text": "Ga daarna terug naar hier om dat veld te selecteren voor de instellingen van dit veld."
+        },
+        "890174328c0bc96cc8ed0cd6016822de": {
+            "text": "Niet beschikbaar"
+        },
+        "5999529acab095d8dc9fa1c358b5b7b5": {
+            "text": "Als er geen keuze wordt gemaakt, worden de standaardinstellingen gebruikt."
+        },
+        "ddfa2d60092cf3c924e8e03b1d2749ad": {
+            "text": "Inline-editor"
+        },
+        "554235d2e24e6887643f1c49c54b5b6d": {
+            "text": "Normale editor"
+        },
+        "419bc6a87d20fed089e1941146458220": {
+            "text": "Bewerkingsmodus"
+        },
+        "ab62958a7864050dd48529e0ac77414e": {
+            "text": "(flexibele hoogte, door de gebruiker aanpasbaar)"
+        },
+        "db14ee6e62f1566d37f19f75a4a34a19": {
+            "text": "(variabele hoogte die zich aanpast aan de inhoud)"
+        },
+        "ff9262141579df9d787973a84f1ca39d": {
+            "text": "(vaste hoogte die gebruikmaakt van de hoogte-instelling)"
+        },
+        "bed749367db56fed396ab1dd2f65df3d": {
+            "text": "Als de inline-editor wordt gebruikt, wordt de editor pas geladen (en is de werkbalk pas zichtbaar) zodra je in de tekst klikt."
+        },
+        "9d2703cba0eaafb89d14b59cc36bac01": {
+            "text": "Als je de normale editor gebruikt, kun je hieronder eventueel een optie voor lazy loading selecteren."
+        },
+        "80a2ee51249ba53e2d890653da6e9e97": {
+            "text": "De normale editor heeft een statusbalk en een handvat om het venster te vergroten of verkleinen, terwijl de inline-editor dat niet heeft."
+        },
+        "9c26c480b685e7c751a5640d394ee760": {
+            "text": "Hoogte van de editor"
+        },
+        "ad6f1afff50a6c3af1744f29ffece370": {
+            "text": "Voer de aanvankelijke hoogte van de editor in pixels in."
+        },
+        "845a6b1ca72e21100718c7ef9402945d": {
+            "text": "Wanneer moet de normale editor worden geladen en geïnitialiseerd?"
+        },
+        "403106ad9c41fc4b528c39f7511a1205": {
+            "text": "Het gebruik van lazy loading kan de prestaties aanzienlijk verbeteren, vooral als er meerdere editors op dezelfde pagina staan."
+        },
+        "4ba794c8b8ab662e51506626cafdc772": {
+            "text": "lazy loading uitgeschakeld"
+        },
+        "e3aa7546e8069428115c0f67c4181512": {
+            "text": "Laad de editor zodra de pagina wordt geladen"
+        },
+        "c191b9a529da2038800a9edc8eec3db2": {
+            "text": "Laad de editor wanneer deze zichtbaar wordt"
+        },
+        "771b26639d188e429d74f6d0aaf4831f": {
+            "text": "Laad de editor als erop wordt geklikt"
+        },
+        "98f770b0af18ca763421bac22b4b6805": {
+            "text": "Functies"
+        },
+        "727fbf96c43ce67d19204f1aea52088c": {
+            "text": "Voer de namen van de tools in die je in de werkbalk wilt gebruiken, elk gescheiden door een spatie."
+        },
+        "48fd51d2d4be9cfcd7ed4eb03b588e50": {
+            "text": "Gebruik als scheidingsteken tussen tools het '|'-teken."
+        },
+        "77bb2cc12fa6815bffc81c73c1c09367": {
+            "text": "vereist de plug-in „%s“"
+        },
+        "b986144e3eb545524992cbdedc4036e3": {
+            "text": "Opties in de werkbalk:"
+        },
+        "6d4e9f06ef68ff507b976faf516f5c97": {
+            "text": "Standaardwerkbalk:"
+        },
+        "91dd313aed212cc085d401f0be1280c7": {
+            "text": "Kies of typ de namen van de tools die je in de werkbalk van de editor wilt gebruiken."
+        },
+        "bb317d81f568f6fcacf58060c2295bf3": {
+            "text": "Let er bij het toevoegen van nieuwe tools op dat je voor sommige tools plug-ins verderop in deze instellingen moet inschakelen."
+        },
+        "d83e13e6168c53db445ff5b4a0794734": {
+            "text": "Beweeg je muis over (of klik op) de gelinkte toolnamen onderaan dit veld voor meer informatie over elke tool, inclusief eventuele benodigde plug-ins."
+        },
+        "fb1e3a1f4f04bfa91a845ed918bacb66": {
+            "text": "Details van de werkbalk:"
+        },
+        "bb38096ab39160dc20d44f3ea6b44507": {
+            "text": "Plug-ins"
+        },
+        "fd6b3b2419adfcbc4d540ea5ec43839c": {
+            "text": "Kies de plug-ins die je wilt inschakelen. Veel plug-ins bieden specifieke tools die je aan je werkbalk hierboven kunt toevoegen."
+        },
+        "409c1892b68cb394799262ac57f6d4f1": {
+            "text": "Plugin"
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Beschrijving"
+        },
+        "8625e1de7be14c39b1d14dc03d822497": {
+            "text": "Hulpmiddelen"
+        },
+        "f23c5f6001b935da226312ad26369232": {
+            "text": "MEER"
+        },
+        "81611afcc41daeec2bfd32acac782252": {
+            "text": "Dit bepaalt de aanvankelijke hoogte van de editor."
+        },
+        "7dd3e2b5cd28a3bbc14668fcc346ccf7": {
+            "text": "Externe plug-ins die je moet inschakelen"
+        },
+        "e89eb3751260ffaa56754d09930568fb": {
+            "text": "Externe plug-ins kun je toevoegen via de instellingen van deze module en vervolgens hier voor dit veld inschakelen."
+        },
+        "91776d10c5debdc34f167525cd49d4da": {
+            "text": "Er zijn momenteel geen externe plug-ins beschikbaar om dit in te schakelen"
+        },
+        "f28634ecbf7fcc9dfd37c17f4a0991f5": {
+            "text": "Waarschuwing: deze instelling wordt overschreven door een JSON-instelling van de module."
+        },
+        "fe46c03ecd18cad6379dfa2c0bed93f5": {
+            "text": "Deze instelling wordt momenteel aangevuld door een JSON-instelling van een module."
+        },
+        "4938a75a37a9ee512d5103bf1e38f411": {
+            "text": "Markup-schakelaars"
+        },
+        "32cc16dc542ee6932e069e95ad6bbaea": {
+            "text": "Regelt de aanpassingen die tijdens de invoerverwerking aan de opmaak worden aangebracht."
+        },
+        "c512ee8dd684ae9dd667495bb0980f97": {
+            "text": "`<div>`-tags omzetten naar `<p>`-tags bij het opslaan?"
+        },
+        "e47eb0774916df1e1666a833fd3dd408": {
+            "text": "Lege `<p>`-tags verwijderen bij het opslaan?"
+        },
+        "fa5e53120347848173834acad24d6700": {
+            "text": "Niet-afbreekbare spaties verwijderen bij het opslaan?"
+        },
+        "88a4a86e13c0cab2f3a1c49d60cf8550": {
+            "text": "Verwijder `style`-attributen uit alle elementen"
+        },
+        "4c4054e6dee9fb06480a824ba5b8d1f5": {
+            "text": "Aangepaste instellingen JSON"
+        },
+        "98d30d5ee02966f55d1378d7cc8544cf": {
+            "text": "JSON-tekst"
+        },
+        "7a2630e3476fa14deec546f6cb6afb2f": {
+            "text": "Voer hier de JSON-code in van eventuele extra aangepaste instellingen die je wilt toevoegen en die niet in de bovenstaande instellingen staan vermeld."
+        },
+        "f7baa074492456ff7e544f2f5e57d4bc": {
+            "text": "Voer het pad in naar een aangepast JSON-instellingenbestand, relatief ten opzichte van de hoofdmap van de ProcessWire-installatie."
+        },
+        "833c16bba39931a6c9533a0f04c41f59": {
+            "text": "Gebruik dit om aangepaste instellingen op te geven die verder gaan dan wat hierboven wordt ondersteund."
+        },
+        "9faa9c6ff7f2e2246b90d81c587dd296": {
+            "text": "Bekijk hier een voorbeeld van een JSON-instellingenbestand: [defaults.json](%s)."
+        },
+        "ece58438a06945588aa745177f15057b": {
+            "text": "De URL moet relatief zijn ten opzichte van de hoofdmap van de ProcessWire-installatie."
+        },
+        "8ee4a159dda38aeaed9db79550ba41a1": {
+            "text": "UI-stijl/skin"
+        },
+        "37912708697e6de284062c710f3c8d3d": {
+            "text": "Kies de stijl die je wilt gebruiken voor de werkbalk, menubalk, statusbalk, enz."
+        },
+        "814d03603746c1272bef4eb9edca9068": {
+            "text": "Niet alle combinaties van gebruikersinterface en inhoudsstijl werken per se goed samen, dus test het even."
+        },
+        "08294acd89b62706142a1b32ff006d2b": {
+            "text": "Voer een URL of pad in naar een map met je aangepaste skin."
+        },
+        "7536edf6387debaf13a451e9a1b67f0a": {
+            "text": "Dit is de map met een `skin.css`-bestand en andere CSS-bestanden."
+        },
+        "ef3d96134230c972b02c17e47386bab1": {
+            "text": "Je kunt de [TinyMCE 5-skin-tool](%s) gebruiken, die ook werkt met TinyMCE 6."
+        },
+        "4ce001f5457c140d0f3576e788f84463": {
+            "text": "Stijl van de inhoud"
+        },
+        "603516585841c9a1c4a29523ebd97186": {
+            "text": "Kies de stijl die je wilt gebruiken voor de tekst/opmaak in de editor die je bewerkt."
+        },
+        "6692e5c04e439358dcae17a5d538f8d5": {
+            "text": "Voer een URL/pad in naar een aangepast CSS-bestand voor de inhoud."
+        },
+        "84c50f0685b8852960c905c787fb9bbd": {
+            "text": "Voorbeelden vind je in %s."
+        },
+        "dc51902a83c02999001bfa29f742dc83": {
+            "text": "Externe plug-inbestanden"
+        },
+        "e00cfc353f54caf41f405272c96577b8": {
+            "text": "Gebruik dit om aangepaste/externe plug-ins beschikbaar te maken voor je TinyMCE-velden."
+        },
+        "3e55e64bae0899b6fc24f061ca6a9eee": {
+            "text": "Voer door regeleinden gescheiden URL's in naar .js-bestanden, relatief ten opzichte van de installatiemap van ProcessWire."
+        },
+        "f65510b3bfc928ea7b78e9a60452798b": {
+            "text": "Zodra de plug-ins hier zijn toegevoegd, moet je ze ook inschakelen voor de velden waar je ze wilt gebruiken."
+        },
+        "bc8ab58bd5bd3b4ca1c467f18bb55c25": {
+            "text": "Een plug-in toevoegen of verwijderen uit de API:"
+        },
+        "7c1b13883e21b27a3e9982bab00f7acc": {
+            "text": "Roep addPlugin() één keer aan bij het installeren en removePlugin() één keer bij het verwijderen."
+        },
+        "679eeb3c83a6b824c286ca2fe94ae314": {
+            "text": "Optionele instellingen die per veld kunnen worden geconfigureerd"
+        },
+        "4baeec3de4ad9f77fc653b33dca4ef7a": {
+            "text": "Selectievakjes voor extra instellingen die je voor *elk afzonderlijk TinyMCE-veld* afzonderlijk wilt kunnen configureren."
+        },
+        "395900dfe509cff583cee6792a59e552": {
+            "text": "Instellingen die NIET zijn aangevinkt, kun je hier (op dit scherm) configureren, en de waarden daarvan gelden voor alle TinyMCE-velden."
+        },
+        "f9ba843c63e3449d2613142a2723913c": {
+            "text": "Nadat je hier je keuzes hebt aangepast, moet je het opslaan, want hierdoor worden extra velden hieronder verborgen of zichtbaar gemaakt."
+        },
+        "0d09b61e85fce5fa7f12769b653a3bee": {
+            "text": "Aangepaste JSON-instellingen"
+        },
+        "95297633d89ae74530071225aadc43c6": {
+            "text": "Hiermee kun je voor elk veld aangepaste instellingen toevoegen via een JSON-bestand of een string."
+        },
+        "c68f14d84cd668b3c2faf336ea93780a": {
+            "text": "Extra CSS-stijlen"
+        },
+        "cd4b018d4326e26cf85657ea7246d88f": {
+            "text": "Voer hier eventuele extra CSS-stijlen in die je in alle editors wilt toepassen."
+        },
+        "cd50f451cf2e2c61661b11ef653c695e": {
+            "text": "Dit voegt gewoon extra CSS toe aan de editor. Het definieert geen selecteerbare stijlen in de werkbalk/menubalk."
+        },
+        "5d6c3ca4e04158624c3a8f1b9003b188": {
+            "text": "Whitelist voor plakfilter"
+        },
+        "d7933954ef4ad07470b66f9c0382e150": {
+            "text": "Door komma's gescheiden reeks regels om een whitelist van tags (en eventueel attributen) te definiëren die behouden moeten blijven tijdens het plakken."
+        },
+        "916dbff7faf436832332bcfc7f72dba3": {
+            "text": "Deze instelling wordt gebruikt wanneer de functie “Pastefilter” is geselecteerd voor een bepaald veld en de gebruiker opgemaakte tekst plakt."
+        },
+        "c18b1909828f7a6f7da401eb60d058f1": {
+            "text": "Voer de tekenreeks `default` in om de standaardconfiguratie van het plakfilter te gebruiken. Voer de tekenreeks `text` in om als platte tekst te plakken."
+        },
+        "805bd42c7566daeb972b0bb87f58f052": {
+            "text": "Of geef meerdere regels op, gescheiden door komma's, zoals hieronder."
+        },
+        "fa520b273b01467697bb1266d9295b3e": {
+            "text": "Geef `tag` op om tags zonder attributen toe te staan, `tag[attribute]` om tags met één attribuut toe te staan, en `tag[attribute1|attribute2|etc]` om tags met meerdere attributen toe te staan."
+        },
+        "429b9d4cad6f0a56d1bfe0da001400b4": {
+            "text": "Geef `tag[attribute=value]` op om tags toe te staan met een attribuut met een specifieke waarde, of `tag[attribute=a|b|c]` om tags toe te staan met een attribuut dat een van meerdere waarden kan hebben."
+        },
+        "2162fd6359bee89941e74bcb16720b49": {
+            "text": "Geef `foo=bar` op om tag `foo` te vervangen door tag `bar`; `b=strong` en `i=em` zijn veelvoorkomende voorbeelden."
+        },
+        "eee218db103007d8634ca32578dcefbf": {
+            "text": "Standaard whitelist voor het plakfilter:"
+        },
+        "a155aae3bff568df077c41236fbc2b37": {
+            "text": "Als je een instelling wilt opleggen die een veldinstelling overschrijft, zet er dan ‘replace_’ voor, bijvoorbeeld `{ \"replace_toolbar\": \"styles bold italic\" }`."
+        },
+        "a41472eb18fca6e146cb246a9be83e1a": {
+            "text": "Als je iets wilt toevoegen aan een bestaande veldinstelling, zet dan ‘add_’ voor de naam van de instelling, bijvoorbeeld `{ \"add_toolbar\": \"undo redo\" }`"
+        },
+        "d7bd6bb99cf37edac9fb5438b1aae797": {
+            "text": "Kijk in de [TinyMCE-documentatie](%s) voor meer informatie over alle instellingen. Houd er rekening mee dat je ook de voorvoegsels “replace_” of “add_” kunt gebruiken."
+        },
+        "fdcf3e4e97fb93482564297a19351a7c": {
+            "text": "Bekijk hier het standaard JSON-bestand: [defaults.json](%s)."
+        },
+        "4786876dd2c2279b89ec4c19d8cd04a9": {
+            "text": "De standaardinstelling heeft voorrang op JSON"
+        },
+        "db5ff1bdcc20bddb51e416af708dc4f5": {
+            "text": "Voer de JSON-code in van de standaardinstellingen die je wilt overschrijven ten opzichte van de standaardinstellingen van de module."
+        },
+        "97e54351cbe4f5410bc8a9cd6f597d72": {
+            "text": "Voer het pad in naar een aangepast JSON-bestand met standaardinstellingen, relatief ten opzichte van de hoofdmap van de ProcessWire-installatie."
+        },
+        "86832d7241a2e254ebf8735dc352a9cb": {
+            "text": "TinyMCE-talen"
+        },
+        "877ce32fb4f6539cc61412d5d330ad7c": {
+            "text": "Kies voor elke taal het vertaalpakket dat je wilt gebruiken."
+        },
+        "68aa813212a96727dbffca2b46d4d633": {
+            "text": "Debugmodus?"
+        },
+        "396efe1d6802c9285b67b343ea8f21f8": {
+            "text": "Als InputfieldTinyMCE.js is ingeschakeld, gebruikt het uitgebreide console.log()-berichten voor debugging of ontwikkeling."
+        },
+        "6870ae548d25a30a2cf3081ce46864c8": {
+            "text": "Aangepaste stijlformaten CSS"
+        },
+        "757236dd33dc836e66aa0bd0f2a8b85c": {
+            "text": "Hiermee kun je extra items als CSS-klassen toevoegen aan het dropdown-menu van de werkbalk ‘Styles’."
+        },
+        "af63d4a2ea431651682475b2ec6fddbd": {
+            "text": "Voeg eventueel `#Headings`, `#Blocks`, `#Inline`, `#Align` of je eigen `#Id` toe als voorvoegsel om aan een submenu van de Styles-dropdown toe te voegen."
+        },
+        "03ca409b57152c928209533c8a6889a3": {
+            "text": "Je kunt een CSS-opmerking gebruiken om het menulabel op te geven, bijvoorbeeld `/\\* Red Text \\*/`."
+        },
+        "37533ad352e22760bfcb3e7b948a7898": {
+            "text": "Je kunt de klasse (en eventueel de stijlen) weglaten als je het element alleen beschikbaar wilt maken in je Styles-dropdown, d.w.z. `ins {}`."
+        },
+        "03a686a25a819b4a21095155a5169466": {
+            "text": "Je kunt stijlen in HOOFDLETTERS opgeven om ze ook als inline-stijlen in de opmaak te laten verschijnen, bijvoorbeeld `span.alert { COLOR: red; }`."
+        },
+        "7be896cea420ed53a067ce3158b6fdaf": {
+            "text": "Om alle items met dezelfde bovenliggende item te verwijderen (zoals alle items in „Align“), voer je `#Align { display:none }` in."
+        },
+        "0b6b54402d8e1b6fea7c2c720859f3e9": {
+            "text": "Of als je bijvoorbeeld alleen ‘Align > Center’ wilt verwijderen, typ dan `#Align (Center) { display:none }` in."
+        },
+        "91dc21e12b539c20d3f45ee703d1e770": {
+            "text": "Gebruik CSS-klassen om aangepaste stijlen te maken die je aan de vervolgkeuzelijst ‘Styles’ kunt toevoegen."
+        },
+        "b3fb5872180828949e9a0895da33be9b": {
+            "text": "Let op: dit geldt alleen voor de editor."
+        },
+        "05140c46e7f91e85fd2b65da37c04357": {
+            "text": "Je zult waarschijnlijk soortgelijke CSS-klassen (zonder de #ID's) willen toevoegen aan het stylesheet van je front-end-site, tenzij je inline-stijlen wilt gebruiken."
+        },
+        "e74e55d9cf66793e0f5384a6fc69af6b": {
+            "text": "Ongeldige stijlen"
+        },
+        "a08a8bd6b50ddbbd38083e8b7e27d60b": {
+            "text": "Door spaties, regeleinden of komma's gescheiden lijst met inline-stijlen die niet mogen worden toegestaan in de stijlattributen van de opmaak."
+        },
+        "3419deb55e1e99da40c72112ac2c7317": {
+            "text": "Elke stijl is uitgeschakeld voor alle elementen."
+        },
+        "6ee573771283310bd80ba372642f8639": {
+            "text": "Om stijlen voor specifieke elementen/tags uit te schakelen, gebruik je de notatie %s of %s."
+        },
+        "49cb3afc67961951bceeea20806376da": {
+            "text": "Geef aan welke inline-stijlen niet in de opmaak mogen voorkomen (bijv. line-height, font-size, enz.)."
+        },
+        "92b7e4f56512a2c11e06c436d1b73419": {
+            "text": "Het gebruik van komma's of regeleinden is optioneel."
+        },
+        "bb4e6e3259950f60940f366145d48925": {
+            "text": "Dropdown-menu's in de menubalk"
+        },
+        "25c3936c0382b51a9b6be8f0937e39fc": {
+            "text": "Geef aan welke tools in de dropdown-menu's van de menubalk moeten verschijnen."
+        },
+        "5f0a0bb8122fc7d6416715d0c272729d": {
+            "text": "De dropdown-items op het hoogste niveau die in de menubalk moeten worden weergegeven."
+        },
+        "1d5b3ae20af924c8b98bec14feddf585": {
+            "text": "Hulpmiddelen die uit de menubalk moeten worden verwijderd"
+        },
+        "19d14dc54ad27e3ae935d568768f6992": {
+            "text": "Geef aan welke tools uit de menubalk moeten worden verwijderd (indien gebruikt)."
+        },
+        "55976f368f2aedb064e23afe0a596f46": {
+            "text": "De menubalk wordt samengesteld op basis van de standaardinstellingen van de module en de geïnstalleerde plug-ins."
+        },
+        "026e84317d978baed6a1b51efd7cfd11": {
+            "text": "Als er tools zijn die je niet in de menubalk wilt zien, vul hun namen dan hier in."
+        },
+        "4a1071b7145a51fc978399f397c5fea9": {
+            "text": "Contextmenu-tools"
+        },
+        "62d69c683a3a6f4253665d93d3cf6f3f": {
+            "text": "Geef aan welke tools in een contextmenu moeten verschijnen als je met de rechtermuisknop op een element klikt."
+        },
+        "e1924e74f4a8e1afb1e993466fad4fff": {
+            "text": "Hulpmiddelen die je wilt weergeven in het contextmenu dat verschijnt als je met de rechtermuisknop op een element klikt."
+        },
+        "17892d841d3e2e983601a24b88f21e8f": {
+            "text": "Alleen de tools die relevant zijn voor het element worden weergegeven als je met de rechtermuisknop klikt."
+        },
+        "1ee7adf80343edf6b4a14542b0195491": {
+            "text": "Opties voor koppen"
+        },
+        "a75b8263ff0af3c105247bb530a2595a": {
+            "text": "Kies welke koppen beschikbaar moeten zijn in de keuzemenu’s ‘blokken’ en/of ‘stijlen’."
+        },
+        "2a5892045fc6e7efb0dd9146545a4c4a": {
+            "text": "Afbeeldingsvelden voor ImgUpload"
+        },
+        "1025eca1f57299c5f86462ab71f9ebb4": {
+            "text": "Kies welke afbeeldingsvelden worden ondersteund (voor uploads) wanneer een afbeelding naar de editor wordt gesleept."
+        },
+        "43fd41c39ed3325cf0eed70bb658e6d9": {
+            "text": "Als er geen velden zijn geselecteerd, wordt tijdens de uitvoering automatisch een beschikbaar afbeeldingenveld gekozen."
+        },
+        "735a7b09d4c797c0801ae198bd08fe6e": {
+            "text": "Als de optie met het label „Geen“ is geselecteerd, wordt de functie uitgeschakeld."
+        },
+        "6cebed5235cc421e425e099a1e8afb2b": {
+            "text": "Als er op een bepaalde pagina meerdere afbeeldingsvelden overeenkomen, geldt de volgorde van de bovenstaande selecties."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Geen"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "file": "wire/core/Tools/FileCompiler.php",
+    "textdomain": "wire--core--tools--filecompiler-php",
+    "translations": {
+        "fedcb63eba822139bb6790c5dc5ca69f": {
+            "text": "Gecompileerd bestand:"
+        }
+    }
+}

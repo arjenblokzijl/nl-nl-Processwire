@@ -1,0 +1,54 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldFile/config.php",
+    "textdomain": "wire--modules--inputfield--inputfieldfile--config-php",
+    "translations": {
+        "7ed67c541834e8611ff12de806594362": {
+            "text": "Toegestane bestandsextensies voor uploads"
+        },
+        "f95a2203d4668a44286d8955c270b809": {
+            "text": "Een of meer bestandsextensies, gescheiden door een spatie."
+        },
+        "6231c154d164f467041abbb0151816dc": {
+            "text": "Maximaal toegestaan aantal bestanden"
+        },
+        "2383ea51d67a0b84eda10737be272a9e": {
+            "text": "0=Geen limiet"
+        },
+        "831c1d34e1624ee969c96e66273a5b8a": {
+            "text": "Bestanden uploaden"
+        },
+        "bed8a5795ff53ecfd7b9dab0face84b6": {
+            "text": "Zipbestanden uitpakken?"
+        },
+        "fab7f7d0de48baa58342b39e975c9aab": {
+            "text": "Indien aangevinkt, zullen zipbestanden worden gedecomprimeerd en alle geldige bestanden toegevoegd als upload (indien ondersteund door de hosting-omgeving). Max files moet op 0 gezet worden om deze functionaliteit te laten werken."
+        },
+        "4839f7d2588943e6763c3c91cbd8d7f2": {
+            "text": "Overschrijf bestaande bestanden?"
+        },
+        "35a96944722fb825db8bf04ab791c209": {
+            "text": "Indien aangevinkt, worden geuploade bestanden met dezelfde naam overschreven (omschrijving en tags blijven intact). Indien niet aangevinkt, worden geuploade bestanden hernoemt naar een unieke naam."
+        },
+        "2713d4f20fb5e7947fb2bb844d57322d": {
+            "text": "Let erop dat wanneer deze optie is aanvinkt, bestanden die geupload zijn via AJAX direct worden opgeslagen."
+        },
+        "43628388b79e6369717cab54df99fc62": {
+            "text": "Bestandsbeschrijvingen"
+        },
+        "91015caeadb6afed86544257b5d796f5": {
+            "text": "Hoeveel regels voor het omschrijvingsveld?"
+        },
+        "27eebd9281cfaa6f4173d02986c9ad71": {
+            "text": "Hoeveel rijen mogen er beschikbaar zijn voor het omschrijvingsveld. Voeg een 0 toe voor geen omschrijving."
+        },
+        "1aac69c83eb57d215a710401956430f1": {
+            "text": "Zet meertalige omschrijvingen uit"
+        },
+        "d2bb3cb572d2e8478e3f5eed6cd914aa": {
+            "text": "Standaard zijn beschrijvingen meertalig als je Language Support hebt geïnstalleerd."
+        },
+        "e1b05eaa8a39a1ff5b825c94b80e77db": {
+            "text": "Als je geen meertalige beschrijvingen voor bestanden nodig hebt, kun je die hier uitschakelen."
+        }
+    }
+}

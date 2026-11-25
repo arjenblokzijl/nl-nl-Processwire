@@ -1,0 +1,9 @@
+{
+    "file": "wire/core/WireCache/WireCache.php",
+    "textdomain": "wire--core--wirecache--wirecache-php",
+    "translations": {
+        "d35d926654fdaeed481722384826e32b": {
+            "text": "Cache opgeslagen "
+        }
+    }
+}

@@ -1,1 +1,165 @@
-{"file":"wire\/modules\/Process\/ProcessLogin\/ProcessLogin.module","textdomain":"wire--modules--process--processlogin--processlogin-module","translations":{"5048eab3b6b17142d965cf9d43f6e460":{"text":"Je bent ingelogd."},"a0bfb8e59e6c13fc8d990781f77694fe":{"text":"Doorgaan"},"847549ae30061a6767a4b17c6fb4f53c":{"text":"Succesvol ingelogd"},"48649d8c2d04aa439d10bc45eaba8f75":{"text":"Inloggen mislukt"},"646d9e77201093e05380ead006df9975":{"text":"Beveiligingswaarschuwing: %s bestaat en moet zo snel mogelijk verwijderd worden."},"f6039d44b29456b20f8f373155ae4973":{"text":"Gebruikersnaam"},"dc647eb65e6711e155375218212b3964":{"text":"Wachtwoord"},"99dea78007133396a7b8ed70578ac6ae":{"text":"Inloggen"},"01a569ddc6cf67ddec2a683f0a5f5956":{"text":"Wachtwoord vergeten?"},"0d5dfb1efbd4144f5e7c8d80df1d09f1":{"text":"Je bent uitgelogd"},"d837cc5a72556c5e2abf4b9fe10ddef8":{"text":"Inloggen"}}}
+{
+    "file": "wire/modules/Process/ProcessLogin/ProcessLogin.module",
+    "textdomain": "wire--modules--process--processlogin--processlogin-module",
+    "translations": {
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Doorgaan"
+        },
+        "1860fb17b107cbb39cf6bbfa61130803": {
+            "text": "Profiel bewerken"
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "E-mail"
+        },
+        "7b27f5e583e36dc50e5648f38c65ac55": {
+            "text": "Inloggen wordt niet ondersteund voor dat e-mailadres."
+        },
+        "355f835c4f5fd628f83983152533363c": {
+            "text": "Cookiecontrole mislukt: schakel cookies in om in te loggen."
+        },
+        "d03d931ed70198dc13af35410030754c": {
+            "text": "Javascript-controle mislukt: schakel Javascript in om in te loggen."
+        },
+        "01a569ddc6cf67ddec2a683f0a5f5956": {
+            "text": "Wachtwoord vergeten?"
+        },
+        "fbda2a5cde5a86fc243eb050230f25a6": {
+            "text": "Ongeldige gebruikersnaam"
+        },
+        "99dea78007133396a7b8ed70578ac6ae": {
+            "text": "Inloggen"
+        },
+        "48649d8c2d04aa439d10bc45eaba8f75": {
+            "text": "Inloggen mislukt"
+        },
+        "5048eab3b6b17142d965cf9d43f6e460": {
+            "text": "Je bent ingelogd."
+        },
+        "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
+            "text": "Je bent uitgelogd"
+        },
+        "dc647eb65e6711e155375218212b3964": {
+            "text": "Wachtwoord"
+        },
+        "f6039d44b29456b20f8f373155ae4973": {
+            "text": "Gebruikersnaam"
+        },
+        "1c315fe64c02f0dc4a605373f68d911b": {
+            "text": "Gebruikersnaam of e-mailadres"
+        },
+        "9b74fc37d2e8f56c60b51adb9cfc4b4b": {
+            "text": "Systeemcontroles na het inloggen overslaan omdat er updates zijn doorgevoerd (%s)"
+        },
+        "b357b524e740bc85b9790a0712d84a30": {
+            "text": "E-mailadres"
+        },
+        "5682f33e4050198546baa582422d61aa": {
+            "text": "Je moet [de instelling ‘uniek’ inschakelen](%s) voor je e-mailveld"
+        },
+        "59a4a5414d86131a42c9e2715b82bb21": {
+            "text": "Alle supergebruikers moeten een e-mailadres hebben opgegeven"
+        },
+        "190c0e4ccd74444bc05cda57fa0465fe": {
+            "text": "Zie de opmerkingen hieronder om dit in te schakelen"
+        },
+        "a1413ed049a4bed0e649c409b4462b49": {
+            "text": "Inlogtype"
+        },
+        "987dce661afca3372aa3e05702fb1d06": {
+            "text": "Gebruikersnaam"
+        },
+        "9e70a5d3dab1960c04b55a29f310331e": {
+            "text": "Een van beide"
+        },
+        "0300fd7b40fcdc00704dac9cff1a831f": {
+            "text": "Om in te loggen via e-mail: "
+        },
+        "8b10281154afa6312e3e8448c14f7134": {
+            "text": "Tweefactorauthenticatie"
+        },
+        "aef111cc10b28b4cf297865dbc1253bb": {
+            "text": "Tfa-modules in de map met ProcessWire-modules"
+        },
+        "ab77fff843383131e8f774ba78654a91": {
+            "text": "Om dit in te stellen, moet je eerst een of meer Tfa-modules installeren en daarna hier terugkomen."
+        },
+        "c32dc189adbf7de6a1277780634d1a75": {
+            "text": "Ik heb de volgende Tfa-modules gevonden:"
+        },
+        "ef8f23f26034e25bcf827a963aa8c8b7": {
+            "text": "(klik om te configureren)"
+        },
+        "cd718f93e76d48331ff1f6c8a86226a2": {
+            "text": "Dwing tweefactorauthenticatie af"
+        },
+        "23baebcb2653b738b5e1eb8a93e3ee28": {
+            "text": "Als hier een Tfa-module wordt geselecteerd, wordt deze automatisch (bij het inloggen) ingeschakeld voor gebruikers die geen tweefactorauthenticatie gebruiken."
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Uitgeschakeld"
+        },
+        "2af7712565017bd05b828e1a625c7375": {
+            "text": "Vink de rollen aan waarvoor je tweefactorauthenticatie wilt afdwingen, of laat alles uitgevinkt om het voor ALLE rollen af te dwingen (indien mogelijk)."
+        },
+        "f00ee62461e9cc7a824e71feff114251": {
+            "text": "Raad deze rollen ten zeerste aan om tweefactorauthenticatie te gebruiken"
+        },
+        "ab848ea82288648eb2aabe4e9e2f4dc6": {
+            "text": "Nadat je bent ingelogd in het beheerdersgedeelte, vraagt ProcessWire gebruikers met de rollen die je hier selecteert om tweefactorauthenticatie te gebruiken voor hun accounts."
+        },
+        "b88a66937b3f8fa44719aa2d7b5ea94d": {
+            "text": "Geef gebruikers de mogelijkheid om het invoeren van de code over te slaan als hun browser/locatie is opgeslagen?"
+        },
+        "d6340b7e300601dbe176deca28d5e216": {
+            "text": "Hiermee krijgen gebruikers bij het inloggen de optie „Deze computer onthouden?“ te zien op het scherm waar ze de code moeten invoeren."
+        },
+        "275269a543b575d0897e5a56d291cbf1": {
+            "text": "Voer het aantal dagen in dat de browser/locatie van een gebruiker onthouden mag worden, of 0 om deze functie uit te schakelen."
+        },
+        "37eb4d02a9ee33ced10a5ad495bc7ad8": {
+            "text": "Gebruikersagent (browser, platform en de versies daarvan)"
+        },
+        "6b7e493b999bf8d0c92bdc3b29024968": {
+            "text": "Gebruikersagent zonder versienummer (browser en platform, maar geen versies – verandert waarschijnlijk niet vaak)"
+        },
+        "cff941a9aa13dfcab50294eeaa022925": {
+            "text": "Accept-header (inhoudstypen die de browser van de gebruiker accepteert)"
+        },
+        "c672dab899263b4175d85bfc8cb7e101": {
+            "text": "Huidig verzoekschema: HTTP of HTTPS"
+        },
+        "00a49b9092610102db06e4608e243215": {
+            "text": "Hostnaam van de server (waarde van $config->httpHost)"
+        },
+        "06ed01dbecaff9408ecd32c52b79017a": {
+            "text": "IP-adres van de gebruiker (REMOTE_ADDR)"
+        },
+        "3add8b73a114f103016f69709c744c6b": {
+            "text": "Het doorgestuurde IP-adres van de gebruiker of het IP-adres van de client (HTTP_X_FORWARDED_FOR of HTTP_CLIENT_IP)"
+        },
+        "4b5d3e81071a18d907f2cb045c473d68": {
+            "text": "Laat de gebruiker de code-invoer niet overslaan als een van deze eigenschappen verandert"
+        },
+        "ef162e74cf4f410e781d7527ff762b2d": {
+            "text": "Als je het wachtwoord, de naam, het e-mailadres of een willekeurige cookie in de browser van de gebruiker wijzigt, moet je bij het inloggen altijd de code invoeren."
+        },
+        "93e378bb66b2ea325b7f8af83f060341": {
+            "text": "Bovendien moet je bij het inloggen ook de code invoeren als je een van de onderstaande items hebt aangevinkt."
+        },
+        "5b83708cddebc0c2b79a0aa6a9fe3b41": {
+            "text": "Deze eigenschappen vormen een ‘vingerafdruk’ van de browser van de gebruiker, naast de willekeurige cookie die we plaatsen."
+        },
+        "f4ccf290dcc14df62d1579062d98f413": {
+            "text": "Deze instelling geldt alleen als de optie om de browser/locatie te onthouden is ingeschakeld."
+        },
+        "987180bcb4c386f67e0922affbf79d0b": {
+            "text": "Inloggen"
+        },
+        "2eeb1b1520e3542ede796b6245e1695a": {
+            "text": "Type"
+        },
+        "eb85010d3dccc246aa17a0a4671be4a4": {
+            "text": "Rollen"
+        }
+    }
+}

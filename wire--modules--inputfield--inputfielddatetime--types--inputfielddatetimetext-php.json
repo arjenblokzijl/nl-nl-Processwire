@@ -1,0 +1,153 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldDatetime/types/InputfieldDatetimeText.php",
+    "textdomain": "wire--modules--inputfield--inputfielddatetime--types--inputfielddatetimetext-php",
+    "translations": {
+        "ce7581417b903cd7bb99be8785822ce8": {
+            "text": "Tekstinvoer met jQuery UI-datumkiezer"
+        },
+        "b69f42ea4444ae5aa888b53cf6045710": {
+            "text": "/wire/modules/Jquery/JqueryUI/i18n/jquery.ui.datepicker-nl.js"
+        },
+        "7db50c3ca59f3f55260013a5e3481f47": {
+            "text": "timepicker/i18n/jquery-ui-timepicker-nl.js"
+        },
+        "566235c7913fdded5a84d4578758515f": {
+            "text": "Datumkiezer"
+        },
+        "7962180f3333f0ccaa9e208cccaac049": {
+            "text": "Geen datum-/tijdkiezer"
+        },
+        "aa547f01eea89a5b845b6db3870ba757": {
+            "text": "Datum-/tijdkiezer wanneer het veld is geselecteerd"
+        },
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(aanbevolen)"
+        },
+        "edcc19a354ad1b61e258b993a1ff09c4": {
+            "text": "Datum-/tijdkiezer bij het klikken op de knop"
+        },
+        "c3119c40400e0c55178bba8a9b8e36d8": {
+            "text": "De inline datumkiezer is altijd zichtbaar (geen tijdkiezer)"
+        },
+        "53e628836cd60f6dbb5fe56320f776ef": {
+            "text": "Invoerformaten voor datum en tijd"
+        },
+        "38322714c2bfe9eba81ea980714fd0a6": {
+            "text": "Invoerformaat voor datum"
+        },
+        "7656e28d6e435ffecc453794149e6a0d": {
+            "text": "Kies het formaat dat je wilt gebruiken voor wat de gebruiker in dit veld invoert. Je keuze vult het veld eronder automatisch in, dat je indien nodig nog verder kunt aanpassen."
+        },
+        "b4857dd659bf6e86731ccda0a3b581fb": {
+            "text": "(Unix-tijdstempel)"
+        },
+        "91c0a51785efc109b0fdb5d710a2656e": {
+            "text": "Invoerformaat voor tijd"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Geen"
+        },
+        "44d9d932f51a771c8c76c2dc6ff57e1f": {
+            "text": "Kies een optioneel tijdformaat dat je wilt gebruiken voor invoer. Als je dit gebruikt, bevat de kalenderoptie een tijdkiezer."
+        },
+        "91c4223a8591eed0ecab28c3a1a880b2": {
+            "text": "Type tijdsinvoer"
+        },
+        "08d3eb379def33331427b243c363eef5": {
+            "text": "Met schuifregelaars (standaard) kan de gebruiker de tijd instellen door de schuifregelaar te verplaatsen, terwijl de gebruiker met ‘Selecteren’ de tijd kan kiezen uit een vervolgkeuzelijst."
+        },
+        "9ad46d2d4f10955abfc9ca97565bba87": {
+            "text": "Schuifregelaars"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Selecteren"
+        },
+        "4dc865ad9218b271e212f2656a4415e4": {
+            "text": "Code voor datum-invoerformaat"
+        },
+        "20f706119fa58d0787ea397d413bf1e0": {
+            "text": "Dit wordt automatisch gegenereerd op basis van de hierboven geselecteerde datum, tenzij je het aanpast."
+        },
+        "e87ce06927649f8cdfff9e27c4ac8e3d": {
+            "text": "Zie de functiereferentie voor [PHP date](http://www.php.net/manual/en/function.date.php) voor meer informatie over hoe je deze formaten kunt aanpassen."
+        },
+        "3668c3ec43f4b401c6de009e3abb73f9": {
+            "text": "Je kunt hier eventueel ook formaten voor andere talen opgeven. Talen die je leeg laat, krijgen de standaardinstelling."
+        },
+        "b3641a0b694cd7a82856611ce58d4979": {
+            "text": "Code voor tijdnotatie"
+        },
+        "3dd984b18a5880f9279e17ff2e53a5de": {
+            "text": "Dit wordt automatisch samengesteld op basis van de hierboven geselecteerde tijd, tenzij je het aanpast."
+        },
+        "6485c7641245873388f0170f472183c6": {
+            "text": "Plaatshoudertekst"
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Optionele plaatshoudertekst die in het veld verschijnt als het leeg is."
+        },
+        "6f6cb72d544962fa333e2e34ce64f719": {
+            "text": "Grootte"
+        },
+        "49e0e66405106d4f9cf741207255476f": {
+            "text": "De weergegeven breedte van dit veld (in tekens)."
+        },
+        "884a430685af8d28b4ad83b6d266caeb": {
+            "text": "Instellingen voor de datumkiezer"
+        },
+        "0825dd56fbac59b910dff90abf30024d": {
+            "text": "Jaarbereik"
+        },
+        "105145f02985f6f81d519b78eaca6dfb": {
+            "text": "Als er een vooraf gedefinieerde jaarselectie mogelijk is, is er een bereik van plus of min 10 jaar ten opzichte van het huidige jaar."
+        },
+        "57bed892b74c37659d8705088727032e": {
+            "text": "Om dit bereik aan te passen, geef je het aantal jaren vóór en na het huidige jaar op in deze indeling: `-30:+20`. Dit toont dan 30 jaar vóór nu en 20 jaar na nu."
+        },
+        "ef538874da76f56a05956925c0a162bb": {
+            "text": "De standaardinstelling is `-10:+10`, wat een jaarbereik van 10 jaar voor en na het huidige moment weergeeft."
+        },
+        "15fb13b130859de11b6d01f6d1989ba3": {
+            "text": "Type animatie"
+        },
+        "04e0385c10aefee8e4681617d2f3ef40": {
+            "text": "Vervagen"
+        },
+        "498f79c4c5bbde77f1bceb6c86fd0f6d": {
+            "text": "Weergeven"
+        },
+        "6adac929b615be2e0d213eb9d1ad15ba": {
+            "text": "Clip"
+        },
+        "3e679cff5b3a6f6f8f32aead541a0a12": {
+            "text": "Drop"
+        },
+        "79083698467c2e5753058afc20884569": {
+            "text": "Puff"
+        },
+        "85a7cd587d6142dbfc1a4de05af7b75d": {
+            "text": "Schaal"
+        },
+        "6160a53ece50ce6d4f5ef4452549835e": {
+            "text": "Schuiven"
+        },
+        "ac17688e4a0919b9c1930f010d80633a": {
+            "text": "Aantal maanden dat naast elkaar moet worden weergegeven in de datumkiezer"
+        },
+        "1c9b99a0d4eb0cab8ac8bdf6033c6c1d": {
+            "text": "De maand weergeven als keuzelijst in plaats van als tekst?"
+        },
+        "71e339f2d1a245a8449a2997d07e898a": {
+            "text": "Moet het jaartal als keuzelijst worden weergegeven in plaats van als tekst?"
+        },
+        "a98b55b7bbee51487c8abfb97827de3f": {
+            "text": "Moeten de knoppen ‘Vandaag’ en ‘Klaar’ onder de kalender worden weergegeven?"
+        },
+        "8fc5108cd2206e6d978b39620c286bc1": {
+            "text": "De maand na het jaar weergeven?"
+        },
+        "73940ede830a37f43f448009d49b8c3f": {
+            "text": "Moeten dagen in andere maanden aan het begin/einde van de maand worden weergegeven?"
+        }
+    }
+}

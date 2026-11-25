@@ -1,0 +1,42 @@
+{
+    "file": "wire/core/Admin/AdminThemeFramework.php",
+    "textdomain": "wire--core--admin--adminthemeframework-php",
+    "translations": {
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Nieuwe pagina toevoegen"
+        },
+        "90dd5a9776ef2638eebdd94ae76a1902": {
+            "text": "Bekijk de site"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profiel"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Uitloggen"
+        },
+        "9d228734f81e102a94540a1508e69d1d": {
+            "text": "+{n-1}"
+        },
+        "fbbbb283efc814825613301c22951ba7": {
+            "text": "Alles sluiten"
+        },
+        "878620e7a3c84a803c9a70bfe346be57": {
+            "text": "Wil je dit beheerthema gebruiken voor het inlogscherm?"
+        },
+        "ffd8fa387acec9945788ad7c39400b1b": {
+            "text": "Als dit aangevinkt is, wordt dit beheerthema gebruikt op het inlogscherm voor gebruikers."
+        },
+        "5d245d16dae6579f37c78f49f078b36a": {
+            "text": "Schakel gebruikers over naar dit beheerthema"
+        },
+        "5b5cb08a3f289568f6d628e8f4858906": {
+            "text": "Kies een rol voor gebruikers om de bijbehorende gebruikers aan te passen aan dit beheerthema."
+        },
+        "bb387a29dee8d495ac6a7870d5e10442": {
+            "text": "Rol: %s"
+        },
+        "f590c9f5400a3be977d2027832a99e02": {
+            "text": "Stel in dat %d gebruiker(s) dit beheerthema krijgen"
+        }
+    }
+}

@@ -1,0 +1,231 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeComments/config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--config-php",
+    "translations": {
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Uitgeschakeld"
+        },
+        "b39a035a995fc6597c8eb942210d1527": {
+            "text": "Gedrag"
+        },
+        "0c6e8a761530efc7ecfe773a5b5a6f7e": {
+            "text": "Geen - Reacties worden direct geplaatst"
+        },
+        "4f214f3246f03a94773427de4f2e7699": {
+            "text": "Alle - Alle reacties moeten worden goedgekeurd door een gebruiker met bewerkingsrechten voor de pagina's"
+        },
+        "d3a76eec189143c6945282d37bd81bb5": {
+            "text": "Alleen nieuw – Alleen reacties van gebruikers die nog geen goedgekeurde reacties hebben, moeten worden goedgekeurd"
+        },
+        "c98106d2a3b2a0a14016f73894f59d10": {
+            "text": "Moderatie van reacties"
+        },
+        "18800239150e923984ade45f5e961fbd": {
+            "text": "Dit bepaalt wanneer een nieuw geplaatste reactie op je site verschijnt."
+        },
+        "b7f00c1afdf69f32c12c300c02ac1da7": {
+            "text": "Doorverwijzen na het plaatsen van een reactie?"
+        },
+        "cea2870f162b18b9ab95c8c84da6d05a": {
+            "text": "Als dit aangevinkt is, zorgt ProcessWire ervoor dat je na het plaatsen van de reactie wordt doorgestuurd om dubbele inzendingen te voorkomen. Aanbevolen."
+        },
+        "e90234905413e689d67361b8f618b63f": {
+            "text": "Stil opslaan?"
+        },
+        "d2c1e7bd67d4253ff76376ed718cf94f": {
+            "text": "Als dit aangevinkt is, worden de wijzigingstijd van de pagina en de gebruiker niet bijgewerkt wanneer er een opmerking wordt toegevoegd."
+        },
+        "152cae5f743b4ea655ef70fab6684593": {
+            "text": "Type melding"
+        },
+        "1df95d9b624496ecb2f4158676c98825": {
+            "text": "Stuur geen meldingen"
+        },
+        "eac16a1e6e640d0fd649262cc154287d": {
+            "text": "Stuur meldingen naar een specifiek e-mailadres"
+        },
+        "56c6193a67167dcdd8befdc1cf3f7958": {
+            "text": "Stuur meldingen naar de gebruiker die de pagina heeft aangemaakt"
+        },
+        "176686fd5ea38cce85007c58bc91861a": {
+            "text": "Stuur meldingen naar een specifieke gebruiker"
+        },
+        "a274f4d4670213a9045ce258c6c56b80": {
+            "text": "Meldingen"
+        },
+        "e3b1a956fff16a2f9b781479bcbea925": {
+            "text": "E-mailmelding voor beheerders"
+        },
+        "f895a3cb718c7d7cacdf08e19c72a19b": {
+            "text": "E-mailadres waarop je een melding wilt ontvangen als er een nieuwe reactie wordt geplaatst. Scheid meerdere e-mailadressen met komma’s of spaties."
+        },
+        "e793b132f67e3437dae254ad00e2cc48": {
+            "text": "Gebruikers die deze e-mail ontvangen, kunnen berichten direct via de links in de e-mail goedkeuren of afwijzen."
+        },
+        "abf48974ca61ec74f073f2359c29da03": {
+            "text": "Naast (of in plaats van) e-mailadressen kun je ook een of meer van de volgende opties gebruiken:"
+        },
+        "d0ffa91c19a6c97eac905834065a48a4": {
+            "text": "1. Voer **user:karen** in om een e-mail te sturen naar een specifieke gebruiker, waarbij je \"karen\" vervangt door de naam van de betreffende gebruiker."
+        },
+        "e703c4cbaf0b1030f389f7a3f4c91f34": {
+            "text": "2. Voer **field:email** in om het e-mailadres uit een veld op de pagina op te halen, waarbij je \"email\" vervangt door de naam van het veld dat het e-mailadres bevat."
+        },
+        "0cf8830f9d1aaf42ad9e178f9af4f3d0": {
+            "text": "3. Voer **123:email** in om het e-mailadres op te halen op basis van een opgegeven pagina-ID en veldnaam, waarbij je \"123\" vervangt door de pagina-ID en \"email\" door de naam van het veld dat het e-mailadres bevat."
+        },
+        "be4676f05d7147b99e5addd2b27b6889": {
+            "text": "4. Voer **/pad/naar/pagina:e-mail** in om het e-mailadres op te halen uit een bepaald paginapad en veldnaam, waarbij je \"/pad/naar/pagina\" vervangt door het paginapad en \"e-mail\" door de naam van het veld dat het e-mailadres bevat."
+        },
+        "f6fdd0b4b152fc4fb6fa144eb7718873": {
+            "text": "Meldingen via e-mail"
+        },
+        "a5356041796dfb51e1131f9557cf7225": {
+            "text": "Optioneel e-mailadres waarvan de meldingen afkomstig lijken te zijn. Laat dit veld leeg om het standaard e-mailadres van de server te gebruiken."
+        },
+        "0ad4c8b2b43eb0c8cfa21dd7571401b5": {
+            "text": "Een e-mailmelding sturen bij spam?"
+        },
+        "ec8fbd0794fa6fafb9061431f9bffa03": {
+            "text": "Als dit aangevinkt is, stuurt ProcessWire je nog steeds een e-mailmelding, zelfs als het bericht als spam wordt aangemerkt."
+        },
+        "031de71d8bede5de985c354bbd23cdc6": {
+            "text": "E-mailmeldingen voor reageerders toestaan?"
+        },
+        "dc8c7869896eed885ca7b7cc73de8e0a": {
+            "text": "Met deze optie kan iedereen die een reactie plaatst e-mailmeldingen ontvangen over nieuwe reacties."
+        },
+        "0ad051f48ed2ca988a4b60689eb13ad5": {
+            "text": "Gebruikers kunnen alleen e-mailmeldingen ontvangen over reacties op hun opmerking"
+        },
+        "4795eaf7300ae848d67ca8c64cfa357f": {
+            "text": "Gebruikers kunnen e-mailmeldingen ontvangen voor alle nieuwe reacties op de pagina"
+        },
+        "13bf9d7a10643fcd246e4c242499f945": {
+            "text": "Reactietekst toestaan in meldingen?"
+        },
+        "898ded7b2375a02a2642e39971e59cd3": {
+            "text": "Als dit aangevinkt is, verschijnt de volledige tekst van het commentaar ook in de meldingsmails, in plaats van alleen een link ernaar."
+        },
+        "e9dfd31cc505d51fc26975250750deab": {
+            "text": "Spam"
+        },
+        "694c233e3c1cf5b97224bd5fcbebb340": {
+            "text": "Gebruik je de Akismet-spamfilterservice?"
+        },
+        "13df57b389c6175fd742098a67385895": {
+            "text": "Deze dienst herkent automatisch de meeste spam. Zorg ervoor dat je, voordat je deze dienst gebruikt, een Akismet API-sleutel hebt ingevoerd onder Modules > Comment Filter: Akismet."
+        },
+        "bf31492fe5d4821b483bc7cb8cfe07a3": {
+            "text": "Aantal dagen waarna spam wordt verwijderd"
+        },
+        "72fe450a750c9f11bf0531e5395e6e75": {
+            "text": "Na het aangegeven aantal dagen wordt spam automatisch verwijderd."
+        },
+        "29c2c02a361c9d7028472e5d92cd4a54": {
+            "text": "Uitvoer"
+        },
+        "9e6530a34353d7610fd5455767b28df4": {
+            "text": "Diepte van reacties"
+        },
+        "1f33bbe656fa140ce52347fb0af13a18": {
+            "text": "Geef 0 op voor traditionele, chronologische reacties. Voor reacties in een thread (waarbij reacties bij de reactie waarop ze reageren worden weergegeven) geef je de maximaal toegestane diepte voor reacties op (aanbevolen: 0 tot 4)."
+        },
+        "9bf3d3d959883d38b84f1990340bff84": {
+            "text": "Sorteren van nieuw naar oud?"
+        },
+        "0c9743be855a9e62ab36d4d4eb321932": {
+            "text": "Standaard worden reacties chronologisch gesorteerd (van oud naar nieuw). Vink dit vakje aan om die volgorde om te draaien."
+        },
+        "cba07fe99979c9f01d9c61a39aae3045": {
+            "text": "Websiteveld gebruiken in het reactieformulier?"
+        },
+        "bb28b3686215b773129c8259cf0e6525": {
+            "text": "Als dit aangevinkt is, bevat het formulier voor het indienen van reacties ook een veld voor een website."
+        },
+        "b3dc4b8696a26f0852afc3df1785ce24": {
+            "text": "Datum-/tijdnotatie (voor de lijst met reacties)"
+        },
+        "d8b14b9294abd99cef7ccd468f92282e": {
+            "text": "Voer de datum-/tijdnotatie in die je wilt gebruiken voor de standaardweergave van de reactielijst."
+        },
+        "033acb4cf2bad26f8dc0a9263c3bbe40": {
+            "text": "Kan een PHP [date](%s) of [strftime](%s) formaat zijn."
+        },
+        "9b627919cf0a2a80c2feaa17bac8f299": {
+            "text": "Kan ook „relatief“ zijn voor een relatieve datumnotatie."
+        },
+        "9fbc91b8ace5ac4afdc754d6d81d1f28": {
+            "text": "Stemmen op reacties toestaan?"
+        },
+        "3ffa920a9c00477904f187e62f9d8582": {
+            "text": "Met het stemmen op reacties kunnen bezoekers reacties een positieve of negatieve beoordeling geven. Het aantal stemmen wordt naast elke reactie weergegeven. Per reactie, per IP-adres en per uur is slechts één positieve of negatieve beoordeling toegestaan."
+        },
+        "2d020e5cbf014a734c83323e430afce0": {
+            "text": "Stemmen uit"
+        },
+        "e344d6ca196c888a521047effab607b3": {
+            "text": "Positieve stemmen toestaan"
+        },
+        "3404fab8f99ccde53b123699711e6b6c": {
+            "text": "Maak het mogelijk om te upvoten en downvoten"
+        },
+        "40e8db84e220fe9c816eb334d1b42a70": {
+            "text": "Gebruik je een sterrenbeoordeling?"
+        },
+        "00837cdf48d92331ec9c355847ed9ef5": {
+            "text": "Met sterbeoordelingen kan de commentator het onderwerp waarop hij of zij reageert beoordelen op een schaal van 1 tot 5 sterren."
+        },
+        "924daa0b046449bd4fb99af3c97b5f2b": {
+            "text": "Om het standaard sterretje voor de weergave te wijzigen (HTML mag ook):"
+        },
+        "359310b90581d6b9baa3cdccc10607b2": {
+            "text": "Ja (sterrenbeoordeling optioneel)"
+        },
+        "806e88271605e15a20e9d6d47673f42e": {
+            "text": "Ja (sterrenbeoordeling vereist)"
+        },
+        "b70aad8c6cb77fde247be00630d7f5ef": {
+            "text": "G: Geschikt voor weergave op alle websites, ongeacht het type publiek."
+        },
+        "8e25a98f71c3244890fa8ecf2230fe18": {
+            "text": "PG: Kan grove gebaren, provocerend geklede personen, lichte scheldwoorden of licht geweld bevatten."
+        },
+        "2900074213d129e33d5d4b6e74076f29": {
+            "text": "R: Kan zaken bevatten als grof taalgebruik, extreem geweld, naaktheid of het gebruik van zware drugs."
+        },
+        "043cab853d189bb505d101c3c7ab3176": {
+            "text": "X: Kan expliciete seksuele beelden of extreem schokkend geweld bevatten."
+        },
+        "a4949d12f429ca4af2feb4e30c1e84e4": {
+            "text": "Gravatar gebruiken?"
+        },
+        "c5fce56aee82d2bc007cbf213998945b": {
+            "text": "Deze dienst voegt bij elke reactie een avatarafbeelding toe (uniek voor het e-mailadres). Om dit in te schakelen, kies je de hoogste Gravatar-beoordeling. Deze zijn hetzelfde als filmbeoordelingen, waarbij G het meest gezinsvriendelijk is en X juist niet."
+        },
+        "e9f6051c655ca4a6773af3f2d8458815": {
+            "text": "Beschrijvingen van beoordelingen geleverd door [Gravatar](https://en.gravatar.com/site/implement/images/)."
+        },
+        "b672f52ade975e864ae6b58722c03689": {
+            "text": "Implementatie"
+        },
+        "309ccca9b8ae5408ee15a28c2bd2c9c2": {
+            "text": "Dit gedeelte is bedoeld om je op weg te helpen met het weergeven van reacties op de front-end van je site. Alles hier is optioneel."
+        },
+        "c0cf19f012781de14679b0d857fe4cbd": {
+            "text": "Als je een cache gebruikt voor de uitvoer, stel deze dan zo in dat de cache wordt omzeild wanneer de GET-variabele \"comment_success\" aanwezig is."
+        },
+        "e2ee73419f58949b9fdfb97f23a8a6ac": {
+            "text": "PHP-code om reacties weer te geven"
+        },
+        "2b961475041b8a085eae4ed1a597f76a": {
+            "text": "CSS voor de weergave van reacties aan de gebruikerszijde"
+        },
+        "4a08db526853d7aa35400a97c968e60d": {
+            "text": "JS voor het weergeven van reacties aan de voorkant"
+        },
+        "1f2f44c370f66e4d06d25042e93e39c1": {
+            "text": "Uitgeschakeld"
+        }
+    }
+}

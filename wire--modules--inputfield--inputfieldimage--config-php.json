@@ -1,0 +1,126 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldImage/config.php",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--config-php",
+    "translations": {
+        "fefc3e3c3400216f77f0b3c6b12adfb7": {
+            "text": "Invoerfuncties"
+        },
+        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
+            "text": "Standaardmodus voor afbeeldingsraster"
+        },
+        "c53c009277b900e7292c4b49f07ddaec": {
+            "text": "In het beheergedeelte wordt de lijst met afbeeldingen standaard in deze modus weergegeven. De gebruiker kan dit op elk moment wijzigen door op de pictogrammen in de rechterbovenhoek van het veld te klikken."
+        },
+        "e6c7b90087278c53b5361182358a2d92": {
+            "text": "Als je dit afbeeldingenveld onlangs hebt gebruikt, moet je je cookies wissen voordat je wijzigingen in deze instelling kunt zien."
+        },
+        "a188c29fb8020eee47113073e366f78e": {
+            "text": "Afbeeldingen in een vierkant raster"
+        },
+        "06d5ddb736061086ad90f364eca1c56d": {
+            "text": "Afbeeldingen met proportioneel raster"
+        },
+        "fa996d5ac4351e7e603f3ab1b9f77afe": {
+            "text": "Verticale lijst (uitgebreid)"
+        },
+        "e0f4085735da81540154c2c351147301": {
+            "text": "Selectie van het focuspunt"
+        },
+        "f6a9e8b3977d98dd0e4b7b13720c858b": {
+            "text": "Maakt een versleepbaar focuspunt mogelijk om het onderwerp van een afbeelding te selecteren. Dit helpt bij het maken van niet-proportionele uitsneden."
+        },
+        "17450a5a8844e5a36f3911d94bea2b72": {
+            "text": "Er wordt ook een voorbeeld van het focuspunt getoond wanneer afbeeldingen in de modus „Square grid images“ staan."
+        },
+        "470ede3fd1e5fcf4fca77d7fbf5df11a": {
+            "text": "Focuspunt"
+        },
+        "2d07823e1de7d7eb6f09477f9070524f": {
+            "text": "Focuspunt en zoom"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Uitgeschakeld"
+        },
+        "84a327773a9172357f703ebdbb28680b": {
+            "text": "Maximale afmetingen van afbeeldingen"
+        },
+        "ef375d406da59811c42dc0f5a245dca3": {
+            "text": "Voeg desgewenst de maximum breedte en / of hoogte van geüploade afbeeldingen. Indien opgegeven, zullen beelden worden verkleind tijdens het uploaden als deze groter zijn dan het maximale breedte of hoogte. Het aanpassen wordt uitgevoerd tijdens het uploaden en is niet van invloed op afbeeldingen in het systeem of die via de API zijn toegevoegd."
+        },
+        "16e3e850ce20fe9fa8340e6d27693f61": {
+            "text": "Geldt voor JPG-, PNG- en GIF-afbeeldingen."
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "Voeg hier de waarde in (pixels) of laat leeg voor ongelimiteerd"
+        },
+        "e69ccb31941d2fd7923c6b0c01957db3": {
+            "text": "Maximale breedte voor de afbeelding"
+        },
+        "c58e466902d0ff945d0677114e41682b": {
+            "text": "Maximale hoogte voor de afbeelding"
+        },
+        "9fdc5bac96032d0465aa6cc6543d1871": {
+            "text": "Hoe pas je de afmetingen aan naar de maximale afmetingen?"
+        },
+        "434352c2b6134b909827f386b3644f0f": {
+            "text": "Door de afmetingen aan de clientzijde aan te passen, kun je de bestandsgrootte en afmetingen verkleinen voordat je het bestand uploadt."
+        },
+        "4a5e1c028e0c6d8925f33b1764db442e": {
+            "text": "Als je gebruikmaakt van aanpassing aan de clientzijde, geef dan de maximale breedte en/of maximale hoogte op in de velden hierboven, of het maximale aantal megapixels in het veld hieronder."
+        },
+        "edcf99dacdc6160d6eb8d2efb90ee189": {
+            "text": "Gebruik waar mogelijk aanpassing van de grootte aan de clientzijde"
+        },
+        "4421a363b922af1808ae2b258c9d11bb": {
+            "text": "Gebruik alleen server-side resize"
+        },
+        "41d833b452340b52caa65fdcfe181945": {
+            "text": "Maximaal aantal megapixels voor geüploade afbeeldingen"
+        },
+        "86d448ef6f037ce16fc358a22921c45c": {
+            "text": "Dit kan worden gebruikt als alternatief voor maximale breedte/hoogte. Geef een waarde met decimalen op."
+        },
+        "bd035d6e1aa04d38e61f36c27150e39d": {
+            "text": "Alleen van toepassing op het aanpassen van de grootte aan de clientzijde."
+        },
+        "fe64c68c1aa30e687be4aa011b33f15f": {
+            "text": "Een goede waarde voor websites is 1,7, wat neerkomt op ongeveer 1600x1000 pixels, waarbij 1600 en 1000 zowel de breedte als de hoogte kunnen zijn."
+        },
+        "c719e0f0e40f5193e0bbe6f9afc408e5": {
+            "text": "Andere voorbeelden:"
+        },
+        "a29b9e543bb7bc0f4b7e2c04d0a1c820": {
+            "text": "Kwaliteitspercentage voor het aanpassen van de grootte van JPEG-bestanden aan de clientzijde"
+        },
+        "ab00b0c8eb852647eee9553c75a100fe": {
+            "text": "Geef een getal op tussen 10 (laagste kwaliteit/kleinste bestandsgrootte) en 100 (hoogste kwaliteit/grootste bestandsgrootte). De standaardwaarde is 90."
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "Afbeeldingen weigeren die de maximale afmetingen overschrijden?"
+        },
+        "aa09d92fbba4044af814b7504798dec3": {
+            "text": "Als dit aangevinkt is, worden afbeeldingen die de maximale breedte/hoogte overschrijden (en die niet aan de clientzijde kunnen worden aangepast) geweigerd in plaats van aangepast."
+        },
+        "2d77facadb02370d5dd7c076b5afbee7": {
+            "text": "Minimale afmetingen van afbeeldingen"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "Voeg hier optioneel de minimum breedte en/of hoogte in van de geuplade afbeeldingen. Indien ingevuld worden afbeeldingen die niet aan de eisen voldoen niet geüpload."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "Minimale breedte voor geüploade afbeeldingen"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "Minimale hoogte voor geüploade afbeeldingen"
+        },
+        "a39e1de5e7b995d90322ab7d047428bc": {
+            "text": "Minimale en maximale afmetingen voor staande afbeeldingen omwisselen?"
+        },
+        "7f3d934927a1c106f5191c01b36c7766": {
+            "text": "Als dit is aangevinkt, worden de minimale en maximale breedte- en hoogteafmetingen voor staande afbeeldingen omgedraaid om rekening te houden met de andere beeldverhouding."
+        },
+        "98ebe60c452735dc2ef2249c835eddfe": {
+            "text": "Geldt alleen voor aanpassingen van de grootte aan de serverzijde."
+        }
+    }
+}

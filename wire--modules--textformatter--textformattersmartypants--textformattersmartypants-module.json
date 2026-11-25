@@ -1,0 +1,27 @@
+{
+    "file": "wire/modules/Textformatter/TextformatterSmartypants/TextformatterSmartypants.module",
+    "textdomain": "wire--modules--textformatter--textformattersmartypants--textformattersmartypants-module",
+    "translations": {
+        "25311c7902557e01bc00f49ff049bcd5": {
+            "text": "Gebruik je UTF-8-tekens voor vervangingen in plaats van HTML-entiteiten?"
+        },
+        "0c5d2b49bcf5a803467880b04e70010d": {
+            "text": "Het standaardgedrag van SmartyPants is om tekens toe te voegen of bij te werken met behulp van HTML-entiteiten."
+        },
+        "1db1fb23d15114bebcd0b4c9451753ff": {
+            "text": "Als je problemen met dubbele codering opmerkt, kun je beter UTF-8-vervangingen laten gebruiken."
+        },
+        "34ba6fe92bd3442e28614da7804133f7": {
+            "text": "Nee (standaard)"
+        },
+        "438be7072bafe2bb92897edc240e45ae": {
+            "text": "Ja (enkele)"
+        },
+        "8265970592705983b3983796fe0bb408": {
+            "text": "Ja (alles)"
+        },
+        "3dbbad2a19b63578a38458d5c9b08980": {
+            "text": "Let op: de optie „all“ zorgt ervoor dat de volgende tekens (wanneer ze als entiteit zijn gecodeerd) worden gedecodeerd, zelfs als ze niet door SmartyPants zijn ingevoegd:"
+        }
+    }
+}

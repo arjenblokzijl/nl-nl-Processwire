@@ -1,0 +1,72 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypePageTable/FieldtypePageTable.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepagetable--fieldtypepagetable-module",
+    "translations": {
+        "56d29e2358c489ca2ba085412d22b543": {
+            "text": "Kies een of meer templates voor items"
+        },
+        "23eb7651d596fbeec11e64a6c67925d9": {
+            "text": "Dit zijn de templates die worden gebruikt door pagina’s die vanuit dit veld worden beheerd. Misschien wil je een nieuw template maken dat specifiek is afgestemd op de behoeften van dit veld."
+        },
+        "cc338cc1f9035c657183288e8a8679c4": {
+            "text": "Klik op ‘Opslaan’ nadat je een template hebt gekozen; de overige instellingen op het tabblad ‘Invoer’ zullen dan meer context bevatten."
+        },
+        "280bdbf9e514764e2b558c5a45b03ba3": {
+            "text": "Kies een bovenliggend item voor de items"
+        },
+        "0aa782b2995bb478abdc16ebbb4a3e12": {
+            "text": "Alle items die vanuit dit veld worden aangemaakt en beheerd, vallen onder het bovenliggende item dat je hier selecteert."
+        },
+        "5243227b5f4a58e7cc1be6b30f4bbce8": {
+            "text": "Als er geen bovenliggend item is geselecteerd, worden de items als onderliggende items van de pagina die je aan het bewerken bent geplaatst."
+        },
+        "7a25f2fb1df8b415ae376a1bc744ddc1": {
+            "text": "Paginagedrag"
+        },
+        "f80a4ad87fee7c9fdc19b7769495fdb5": {
+            "text": "Niets"
+        },
+        "4cfd1fcdeecdd1e6acb46393d787316c": {
+            "text": "Gooi ze in de prullenbak"
+        },
+        "6ac9a034dc3a8b4cf5a3902d2b7755d4": {
+            "text": "Verwijder ze"
+        },
+        "eb2f5e1930872f2aed78a2ffca4af260": {
+            "text": "Depubliceer ze"
+        },
+        "8840e48a3c2b71738f5a52d5ae1e084f": {
+            "text": "Verberg ze"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Verwijder"
+        },
+        "88ab1471027561ff02fc8cfbd073ebc2": {
+            "text": "Wat moet er gebeuren met \"%s\"-items als de pagina waarin ze staan definitief wordt verwijderd?"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Prullenbak"
+        },
+        "bdea0eb389c61e57930d661c74b21423": {
+            "text": "Wat moet er gebeuren met \"%s\"-items als de pagina waarin ze staan naar de prullenbak wordt verplaatst?"
+        },
+        "181e9a13059454fb2212f1bf10f394ac": {
+            "text": "Depubliceren"
+        },
+        "22b094a7d09fdb1839dbfe384a0f4fac": {
+            "text": "Wat moet er gebeuren met \"%s\"-items als de pagina waarop ze staan niet meer gepubliceerd is?"
+        },
+        "113931420c7a2560f63fcd9af198df3f": {
+            "text": "Velden sorteren"
+        },
+        "b72b1e7470d1bbec8cb9ae2eb8843131": {
+            "text": "Voer de veldnaam in waarop je je tabel wilt sorteren. Voor een aflopende sortering zet je een koppelteken voor de veldnaam, dus bijvoorbeeld \"-date\" in plaats van \"date\"."
+        },
+        "bad3d943c1f7443d2205de6edd995d6e": {
+            "text": "Je kunt meerdere sorteervelden opgeven door ze met een komma van elkaar te scheiden, bijvoorbeeld \"last_name, first_name, -birthday\"."
+        },
+        "8198f788c0d53d819605c0dcdfdfe413": {
+            "text": "Laat dit leeg voor handmatig sorteren via slepen en neerzetten (standaard)."
+        }
+    }
+}

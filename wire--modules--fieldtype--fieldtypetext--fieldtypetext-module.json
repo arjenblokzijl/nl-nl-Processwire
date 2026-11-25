@@ -1,0 +1,42 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeText/FieldtypeText.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetext--fieldtypetext-module",
+    "translations": {
+        "d8519baaabde7d5b04b001afff86b1c9": {
+            "text": "Tekstinstellingen"
+        },
+        "41d534244071f567ec8887353f125f86": {
+            "text": "Tekstformatters"
+        },
+        "9bf6e7e02fcf9320c882455021560f5b": {
+            "text": "Als je automatische opmaak wilt toepassen op het veld wanneer het wordt voorbereid voor weergave, selecteer dan hier een of meer tekstopmaakopties."
+        },
+        "8b77c2ae8c7851a0bbc6c4a7914815c2": {
+            "text": "Als je er meer dan één selecteert, sleep ze dan in de volgorde waarin ze moeten worden toegepast."
+        },
+        "7c09c7fa6cd2ade15be9247528c4d4e9": {
+            "text": "Kijk voor meer informatie in de [map met tekstopmaakmodules](%s)."
+        },
+        "ed0f8be4615cf14dc76c1bb2629edf41": {
+            "text": "Voor velden met platte tekst die geen HTML of opmaak bevatten, raden we aan om hierboven de optie **HTML Entity Encoder** te selecteren."
+        },
+        "6fb98d2426f4f6bbaf507e9033c89d5b": {
+            "text": "Dit veld staat momenteel Markup/HTML toe in de opgemaakte uitvoer."
+        },
+        "47fd39f8a1299b77e81a238129154c95": {
+            "text": "Als je geen Markup/HTML wilt toestaan, selecteer dan de „HTML Entity Encoder“ bij „Tekstopmaak“."
+        },
+        "7a1920d61156abc05a60135aefe8bc67": {
+            "text": "Standaard"
+        },
+        "8642da31c9c6a7ef78514cac2276dac9": {
+            "text": "Invoermodule"
+        },
+        "9f66b905cac6adfee97389b0d11b2db2": {
+            "text": "Sla het op nadat je dit hebt aangepast, want het kan invloed hebben op welke instellingen er beschikbaar zijn op het tabblad „Invoer“."
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Tekst"
+        }
+    }
+}

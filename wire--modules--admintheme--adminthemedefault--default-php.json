@@ -1,0 +1,15 @@
+{
+    "file": "wire/modules/AdminTheme/AdminThemeDefault/default.php",
+    "textdomain": "wire--modules--admintheme--adminthemedefault--default-php",
+    "translations": {
+        "9cfefed8fb9497baa5cd519d7d2bb5d7": {
+            "text": "nl"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Uitloggen"
+        },
+        "aa0e46d2e05217acb9d70a1bbb546845": {
+            "text": "VOOR VERTALERS: vertaal alsjeblieft het bestand /wire/templates-admin/default.php in plaats van dit bestand."
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "file": "wire/modules/Process/ProcessModule/ProcessModuleInstall.php",
+    "textdomain": "wire--modules--process--processmodule--processmoduleinstall-php",
+    "translations": {
+        "38933d5ecc7b9e5ac7859a9b6a1de7eb": {
+            "text": "Module-installatieoptie „%s“"
+        },
+        "ccb108ad977122d69f8bbc7758997ff2": {
+            "text": "Zorg ervoor dat de map /site/assets/cache/ schrijfbaar is voor PHP."
+        },
+        "cfe1ee62b0efc597562d0b78c5196d47": {
+            "text": "Zorg ervoor dat de map met modules op je site (/site/modules/) schrijfbaar is voor PHP."
+        },
+        "34484ec9b680d2670f6c0d0a6ea5cb5a": {
+            "text": "De klasse ZipArchive is vereist en die lijkt niet in je PHP te zitten."
+        },
+        "d83612969f53282acff312397c6d8fa8": {
+            "text": "Uitgepakt: %s"
+        },
+        "af32834e6517e929e3993eb018b46ac0": {
+            "text": "Er zijn geen modulebestanden gevonden"
+        },
+        "2a3cd9a18eaf3b274b4fa40068fff003": {
+            "text": "Bestanden succesvol gekopieerd naar de nieuwe map:"
+        },
+        "5bb84f541cde4c248e5f6f58ae92c49e": {
+            "text": "Kan bestanden niet naar de nieuwe map kopiëren:"
+        },
+        "5a3527463defe3c1e1ab721c4942f331": {
+            "text": "Kon de map niet aanmaken:"
+        },
+        "a7e401f040fc37065b5d7a8b01e5a592": {
+            "text": "Kan modulebestanden niet kopiëren:"
+        },
+        "82d70ccfc2a2e0bb66507a3f90c4690e": {
+            "text": "Kon de mislukte modulemap niet verwijderen:"
+        },
+        "04abd66e622f247f079329fcbc51b97c": {
+            "text": "Let op: %s was een symbolische link en is omgezet naar een gewone map"
+        },
+        "0e30f791217cbeee87323db58731e58f": {
+            "text": "Er is een back-up gemaakt van het bestaande %s"
+        },
+        "34e8dc0a73d373618c591be38800cd3c": {
+            "text": "Back-up van %s hersteld"
+        },
+        "21b1483780050057a84adbf35ec57c05": {
+            "text": "Kan het uploaden niet voltooien"
+        },
+        "e7df9a3e1460bdfcaabe5b2e451a6594": {
+            "text": "Geen uploads gevonden"
+        },
+        "a4e29333ef852fef776eecdb5b3ac6a1": {
+            "text": "Er is een ongeldige download-URL opgegeven"
+        },
+        "c8d7cc9fd8f6298a8ee52a937c29c97d": {
+            "text": "Je pad %s is momenteel niet beschrijfbaar."
+        },
+        "58c9ef751665d75133cd9f06c2e99f71": {
+            "text": "Het moet schrijfbaar worden gemaakt voor ProcessWire voordat je deze installatieoptie voor de module kunt inschakelen."
+        },
+        "5fcb2e65954f268db4a5e500f8187817": {
+            "text": "altijd inschakelen"
+        },
+        "5e13c331fbe3baf04626f93b56d7fb30": {
+            "text": "tijdelijk"
+        },
+        "a1af683d99a3a6a621a2c27ec9e468fb": {
+            "text": "alleen inschakelen in de debugmodus"
+        },
+        "060aa54c407428fd1b33c89d00abb0db": {
+            "text": "Om dit in te schakelen, bewerk je het bestand %1$s en geef je het volgende op: %2$s …of… %3$s"
+        },
+        "7c67236ffb79ce4bb59a4ec3b5a3de0e": {
+            "text": "Deze installatieoptie is zo ingesteld dat ze alleen in de debugmodus beschikbaar is."
+        },
+        "3d32978a99cfd1c17aa9effcace86b1c": {
+            "text": "Deze installatieoptie is momenteel uitgeschakeld."
+        },
+        "43b2e82a51daa1adee20374e35b3caa9": {
+            "text": "%d bestand geëxtraheerd"
+        },
+        "aeb9dc1c219e430958416b2390306776": {
+            "text": "%d bestanden uitgepakt"
+        }
+    }
+}

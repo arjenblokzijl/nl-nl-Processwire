@@ -1,0 +1,51 @@
+{
+    "file": "wire/modules/LanguageSupport/LanguageSupportPageNames.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportpagenames-module",
+    "translations": {
+        "ae739a236065a45c64ad51aacb19498c": {
+            "text": "Actief?"
+        },
+        "d5af3f8c985a3592422462cce67bc86c": {
+            "text": "Een zusterpagina (id=%1$d) gebruikt de naam „%2$s“ al voor de taal: %3$s"
+        },
+        "35b837a5674ea74e192fc0fa8b68f46c": {
+            "text": "Voorvoegsel voor paginanummers bij paginering"
+        },
+        "68d765216e3092d42524f9f6f14ce93c": {
+            "text": "Het paginanummer wordt aan dit woord toegevoegd in gepagineerde URL’s voor deze taal. Als je het weglaat, wordt „%s“ gebruikt."
+        },
+        "5b5fec43bb1313c56d2e944d9567cd96": {
+            "text": "Is de URL van de startpagina in de standaardtaal hetzelfde als de root-URL?"
+        },
+        "6fbae724946d15c837d8d88af35ed18c": {
+            "text": "Kies **Ja** als je wilt dat de startpagina van je standaardtaal wordt weergegeven via de hoofd-URL **/** (aanbevolen). Kies **Nee** als je wilt dat je hoofd-URL doorverwijst naar **/name/** (waarbij /name/ de standaardtaalnaam van je startpagina is)."
+        },
+        "fccde8e7592dffb93fe985bc462771c0": {
+            "text": "Deze instelling heeft alleen invloed op het gedrag van de startpagina. Als je ‘Nee’ kiest, moet je er ook voor zorgen dat je startpagina een naam heeft die is gedefinieerd voor de standaardtaal."
+        },
+        "ff88cd079dc8d2fb836b8807f5d266a4": {
+            "text": "Ja - De root-URL geeft de startpagina in de standaardtaal weer (aanbevolen)"
+        },
+        "f1bd84fbcee1b287fe538f7df1cbd700": {
+            "text": "Nee – De root-URL leidt door naar: /name/"
+        },
+        "47a71e39bf348953dfdfb22317c3e29c": {
+            "text": "Wat gebeurt er als de pagina niet beschikbaar is in de gevraagde taal (maar wel in de standaardtaal)?"
+        },
+        "fdee766baf806159afbcd542efbe9b3d": {
+            "text": "Deze instelling geldt niet als de pagina door de gebruiker kan worden bewerkt, omdat deze dan altijd beschikbaar is voor een voorbeeldweergave."
+        },
+        "34529e0f7f3dd583b0aed3b8a46bff6e": {
+            "text": "Geef een 404-fout (pagina niet gevonden) weer – standaardgedrag"
+        },
+        "395c201c2729d5c7c5e9c1c6cbc2889b": {
+            "text": "Zorg ervoor dat het toch voor de taal wordt weergegeven (als het rechtstreeks via een URL wordt geopend)"
+        },
+        "ac7c3f2fbc9e8f4fa1d719d6319ee58b": {
+            "text": "Voer een 301 (permanente) omleiding uit naar de pagina in de standaardtaal"
+        },
+        "483bb77bebead8ed45f75192b8ea3d78": {
+            "text": "Voer een 302 (tijdelijke) omleiding uit naar de pagina in de standaardtaal"
+        }
+    }
+}

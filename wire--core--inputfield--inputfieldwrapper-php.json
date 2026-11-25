@@ -1,0 +1,15 @@
+{
+    "file": "wire/core/Inputfield/InputfieldWrapper.php",
+    "textdomain": "wire--core--inputfield--inputfieldwrapper-php",
+    "translations": {
+        "d6a6d393040fe53b20243c9abeee036b": {
+            "text": "Dit veld is verplicht"
+        },
+        "474306ce3c500f0bce3fb8891a2401cb": {
+            "text": "Openen/sluiten"
+        },
+        "c0cb5f0fcf239ab3d9c1fcd31fff1efc": {
+            "text": ","
+        }
+    }
+}

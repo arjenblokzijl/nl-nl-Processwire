@@ -1,0 +1,27 @@
+{
+    "file": "wire/core/Admin/AdminTheme.php",
+    "textdomain": "wire--core--admin--admintheme-php",
+    "translations": {
+        "657f8b8da628ef83cf69101b6817150a": {
+            "text": "help"
+        },
+        "1f7b42ad432b913e6e78c7b9db29f6ae": {
+            "text": "Probeer “help”"
+        },
+        "244cf4a0f690a8c69a4dacf0a0c78a2e": {
+            "text": "Geavanceerde modus"
+        },
+        "a603905470e2a5b8c13e96b579ef0dba": {
+            "text": "Debug"
+        },
+        "1e7f9a369b1d2688c0a9de0ba9adeb43": {
+            "text": "Om dit thema te gebruiken, selecteer het in je profiel."
+        },
+        "e3d8856720f3539d3fd3e02238f095ef": {
+            "text": "Veld \"admin_theme\" is geinstalleerd in het systeem en toegevoegd aan je profielinstellingen."
+        },
+        "40c0ca08425d862d797f41d0fe0ff368": {
+            "text": "Veld \"admin_theme\" is verwijderd uit het systeem."
+        }
+    }
+}

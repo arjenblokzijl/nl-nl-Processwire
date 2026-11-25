@@ -1,0 +1,12 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldFieldset/InputfieldFieldset.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfieldset--inputfieldfieldset-module",
+    "translations": {
+        "5b3a50aadfa94048d38820473b25ec57": {
+            "text": "Fieldset"
+        },
+        "80b64fcc30458532fff6446e92e98c54": {
+            "text": "Groepeert een of meer velden in een container"
+        }
+    }
+}

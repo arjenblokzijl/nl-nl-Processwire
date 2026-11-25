@@ -1,0 +1,66 @@
+{
+    "file": "wire/modules/FileValidatorZip.module",
+    "textdomain": "wire--modules--filevalidatorzip-module",
+    "translations": {
+        "bf2d65a16292c9af3546d38d45d6440e": {
+            "text": "De ZipArchive-klasse van PHP is niet beschikbaar, maar is wel vereist"
+        },
+        "901f7679d5b7e5f889905e3e497bc1dc": {
+            "text": "Het opgegeven ZIP-bestand bestaat niet"
+        },
+        "ac8d9bd688de2b232ae759bbaebf8025": {
+            "text": "Kan ZIP-bestand niet openen"
+        },
+        "0bbdc88edbcc35d134c91aa27d1536da": {
+            "text": "Te veel bestanden in ZIP"
+        },
+        "dadb21939e6f73323245f7b2eef589b1": {
+            "text": "Kan niet lezen"
+        },
+        "bcc999252fc65da5706a4f02668d9957": {
+            "text": "Bestandsindex %d:"
+        },
+        "54d958757333cf1fe035b16d36b14a64": {
+            "text": "Ontbrekende vereiste bestanden:"
+        },
+        "5225297fc7408f9250b0a50c159c5716": {
+            "text": "Te weinig bestanden in ZIP"
+        },
+        "46b2fff041e169a86bdcbbea9b9c8a43": {
+            "text": "De totale grootte van het uitgepakte ZIP-bestand overschrijdt de maximaal toegestane grootte"
+        },
+        "ff37598a5803947360801ce09cf14c2d": {
+            "text": "Overschrijdt de maximaal toegestane grootte"
+        },
+        "9c0f3bcd8917c84b09bd1a52bb89ac76": {
+            "text": "Overschrijdt de maximaal toegestane mapdiepte"
+        },
+        "a4d2cdb297b0e419ef34fd783406dab2": {
+            "text": "Overschrijdt maximale compressieverhouding"
+        },
+        "55f8555aa8b4cb55f267fad4531cc8d9": {
+            "text": "Het bestand is versleuteld"
+        },
+        "13b452ed8bb7b98d246a71a535ad81bb": {
+            "text": "Overeenkomend patroon voor fatalNames"
+        },
+        "3952944336f85ed33f2c0fe830420acd": {
+            "text": "Maximaal aantal bestanden in een ZIP-bestand"
+        },
+        "dd3fc14fd534df3ce4dbb4009da7e806": {
+            "text": "Maximale mapdiepte"
+        },
+        "638d24377e7b87c2406dd54505c548a7": {
+            "text": "Max. aantal MB (ongecomprimeerd) van de volledige ZIP-bestand"
+        },
+        "1378852791ebb8ea2455c79f7e437ed2": {
+            "text": "Max. aantal MB (ongecomprimeerd) voor elk bestand in de ZIP"
+        },
+        "0098ec6f6a5c878634df452e0e814723": {
+            "text": "Maximaal aantal te melden fouten"
+        },
+        "ab2aef8fa48e69a31fbbe0f650737e36": {
+            "text": "Maximaal toegestane compressieverhouding (0 om te negeren)"
+        }
+    }
+}

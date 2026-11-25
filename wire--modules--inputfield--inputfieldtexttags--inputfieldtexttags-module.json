@@ -1,0 +1,135 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldTextTags/InputfieldTextTags.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtexttags--inputfieldtexttags-module",
+    "translations": {
+        "ec211f7c20af43e742bf2570c3cb84f9": {
+            "text": "Toevoegen"
+        },
+        "5ada8a9286e44da2221cd82e3ec857be": {
+            "text": "Ongeldige tagwaarde verwijderd: %s"
+        },
+        "fcf2ecb6c5c5991e49690fd12f0950dd": {
+            "text": "Bron van selecteerbare opties/tags"
+        },
+        "a1d8d28cd17bc9713cb6d9bf779b1422": {
+            "text": "Geef ze hier op"
+        },
+        "2d4026ab7ebafbc34d0c0cee4bc6a8f9": {
+            "text": "Laad vanaf de URL die je opgeeft (ajax)"
+        },
+        "6b1b91dab4876004505181d49ae7bc27": {
+            "text": "Gebruik je ajax-opties/pagina's?"
+        },
+        "e793cb635b6f498edd8f78ecaa4f1cc3": {
+            "text": "Als deze functie is ingeschakeld, werkt het als een automatische aanvulfunctie: zodra de gebruiker begint te typen, wordt er via een URL gezocht naar overeenkomende pagina's."
+        },
+        "26644aceea0417eed7cc9b89b5d217fe": {
+            "text": "Je moet ook een „Ajax-URL“ opgeven (zie hieronder wanneer „Ja“ is geselecteerd) om de query uit te voeren. Er zit werkende voorbeeldcode bij."
+        },
+        "113e5eb7479e4757efe217b2b4df3a9c": {
+            "text": "Als deze optie niet is ingeschakeld, worden alle selecteerbare opties tijdens de uitvoering ingevuld."
+        },
+        "860b7a69d838e2a510f79123bb657026": {
+            "text": "Het gebruik van ajax-opties/pagina's is handig als er veel pagina's zijn waaruit je kunt kiezen."
+        },
+        "9cba2db480057b2c65e239915198a3bc": {
+            "text": "Houd hier rekening mee als er honderden of duizenden (of meer) pagina’s zijn waaruit gekozen kan worden."
+        },
+        "8d303ccb1721972ffbf890a84a24c7a5": {
+            "text": "Lijst met vooraf gedefinieerde opties/tags"
+        },
+        "dcf387ef8e5f3f0bbd745b1855a2a9a5": {
+            "text": "Voer vooraf gedefinieerde tags in, 1 per regel. Om een aparte waarde en een apart label voor de tag te definiëren, geef je `value=label` op die regel op."
+        },
+        "b23854b10090d03184c424927a1c221f": {
+            "text": "Tags mogen het hieronder geselecteerde scheidingsteken niet bevatten, maar labels wel."
+        },
+        "3f29cea14274476fd290ab2357acf53b": {
+            "text": "Om per taal aparte labels te definiëren, voer je voor elke taal elke tag `value=label` opnieuw in, waarbij de `value` voor elke taal hetzelfde is, terwijl de `label` verschilt."
+        },
+        "863a617186799199c167888e3f858ed7": {
+            "text": "Voorbeeld van een URL-handler in het bestand %s voor de URL %s"
+        },
+        "0e3fd3cf510a091336f62cffa8fed928": {
+            "text": "Kopieer en plak deze URL in het veld hierboven als je het onderstaande voorbeeld wilt gebruiken."
+        },
+        "ae43497613e9bce166e79c93a3a3288f": {
+            "text": "Ajax-URL"
+        },
+        "578b189f9605804a55dec2f726107836": {
+            "text": "Als je een URL invoert, wordt er gezocht naar items die overeenkomen met wat de gebruiker heeft ingevoerd, op een manier die lijkt op automatisch aanvullen."
+        },
+        "3094591b42aeeae0f6f5743dd58ff360": {
+            "text": "De opgegeven URL moet ergens de plaatshouder `{q}` bevatten, die wordt vervangen door de tekst die de gebruiker intypt."
+        },
+        "6de08d5e99d2f49b707fbe84bf2babc4": {
+            "text": "Je kunt een volledige http/https-URL opgeven, of een relatieve URL."
+        },
+        "b9b2836d05319756a7f9b1797166d2c5": {
+            "text": "Als je een relatieve URL opgeeft (zonder schema/host), worden het huidige schema, de host en de root-URL er tijdens de uitvoering aan toegevoegd."
+        },
+        "3d68dddcd3aa8f6a61b89149dc3cd5ac": {
+            "text": "Je moet ook een URL-handler definiëren, zoals in het onderstaande voorbeeld."
+        },
+        "c55228ab9fb65392d44a1ad232555e5b": {
+            "text": "Het URL-pad `%s` is slechts een voorbeeld; je kunt het gerust vervangen door wat je maar wilt."
+        },
+        "61900119c9b2f987bb0f2784d219d460": {
+            "text": "In dit voorbeeld worden titels van pagina's opgehaald om als tags te gebruiken, maar je kunt elke gewenste gegevensbron gebruiken."
+        },
+        "a4ead355e5bbbd25f264cae5a69d5d72": {
+            "text": "je selector voor pagina's hier"
+        },
+        "1505f61747adf41e94a27b064a284b40": {
+            "text": "Let op: als je de instellingen voor „Selectable pages“ of „Label field“ wijzigt, moet je ook de code van je URL-handler hierop aanpassen."
+        },
+        "6aa01c4fdc82ff85bc6299056ef15167": {
+            "text": "De plaatshouder „{q}“ moet ergens in je Ajax-URL staan."
+        },
+        "4c38a85c32ea7ee51ac917693c988269": {
+            "text": "Mag de gebruiker zijn eigen tags invoeren?"
+        },
+        "f03041db1e5b27242c249d020d997331": {
+            "text": "De dropdown sluiten nadat elke selectie is gemaakt?"
+        },
+        "e077077fcf3ef41f3ad162f4cc681209": {
+            "text": "(voor tags die uit één woord bestaan)"
+        },
+        "826be3095514fef3d79e6f899b887ecc": {
+            "text": "(voor tags die uit meerdere woorden bestaan)"
+        },
+        "dfb1a97826511d6e6732545b6e536bd5": {
+            "text": "Scheidingsteken voor tags"
+        },
+        "d511f8439ecde36647437fbba67a4394": {
+            "text": "Spatie"
+        },
+        "58be47db9455679e6a44df2eff9c9fa6": {
+            "text": "Komma"
+        },
+        "2ab1f3f893823298751fdf60b4e0365a": {
+            "text": "Pipe"
+        },
+        "4192f616db902e9df5391f247482d3b8": {
+            "text": "Max. aantal tags/opties"
+        },
+        "66553e3b94c6fdf004b777c7e8187afd": {
+            "text": "Gebruik 0 voor geen limiet of voer het maximale aantal opties/tags in dat de gebruiker mag selecteren of invoeren."
+        },
+        "fd9b78d0ec0b8004cc27a0872e531698": {
+            "text": "Let op: als je 1 invoert, ziet het invoerveld er meer uit als een keuzelijst dan als een tekstveld."
+        },
+        "910370309c0af1e93df0ae98ff8cfe5a": {
+            "text": "Plaatshoudertekst"
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Optionele plaatshoudertekst die in het veld verschijnt als het leeg is."
+        },
+        "350efb22a387fd0b416e2835e7ddd4e8": {
+            "text": "Teksttags"
+        },
+        "28e1cc9b637fcfb04e136e18800240ff": {
+            "text": "Maakt het mogelijk om door de gebruiker ingevoerde tags in te voeren of vooraf gedefinieerde tags te selecteren."
+        }
+    }
+}
