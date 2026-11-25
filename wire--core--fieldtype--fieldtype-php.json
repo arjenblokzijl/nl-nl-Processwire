@@ -15,7 +15,7 @@
             "text": "Als dit aangevinkt is, moeten ALLE pagina’s dit veld bevatten. Het wordt automatisch toegevoegd aan alle veldgroepen/templates die het nog niet hebben. Dit betekent niet dat er een waarde in het veld moet staan, maar alleen dat het bewerkbare veld op alle pagina’s aanwezig zal zijn."
         },
         "cacb4064843717606a3301b974b6f959": {
-            "text": "De waarde is niet toegestaan voor het veld „%s“, omdat deze al in gebruik is"
+            "text": "De waarde is niet toegestaan voor het veld “%s”, omdat deze al in gebruik is"
         }
     }
 }

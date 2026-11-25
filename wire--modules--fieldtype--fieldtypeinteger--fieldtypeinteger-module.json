@@ -3,10 +3,10 @@
     "textdomain": "wire--modules--fieldtype--fieldtypeinteger--fieldtypeinteger-module",
     "translations": {
         "91c09f074736481876ccf2f97e04ed07": {
-            "text": "Zijn 'leeg' en '0' hetzelfde?"
+            "text": "Zijn ‘leeg’ en ‘0’ hetzelfde?"
         },
         "e128ed87f9f0d6401b081dd75b2dad03": {
-            "text": "Dit heeft invloed op hoe ProcessWire pagina's koppelt tijdens zoekopdrachten in de database."
+            "text": "Dit heeft invloed op hoe ProcessWire pagina’s koppelt tijdens zoekopdrachten in de database."
         },
         "07be370e5cef3ea5961cdf07cb34f390": {
             "text": "Als 0 en leeg hetzelfde betekenen (de optie Ja), dan levert een zoekopdracht naar **veld=0** of **veld=\"\"** dezelfde resultaten op."

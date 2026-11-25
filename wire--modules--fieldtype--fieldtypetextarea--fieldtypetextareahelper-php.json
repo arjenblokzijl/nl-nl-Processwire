@@ -9,7 +9,7 @@
             "text": "Type inputfield"
         },
         "127852afa67b41673ab8ea17b383847c": {
-            "text": "Het type veld dat wordt gebruikt om invoer te verzamelen (Textarea is de standaardinstelling). Let op: als je dit wijzigt en op Verzenden klikt, kunnen de beschikbare configuratieopties in het tabblad „Invoer“ veranderen."
+            "text": "Het type veld dat wordt gebruikt om invoer te verzamelen (Textarea is de standaardinstelling). Let op: als je dit wijzigt en op Verzenden klikt, kunnen de beschikbare configuratieopties in het tabblad “Invoer” veranderen."
         },
         "e9d6c26a86350de8002c93886f74249f": {
             "text": "We raden aan om TinyMCE te gebruiken in plaats van CKEditor bij het aanmaken van nieuwe rich-text-velden."
@@ -30,7 +30,7 @@
             "text": "De optie [u]Markup/HTML[/u] wordt aanbevolen voor velden die gebruikmaken van rich text-editors (zoals CKEditor) en velden die HTML bevatten. Deze optie biedt extra controles tijdens de uitvoering om de kwaliteit te waarborgen."
         },
         "0601bf716a208a7476c5f97c040fc44c": {
-            "text": "Als je de optie [u]Onbekend/Tekst[/u] selecteert, wordt het [om veiligheidsredenen] sterk aangeraden om ook de \"HTML Entity Encoder\" te selecteren in het veld [u]Tekstopmaak[/u] hierboven."
+            "text": "Als je de optie [u]Onbekend/Tekst[/u] selecteert, wordt het [om veiligheidsredenen] sterk aangeraden om ook de “HTML Entity Encoder” te selecteren in het veld [u]Tekstopmaak[/u] hierboven."
         },
         "f49044eb0f5ff823c157a2feedf2b9f8": {
             "text": "Voor meer informatie over de bovenstaande opties, zie [beschrijving van de opties voor inhoudstypen](%s)."
@@ -105,7 +105,7 @@
             "text": "(zie %s-log)"
         },
         "d53200ec5949152baffbeed6c4d58966": {
-            "text": "%1$d van de %2$d pagina's zijn bijgewerkt voor HTML-opties."
+            "text": "%1$d van de %2$d pagina’s zijn bijgewerkt voor HTML-opties."
         },
         "8a64cae4f29b541d3e532599d513e04e": {
             "text": "Samenvatting kwaliteitscontrole markup/HTML:"
@@ -120,7 +120,7 @@
             "text": "%d lokale a[href]-tags"
         },
         "bb83c854fd76ba88b57f700280e65291": {
-            "text": "%d interne/abstracte pagina's"
+            "text": "%d interne/abstracte pagina’s"
         },
         "52b8044e625821dcc4f2002c70f05881": {
             "text": "%d verwijzingen naar bestanden/assets"
@@ -129,7 +129,7 @@
             "text": "%d relatieve a[href]-tags bijgewerkt"
         },
         "84a543e559f6e8ae86ba9ca203f6c57f": {
-            "text": "%d lokale a[href]-tags die geen pagina's zijn of niet herkend worden"
+            "text": "%d lokale a[href]-tags die geen pagina’s zijn of niet herkend worden"
         },
         "2fb3cb1dbd223aca0a255df639afabb1": {
             "text": "%d niet-http a[href]-links zoals mailto, tel, enz."

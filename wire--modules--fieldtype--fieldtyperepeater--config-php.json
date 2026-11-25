@@ -3,10 +3,10 @@
     "textdomain": "wire--modules--fieldtype--fieldtyperepeater--config-php",
     "translations": {
         "cb2d417d536ac6b6d8668d272b28ca47": {
-            "text": "Het Repeater-veld „%s“ heeft een afhankelijkheid „alleen verplicht als“, en dit wordt niet ondersteund in Repeaters."
+            "text": "Het Repeater-veld “%s” heeft een afhankelijkheid “alleen verplicht als”, en dit wordt niet ondersteund in Repeaters."
         },
         "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
-            "text": "Voeg velden toe aan deze repeater via het tabblad „details“."
+            "text": "Voeg velden toe aan deze repeater via het tabblad “details”."
         },
         "f41ae5ce37aeed3613288bb8c0cc3489": {
             "text": "Definieer de velden die door deze repeater worden gebruikt. Je kunt velden ook via slepen en neerzetten in de gewenste volgorde zetten."
@@ -24,7 +24,7 @@
             "text": "Om meerdere velden te gebruiken of je eigen opmaakstring op te geven, zet je de veldnamen tussen {brackets}."
         },
         "c5e90fa5edbe00c619ca4d69c3692627": {
-            "text": "Om bij elk label een repeater-indexnummer toe te voegen, voeg je ergens in je opmaakstring \"#n\" toe."
+            "text": "Om bij elk label een repeater-indexnummer toe te voegen, voeg je ergens in je opmaakstring “#n” toe."
         },
         "4c95bcccf333bef2208b02fbd212af55": {
             "text": "Voorbeeld: #n: {title}"
@@ -81,7 +81,7 @@
             "text": "Label voor het toevoegen van een nieuw item"
         },
         "db9d65ca0ad208926207fbf99636b1f4": {
-            "text": "Vul het label in dat je wilt gebruiken voor de tekst/knop „Nieuw item toevoegen”, of laat het leeg voor de standaardinstelling."
+            "text": "Vul het label in dat je wilt gebruiken voor de tekst/knop “Nieuw item toevoegen”, of laat het leeg voor de standaardinstelling."
         },
         "ef9eb3b1c72a3d00e09495aa7ecf195a": {
             "text": "Zichtbaarheid van repeater-items in de editor"
@@ -165,7 +165,7 @@
             "text": "Type repeater"
         },
         "cb1f0ec5795fd6ab9a2e980b428cfff5": {
-            "text": "Als de repeater is 'gekoppeld', regelt hij zelf zijn eigen template en bovenliggende pagina, zonder dat je daar iets van merkt of over hoeft na te denken."
+            "text": "Als de repeater is ‘gekoppeld’, regelt hij zelf zijn eigen template en bovenliggende pagina, zonder dat je daar iets van merkt of over hoeft na te denken."
         },
         "e3d6af2ddc6a90779dd75a3f9c753d7f": {
             "text": "Als je de repeater hebt ‘losgekoppeld’, kun je de bovenliggende pagina en de templates van de repeater naar eigen inzicht verplaatsen en aanpassen."
@@ -177,7 +177,7 @@
             "text": "Opslag van repeaters"
         },
         "a9bc2694fa474ffcd7962d6f71a90f08": {
-            "text": "Minder pagina's gebruiken voor opslag?"
+            "text": "Minder pagina’s gebruiken voor opslag?"
         },
         "4f0061e295e09ef19a1f549c23b04d0c": {
             "text": "Als dit aangevinkt is, worden er geen bovenliggende repeaterpagina’s aangemaakt totdat er ten minste één onderliggend repeateritem bestaat."
@@ -189,10 +189,10 @@
             "text": "Momenteel een experimentele optie om te testen (lazyParents), maar wordt later de standaardinstelling."
         },
         "d99d7ccd3f9f6604af4c37a3368dcac3": {
-            "text": "%d overbodige pagina's verwijderen?"
+            "text": "%d overbodige pagina’s verwijderen?"
         },
         "fe38bd0bebd8cb2322a5fbced275bcc5": {
-            "text": "De volgende overbodige pagina's zijn gevonden:"
+            "text": "De volgende overbodige pagina’s zijn gevonden:"
         },
         "847ec015263f8b4dc8f6065f6b7c3909": {
             "text": "Er zijn %d overbodige repeater-ouders gevonden die ofwel 0 repeater-items hadden, ofwel geen bijbehorende bovenliggende pagina hadden."
@@ -204,16 +204,16 @@
             "text": "%d overbodige bovenliggende pagina’s van repeaters gevonden"
         },
         "8e281790c58e48326e41a303674aab12": {
-            "text": "Er zijn geen overbodige pagina's gevonden"
+            "text": "Er zijn geen overbodige pagina’s gevonden"
         },
         "57939466ad1ae6358cadab32c9b04c15": {
             "text": "Het maximum van %d items per verzoek is bereikt; je zult dit opnieuw moeten uitvoeren."
         },
         "88574909be3f083f32ba1fa6a0e4dcf1": {
-            "text": "%d overbodige pagina's verwijderd"
+            "text": "%d overbodige pagina’s verwijderd"
         },
         "421b560a931ce0e4ec1b8018d0205b8e": {
-            "text": "Onnodige pagina's opsporen en eventueel verwijderen?"
+            "text": "Onnodige pagina’s opsporen en eventueel verwijderen?"
         },
         "65f6a551619120fdc79329b66ab6c1fd": {
             "text": "Oude/ongebruikte repeater-items verwijderen?"
@@ -225,10 +225,10 @@
             "text": "Een repeater-item wordt als oud beschouwd als het minstens 3 dagen oud is en nog niet is ingevuld of gepubliceerd."
         },
         "c79558badd020f417f148d0a7751e6e4": {
-            "text": "Veld „%1$s“ toegevoegd aan „%2$s“"
+            "text": "Veld “%1$s” toegevoegd aan “%2$s”"
         },
         "5222d983bada8088d0a86ac0ff1e5871": {
-            "text": "Veld „%1$s“ verwijderd uit „%2$s“"
+            "text": "Veld “%1$s” verwijderd uit “%2$s”"
         },
         "27dafd7f7794d09bc001fc0acac8e1ad": {
             "text": "%d oude/ongebruikte repeater-items verwijderd"

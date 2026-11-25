@@ -3,7 +3,7 @@
     "textdomain": "wire--core--image--imagesizerenginegd-php",
     "translations": {
         "fa08346eefc233da84efcce389e121f6": {
-            "text": "Het geladen bestand '%s' staat niet in de lijst met geldige afbeeldingen"
+            "text": "Het geladen bestand ‘%s’ staat niet in de lijst met geldige afbeeldingen"
         },
         "c95521fede03ff8a1b5d17b5b8bcdef7": {
             "text": "Onvoldoende geheugen voor “%1$s” in afbeeldingsbestand: %2$s"

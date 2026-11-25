@@ -42,7 +42,7 @@
             "text": "Bestand verwijderd:"
         },
         "b15dd49c58da836d9802f6e9e063a998": {
-            "text": "Bestand „%1$s“ hernoemd naar „%2$s“"
+            "text": "Bestand “%1$s” hernoemd naar “%2$s”"
         },
         "d7c8c85bf79bbe1b7188497c32c3b0ca": {
             "text": "Mislukt"
@@ -57,7 +57,7 @@
             "text": "Limiet voor het uploaden van bestanden is bereikt."
         },
         "c62fc670ac122455cc5853bf97130711": {
-            "text": "Veld „%1$s“ van het type „%2$s“ wordt niet ondersteund in veld „%3$s“"
+            "text": "Veld “%1$s” van het type “%2$s” wordt niet ondersteund in veld “%3$s”"
         },
         "91f3a2c0e4424c87689525da44c4db11": {
             "text": "Bestanden"

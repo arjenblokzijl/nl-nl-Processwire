@@ -36,10 +36,10 @@
             "text": "Elk bestand kan een optionele beschrijving bevatten die in de pagina-editor wordt ingevoerd en op de front-end kan worden weergegeven."
         },
         "445c10f03463258c5646dfb9ddfc2622": {
-            "text": "Het is bijvoorbeeld gebruikelijk om de beschrijvingstekst te gebruiken als het „alt“-attribuut bij het weergeven van `<img>`-tags voor afbeeldingsbestanden."
+            "text": "Het is bijvoorbeeld gebruikelijk om de beschrijvingstekst te gebruiken als het “alt”-attribuut bij het weergeven van `<img>`-tags voor afbeeldingsbestanden."
         },
         "b17288f2ed130badc7ac8919f95fd5f1": {
-            "text": "Tekstopmaakprogramma's (voor bestandsbeschrijvingen)"
+            "text": "Tekstopmaakprogramma’s (voor bestandsbeschrijvingen)"
         },
         "8d664d296530bbabc76043e4e499b272": {
             "text": "Kies een of meer tekstopmaakopties (en hun volgorde) die op de bestandsbeschrijving worden toegepast als de uitvoeropmaak actief is. De HTML Entity Encoder wordt als minimum aanbevolen."
@@ -87,7 +87,7 @@
             "text": "Voorbeelden van het gebruik van tags"
         },
         "30b3b29a9b14045e591d7409bf9b8172": {
-            "text": "Toon alle bestanden met de tag „sidebar“"
+            "text": "Toon alle bestanden met de tag “sidebar”"
         },
         "720288cbab99d3ca6e8994693a15df81": {
             "text": "Hetzelfde als hierboven, maar dan op een andere manier"

@@ -24,13 +24,13 @@
             "text": "Let op: de rol moet ook permissies voor bewerking van pagina’s hebben voor alle hierboven aangevinkte templates."
         },
         "46e843d341c23fcc923e4057f2011f5e": {
-            "text": "Voor de meeste permissies die via een template kunnen worden toegewezen, moet de gebruiker ook het recht hebben om de pagina van de template te bewerken. Als een template dat je nodig hebt niet in de lijst staat, moet je eerst de toegangscontrole ervoor inschakelen (zie het tabblad „Toegang“ bij het bewerken van een template)."
+            "text": "Voor de meeste permissies die via een template kunnen worden toegewezen, moet de gebruiker ook het recht hebben om de pagina van de template te bewerken. Als een template dat je nodig hebt niet in de lijst staat, moet je eerst de toegangscontrole ervoor inschakelen (zie het tabblad “Toegang” bij het bewerken van een template)."
         },
         "bd6e3218368542ea8b8ec79e212960c3": {
             "text": "In tegenstelling tot de meeste andere permissies is de permissie om een template te bewerken geen voorwaarde voor deze permissie."
         },
         "2c32a8fe6caf47e8f89b0929211639df": {
-            "text": "Templates met een sterretje (*) zijn zo ingesteld dat permissies voor bewerking ook worden doorgegeven aan subpagina's en via de paginaboom, tenzij/totdat dit wordt overschreven door een pagina die een ander template met toegangsbeheer gebruikt."
+            "text": "Templates met een sterretje (*) zijn zo ingesteld dat permissies voor bewerking ook worden doorgegeven aan subpagina’s en via de paginaboom, tenzij/totdat dit wordt overschreven door een pagina die een ander template met toegangsbeheer gebruikt."
         },
         "1900cd4f8e202940060d2129a70df995": {
             "text": "Deze permissie wordt ook doorgegeven aan subpagina’s en via de paginaboom, tenzij/totdat deze wordt overschreven door een pagina die een andere template met toegangsbeheer gebruikt."
@@ -87,7 +87,7 @@
             "text": "Klik om de permissie-instellingen per template te openen/sluiten"
         },
         "4106d43df925487225450293085f8bad": {
-            "text": "Permissie „%1$s“ voor template „%2$s“ is niet toegestaan (vereist de permissie „%3$s“)"
+            "text": "Permissie “%1$s” voor template “%2$s” is niet toegestaan (vereist de permissie “%3$s”)"
         },
         "a5cd3ed116608dac017f14c046ea56bf": {
             "text": "Rollen"

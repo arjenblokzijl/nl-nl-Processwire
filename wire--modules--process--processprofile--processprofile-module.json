@@ -24,7 +24,7 @@
             "text": "Het vereiste wachtwoord is niet opgegeven"
         },
         "d57a97a659253e107095a0ad40576d9f": {
-            "text": "Het e-mailadres \"%s\" is al in gebruik door een andere gebruiker."
+            "text": "Het e-mailadres “%s” is al in gebruik door een andere gebruiker."
         },
         "f29de224c874ad891ea1c3627aa468be": {
             "text": "Profiel opgeslagen"
@@ -33,7 +33,7 @@
             "text": "Niet toegestaan"
         },
         "c41276451b92f986f438a836dd99ed69": {
-            "text": "Gecleanseerd naar „%s“, wat afwijkt van wat je hebt ingevoerd"
+            "text": "Gecleanseerd naar “%s”, wat afwijkt van wat je hebt ingevoerd"
         },
         "c012e2a8b9e129403f8b93547086500a": {
             "text": "Te kort"

@@ -126,13 +126,13 @@
             "text": "Bestand %1$s gedupliceerd => %2$s"
         },
         "80a599081d30053c4cf6bc91230a9e6c": {
-            "text": "Actie „%1$s“ uitgevoerd op bestand %2$s"
+            "text": "Actie “%1$s” uitgevoerd op bestand %2$s"
         },
         "a45c16f718396868c97a72efcc571842": {
-            "text": "Actie „%1$s“ is mislukt voor bestand %2$s"
+            "text": "Actie “%1$s” is mislukt voor bestand %2$s"
         },
         "ac8883f9998c8b328a96855575eebcc5": {
-            "text": "Er is geen handler gevonden voor actie „%1$s“ in bestand %2$s"
+            "text": "Er is geen handler gevonden voor actie “%1$s” in bestand %2$s"
         },
         "fff0d600f8a0b5e19e88bfb821dd1157": {
             "text": "Afbeeldingen"

@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--process--processmodule--processmoduleinstall-php",
     "translations": {
         "38933d5ecc7b9e5ac7859a9b6a1de7eb": {
-            "text": "Module-installatieoptie „%s“"
+            "text": "Module-installatieoptie “%s”"
         },
         "ccb108ad977122d69f8bbc7758997ff2": {
             "text": "Zorg ervoor dat de map /site/assets/cache/ schrijfbaar is voor PHP."

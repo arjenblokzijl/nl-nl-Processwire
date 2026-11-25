@@ -9,10 +9,10 @@
             "text": "single-query"
         },
         "95174709ea432bbeb2a0ec8d9862b8a5": {
-            "text": "De gegevens van het veld „%1$s“ zijn verwijderd in %2$d rij(en) van %3$d pagina(s) met behulp van template „%4$s“."
+            "text": "De gegevens van het veld “%1$s” zijn verwijderd in %2$d rij(en) van %3$d pagina(s) met behulp van template “%4$s”."
         },
         "f9de29a177673a5d7f9bfe31fb3d94f3": {
-            "text": "Fout bij het verwijderen van gegevens uit veld \"%1$s\", %2$d rij(en), %3$d pagina(s) met behulp van template \"%4$s\"."
+            "text": "Fout bij het verwijderen van gegevens uit veld “%1$s”, %2$d rij(en), %3$d pagina(s) met behulp van template “%4$s”."
         }
     }
 }

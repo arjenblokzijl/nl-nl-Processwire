@@ -42,28 +42,28 @@
             "text": "Verwijder"
         },
         "88ab1471027561ff02fc8cfbd073ebc2": {
-            "text": "Wat moet er gebeuren met \"%s\"-items als de pagina waarin ze staan definitief wordt verwijderd?"
+            "text": "Wat moet er gebeuren met “%s”-items als de pagina waarin ze staan definitief wordt verwijderd?"
         },
         "a7e253cd8dd95da3e20daf45519a8dc2": {
             "text": "Prullenbak"
         },
         "bdea0eb389c61e57930d661c74b21423": {
-            "text": "Wat moet er gebeuren met \"%s\"-items als de pagina waarin ze staan naar de prullenbak wordt verplaatst?"
+            "text": "Wat moet er gebeuren met “%s”-items als de pagina waarin ze staan naar de prullenbak wordt verplaatst?"
         },
         "181e9a13059454fb2212f1bf10f394ac": {
             "text": "Depubliceren"
         },
         "22b094a7d09fdb1839dbfe384a0f4fac": {
-            "text": "Wat moet er gebeuren met \"%s\"-items als de pagina waarop ze staan niet meer gepubliceerd is?"
+            "text": "Wat moet er gebeuren met “%s”-items als de pagina waarop ze staan niet meer gepubliceerd is?"
         },
         "113931420c7a2560f63fcd9af198df3f": {
             "text": "Velden sorteren"
         },
         "b72b1e7470d1bbec8cb9ae2eb8843131": {
-            "text": "Voer de veldnaam in waarop je je tabel wilt sorteren. Voor een aflopende sortering zet je een koppelteken voor de veldnaam, dus bijvoorbeeld \"-date\" in plaats van \"date\"."
+            "text": "Voer de veldnaam in waarop je je tabel wilt sorteren. Voor een aflopende sortering zet je een koppelteken voor de veldnaam, dus bijvoorbeeld “-date” in plaats van “date”."
         },
         "bad3d943c1f7443d2205de6edd995d6e": {
-            "text": "Je kunt meerdere sorteervelden opgeven door ze met een komma van elkaar te scheiden, bijvoorbeeld \"last_name, first_name, -birthday\"."
+            "text": "Je kunt meerdere sorteervelden opgeven door ze met een komma van elkaar te scheiden, bijvoorbeeld “last_name, first_name, -birthday”."
         },
         "8198f788c0d53d819605c0dcdfdfe413": {
             "text": "Laat dit leeg voor handmatig sorteren via slepen en neerzetten (standaard)."

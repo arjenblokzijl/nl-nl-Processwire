@@ -33,10 +33,10 @@
             "text": "Toon alles"
         },
         "9f8ce5c6cbebc34795f4241c8932573a": {
-            "text": "(%d pagina's)"
+            "text": "(%d pagina’s)"
         },
         "411cec7236cb829a791512f1b67a0cc8": {
-            "text": "Verberg deze pagina's in de paginalijst(en)"
+            "text": "Verberg deze pagina’s in de paginalijst(en)"
         },
         "41df189ac4766e373988ce9c915491bc": {
             "text": "Kies een of meer pagina’s die je niet in de paginalijst(en) wilt laten verschijnen."
@@ -60,7 +60,7 @@
             "text": "Als dit aangevinkt is, kunnen gebruikers pagina’s in de prullenbak zien (alleen pagina’s waar ze toegang toe hebben)."
         },
         "98ee3deee3a12fa7795a82801d19a020": {
-            "text": "Hierdoor worden ook de acties „Prullenbak“ en „Herstellen“ ingeschakeld, voor zover de toegangsbeveiliging dit toestaat."
+            "text": "Hierdoor worden ook de acties “Prullenbak” en “Herstellen” ingeschakeld, voor zover de toegangsbeveiliging dit toestaat."
         },
         "157fa6b945671169a76bc677977f368d": {
             "text": "Naam van het paginaveld dat moet worden weergegeven"
@@ -69,7 +69,7 @@
             "text": "Elke pagina in een PageList wordt geïdentificeerd door een label, meestal een titel- of kopveld. Je kunt hier aangeven welk veld daarvoor moet worden gebruikt. Om meerdere velden op te geven, scheid je elke veldnaam met een spatie, of gebruik je je eigen opmaakstring met veldnamen tussen {brackets}. Als het veld verwijst naar een object (zoals een andere pagina), geef je de eigenschap aan met een punt, bijvoorbeeld {anotherpage.title}. Let op: als de door jou opgegeven opmaak een lege waarde oplevert, gebruikt ProcessWire het veld ‘paginanaam’ van de pagina."
         },
         "8593fb74b02478b2734e442f86507d7b": {
-            "text": "Je kunt deze instelling eventueel per template overschrijven in de „geavanceerde“ instellingen van elk template."
+            "text": "Je kunt deze instelling eventueel per template overschrijven in de “geavanceerde” instellingen van elk template."
         },
         "eceb8bf0921f19bb3ae6972e7902c887": {
             "text": "De standaardwaarde is %d."
@@ -78,7 +78,7 @@
             "text": "Als je de standaardwaarde aanhoudt, kun je deze instelling ook opgeven in de array $config->pageList."
         },
         "43da4fffe875f34908241df94ccb535b": {
-            "text": "Aantal pagina's dat moet worden weergegeven vóór paginering"
+            "text": "Aantal pagina’s dat moet worden weergegeven vóór paginering"
         },
         "94d3f06b64640bda750ee1d7c7527fe4": {
             "text": "Animatiesnelheid (in ms)"
@@ -90,7 +90,7 @@
             "text": "Type ‘aantal kinderen’"
         },
         "f472347ec718962a0e4560a410768cf1": {
-            "text": "In de paginalijst wordt, indien van toepassing, naast elke pagina een aantal subpagina's weergegeven. Welk type aantal moet er worden weergegeven?"
+            "text": "In de paginalijst wordt, indien van toepassing, naast elke pagina een aantal subpagina’s weergegeven. Welk type aantal moet er worden weergegeven?"
         },
         "8c06d8c7bf685599eb5de83ad4d79d08": {
             "text": "Bij het weergeven van onderliggende items omvat het aantal alle onderliggende items, ongeacht of deze voor de gebruikers zichtbaar zijn of niet."

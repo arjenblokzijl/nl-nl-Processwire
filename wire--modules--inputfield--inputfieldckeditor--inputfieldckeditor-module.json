@@ -33,10 +33,10 @@
             "text": "Voor de inline-modus van CKEditor is de module MarkupHTMLPurifier nodig. Gebruik in plaats daarvan de normale modus."
         },
         "c0f3672718e5216548a369b4fa6d8baf": {
-            "text": "De instellingen zijn geïmporteerd uit het veld „%s“."
+            "text": "De instellingen zijn geïmporteerd uit het veld “%s”."
         },
         "dd3cb0e0ae693323923326112f52c5c0": {
-            "text": "Bekijk de instellingen op het tabblad „Input“ in het veld „CKEditor-instellingen“ en klik vervolgens op „Opslaan“ om ze toe te passen."
+            "text": "Bekijk de instellingen op het tabblad “Input” in het veld “CKEditor-instellingen” en klik vervolgens op “Opslaan” om ze toe te passen."
         },
         "562a0d4331a8219587e48d0dca0efba5": {
             "text": "JE MOET OPNIEUW OPSLAAN OM DEZE INSTELLINGEN TE BEVESTIGEN."
@@ -78,10 +78,10 @@
             "text": "CKEditor-werkbalk"
         },
         "9022c2878a60d1f4ebc0f9f83a09975f": {
-            "text": "Scheid elk werkbalkitem met een komma. Groepeer items door ze op dezelfde regel te plaatsen en gebruik een koppelteken \"-\" als je binnen een groep een scheidingsteken wilt. Als je meer dan één werkbalkrij wilt, scheid elke rij dan met een lege regel."
+            "text": "Scheid elk werkbalkitem met een komma. Groepeer items door ze op dezelfde regel te plaatsen en gebruik een koppelteken “-” als je binnen een groep een scheidingsteken wilt. Als je meer dan één werkbalkrij wilt, scheid elke rij dan met een lege regel."
         },
         "e8ddfb44ace2866e54880497acd251e3": {
-            "text": "Zet een hekje \"#\" aan het begin van een regel als je wilt dat die wordt genegeerd."
+            "text": "Zet een hekje “#” aan het begin van een regel als je wilt dat die wordt genegeerd."
         },
         "f05a8abeb447b6720621d879a9197d00": {
             "text": "Beschikbare items in de standaardwerkbalk:"
@@ -135,7 +135,7 @@
             "text": "Afbeeldingsvelden die gebruikt kunnen worden voor afbeeldingen die je erin sleept of plakt"
         },
         "556255b8390dd04b90c0dca2b07da0aa": {
-            "text": "Als er geen velden zijn geselecteerd, wordt tijdens het uitvoeren automatisch een beschikbaar afbeeldingenveld gekozen. Als de optie „Geen“ is geselecteerd, wordt de functie uitgeschakeld."
+            "text": "Als er geen velden zijn geselecteerd, wordt tijdens het uitvoeren automatisch een beschikbaar afbeeldingenveld gekozen. Als de optie “Geen” is geselecteerd, wordt de functie uitgeschakeld."
         },
         "ba5c4d2fefb66dfdc969030e8d4726a6": {
             "text": "Geen (het uploaden van afbeeldingen via slepen en neerzetten uitschakelen)"
@@ -165,7 +165,7 @@
             "text": "Opmaaktags"
         },
         "eb58d10bb9587ab21ba79859997ea7f9": {
-            "text": "Door puntkomma’s gescheiden lijst met selecteerbare tags die in de vervolgkeuzelijst „format“ worden weergegeven."
+            "text": "Door puntkomma’s gescheiden lijst met selecteerbare tags die in de vervolgkeuzelijst “format” worden weergegeven."
         },
         "73dd33fa6157ee6008e269d67a2843e3": {
             "text": "De standaard opmaaktags zijn:"
@@ -174,7 +174,7 @@
             "text": "Extra toegestane inhoud"
         },
         "988677b6c211741551df50fd57a5d3f4": {
-            "text": "Regels voor toegestane inhoud volgens de CKEditor-optie [extraAllowedContent](http://docs.ckeditor.com/#!/api/CKEDITOR.config-cfg-extraAllowedContent). Geldt alleen als het selectievakje „Use ACF“ hierboven is aangevinkt."
+            "text": "Regels voor toegestane inhoud volgens de CKEditor-optie [extraAllowedContent](http://docs.ckeditor.com/#!/api/CKEDITOR.config-cfg-extraAllowedContent). Geldt alleen als het selectievakje “Use ACF” hierboven is aangevinkt."
         },
         "69262424661d8b544ebcba617e5772c6": {
             "text": "Je kunt meerdere regels invoeren door ze elk op een aparte regel te zetten."
@@ -204,7 +204,7 @@
             "text": "Aangepaste JS-stijlen voor de editor"
         },
         "749b7a2316f526ff2ec75692749211ad": {
-            "text": "Met deze optie kun je aangepaste stijlen specificeren die je in je editor kunt selecteren. Hiervoor moet je bovenaan in je werkbalkinstellingen een item „Stijlen“ hebben."
+            "text": "Met deze optie kun je aangepaste stijlen specificeren die je in je editor kunt selecteren. Hiervoor moet je bovenaan in je werkbalkinstellingen een item “Stijlen” hebben."
         },
         "2c3077a1dd5833c9dc6f49fe48e3ab71": {
             "text": "Als je dit gebruikt, voer dan per regel één **eigenschap: waarde** in, of gebruik een JSON-string."
@@ -249,7 +249,7 @@
             "text": "%s-instellingen"
         },
         "ced89926ebd1c95b56710b6a873b1e93": {
-            "text": "De instellingen van de plug-in voor „%s“ zijn niet geslaagd voor de JSON-validatie."
+            "text": "De instellingen van de plug-in voor “%s” zijn niet geslaagd voor de JSON-validatie."
         },
         "9048e64caaebf67509d533265f44414b": {
             "text": "Door komma’s gescheiden lijst met extra plug-ins die CKEditor moet laden."

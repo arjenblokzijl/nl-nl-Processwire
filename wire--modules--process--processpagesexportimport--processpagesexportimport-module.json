@@ -36,16 +36,16 @@
             "text": "Er zijn geen importgegevens om weer te geven"
         },
         "710dea6bdf095f0b2112f36943789222": {
-            "text": "Pagina's met de template „%s“ kunnen niet worden geïmporteerd, omdat die template hier niet bestaat."
+            "text": "Pagina’s met de template “%s” kunnen niet worden geïmporteerd, omdat die template hier niet bestaat."
         },
         "6c1d0fdc993bfa095bfa6a0cb500742e": {
-            "text": "Kies een template om te gebruiken bij het aanmaken van deze pagina's."
+            "text": "Kies een template om te gebruiken bij het aanmaken van deze pagina’s."
         },
         "612bd2323b570ffd7610d860b5fc5b9a": {
-            "text": "OK: Template „%1$s“ vervangen door „%2$s“"
+            "text": "OK: Template “%1$s” vervangen door “%2$s”"
         },
         "a700c516b508fc37ecbdd5ef3e4149c3": {
-            "text": "Kies een vervanging voor het template met de naam „%s“"
+            "text": "Kies een vervanging voor het template met de naam “%s”"
         },
         "037ef64f930a701f646e32b659309203": {
             "text": "Er verschijnt een veld met de naam “%s” van het type *%s* in de importgegevens, maar dit bestaat lokaal niet."
@@ -54,10 +54,10 @@
             "text": "Als je dit veld wilt importeren, selecteer dan hier een vervangend veld."
         },
         "b27e66177b699de288b50b3736392350": {
-            "text": "OK: Veld „%1$s“ vervangen door „%2$s“"
+            "text": "OK: Veld “%1$s” vervangen door “%2$s”"
         },
         "9f2156a6e113d013e84f6b3d0f787f70": {
-            "text": "Kies een vervanging voor het VELD met de naam „%s“"
+            "text": "Kies een vervanging voor het VELD met de naam “%s”"
         },
         "f3418f35aed2653864c898b1fbfa7f89": {
             "text": "Mogelijke vervangende velden"
@@ -69,16 +69,16 @@
             "text": "Kies een nieuwe bovenliggende module"
         },
         "39131ec4699f5661159842adf4828d87": {
-            "text": "Pagina's met als bovenliggende pagina „%s“ kunnen niet worden geïmporteerd, omdat die pagina hier niet bestaat."
+            "text": "Pagina’s met als bovenliggende pagina “%s” kunnen niet worden geïmporteerd, omdat die pagina hier niet bestaat."
         },
         "9d9d340fef6ece85d9fa8cb168e4cc4b": {
-            "text": "Kies een bovenliggende pagina om te gebruiken in plaats van deze pagina's aan te maken."
+            "text": "Kies een bovenliggende pagina om te gebruiken in plaats van deze pagina’s aan te maken."
         },
         "3b3a36a05707eb5bd0c5a9c6ef8b6bcc": {
             "text": "OK: PARENT “%1$s” vervangen door “%2$s”"
         },
         "6d4769b2c4ab2c7c6596715d9a95b10a": {
-            "text": "Kies een vervanging voor PARENT met de naam „%s“"
+            "text": "Kies een vervanging voor PARENT met de naam “%s”"
         },
         "b8fd4cfffa13fd37bbb33085b3d99559": {
             "text": "Conflicten met bronnen"
@@ -90,25 +90,25 @@
             "text": "Importmodus"
         },
         "a865157a6095cc25e9db226471350ac0": {
-            "text": "Maak nieuwe pagina's aan en werk bestaande pagina's bij"
+            "text": "Maak nieuwe pagina’s aan en werk bestaande pagina’s bij"
         },
         "093ee62b9967049d867742cc37db9ec6": {
             "text": "Maak alleen nieuwe pagina’s aan"
         },
         "5d22ed76c96cfc210e6659bf465c29d9": {
-            "text": "Sla pagina's over bij het importeren die al bestaan"
+            "text": "Sla pagina’s over bij het importeren die al bestaan"
         },
         "8e0e1c009bd6cdb0c55e6d1ab601f9c5": {
             "text": "Alleen bestaande pagina’s bijwerken"
         },
         "c420555a575c97be4ef7ef4c6335eabd": {
-            "text": "Sla pagina's over bij het importeren die nog niet bestaan"
+            "text": "Sla pagina’s over bij het importeren die nog niet bestaan"
         },
         "fbd52bbf346d30a5a3c3735d4fd11249": {
-            "text": "Pagina's onder bovenliggende pagina importeren"
+            "text": "Pagina’s onder bovenliggende pagina importeren"
         },
         "f725a6ddc1137ce2162d1adcfb06e5e5": {
-            "text": "Indien opgegeven, worden de pagina's geïmporteerd naar de hier geselecteerde bovenliggende pagina."
+            "text": "Indien opgegeven, worden de pagina’s geïmporteerd naar de hier geselecteerde bovenliggende pagina."
         },
         "bc148f36b892cd236d9524d31b92ed3a": {
             "text": "Kies bovenliggende pagina"
@@ -117,7 +117,7 @@
             "text": "Importeer pagina’s in de geselecteerde bovenliggende pagina en behoud de paginastructuur daaronder"
         },
         "9a4182341877068a0de58ca06532a6b5": {
-            "text": "Importeer pagina's alleen als subpagina's van de geselecteerde bovenliggende pagina"
+            "text": "Importeer pagina’s alleen als subpagina’s van de geselecteerde bovenliggende pagina"
         },
         "56e30d5f1290e2bc227c986608645134": {
             "text": "Toegestane velden bij het importeren"
@@ -144,13 +144,13 @@
             "text": "Paginastatus"
         },
         "a6425901f3af36ae6ccc9a92b131595a": {
-            "text": "Sorteerindex van pagina's"
+            "text": "Sorteerindex van pagina’s"
         },
         "9eeba151032b58ca649253627b317237": {
             "text": "Paginametadata"
         },
         "a84ab456be63f90daf5d14573d3a4837": {
-            "text": "Pagina's importeren"
+            "text": "Pagina’s importeren"
         },
         "993d770e8a02574766cb9e77f05166d1": {
             "text": "Testimport"
@@ -198,22 +198,22 @@
             "text": "Nee"
         },
         "726d6246df516f81a1716ab64006f70a": {
-            "text": "Welke pagina's wil je exporteren?"
+            "text": "Welke pagina’s wil je exporteren?"
         },
         "9a4ecf5d3003837af473e07e59527178": {
-            "text": "Pagina's die ik selecteer"
+            "text": "Pagina’s die ik selecteer"
         },
         "d1ae61f175e8cff2fe2b233bd744601a": {
-            "text": "Pagina's met een bovenliggende pagina"
+            "text": "Pagina’s met een bovenliggende pagina"
         },
         "0c0f61a363c410be945c0c948ce24dbd": {
-            "text": "Pagina's die aan de zoekopdracht voldoen"
+            "text": "Pagina’s die aan de zoekopdracht voldoen"
         },
         "4947db62e5b74b73e637f5c4533871c3": {
-            "text": "Selecteer pagina's"
+            "text": "Selecteer pagina’s"
         },
         "4fd182637e2da2b261886dfae6c01659": {
-            "text": "Kies een of meer pagina's om mee te nemen in de export."
+            "text": "Kies een of meer pagina’s om mee te nemen in de export."
         },
         "dc52b4466bd46f4f22f8a5a3049a5357": {
             "text": "Kies de bovenliggende pagina"
@@ -234,13 +234,13 @@
             "text": "Exporteert de boomstructuur van pagina’s in plaats van alleen directe subpagina’s"
         },
         "42fdbb35b46ad8e66130cc690f8d2e84": {
-            "text": "Neem verborgen pagina's mee"
+            "text": "Neem verborgen pagina’s mee"
         },
         "c7b7b2c71efc438029169573f0c7e7d5": {
-            "text": "Neem ook verborgen en niet gepubliceerde pagina's mee"
+            "text": "Neem ook verborgen en niet gepubliceerde pagina’s mee"
         },
         "afbe62b4d04b9023683b0b64f63fb629": {
-            "text": "Maak een zoekfunctie om pagina's te selecteren voor export"
+            "text": "Maak een zoekfunctie om pagina’s te selecteren voor export"
         },
         "5487c98ab1a908b9700fa20e3a3ffc1f": {
             "text": "Voeg een of meer velden toe om pagina’s te zoeken en te selecteren voor export."
@@ -279,7 +279,7 @@
             "text": "ZIP-bestand downloaden"
         },
         "f27cd90ca25ec83caa63a757fc2efcb4": {
-            "text": "Gegevens voor het exporteren van pagina's om te kopiëren en te plakken"
+            "text": "Gegevens voor het exporteren van pagina’s om te kopiëren en te plakken"
         },
         "3e0018e76b5cc05092e1129c9b46dad7": {
             "text": "Klik ergens in de onderstaande tekst om deze te selecteren en te kopiëren."
@@ -294,25 +294,25 @@
             "text": "%d pagina geïmporteerd"
         },
         "76c8ca770c404ebb67fe48d039cf9956": {
-            "text": "%d pagina's geïmporteerd"
+            "text": "%d pagina’s geïmporteerd"
         },
         "99c9efe732e034ed4b07956b67ae8677": {
-            "text": "%d pagina's geïmporteerd (getest)"
+            "text": "%d pagina’s geïmporteerd (getest)"
         },
         "c856d1123aa9d66e1534cd282b3ce877": {
-            "text": "%d pagina's geïmporteerd (getest)"
+            "text": "%d pagina’s geïmporteerd (getest)"
         },
         "c9b0a12dc552dbd618bd32115aff0a23": {
-            "text": "%d pagina's gevonden om te importeren"
+            "text": "%d pagina’s gevonden om te importeren"
         },
         "cde6a4cf0bc2c5dea574eb1384c6d083": {
-            "text": "%d pagina's gevonden om te importeren"
+            "text": "%d pagina’s gevonden om te importeren"
         },
         "e952a9e4d7f52080bd9d79e49d50c57e": {
-            "text": "Deze export bevat %d pagina's."
+            "text": "Deze export bevat %d pagina’s."
         },
         "a5e9f843454d6e5f8aef06784d94e3a2": {
-            "text": "Deze export bevat %d pagina's."
+            "text": "Deze export bevat %d pagina’s."
         }
     }
 }

@@ -69,7 +69,7 @@
             "text": "Datumnotatie"
         },
         "414f2eb480e8f38b6f93f41ca28279fb": {
-            "text": "Datumnotatie die wordt gebruikt voor meldingen. Gebruik de notatie van date() of strftime(), of „relative“ voor relatieve datum/tijd, „rel“ voor afgekorte datum/tijd."
+            "text": "Datumnotatie die wordt gebruikt voor meldingen. Gebruik de notatie van date() of strftime(), of “relative” voor relatieve datum/tijd, “rel” voor afgekorte datum/tijd."
         },
         "64a87d656e89eca4f73f4ecda74480f5": {
             "text": "Meldingspictogram"
@@ -90,7 +90,7 @@
             "text": "Vertraging bij spookfout"
         },
         "0673410c6de314e9317a7f593f6a99b6": {
-            "text": "Hoe lang 'ghost'-fouten zichtbaar blijven (in ms)."
+            "text": "Hoe lang ‘ghost’-fouten zichtbaar blijven (in ms)."
         },
         "cc7148e90f03a6539cd11c343d8fdf8a": {
             "text": "Ghost volledige dekking"

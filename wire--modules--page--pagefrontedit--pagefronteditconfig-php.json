@@ -102,7 +102,7 @@
             "text": "Gebruik $page->edit(\"%s\"); in plaats van $page->%s; als je de waarde wilt weergeven."
         },
         "a88ea479a9d66a019262dbfd5b4879b7": {
-            "text": "Een van de volgende syntaxisopties wordt ondersteund (kies er één). De \"1001\" kan elk pagina-ID of pad zijn, en de \"...\" kan elke opmaak of code zijn, meestal waar je je veldwaarde weergeeft."
+            "text": "Een van de volgende syntaxisopties wordt ondersteund (kies er één). De “1001” kan elk pagina-ID of pad zijn, en de “...” kan elke opmaak of code zijn, meestal waar je je veldwaarde weergeeft."
         },
         "48f403566075715027bd7fc9e1902cbc": {
             "text": "Optie C: Voeg HTML-bewerkingstags toe om een bewerkbaar gebied te maken"

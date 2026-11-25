@@ -63,7 +63,7 @@
             "text": "Alle geselecteerde typen kunnen nog steeds worden doorzocht als daar specifiek om wordt gevraagd in de zoekopdracht."
         },
         "5b2201bc8bf61333c472ab98b9f3b2c3": {
-            "text": "Als je bijvoorbeeld het type „prullenbak“ hebt uitgesloten, kun je er toch naar zoeken als je „prullenbak=“ voor je zoekopdracht zet, zoals „prullenbak=hello“."
+            "text": "Als je bijvoorbeeld het type “prullenbak” hebt uitgesloten, kun je er toch naar zoeken als je “prullenbak=” voor je zoekopdracht zet, zoals “prullenbak=hello”."
         },
         "608da9c856f25abd4d2a774f9c5aa9a0": {
             "text": "(instellingen voor pagina-typen)"
@@ -72,19 +72,19 @@
             "text": "Paginavelden om in te zoeken"
         },
         "14521e8e790db172e8c476f9d77291c0": {
-            "text": "Dit geldt alleen voor zoekresultaten uit „pagina's“ en „prullenbak“."
+            "text": "Dit geldt alleen voor zoekresultaten uit “pagina’s” en “prullenbak”."
         },
         "4f745aea666e6efcb5ff18f1d9275693": {
-            "text": "We raden aan dit te beperken tot maximaal 1 of 2 velden, zodat de live-zoekfunctie snel blijft. Meestal zoek je gewoon in het veld „titel“."
+            "text": "We raden aan dit te beperken tot maximaal 1 of 2 velden, zodat de live-zoekfunctie snel blijft. Meestal zoek je gewoon in het veld “titel”."
         },
         "719994663f2fff9ce4cd0935acc6c6a5": {
-            "text": "Velden op de pagina's waarin wordt gezocht als de gebruiker op ‘enter’ drukt in het zoekvak"
+            "text": "Velden op de pagina’s waarin wordt gezocht als de gebruiker op ‘enter’ drukt in het zoekvak"
         },
         "50570447523d04b47c7c79f8c135a3ae": {
             "text": "Meestal is dit hetzelfde als hierboven, maar misschien wil je ook nog een of meer velden toevoegen."
         },
         "72dc6e522da22345e91fd3dde26d792e": {
-            "text": "Je wilt bijvoorbeeld niet alleen in het veld „title“ zoeken, maar misschien ook in het veld „body“."
+            "text": "Je wilt bijvoorbeeld niet alleen in het veld “title” zoeken, maar misschien ook in het veld “body”."
         },
         "f9702fc01ddd6b314fe6d74ac54995b6": {
             "text": "Standaardzoekoperator voor het zoeken naar hele woorden en woorddelen"
@@ -105,13 +105,13 @@
             "text": "Zoeken"
         },
         "8aa55d906b86496efeb66b0eae7d75ce": {
-            "text": "Pagina's"
+            "text": "Pagina’s"
         },
         "1da914fe3f639d8b3d977a006d2b0c69": {
             "text": "%1$d pagina gevonden met de selector: %2$s"
         },
         "dc87414810d43e27f63b89feabadc943": {
-            "text": "%1$d pagina's gevonden met de selector: %2$s"
+            "text": "%1$d pagina’s gevonden met de selector: %2$s"
         }
     }
 }

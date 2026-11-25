@@ -72,7 +72,7 @@
             "text": "Tag: %s"
         },
         "57020ebc4e816481c2fd141b4bcca835": {
-            "text": "Het veld „%s“ kan niet worden verwijderd omdat het momenteel in gebruik is"
+            "text": "Het veld “%s” kan niet worden verwijderd omdat het momenteel in gebruik is"
         },
         "497db2bfe73864055c60f55095d94707": {
             "text": "%d veld(en) verwijderd: %s"
@@ -96,16 +96,16 @@
             "text": "Om deze tag te verwijderen, moet je alle velden eruit halen."
         },
         "ed4def612e69863794dc9c98db08b464": {
-            "text": "Tag „%1$s“ toegevoegd aan veld: %2$s"
+            "text": "Tag “%1$s” toegevoegd aan veld: %2$s"
         },
         "ab7c81ccbce2415afa58b092a3c58162": {
-            "text": "Tag „%1$s“ uit veld verwijderd: %2$s"
+            "text": "Tag “%1$s” uit veld verwijderd: %2$s"
         },
         "d80b6b9388a3f3767f80be5c2ab78976": {
             "text": "Met tags kun je verzamelingen van velden maken om weer te geven of te doorzoeken."
         },
         "718bd4be79fcb0bac1a4ff2e4528d45d": {
-            "text": "Waarschuwing: de tag „%s“ heeft dezelfde naam als een veld."
+            "text": "Waarschuwing: de tag “%s” heeft dezelfde naam als een veld."
         },
         "9fc8691fab39cc1433cd39430edb0501": {
             "text": "Voeg een nieuwe tag toe"
@@ -123,7 +123,7 @@
             "text": "te gebruiken in combinatie met: %s"
         },
         "aa4c25b56e75fc2bb56256932d820a04": {
-            "text": "bij gebruik met template „%1$s“ in context „%2$s“"
+            "text": "bij gebruik met template “%1$s” in context “%2$s”"
         },
         "113304cf8780906880d1e29935deab16": {
             "text": "bij gebruik in een template: %s"
@@ -138,7 +138,7 @@
             "text": "...enzovoort..."
         },
         "f46277b28f420e695210233a9f1401fc": {
-            "text": "Voer alsjeblieft \"Acties > Veldgegevens controleren\" uit op veld %s"
+            "text": "Voer alsjeblieft “Acties > Veldgegevens controleren” uit op veld %s"
         },
         "bd5aef6293f875aa908466a69c08a14a": {
             "text": "Er zijn geen problemen gevonden voor veld %s"
@@ -150,7 +150,7 @@
             "text": "De volgende eigenschappen zijn bij dit veld aangetroffen zonder dat er tijdens de configuratie toegang toe is geweest. Soms kan dit erop wijzen dat de eigenschappen niet meer in gebruik zijn. Vink het vakje aan naast elke eigenschap die je wilt verwijderen. Als je het niet zeker weet, kan het geen kwaad om ze gewoon te laten staan."
         },
         "b2ab31c6f8fbc066d4840baa6c081821": {
-            "text": "Er zijn mogelijk onbekende eigenschappen in dit veld gevonden. Kijk even bij het tabblad „Waarschuwing“."
+            "text": "Er zijn mogelijk onbekende eigenschappen in dit veld gevonden. Kijk even bij het tabblad “Waarschuwing”."
         },
         "292694f229d9162dd0a6510ff0745d4f": {
             "text": "%d overgebleven tabelrijen verwijderen?"
@@ -420,19 +420,19 @@
             "text": "Veldnamen mogen alleen ASCII-letters, cijfers of een onderstrepingsteken bevatten."
         },
         "2d596b898eecf76afa1f7cca2490f219": {
-            "text": "Veldnaam „%s“ wordt al gebruikt"
+            "text": "Veldnaam “%s” wordt al gebruikt"
         },
         "d0de87a477316bfd58f0bf2b1ae2d40d": {
-            "text": "Veldnaam „%s“ is een gereserveerd woord"
+            "text": "Veldnaam “%s” is een gereserveerd woord"
         },
         "65016ddfb236155b595fb479c695866b": {
-            "text": "Veldnamen mogen niet beginnen met \"_\" of cijfers"
+            "text": "Veldnamen mogen niet beginnen met “_” of cijfers"
         },
         "7d21b87f847b61b92648b2050c3c0529": {
             "text": "De veldnaam mag niet hetzelfde zijn als een taalnaam"
         },
         "6ed7cdaf5655ad6feaf61425896fca0e": {
-            "text": "Fout bij het instellen van „%s“"
+            "text": "Fout bij het instellen van “%s”"
         },
         "86cdc0e0ad458e6450b25153b0ca0248": {
             "text": "(je hebt “%s” opgegeven)"
@@ -441,7 +441,7 @@
             "text": "Kan niet valideren"
         },
         "07f32475d23721446e940087c7e26b53": {
-            "text": "Dit werkt niet, omdat waarden pagina-ID's moeten zijn"
+            "text": "Dit werkt niet, omdat waarden pagina-ID’s moeten zijn"
         },
         "71f8bd77c0780518e62960d62ebd72bd": {
             "text": "Context-override verwijderd"
@@ -450,7 +450,7 @@
             "text": "Type voor veld wijzigen: %s"
         },
         "a3d843d337eabebe3e81df9bfef414ea": {
-            "text": "Verander het fieldtype van „%1$s“ naar „%2$s“"
+            "text": "Verander het fieldtype van “%1$s” naar “%2$s”"
         },
         "7d04592612713885f95f51cca38d5708": {
             "text": "Let op: als je het fieldtype wijzigt, verandert het databaseschema. Als het nieuwe fieldtype niet compatibel is met het oude, of als het een aanzienlijk ander schema heeft, kan er gegevensverlies optreden. Daarom raden we je aan om een back-up van de database te maken voordat je een fieldtype wijzigt."
@@ -474,10 +474,10 @@
             "text": "Fieldtype gewijzigd"
         },
         "b9b9ac08c6bde335d1b5758d4dfcd1da": {
-            "text": "Verwijder het veld „%1$s“ uit de template „%2$s“"
+            "text": "Verwijder het veld “%1$s” uit de template “%2$s”"
         },
         "e84730e92daf0ff6f2ff21874c281f4e": {
-            "text": "Bevestig het verwijderen van het veld „%1$s“ uit de template „%2$s“"
+            "text": "Bevestig het verwijderen van het veld “%1$s” uit de template “%2$s”"
         },
         "d3abfd9fce44bd366ad49c2614136c14": {
             "text": "WAARSCHUWING: Dit zorgt ervoor dat gegevens die aan het veld zijn gekoppeld, definitief worden verwijderd."
@@ -495,10 +495,10 @@
             "text": "Template: %s"
         },
         "8aa6cad0a41ed8f9776dd6a09805c5ae": {
-            "text": "Voeg het veld „%1$s“ toe aan de template „%2$s“"
+            "text": "Voeg het veld “%1$s” toe aan de template “%2$s”"
         },
         "968c4c39df4617d7356ee14137658f3f": {
-            "text": "Waar wil je \"%s\" toevoegen?"
+            "text": "Waar wil je “%s” toevoegen?"
         },
         "6620d0d6ed9996e374e77091f72102be": {
             "text": "Vóór %s"
@@ -519,16 +519,16 @@
             "text": "Bekijk dit even en pas je wijzigingen aan of bevestig ze"
         },
         "368f6a2142a5d1f203ccd1a9bd8d974f": {
-            "text": "Veld „%1$s“ toegevoegd aan template „%2$s“ vóór „%3$s“"
+            "text": "Veld “%1$s” toegevoegd aan template “%2$s” vóór “%3$s”"
         },
         "43f591d56700e6bc6184a8457711d4ed": {
-            "text": "Veld „%1$s“ toegevoegd aan template „%2$s“ na „%3$s“"
+            "text": "Veld “%1$s” toegevoegd aan template “%2$s” na “%3$s”"
         },
         "2dc7474fc7cd98da4c757c25d5acd451": {
-            "text": "Veld „%1$s“ verwijderd uit template „%2$s“"
+            "text": "Veld “%1$s” verwijderd uit template “%2$s”"
         },
         "092a2d93903f42f67e257ba6fb82d6a2": {
-            "text": "Fout bij het verwijderen van \"%1$s\" uit template \"%2$s\""
+            "text": "Fout bij het verwijderen van “%1$s” uit template “%2$s”"
         },
         "521c36a31c2762741cf0f8890cbe05e3": {
             "text": "Aan"
@@ -663,7 +663,7 @@
             "text": "Acties"
         },
         "995ed8becc596409849c6a652fbf5cd4": {
-            "text": "Ingevulde pagina's"
+            "text": "Ingevulde pagina’s"
         },
         "ceb446e97d336c84d1f870ce7840e4ba": {
             "text": "Rijen met gegevens"

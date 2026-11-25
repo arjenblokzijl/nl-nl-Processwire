@@ -24,7 +24,7 @@
             "text": "d-m-Y H:i"
         },
         "3c59f93c033e789777be18c1ad66b13b": {
-            "text": "%d bestaande pagina('s) aan de tabel toegevoegd"
+            "text": "%d bestaande pagina(’s) aan de tabel toegevoegd"
         },
         "9ea0c76f6c8f1bc93ccb7f5825d8da15": {
             "text": "Tabelvelden die in het beheerdersgedeelte moeten worden weergegeven"
@@ -33,7 +33,7 @@
             "text": "Voer de namen van de velden in (1 per regel) die je als kolommen in de tabel wilt weergeven."
         },
         "b4defb37338400f9b9d8fea43ce91d5d": {
-            "text": "Om een kolombreedte voor het veld op te geven, voer je \"field_name=30\" in, waarbij \"30\" de breedte (in procenten) van de kolom is."
+            "text": "Om een kolombreedte voor het veld op te geven, voer je “field_name=30” in, waarbij “30” de breedte (in procenten) van de kolom is."
         },
         "13d4ce65721e3a572b5f089398240c50": {
             "text": "Zorg er bij het opgeven van breedtes voor dat de som van alle kolommen 100 is."
@@ -42,7 +42,7 @@
             "text": "Je kunt elk standaard- of aangepast veld opgeven."
         },
         "ef69a322821bbe5d9851f05bd132068d": {
-            "text": "Je kunt ook subvelden (field.subfield) gebruiken bij velden die meerdere eigenschappen bevatten, zoals referenties naar pagina's."
+            "text": "Je kunt ook subvelden (field.subfield) gebruiken bij velden die meerdere eigenschappen bevatten, zoals referenties naar pagina’s."
         },
         "c775db1b4b86e060f703a4e7cedc292f": {
             "text": "De aangepaste velden die aan je geselecteerde templates zijn toegewezen, zijn onder andere:"
@@ -54,7 +54,7 @@
             "text": "Automatische opmaak van paginanaam"
         },
         "a5049200083d5f9dc1767587f109869f": {
-            "text": "Als dit is ingevuld, worden er automatisch pagina’s aangemaakt met deze naamopmaak telkens wanneer een gebruiker op de knop „Nieuw toevoegen“ klikt."
+            "text": "Als dit is ingevuld, worden er automatisch pagina’s aangemaakt met deze naamopmaak telkens wanneer een gebruiker op de knop “Nieuw toevoegen” klikt."
         },
         "50716328038d96ec903e9aa46536fba9": {
             "text": "Als je dit veld leeg laat, wordt de gebruiker gevraagd een naam voor de pagina in te voeren voordat deze wordt aangemaakt."

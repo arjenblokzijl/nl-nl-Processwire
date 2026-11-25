@@ -21,7 +21,7 @@
             "text": "Ja (alles)"
         },
         "3dbbad2a19b63578a38458d5c9b08980": {
-            "text": "Let op: de optie „all“ zorgt ervoor dat de volgende tekens (wanneer ze als entiteit zijn gecodeerd) worden gedecodeerd, zelfs als ze niet door SmartyPants zijn ingevoegd:"
+            "text": "Let op: de optie “all” zorgt ervoor dat de volgende tekens (wanneer ze als entiteit zijn gecodeerd) worden gedecodeerd, zelfs als ze niet door SmartyPants zijn ingevoegd:"
         }
     }
 }

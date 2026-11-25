@@ -6,7 +6,7 @@ aren't included.
 
 ## Coverage
 
-Made for **ProcessWire 3.0.270**. The pack has a translation for every phrase in the core at that
+Version **1.1.0**. Made for **ProcessWire 3.0.270**. The pack has a translation for every phrase in the core at that
 version: 4,745 phrases in 220 files. Translations are matched on their English text, so they also
 work in older and newer 3.x versions, for every phrase that hasn't changed.
 
@@ -67,3 +67,4 @@ request.
 The repository was originally created by Jasper Metselaar ([formmailer](https://github.com/formmailer)).
 From March 2015 it was maintained by Arjen Blokzijl ([arjenblokzijl](https://github.com/arjenblokzijl)).
 Their translations are still part of this pack.
+The 2026 update for ProcessWire 3 is by Eelke Feenstra ([eelke](https://github.com/eelke)).

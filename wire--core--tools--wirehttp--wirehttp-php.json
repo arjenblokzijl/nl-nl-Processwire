@@ -3,7 +3,7 @@
     "textdomain": "wire--core--tools--wirehttp--wirehttp-php",
     "translations": {
         "77c7f3f51ebd4fa702990b4e33b1b168": {
-            "text": "Download-URL's moeten beginnen met http:// of https://"
+            "text": "Download-URL’s moeten beginnen met http:// of https://"
         },
         "0209b06558d47ad36cee247c670ff405": {
             "text": "Het bestand kon niet worden gedownload"

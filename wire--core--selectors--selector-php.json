@@ -42,7 +42,7 @@
             "text": "Bevat de zin"
         },
         "d6cafb5b9a6d5fb02a5bf5a2b039b436": {
-            "text": "De gegeven tekst komt voor in de waarde 'vergeleken met'."
+            "text": "De gegeven tekst komt voor in de waarde ‘vergeleken met’."
         },
         "694fa795bb560275200877a98153bf50": {
             "text": "De opgegeven zin of het opgegeven woord komt voor in de waarde waarmee wordt vergeleken."
@@ -81,7 +81,7 @@
             "text": "Zoekt gedeeltelijke overeenkomsten met het laatste woord in de opgegeven waarde."
         },
         "8fe723f4bcc806144c8521349ae0d4c4": {
-            "text": "Maakt gebruik van een „fulltext“-index."
+            "text": "Maakt gebruik van een “fulltext”-index."
         },
         "b95c9268b2e2bd8bf23ac47accef8675": {
             "text": "Zoek met behulp van “like”."

@@ -36,7 +36,7 @@
             "text": "De naam van de template voldoet niet aan het vereiste formaat."
         },
         "690d663be740c77b16476dfd06a4a4b7": {
-            "text": "De naam „%s“ wordt al gebruikt"
+            "text": "De naam “%s” wordt al gebruikt"
         },
         "49ee3087348e8d44e1feda1917443987": {
             "text": "Naam"
@@ -75,13 +75,13 @@
             "text": "Systeemtemplates weergeven?"
         },
         "19a3fc9f896f1ef86f69f782be122c37": {
-            "text": "Standaard worden systeem-/interne templates niet weergegeven. Klik op 'Ja' om ze op te nemen in de onderstaande lijst met templates."
+            "text": "Standaard worden systeem-/interne templates niet weergegeven. Klik op ‘Ja’ om ze op te nemen in de onderstaande lijst met templates."
         },
         "86ec8350e4740a4cc47328ee7c984d40": {
             "text": "Nieuwe templates toevoegen"
         },
         "21c9aab0c5b8085a7b4a9267c6db3820": {
-            "text": "Template-naam „%s“ niet toegevoegd omdat deze alleen uit cijfers bestaat."
+            "text": "Template-naam “%s” niet toegevoegd omdat deze alleen uit cijfers bestaat."
         },
         "ff6be05386ed6fc79ccf24b5eb9432ac": {
             "text": "Template en veldgroep toegevoegd: %s"
@@ -150,7 +150,7 @@
             "text": "(standaard)"
         },
         "6a0219d2a4cc5325013a373b1da9fa8f": {
-            "text": "Ter referentie: dit is een lijst met velden die door deze template worden gebruikt. Deze template haalt zijn velden uit de template „%s“."
+            "text": "Ter referentie: dit is een lijst met velden die door deze template worden gebruikt. Deze template haalt zijn velden uit de template “%s”."
         },
         "78f0addb345c31ce3601b53076e87281": {
             "text": "Definieer de aangepaste velden voor “%s”. Je hoeft hier verder niets te configureren."
@@ -249,13 +249,13 @@
             "text": "*Om de prestaties te optimaliseren, worden cachebestanden allemaal als groep verlopen in plaats van afzonderlijk gewist."
         },
         "7ebdcad871020558be972578bdf46a10": {
-            "text": "Geef aan welke andere pagina's hun cache moeten worden gewist"
+            "text": "Geef aan welke andere pagina’s hun cache moeten worden gewist"
         },
         "501a09415d30cab1819195e5566a0c0d": {
             "text": "Als pagina’s die deze template gebruiken worden opgeslagen, worden hun cachebestanden gewist. Selecteer hieronder de andere pagina’s waarvan je ook de cachebestanden wilt wissen."
         },
         "f62b09e2a4c1eb3583afe9c213b981c8": {
-            "text": "Selector om de andere pagina's te vinden waarvan de cache moet worden gewist."
+            "text": "Selector om de andere pagina’s te vinden waarvan de cache moet worden gewist."
         },
         "dcbec326309994892030ce4aa6f72f75": {
             "text": "Sla deze template op en kom dan hier terug om je selector in te stellen."
@@ -264,7 +264,7 @@
             "text": "Selector voor het verlopen van de cache"
         },
         "d6b522c2ed20093505dfa63be2ba0454": {
-            "text": "Cache bij het weergeven van pagina's voor deze gebruikers"
+            "text": "Cache bij het weergeven van pagina’s voor deze gebruikers"
         },
         "787f82b093280bcb87901ea228d7b083": {
             "text": "Alleen voor gasten"
@@ -273,7 +273,7 @@
             "text": "Gasten en ingelogde gebruikers"
         },
         "8d5e98c594942c49efea1af30c90efe5": {
-            "text": "Let op: de cache is altijd uitgeschakeld voor pagina's waarvoor de gebruiker bewerkingsrechten heeft, ongeacht wat je hier selecteert."
+            "text": "Let op: de cache is altijd uitgeschakeld voor pagina’s waarvoor de gebruiker bewerkingsrechten heeft, ongeacht wat je hier selecteert."
         },
         "d1db89af3df82862d45c9755e9aa0075": {
             "text": "GET-variabelen uitschakelen in de cache"
@@ -297,13 +297,13 @@
             "text": "Elke tag moet uit één woord bestaan (woordafbreking is toegestaan)."
         },
         "f578ef5a7330291e151dc6052fe85bfe": {
-            "text": "Je kunt desgewenst het standaardlabel van het tabblad „Inhoud“ overschrijven."
+            "text": "Je kunt desgewenst het standaardlabel van het tabblad “Inhoud” overschrijven."
         },
         "5fda5af59d211bd673998a69f051c3f2": {
-            "text": "Je kunt desgewenst het standaardlabel van het tabblad „Children“ overschrijven."
+            "text": "Je kunt desgewenst het standaardlabel van het tabblad “Children” overschrijven."
         },
         "4a49f761ce504d9c073de20eba6ca069": {
-            "text": "Je kunt desgewenst het standaardlabel voor de eigenschap „Naam“ overschrijven."
+            "text": "Je kunt desgewenst het standaardlabel voor de eigenschap “Naam” overschrijven."
         },
         "4a290c3c1090e21dd600de5f741fa083": {
             "text": "Actie bij verplicht veld"
@@ -351,19 +351,19 @@
             "text": "Als dit vakje is aangevinkt, kunnen pagina’s die deze template gebruiken niet meer naar een andere template overschakelen."
         },
         "29f47bc61ea7a6f45ee3d36da3a3feff": {
-            "text": "Laat geen niet gepubliceerde pagina's toe"
+            "text": "Laat geen niet gepubliceerde pagina’s toe"
         },
         "94c9fe9ddbd9380ceb726bef40232ea3": {
             "text": "Als dit vakje is aangevinkt, mogen pagina’s die deze template gebruiken alleen in de gepubliceerde status staan en mogen ze niet niet gepubliceerd worden."
         },
         "6064635b0dec3189859052c02adc0fc5": {
-            "text": "Mag de 'aangemaakte gebruiker' op pagina's worden gewijzigd?"
+            "text": "Mag de ‘aangemaakte gebruiker’ op pagina’s worden gewijzigd?"
         },
         "16a657e6bf4576ef101f1bcca129694c": {
             "text": "Als dit aangevinkt is, krijgen pagina’s die deze template gebruiken de optie om de ‘aangemaakt door gebruiker’ te wijzigen (alleen voor supergebruikers). Ook wordt het dan mogelijk om de velden $page->createdUser of $page->created_users_id via de API op te slaan."
         },
         "42a6e7a5ed0d0ae111fa88a2ccf1aca2": {
-            "text": "Mag je niet toestaan dat pagina's worden verplaatst?"
+            "text": "Mag je niet toestaan dat pagina’s worden verplaatst?"
         },
         "518270f594c5488ff1f8de2ac0429f0e": {
             "text": "Als je wilt voorkomen dat pagina’s die deze template gebruiken, worden verplaatst (van bovenliggende pagina veranderen), vink dan dit vakje aan."
@@ -381,7 +381,7 @@
             "text": "Systeemvlag?"
         },
         "e92f2f24e876c414f6cca0e1ed3bfa73": {
-            "text": "Als dit aangevinkt is, wordt deze template gedefinieerd als 'voor het systeem' en kan deze niet meer worden verwijderd. Zodra de systeemvlag is ingeschakeld, kan deze alleen nog via de API (flagSystemOverride) worden verwijderd."
+            "text": "Als dit aangevinkt is, wordt deze template gedefinieerd als ‘voor het systeem’ en kan deze niet meer worden verwijderd. Zodra de systeemvlag is ingeschakeld, kan deze alleen nog via de API (flagSystemOverride) worden verwijderd."
         },
         "86c66b6c28f25016de70be40475eb881": {
             "text": "API: $template->flagSystem = 1; // of 0 om uit te schakelen"
@@ -399,16 +399,16 @@
             "text": "Globale velden negeren?"
         },
         "fd83133f05e8bacf7eb368a2d95de8fe": {
-            "text": "Standaard geldt dat als een veld als 'global' is gemarkeerd, het in alle templates verplicht is (en automatisch wordt toegevoegd aan templates die het nog niet hebben). Als deze template een speciaal doel heeft waarbij 'global'-velden niet van toepassing zijn, kun je dit vakje aanvinken om ervoor te zorgen dat deze template 'global'-velden negeert."
+            "text": "Standaard geldt dat als een veld als ‘global’ is gemarkeerd, het in alle templates verplicht is (en automatisch wordt toegevoegd aan templates die het nog niet hebben). Als deze template een speciaal doel heeft waarbij ‘global’-velden niet van toepassing zijn, kun je dit vakje aanvinken om ervoor te zorgen dat deze template ‘global’-velden negeert."
         },
         "381e3cba7a92b2d007d0d534a58b17ff": {
             "text": "API: $template->noGlobal=1; // of 0 om uit te schakelen"
         },
         "0176d878928026caefe7c81262335e1d": {
-            "text": "Het veld 'naam' weergeven in het tabblad 'Inhoud'?"
+            "text": "Het veld ‘naam’ weergeven in het tabblad ‘Inhoud’?"
         },
         "61788997b579a9bcfe17e394d394ad01": {
-            "text": "Standaard verschijnt het ingebouwde veld 'name' in het tabblad 'instellingen' van de pagina-editor. Als je liever hebt dat het in het tabblad 'inhoud' verschijnt, vink dan dit vakje aan."
+            "text": "Standaard verschijnt het ingebouwde veld ‘name’ in het tabblad ‘instellingen’ van de pagina-editor. Als je liever hebt dat het in het tabblad ‘inhoud’ verschijnt, vink dan dit vakje aan."
         },
         "e864c0d94cbc5dc0faf1ce78d9021e63": {
             "text": "API: $template->nameContentTab = 1; // of 0 om uit te schakelen"
@@ -426,7 +426,7 @@
             "text": "Tabblad Instellingen uitschakelen?"
         },
         "abad59d4cf5691fd0506cb650dff0f5b": {
-            "text": "Als dit aangevinkt is, verschijnt er bij pagina's die deze template gebruiken geen tabblad ‘instellingen’ in de editor."
+            "text": "Als dit aangevinkt is, verschijnt er bij pagina’s die deze template gebruiken geen tabblad ‘instellingen’ in de editor."
         },
         "6a90024dcca935af3329542c3f346229": {
             "text": "API: $template->noSettings = 1; // of 0 om uit te schakelen"
@@ -435,7 +435,7 @@
             "text": "Mogen pagina’s die dit template gebruiken subpagina’s hebben?"
         },
         "0f79346b34fe5a07bf9ad38ef37e1723": {
-            "text": "Kan dit template worden gebruikt voor nieuwe pagina's?"
+            "text": "Kan dit template worden gebruikt voor nieuwe pagina’s?"
         },
         "6ab8ac5b13a48347d2ca00a38bb06f94": {
             "text": "Een voorbeeld van een template dat je liever niet voor nieuwe pagina’s wilt gebruiken, is je ‘homepage’-template."
@@ -450,7 +450,7 @@
             "text": "Toegestane templates voor onderliggende items"
         },
         "fcdd2e278208618dfa795ed85ba1eb06": {
-            "text": "Kies de templates die zijn toegestaan voor subpagina's die deze template gebruiken. Gebruik dit alleen als je specifiek de plaatsing van pagina's die deze template gebruiken wilt beperken."
+            "text": "Kies de templates die zijn toegestaan voor subpagina’s die deze template gebruiken. Gebruik dit alleen als je specifiek de plaatsing van pagina’s die deze template gebruiken wilt beperken."
         },
         "9927f70231db8b53612513d00b934a7c": {
             "text": "Als er geen zijn geselecteerd, zijn alle opties toegestaan, binnen de toegangsbeperkingen van de gebruiker. Een voorbeeld hiervan is een ‘news-list’-template dat alleen onderliggende items mag hebben die gebruikmaken van ‘news-item’- of ‘press-release’-templates."
@@ -480,7 +480,7 @@
             "text": "Naamnotatie voor kinderen"
         },
         "5cf485ae4559df60232a5ff0f87783cb": {
-            "text": "Geef eventueel een indeling op voor paginanaamen die worden gebruikt wanneer er een nieuwe subpagina wordt toegevoegd. Hierdoor kan de stap ‘Pagina toevoegen’ worden overgeslagen bij het toevoegen van een nieuwe subpagina. Om dit te laten werken, moet er één (1) template zijn geselecteerd in het veld ‘Toegestane templates voor subpagina's’ hierboven."
+            "text": "Geef eventueel een indeling op voor paginanaamen die worden gebruikt wanneer er een nieuwe subpagina wordt toegevoegd. Hierdoor kan de stap ‘Pagina toevoegen’ worden overgeslagen bij het toevoegen van een nieuwe subpagina. Om dit te laten werken, moet er één (1) template zijn geselecteerd in het veld ‘Toegestane templates voor subpagina’s’ hierboven."
         },
         "9fbbf36953078c8761263aac49cbcc76": {
             "text": "Laat dit veld leeg om de functie uit te schakelen. Voer “title” (zonder aanhalingstekens) in om de naam automatisch te genereren op basis van de paginatitel. [Meer opties](%s), waaronder aangepaste velden en datumnotaties, zijn ook beschikbaar."
@@ -498,7 +498,7 @@
             "text": "**Voorwaarden om dit te laten werken**"
         },
         "635a2459897d3f0072993713558c84b0": {
-            "text": "1. Je moet een bovenliggende template kiezen (zie: „toegestane templates voor bovenliggende templates” hierboven). Als er meer dan één is geselecteerd, wordt alleen de eerste gebruikt."
+            "text": "1. Je moet een bovenliggende template kiezen (zie: “toegestane templates voor bovenliggende templates” hierboven). Als er meer dan één is geselecteerd, wordt alleen de eerste gebruikt."
         },
         "b14d306525e8d6e9927d577a59064048": {
             "text": "2. De geselecteerde bovenliggende template moet deze template hebben gedefinieerd als een template die is toegestaan voor onderliggende templates."
@@ -507,7 +507,7 @@
             "text": "Sorteerinstellingen voor onderliggende items"
         },
         "2a233a750cca4cc7bde0dcc7f8a2c4ec": {
-            "text": "Als je wilt dat onderliggende items automatisch op een specifiek veld worden gesorteerd, selecteer je dat hier. Selecteer anders ‘Geen’ om dit per pagina te laten instellen. Dit overschrijft de pagina-instelling, dus als je iets anders dan ‘Geen’ selecteert, verschijnt de sorteeroptie niet voor pagina's die deze template gebruiken."
+            "text": "Als je wilt dat onderliggende items automatisch op een specifiek veld worden gesorteerd, selecteer je dat hier. Selecteer anders ‘Geen’ om dit per pagina te laten instellen. Dit overschrijft de pagina-instelling, dus als je iets anders dan ‘Geen’ selecteert, verschijnt de sorteeroptie niet voor pagina’s die deze template gebruiken."
         },
         "d3da97e2d9aee5c8fbe03156ad051c99": {
             "text": "Meer"
@@ -537,10 +537,10 @@
             "text": "Voer per regel één toegestaan segment, segmentpad of reguliere uitdrukking in, of laat het veld leeg om alles toe te staan."
         },
         "d5bf40c0f8c27c98db4d65ebc8cdc0c7": {
-            "text": "Moeten pagina-URL's eindigen met een schuine streep?"
+            "text": "Moeten pagina-URL’s eindigen met een schuine streep?"
         },
         "60cb362641cd33525562c9d62d0f8d18": {
-            "text": "Als je 'Ja' kiest, eindigen de URL's van pagina's die deze template gebruiken altijd met een slash '/'. En als de pagina wordt geladen via een URL zonder slash, word je daar naartoe doorgestuurd. Als je 'Nee' kiest, wordt in plaats daarvan de versie zonder slash gebruikt. Let op: deze instelling geldt niet voor URL-segmenten of paginanummers, maar alleen voor de daadwerkelijke pagina-URL's. Als je geen voorkeur hebt, is het aan te raden om dit op 'Ja' te laten staan."
+            "text": "Als je ‘Ja’ kiest, eindigen de URL’s van pagina’s die deze template gebruiken altijd met een slash ‘/’. En als de pagina wordt geladen via een URL zonder slash, word je daar naartoe doorgestuurd. Als je ‘Nee’ kiest, wordt in plaats daarvan de versie zonder slash gebruikt. Let op: deze instelling geldt niet voor URL-segmenten of paginanummers, maar alleen voor de daadwerkelijke pagina-URL’s. Als je geen voorkeur hebt, is het aan te raden om dit op ‘Ja’ te laten staan."
         },
         "2d234a37f1f09a868ff9e51cbec93c0a": {
             "text": "Schema/Protocol"
@@ -567,7 +567,7 @@
             "text": "Aanbevolen, in ieder geval voor templates die geen ProcessWire-naamruimte gebruiken (zoals die afkomstig zijn van PW 2.x-sites)."
         },
         "adab801f8cca3e7d6f780fe4853eb55f": {
-            "text": "Als je het niet zeker weet, kies dan \"Auto\"."
+            "text": "Als je het niet zeker weet, kies dan “Auto”."
         },
         "cacd642e8d383be621123210fa6d9d74": {
             "text": "(schakelt de compiler uit)"
@@ -582,7 +582,7 @@
             "text": "(templatebestand en bestanden die daarin zijn opgenomen)"
         },
         "1d926a6b89b4bc848e3f4ffa3e1bd67d": {
-            "text": "De gedetecteerde naamruimte van het template-bestand is \"%s\"."
+            "text": "De gedetecteerde naamruimte van het template-bestand is “%s”."
         },
         "0b506a8d05b70f0f99d7843e1e7ce9c2": {
             "text": "Compileren wordt aanbevolen."
@@ -633,7 +633,7 @@
             "text": "Wil je de toegangsrechten voor het bekijken en bewerken van pagina’s die deze template gebruiken beheren?"
         },
         "22ac5f69365966a7ce509e349b23539a": {
-            "text": "Als je 'Ja' selecteert, kun je bepalen welke rollen toegang hebben tot pagina's die deze template gebruiken. Als je 'Nee' selecteert, krijgen pagina's die deze template gebruiken de toegangsrechten van hun bovenliggende pagina's."
+            "text": "Als je ‘Ja’ selecteert, kun je bepalen welke rollen toegang hebben tot pagina’s die deze template gebruiken. Als je ‘Nee’ selecteert, krijgen pagina’s die deze template gebruiken de toegangsrechten van hun bovenliggende pagina’s."
         },
         "26b6d64574e88f30f407e16212dc4d57": {
             "text": "Wat moet je doen als een gebruiker een pagina probeert te bekijken maar geen toegang heeft?"
@@ -666,10 +666,10 @@
             "text": "Deze instelling is alleen van toepassing als je optie “C” hebt geselecteerd in het veld hierboven."
         },
         "2f2055affca16d8404e278fc1d6c3a07": {
-            "text": "Optioneel: Je kunt in je URL de tag '{id}' opnemen (bijvoorbeeld als GET-variabele), en deze wordt dan vervangen door het ID-nummer van de opgevraagde pagina, als je dat wilt."
+            "text": "Optioneel: Je kunt in je URL de tag ‘{id}’ opnemen (bijvoorbeeld als GET-variabele), en deze wordt dan vervangen door het ID-nummer van de opgevraagde pagina, als je dat wilt."
         },
         "77b116ba76d6cad7420de0729f5437cb": {
-            "text": "Moeten pagina's doorzoekbaar zijn als de gebruiker geen toegang heeft?"
+            "text": "Moeten pagina’s doorzoekbaar zijn als de gebruiker geen toegang heeft?"
         },
         "6ceb6814781363fa5e58fc38fe5910a1": {
             "text": "Wat moet er gebeuren bij zoekopdrachten en paginalijsten als een gebruiker geen toegang heeft om een pagina met deze template te bekijken?"
@@ -690,7 +690,7 @@
             "text": "Standaard worden alle toegangsinstellingen van dit template doorgegeven via de paginaboom, totdat een pagina die een ander template met toegangsbeheer gebruikt, deze instellingen overschrijft."
         },
         "6aee0c8c870a84f930c97c2eb1427c8d": {
-            "text": "Kies hier de optie „Nee” als je wilt voorkomen dat bewerkingsrechten worden overgenomen door pagina’s die deze template gebruiken. Toegang voor het bekijken blijft in beide gevallen wel overgenomen worden."
+            "text": "Kies hier de optie “Nee” als je wilt voorkomen dat bewerkingsrechten worden overgenomen door pagina’s die deze template gebruiken. Toegang voor het bekijken blijft in beide gevallen wel overgenomen worden."
         },
         "2678dd0fb63b2adfb38fe14f66d6c6b5": {
             "text": "Zorg ervoor dat bewerkingsrechten kunnen worden overgedragen aan onderliggende elementen waarvoor geen toegangsbeheer geldt"
@@ -708,7 +708,7 @@
             "text": "Hierdoor kan de toegang tot het bestand op dezelfde manier worden geregeld als bij de pagina waartoe het behoort, terwijl je toch de oorspronkelijke URL van het bestand blijft gebruiken."
         },
         "cb3c9250730efdee741ff650f807d56a": {
-            "text": "Let op: het kost wat extra moeite om een bestand op deze manier te leveren, dus kies alleen voor de optie „Ja, altijd“ als je het echt nodig hebt."
+            "text": "Let op: het kost wat extra moeite om een bestand op deze manier te leveren, dus kies alleen voor de optie “Ja, altijd” als je het echt nodig hebt."
         },
         "09af5db524e775b4a1f701ef67479387": {
             "text": "Test altijd of de toegangscontrole werkt zoals je verwacht door in je browser te proberen toegang te krijgen tot de beveiligde bestanden."
@@ -729,7 +729,7 @@
             "text": "Welke rollen hebben toegang tot pagina’s die deze template gebruiken (en de templates die hiervan afstammen)?"
         },
         "8b961334d86b2e4afdb29a825b7537f5": {
-            "text": "Let op: de opties voor bewerken/aanmaken/toevoegen zijn uitgeschakeld voor rollen die momenteel geen permissies hebben om pagina's te bewerken."
+            "text": "Let op: de opties voor bewerken/aanmaken/toevoegen zijn uitgeschakeld voor rollen die momenteel geen permissies hebben om pagina’s te bewerken."
         },
         "13944cf77acdf1b9e49f6383c101ae89": {
             "text": "(iedereen)"
@@ -741,10 +741,10 @@
             "text": "Voeg eventueel permissies toe of trek ze in die aan elke rol zijn toegewezen wanneer daar om wordt gevraagd voor een pagina die deze template gebruikt (of die de toegang ervan overneemt)."
         },
         "f0ec91a2ccc29fee4de702e940b186a8": {
-            "text": "De opties die hier beschikbaar zijn, worden bepaald door je keuzes bij „Pagina's bewerken“ hierboven. Sla deze template daarom op en kom hier terug nadat je de rollen met toegang tot „Pagina's bewerken“ hierboven hebt aangepast."
+            "text": "De opties die hier beschikbaar zijn, worden bepaald door je keuzes bij “Pagina’s bewerken” hierboven. Sla deze template daarom op en kom hier terug nadat je de rollen met toegang tot “Pagina’s bewerken” hierboven hebt aangepast."
         },
         "b50d7f1673d8d8694f84094c093718df": {
-            "text": "Opties worden weergegeven in de indeling „rol: permissie“. Voor een beschrijving van wat elke permissie doet, zie de [permissiesreferentie](%s)."
+            "text": "Opties worden weergegeven in de indeling “rol: permissie”. Voor een beschrijving van wat elke permissie doet, zie de [permissiesreferentie](%s)."
         },
         "a1066ecb03f6d2dfa02c658ba45dc08a": {
             "text": "Voeg permissies toe per rol"
@@ -765,7 +765,7 @@
             "text": "Opgeslagen template: %s"
         },
         "0ce8e11f27f5cff906b08ff533da5567": {
-            "text": "Er is een kloon gemaakt van de template „%1$s” met de naam „%2$s”."
+            "text": "Er is een kloon gemaakt van de template “%1$s” met de naam “%2$s”."
         },
         "dbb2a9bf7f53894204e7b75a4a323fa2": {
             "text": "Fout bij het maken van een kloon van dit template"
@@ -780,13 +780,13 @@
             "text": "Houd er rekening mee dat dit even kan duren. Om dit nu voor alles toe te passen, voer je de volgende API-code uit vanuit een template-bestand:"
         },
         "a9b81f1f8d87e20c79d70ad42cc924e3": {
-            "text": "Dubbele velden van „%1$s“ tot „%2$s“"
+            "text": "Dubbele velden van “%1$s” tot “%2$s”"
         },
         "a2b2765c9702ca543cd769b157062377": {
-            "text": "Het veld „%s“ mag niet worden verwijderd, omdat het globaal vereist is voor alle veldgroepen"
+            "text": "Het veld “%s” mag niet worden verwijderd, omdat het globaal vereist is voor alle veldgroepen"
         },
         "363b220544077dba6890921e123486dc": {
-            "text": "Fout bij de plaatsing van het veldset/tabblad „%s“ – corrigeer dit en sla het opnieuw op"
+            "text": "Fout bij de plaatsing van het veldset/tabblad “%s” – corrigeer dit en sla het opnieuw op"
         },
         "6e82edd479b2b5c07f250031d13a9b92": {
             "text": "Opgeslagen veldgroep: %s"
@@ -795,7 +795,7 @@
             "text": "Velden die worden verwijderd"
         },
         "c69da3a709ad376098eb517be436a12b": {
-            "text": "Je hebt gevraagd om de veldgroep te wijzigen van \"%1$s\" naar \"%2$s\"."
+            "text": "Je hebt gevraagd om de veldgroep te wijzigen van “%1$s” naar “%2$s”."
         },
         "0cd878f5f6c3ecd2d309d74c608cf0e3": {
             "text": "De volgende velden worden definitief verwijderd op pagina’s die deze template gebruiken:"
@@ -804,7 +804,7 @@
             "text": "Bevestig dat je het bovenstaande begrijpt en dat je de veldgroep wilt wijzigen door het vakje aan te vinken en dit formulier in te dienen."
         },
         "1a1e5b08d1538484177a49ce2168b297": {
-            "text": "Bevestig dat je de veldgroep wilt wijzigen van \"%1$s\" naar \"%2$s\""
+            "text": "Bevestig dat je de veldgroep wilt wijzigen van “%1$s” naar “%2$s”"
         },
         "95faabcca5ce9361cfbbfdac564540a6": {
             "text": "Velggroep voor template wijzigen: %s"
@@ -813,7 +813,7 @@
             "text": "Wijziging van veldgroep afgebroken"
         },
         "62596dd3b1918d492b97f5945dc8aea8": {
-            "text": "De veldgroep 'fieldgroup' in de template is gewijzigd in: %s"
+            "text": "De veldgroep ‘fieldgroup’ in de template is gewijzigd in: %s"
         },
         "b58b1fada0411080ca80b5199d2e56ce": {
             "text": "Velden uit template verwijderen: %s"
@@ -825,40 +825,40 @@
             "text": "Je hebt gevraagd om een of meer velden uit de template te verwijderen. Dit leidt ertoe dat de gegevens die aan de onderstaande velden zijn gekoppeld, definitief worden verwijderd. Als de velden die worden verwijderd veel gegevens bevatten, kan het even duren voordat deze bewerking is voltooid nadat je dit formulier hebt bevestigd en verzonden. Bevestig dat je dit begrijpt en dat je het veld of de velden wilt verwijderen door de onderstaande vakjes aan te vinken."
         },
         "b9b9ac08c6bde335d1b5758d4dfcd1da": {
-            "text": "Verwijder het veld „%1$s“ uit de template „%2$s“"
+            "text": "Verwijder het veld “%1$s” uit de template “%2$s”"
         },
         "3617ad2fed81de1357bb35b0459bf8b8": {
             "text": "Deze template kan niet worden hernoemd omdat het een systeemtemplate is"
         },
         "7b2365f3c03bbf66c17531b39af975f9": {
-            "text": "Sjabloon „%1$s“ hernoemd naar „%2$s“"
+            "text": "Sjabloon “%1$s” hernoemd naar “%2$s”"
         },
         "348267a4dada558acc9b2cd1b68ad41e": {
-            "text": "Het template-bestand „%1$s“ is hernoemd naar „%2$s“"
+            "text": "Het template-bestand “%1$s” is hernoemd naar “%2$s”"
         },
         "ea24ff7efc7e185e1c6f8d52266fefdc": {
-            "text": "Het is niet gelukt om \"%1$s\" te hernoemen naar \"%2$s\" in de map \"%3$s\". Je moet het bestand handmatig hernoemen op je bestandssysteem."
+            "text": "Het is niet gelukt om “%1$s” te hernoemen naar “%2$s” in de map “%3$s”. Je moet het bestand handmatig hernoemen op je bestandssysteem."
         },
         "cbb29209ccd6a869e389572e793b1f1b": {
-            "text": "Het templatebestand „%1$s“ is niet gevonden in de map „%2$s“. Je moet het bestand „%3$s“ handmatig op je bestandssysteem hernoemen naar „%1$s“."
+            "text": "Het templatebestand “%1$s” is niet gevonden in de map “%2$s”. Je moet het bestand “%3$s” handmatig op je bestandssysteem hernoemen naar “%1$s”."
         },
         "d40a1614c5e9e10db2d5d9f94a0482bb": {
-            "text": "Hernoem de template „%1$s” naar „%2$s”"
+            "text": "Hernoem de template “%1$s” naar “%2$s”"
         },
         "f7c1d3ba270aa43fe36e00ee3a1e9718": {
             "text": "Bevestig dat je deze template wilt hernoemen door het vakje hieronder aan te vinken."
         },
         "82ae9be0c318ed67592703448c77d4d6": {
-            "text": "Het template-bestand „%s“ lijkt beschrijfbaar te zijn, dus we proberen het te hernoemen als je op „Verzenden“ klikt."
+            "text": "Het template-bestand “%s” lijkt beschrijfbaar te zijn, dus we proberen het te hernoemen als je op “Verzenden” klikt."
         },
         "df3f89873c6527f24453345a6b7f263f": {
-            "text": "Het templatebestand \"%1$s\" is niet beschrijfbaar. Hernoem dat bestand naar \"%2$s\" voordat je op Verzenden klikt."
+            "text": "Het templatebestand “%1$s” is niet beschrijfbaar. Hernoem dat bestand naar “%2$s” voordat je op Verzenden klikt."
         },
         "29a2d50c9d90354a16943888d8e700da": {
-            "text": "Veld „%1$s“ verwijderd uit template/veldgroep „%2$s“"
+            "text": "Veld “%1$s” verwijderd uit template/veldgroep “%2$s”"
         },
         "da49c8bb3f9748634bedc77fac9221f9": {
-            "text": "Veld „%1$s“ toegevoegd aan template/veldgroep „%2$s“"
+            "text": "Veld “%1$s” toegevoegd aan template/veldgroep “%2$s”"
         },
         "f9757067733747aed406043e5915f1d7": {
             "text": "Tagnaam"
@@ -873,10 +873,10 @@
             "text": "Om deze tag te verwijderen, haal je alle templates eruit."
         },
         "8958860efca6192ab40af3a1f2e17d48": {
-            "text": "Tag „%1$s“ toegevoegd aan template: %2$s"
+            "text": "Tag “%1$s” toegevoegd aan template: %2$s"
         },
         "7a53b43fab8ccbe670792e7832ef2588": {
-            "text": "Tag „%1$s“ uit template verwijderd: %2$s"
+            "text": "Tag “%1$s” uit template verwijderd: %2$s"
         },
         "b8bda8719893c4a385d4025c60c78ec2": {
             "text": "Met tags kun je verzamelingen van templates maken voor weergaven."
@@ -909,7 +909,7 @@
             "text": "Velden"
         },
         "adc3250d7ccf9a0303cc0b44d70917d6": {
-            "text": "Pagina's"
+            "text": "Pagina’s"
         },
         "9aa8f6fc386e155886938a352548a81c": {
             "text": "Gewijzigd"
@@ -945,7 +945,7 @@
             "text": "Familie"
         },
         "21ddd66d87bebbaaf6bba5319e5b7f97": {
-            "text": "URL's"
+            "text": "URL’s"
         },
         "323686db2bb70f95c6bedc86d5c3387d": {
             "text": "Bestanden"
@@ -993,13 +993,13 @@
             "text": "Rol"
         },
         "30a75d09489b9f6a393c3885b81ec0b1": {
-            "text": "Pagina's bekijken"
+            "text": "Pagina’s bekijken"
         },
         "a42aa7fb5a74afbdcaf92c44bd99bd3c": {
-            "text": "Pagina's bewerken"
+            "text": "Pagina’s bewerken"
         },
         "e431e1335b3c843758bbed8b021eeee9": {
-            "text": "Pagina's aanmaken"
+            "text": "Pagina’s aanmaken"
         },
         "46c22ba22392809d478c6f312de87f62": {
             "text": "Kinderen toevoegen"
@@ -1014,7 +1014,7 @@
             "text": "Dit template wordt gebruikt door %d pagina"
         },
         "d26c2f7eb253b0202c2769f3dd232d96": {
-            "text": "Deze template wordt gebruikt door %d pagina's"
+            "text": "Deze template wordt gebruikt door %d pagina’s"
         },
         "e37f4fc0441c524ee5a89453f12178c8": {
             "text": "Template toevoegen"
@@ -1026,13 +1026,13 @@
             "text": "%d pagina"
         },
         "207ab96f9895f87f78f6c6162f323a4f": {
-            "text": "%d pagina's"
+            "text": "%d pagina’s"
         },
         "14bcc27345b2325a5e492384a734c1aa": {
             "text": "De template wordt gebruikt door 1 pagina"
         },
         "957ba77c721f931f1ad38ed47b98fd0d": {
-            "text": "De template wordt gebruikt door %d pagina's"
+            "text": "De template wordt gebruikt door %d pagina’s"
         },
         "482957b0d6d5c5d4c8de3dd316750d04": {
             "text": "De veldgroep van dit sjabloon wordt door 1 ander sjabloon gebruikt"

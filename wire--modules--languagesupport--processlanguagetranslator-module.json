@@ -54,7 +54,7 @@
             "text": "Bestand bestaat niet"
         },
         "201cd1463929afbbd095c4803262ceae": {
-            "text": "Vervangende tekst: als de tekst niet vertaald is, wordt de tekst „%1$s“ gebruikt, die vertaald is van „%2$s“."
+            "text": "Vervangende tekst: als de tekst niet vertaald is, wordt de tekst “%1$s” gebruikt, die vertaald is van “%2$s”."
         },
         "b2d2f26148deb14bf22ab1fcd1d231a1": {
             "text": "Als er geen tekst wordt opgegeven, wordt de standaardvertaling “**%s**” gebruikt."
@@ -93,7 +93,7 @@
             "text": "Als je een veld leeg laat, wordt de niet-vertaalde tekst gebruikt."
         },
         "28879280857d9ccc118fbd72fc972ad0": {
-            "text": "Als de vertaling precies hetzelfde is als het origineel, kun je ook gewoon één \"=\" (gelijkteken) invoeren als vertaling; dan wordt deze als vertaald gemarkeerd."
+            "text": "Als de vertaling precies hetzelfde is als het origineel, kun je ook gewoon één “=” (gelijkteken) invoeren als vertaling; dan wordt deze als vertaald gemarkeerd."
         },
         "24e75fc33422e42d84ba0fc01cdc8579": {
             "text": "Je kunt ook een CSV-bestand met deze vertalingen [downloaden](%1$s) of [bekijken](%2$s), ze bewerken en vervolgens [hier uploaden](%3$s)."

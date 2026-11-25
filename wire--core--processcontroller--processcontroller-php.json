@@ -3,7 +3,7 @@
     "textdomain": "wire--core--processcontroller--processcontroller-php",
     "translations": {
         "31995c9b1f232566ef6f2a67f38c2bd0": {
-            "text": "Je hebt geen permissie voor „%s“"
+            "text": "Je hebt geen permissie voor “%s”"
         }
     }
 }

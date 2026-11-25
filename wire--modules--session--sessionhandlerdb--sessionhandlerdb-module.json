@@ -33,7 +33,7 @@
             "text": "429: Te veel verzoeken"
         },
         "8883240d9c18322fd43dfd39c8b32e14": {
-            "text": "De vorige inlogsessie voor „%s“ is verwijderd/uitgelogd."
+            "text": "De vorige inlogsessie voor “%s” is verwijderd/uitgelogd."
         }
     }
 }
