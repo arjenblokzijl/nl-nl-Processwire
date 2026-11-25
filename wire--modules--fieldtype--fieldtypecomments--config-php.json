@@ -12,7 +12,7 @@
             "text": "Geen - Reacties worden direct geplaatst"
         },
         "4f214f3246f03a94773427de4f2e7699": {
-            "text": "Alle - Alle reacties moeten worden goedgekeurd door een gebruiker met bewerkingsrechten voor de pagina's"
+            "text": "Alle - Alle reacties moeten worden goedgekeurd door een gebruiker met bewerkingsrechten voor de pagina’s"
         },
         "d3a76eec189143c6945282d37bd81bb5": {
             "text": "Alleen nieuw – Alleen reacties van gebruikers die nog geen goedgekeurde reacties hebben, moeten worden goedgekeurd"
@@ -66,16 +66,16 @@
             "text": "Naast (of in plaats van) e-mailadressen kun je ook een of meer van de volgende opties gebruiken:"
         },
         "d0ffa91c19a6c97eac905834065a48a4": {
-            "text": "1. Voer **user:karen** in om een e-mail te sturen naar een specifieke gebruiker, waarbij je \"karen\" vervangt door de naam van de betreffende gebruiker."
+            "text": "1. Voer **user:karen** in om een e-mail te sturen naar een specifieke gebruiker, waarbij je “karen” vervangt door de naam van de betreffende gebruiker."
         },
         "e703c4cbaf0b1030f389f7a3f4c91f34": {
-            "text": "2. Voer **field:email** in om het e-mailadres uit een veld op de pagina op te halen, waarbij je \"email\" vervangt door de naam van het veld dat het e-mailadres bevat."
+            "text": "2. Voer **field:email** in om het e-mailadres uit een veld op de pagina op te halen, waarbij je “email” vervangt door de naam van het veld dat het e-mailadres bevat."
         },
         "0cf8830f9d1aaf42ad9e178f9af4f3d0": {
-            "text": "3. Voer **123:email** in om het e-mailadres op te halen op basis van een opgegeven pagina-ID en veldnaam, waarbij je \"123\" vervangt door de pagina-ID en \"email\" door de naam van het veld dat het e-mailadres bevat."
+            "text": "3. Voer **123:email** in om het e-mailadres op te halen op basis van een opgegeven pagina-ID en veldnaam, waarbij je “123” vervangt door de pagina-ID en “email” door de naam van het veld dat het e-mailadres bevat."
         },
         "be4676f05d7147b99e5addd2b27b6889": {
-            "text": "4. Voer **/pad/naar/pagina:e-mail** in om het e-mailadres op te halen uit een bepaald paginapad en veldnaam, waarbij je \"/pad/naar/pagina\" vervangt door het paginapad en \"e-mail\" door de naam van het veld dat het e-mailadres bevat."
+            "text": "4. Voer **/pad/naar/pagina:e-mail** in om het e-mailadres op te halen uit een bepaald paginapad en veldnaam, waarbij je “/pad/naar/pagina” vervangt door het paginapad en “e-mail” door de naam van het veld dat het e-mailadres bevat."
         },
         "f6fdd0b4b152fc4fb6fa144eb7718873": {
             "text": "Meldingen via e-mail"
@@ -153,7 +153,7 @@
             "text": "Kan een PHP [date](%s) of [strftime](%s) formaat zijn."
         },
         "9b627919cf0a2a80c2feaa17bac8f299": {
-            "text": "Kan ook „relatief“ zijn voor een relatieve datumnotatie."
+            "text": "Kan ook “relatief” zijn voor een relatieve datumnotatie."
         },
         "9fbc91b8ace5ac4afdc754d6d81d1f28": {
             "text": "Stemmen op reacties toestaan?"
@@ -213,7 +213,7 @@
             "text": "Dit gedeelte is bedoeld om je op weg te helpen met het weergeven van reacties op de front-end van je site. Alles hier is optioneel."
         },
         "c0cf19f012781de14679b0d857fe4cbd": {
-            "text": "Als je een cache gebruikt voor de uitvoer, stel deze dan zo in dat de cache wordt omzeild wanneer de GET-variabele \"comment_success\" aanwezig is."
+            "text": "Als je een cache gebruikt voor de uitvoer, stel deze dan zo in dat de cache wordt omzeild wanneer de GET-variabele “comment_success” aanwezig is."
         },
         "e2ee73419f58949b9fdfb97f23a8a6ac": {
             "text": "PHP-code om reacties weer te geven"

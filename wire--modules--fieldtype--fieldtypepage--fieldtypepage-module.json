@@ -9,7 +9,7 @@
             "text": "Template"
         },
         "7b438db8547ac1c9ab6c7ba6cb1532db": {
-            "text": "Meerdere pagina's (PageArray)"
+            "text": "Meerdere pagina’s (PageArray)"
         },
         "a24fcc695edbc57c60c768a732d2f30d": {
             "text": "Eén pagina (Page) of de booleaanse waarde false als er niets is geselecteerd"
@@ -33,7 +33,7 @@
             "text": "Meer over de %s-methode."
         },
         "7d5f7f76b51ac880e91da28dbc52df35": {
-            "text": "Niet gepubliceerde pagina's toestaan?"
+            "text": "Niet gepubliceerde pagina’s toestaan?"
         },
         "147ca86a29ed518210e0864f1e0d49ad": {
             "text": "Als dit aangevinkt is, kun je niet gepubliceerde pagina’s selecteren voor invoer en zijn ze toegestaan in de *ongeformatteerde* veldwaarde. Ze worden hoe dan ook nog steeds uitgesloten van de *geformatteerde* veldwaarde."
@@ -45,7 +45,7 @@
             "text": "Template niet gevonden"
         },
         "2d6565614947b2a6daba1a06515124da": {
-            "text": "Zoek en verwijder verwijzingen naar verweesde pagina's"
+            "text": "Zoek en verwijder verwijzingen naar verweesde pagina’s"
         },
         "f7e35a334f1501cc0365458563f90cf5": {
             "text": "Dit lost een probleem op in oudere versies van ProcessWire, waarbij er soms verweesde paginareferenties achterbleven voor verwijderde pagina’s. Als je onnauwkeurige resultaten krijgt bij het zoeken naar pagina’s (vooral bij selectors die pageref.count gebruiken), dan is het misschien een goed idee om dit uit te voeren."

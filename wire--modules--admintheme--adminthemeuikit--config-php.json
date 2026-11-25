@@ -24,7 +24,7 @@
             "text": "Nadat je het stijlthema hebt gewijzigd, moet je het eerst opslaan voordat je het gaat configureren."
         },
         "7fbd655eaeab56b4624d4aa614d72e86": {
-            "text": "Als je `admin.less` gebruikt om aanpassingen te doen, moet je de stijl „Core original“ gebruiken."
+            "text": "Als je `admin.less` gebruikt om aanpassingen te doen, moet je de stijl “Core original” gebruiken."
         },
         "571368a2e36e9ad6662d00d70c5b0ef7": {
             "text": "Oorspronkelijke kerntekst"
@@ -72,7 +72,7 @@
             "text": "Gebruik {Name} voor een naam met een hoofdletter, wat de standaardinstelling is, of gebruik {name} voor een naam in kleine letters."
         },
         "94badcf29c95c51eb93549c399c1c91d": {
-            "text": "Voorbeelden: „{name}”, „{Name}”, „{title}”, „{first_name} {last_name}”, „{company.title}”, enz."
+            "text": "Voorbeelden: “{name}”, “{Name}”, “{title}”, “{first_name} {last_name}”, “{company.title}”, enz."
         },
         "990a068cf660ce4eaf87777c43d07057": {
             "text": "Logo-afbeeldingsbestand"
@@ -87,7 +87,7 @@
             "text": "Actie bij het klikken op het logo"
         },
         "96f31592de4b37ce5ff61db935fbfa81": {
-            "text": "Lijst met pagina's van de beheeromgeving"
+            "text": "Lijst met pagina’s van de beheeromgeving"
         },
         "2fcf0b21fb2e5b0c2ed8774ca91bd3a0": {
             "text": "Open de offcanvas-navigatie"
@@ -195,7 +195,7 @@
             "text": "Dit heeft invloed op de weergave van veel tekst-, tekstveld- en keuzelijstvelden."
         },
         "3be905d0e0e23fa3e645f3d70e7d28d3": {
-            "text": "Niet alle inputfields ondersteunen de opties „klein“ of „groot“."
+            "text": "Niet alle inputfields ondersteunen de opties “klein” of “groot”."
         },
         "2660064e68655415da2628c2ae2f7592": {
             "text": "Klein"
@@ -228,7 +228,7 @@
             "text": "Deze instelling bepaalt wat er gebeurt als een gebruiker op een label van een inputfield klikt, dat als koptekst boven het inputfield verschijnt."
         },
         "7675e95bb6ab79a2b07bc1d32530e20d": {
-            "text": "Met de optie „Standaard“ krijgt het inputfield de focus zodra je op een label in een open inputfield klikt, net zoals bij een standaard HTML-formulier."
+            "text": "Met de optie “Standaard” krijgt het inputfield de focus zodra je op een label in een open inputfield klikt, net zoals bij een standaard HTML-formulier."
         },
         "08f2a1074dae6032681157b928a93dac": {
             "text": "Als je op het label van een gesloten inputfield klikt, wordt het inputfield geopend en krijg je de focus daarop (en wordt het weer gesloten als je er nogmaals op klikt)."
@@ -255,7 +255,7 @@
             "text": "Dit kan in sommige gevallen voor extra duidelijkheid zorgen, maar neemt wel meer verticale ruimte in beslag."
         },
         "99be59c66e12e86aefeced8b65c1effc": {
-            "text": "Invoertypen die de stijl „Card“ moeten gebruiken"
+            "text": "Invoertypen die de stijl “Card” moeten gebruiken"
         },
         "949bcbdc5822582126d426c6f82f4fa4": {
             "text": "Dit veld is een voorbeeld van de kaartstijl."
@@ -276,13 +276,13 @@
             "text": "Deze instellingen bepalen hoe dit veld eruitziet bij gebruik met het Uikit-beheerthema."
         },
         "2a94ec4e40704b025161d175bc18fe53": {
-            "text": "Als je de optie „Auto“ kiest, worden de instellingen tijdens de uitvoering bepaald."
+            "text": "Als je de optie “Auto” kiest, worden de instellingen tijdens de uitvoering bepaald."
         },
         "54e4e4fb8f8494b61dc7407161cff620": {
-            "text": "De instelling „Margin“ geldt alleen voor velden met een breedte van 100%."
+            "text": "De instelling “Margin” geldt alleen voor velden met een breedte van 100%."
         },
         "741b3715dff40fc66d023ffe7d2ec932": {
-            "text": "De optie „Auto“ is de aanbevolen standaardinstelling voor alle instellingen."
+            "text": "De optie “Auto” is de aanbevolen standaardinstelling voor alle instellingen."
         },
         "4c7c5ab57475a86d54c99e99e8cbb5e7": {
             "text": "Extra klein"
@@ -321,7 +321,7 @@
             "text": "Nog een veld"
         },
         "661262f88b0f998e147baacf8778d340": {
-            "text": "Open het veld „%s“ hierboven voor een live voorbeeld van kolombreedte."
+            "text": "Open het veld “%s” hierboven voor een live voorbeeld van kolombreedte."
         },
         "7ce481195c78d64795db8cf62a6df04d": {
             "text": "Omlijnd"

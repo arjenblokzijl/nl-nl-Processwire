@@ -6,7 +6,7 @@
             "text": "Geen zoekopdracht opgegeven"
         },
         "453aceb005ceaf54a47da15fee8b2a26": {
-            "text": "Pagina's"
+            "text": "Pagina’s"
         },
         "a7e253cd8dd95da3e20daf45519a8dc2": {
             "text": "Prullenbak"
@@ -30,7 +30,7 @@
             "text": "Zoekt in %1$s naar: %2$s"
         },
         "0c79bedd451ec4becdb006eabf461f3b": {
-            "text": "Zoekt in de eigenschap „%1$s“ van %2$s naar: %3$s"
+            "text": "Zoekt in de eigenschap “%1$s” van %2$s naar: %3$s"
         },
         "aa22617dfe85dc625769bb90cf1edc82": {
             "text": "In de voorbeelden wordt de ‘=’ (gelijk aan) operator gebruikt."
@@ -60,13 +60,13 @@
             "text": "Zoek templates die het veld %s bevatten"
         },
         "173512440f350caacc754ddd1a392b71": {
-            "text": "Zoek velden met „ckeditor“ in de instellingen"
+            "text": "Zoek velden met “ckeditor” in de instellingen"
         },
         "1624b2059f3271b1213456999221e2df": {
             "text": "(beweeg de muis erover voor meer info)"
         },
         "d6b75fe82918572d3828601219286147": {
-            "text": "In de voorbeelden wordt de eigenschap „%s“ gebruikt."
+            "text": "In de voorbeelden wordt de eigenschap “%s” gebruikt."
         },
         "c3f4f45cbebefe1b25a8c7965516a79b": {
             "text": "Je kunt ook een van deze eigenschappen gebruiken:"

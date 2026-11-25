@@ -42,7 +42,7 @@
             "text": "Bovenliggende pagina"
         },
         "379a82f72eacfec4228f74d4e39f3eec": {
-            "text": "Aantal subpagina's"
+            "text": "Aantal subpagina’s"
         },
         "7acdf85c69cc3c5305456a293524386e": {
             "text": "Verborgen"
@@ -81,16 +81,16 @@
             "text": "Welke kolommen zichtbaar maken in de resultaten"
         },
         "0c8ee3eeadc96eeeeb24e2a6dc9d4a5e": {
-            "text": "Welke pagina's zichtbaar maken"
+            "text": "Welke pagina’s zichtbaar maken"
         },
         "3361493ce22b609b5d11f463c8bd8c6a": {
-            "text": "De opgegeven 'include='-modus is hier niet toegestaan."
+            "text": "De opgegeven ‘include=’-modus is hier niet toegestaan."
         },
         "e418dc3d6d68592a1932bb1446975acb": {
-            "text": "Niet alle opgegeven templates zijn bewerkbaar. Alleen 'include=verborgen' is toegestaan"
+            "text": "Niet alle opgegeven templates zijn bewerkbaar. Alleen ‘include=verborgen’ is toegestaan"
         },
         "12b585ee7c6e8dca3790262f321f3823": {
-            "text": "Er zijn geen templates opgegeven, dus 'include=verborgen' is de maximaal toegestane include-modus"
+            "text": "Er zijn geen templates opgegeven, dus ‘include=verborgen’ is de maximaal toegestane include-modus"
         },
         "a5158728109d8e67ae31b7b02bdc8b86": {
             "text": "%1$d tot %2$d van %3$d"

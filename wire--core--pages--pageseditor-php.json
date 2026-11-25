@@ -6,22 +6,22 @@
             "text": "Pagina zonder titel"
         },
         "659a129a2ef73cd3628cdb82dd2ecfb7": {
-            "text": "Een pagina die de template „%s“ gebruikt, kan niet worden verplaatst."
+            "text": "Een pagina die de template “%s” gebruikt, kan niet worden verplaatst."
         },
         "de2497c4afe885df1cae702f984bc35d": {
-            "text": "Het gekozen bovenliggende item „%1$s“ gebruikt template „%2$s“, waarin onderliggende items niet zijn toegestaan."
+            "text": "Het gekozen bovenliggende item “%1$s” gebruikt template “%2$s”, waarin onderliggende items niet zijn toegestaan."
         },
         "054467106726884f49f1059fa63c12a7": {
-            "text": "Je kunt “%1$s” niet verplaatsen omdat de template “%2$s” die door pagina “%3$s” wordt gebruikt, geen subpagina's toestaat die template “%4$s” gebruiken."
+            "text": "Je kunt “%1$s” niet verplaatsen omdat de template “%2$s” die door pagina “%3$s” wordt gebruikt, geen subpagina’s toestaat die template “%4$s” gebruiken."
         },
         "39f8623f438de062026d1508751a5e3d": {
             "text": "Je kunt “%1$s” niet verplaatsen omdat template “%2$s”, dat wordt gebruikt door het nieuwe bovenliggende item “%3$s”, niet is toegestaan door de template van de verplaatste pagina “%4$s”."
         },
         "f99ff7a362ba2a69eb85a3e3f2bfe1e4": {
-            "text": "De gekozen bovenliggende pagina „%1$s“ heeft al een pagina met de naam „%2$s“."
+            "text": "De gekozen bovenliggende pagina “%1$s” heeft al een pagina met de naam “%2$s”."
         },
         "f7b20059533e8267e92eecda0b6eee8e": {
-            "text": "Fout bij het opslaan van veld „%s“"
+            "text": "Fout bij het opslaan van veld “%s”"
         }
     }
 }

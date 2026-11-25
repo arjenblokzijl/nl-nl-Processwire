@@ -3,25 +3,25 @@
     "textdomain": "wire--modules--process--processrecentpages--processrecentpages-module",
     "translations": {
         "fda27fd4e8f31d46c37d6ebb661d4975": {
-            "text": "Er zijn (nog) geen pagina's gevonden"
+            "text": "Er zijn (nog) geen pagina’s gevonden"
         },
         "0f1af93a396987467471642622b4f372": {
             "text": "Voor deze functie is de permissie ‘page-lister’ vereist"
         },
         "0cd816a2b17a6fd85120a4ffc417ef52": {
-            "text": "Recente pagina's"
+            "text": "Recente pagina’s"
         },
         "e8ec3c5a66a1458617d385c211485937": {
-            "text": "Pagina's die onlangs zijn aangemaakt door %s"
+            "text": "Pagina’s die onlangs zijn aangemaakt door %s"
         },
         "6164ab6f0d40bf0dbb4d016d70f22451": {
-            "text": "Onlangs aangemaakte pagina's"
+            "text": "Onlangs aangemaakte pagina’s"
         },
         "0fa9b1da7af6dc7c17300d2696d4e840": {
-            "text": "Pagina's die onlangs zijn bewerkt door %s"
+            "text": "Pagina’s die onlangs zijn bewerkt door %s"
         },
         "727d0685214d2e29837bf220bd336876": {
-            "text": "Onlangs bewerkte pagina's"
+            "text": "Onlangs bewerkte pagina’s"
         },
         "0d52952360bedad458af277a8f2aeb1e": {
             "text": "in %s"

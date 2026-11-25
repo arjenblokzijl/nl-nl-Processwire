@@ -9,19 +9,19 @@
             "text": "Nee"
         },
         "b38bb5008cd8427aae4e9a8612183a6f": {
-            "text": "Voor URL-velden wordt de tekstopmaakfunctie „HTML Entity Encoder“ aanbevolen."
+            "text": "Voor URL-velden wordt de tekstopmaakfunctie “HTML Entity Encoder” aanbevolen."
         },
         "7a51839f06248c613d3b07007f4fc05d": {
             "text": "Als deze URL voor een of andere uitvoer wordt gebruikt, raden we je sterk aan om bij het tabblad ‘Details’ onder ‘Tekstopmaak’ de optie ‘HTML Entity Encoder’ te selecteren."
         },
         "ab86e8efb5aa46bdab329fa44f7125fc": {
-            "text": "Relatieve/lokale URL’s toestaan zonder \"http://\" aan het begin?"
+            "text": "Relatieve/lokale URL’s toestaan zonder “http://” aan het begin?"
         },
         "d1280d091f34a15c77f4145110d7f94d": {
             "text": "Lokale/relatieve URL’s zijn URL’s zonder schema en domein."
         },
         "00b2e08d975238a3563e783aa19811fd": {
-            "text": "Internationale domeinnamen (IDN's) toestaan?"
+            "text": "Internationale domeinnamen (IDN’s) toestaan?"
         },
         "05e7ec04e65f559e191ad8a7c4a02b03": {
             "text": "Als deze optie is ingeschakeld, zijn niet-ASCII-domeinnamen toegestaan."
@@ -33,7 +33,7 @@
             "text": "Als deze optie is ingeschakeld, moet je er absoluut zeker van zijn dat dergelijke URL’s entiteit-gecodeerd zijn wanneer ze in markup worden gebruikt."
         },
         "c4c54678f0d612f89caacaab99768f81": {
-            "text": "Moet je het hoofdpad van de site voor de lokale/relatieve URL's zetten?"
+            "text": "Moet je het hoofdpad van de site voor de lokale/relatieve URL’s zetten?"
         },
         "9d6ce819c098e5c4a7b3464cadbd028a": {
             "text": "Deze optie voegt automatisch het hoofdpad van de site toe aan alle URL’s die beginnen met een schuine streep, zoals /some/path/. Dit is handig als je site vanuit een submap draait, omdat je die submap dan niet hoeft op te nemen in de URL’s die je in dit veld invoert. Mocht je je site later verplaatsen naar de root van een domein (of een andere submap), dan hoef je je geen zorgen te maken over kapotte URL’s. Als deze optie is ingeschakeld, voer je URL’s altijd in alsof de site vanuit de root van een domein draait, ongeacht of deze nu vanuit een submap draait of niet. Dit geldt natuurlijk alleen als je in het veld hierboven ‘Ja’ hebt geselecteerd voor het toestaan van lokale/relatieve URL’s. Ontwikkelaars moeten er ook rekening mee houden dat deze optie alleen van toepassing is wanneer de outputFormatting van een pagina is ingeschakeld."

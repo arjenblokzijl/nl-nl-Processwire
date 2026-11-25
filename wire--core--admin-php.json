@@ -18,7 +18,7 @@
             "text": "Schakel tweefactorauthenticatie in"
         },
         "7d1e877f40bcb7e917038fddfbc95043": {
-            "text": "Je hebt de PHP-instelling „max_input_vars“ van %d bereikt — verhoog deze alsjeblieft."
+            "text": "Je hebt de PHP-instelling “max_input_vars” van %d bereikt — verhoog deze alsjeblieft."
         },
         "c0e293a452a1d7be53a199d8b0a387bd": {
             "text": "DEBUG-MODUS BACKTRACE"

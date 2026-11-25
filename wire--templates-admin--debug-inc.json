@@ -6,7 +6,7 @@
             "text": "Hulpmiddelen voor de debugmodus"
         },
         "b9a880607682d7ff74c39ef4cdefca90": {
-            "text": "Geladen pagina's"
+            "text": "Geladen pagina’s"
         },
         "dc62e13d18c4cec89567255a0bbd8a67": {
             "text": "API-variabelen"
@@ -27,13 +27,13 @@
             "text": "Hooks"
         },
         "62483fbc1d13ed84612061e24f6e72fb": {
-            "text": "PDO-query's ($database)"
+            "text": "PDO-query’s ($database)"
         },
         "92dd35cc61ffc41d02defdcef071856d": {
             "text": "Timers"
         },
         "951102c6edd76f552294869d42635888": {
-            "text": "MySQLi-query's ($db) - Verouderd"
+            "text": "MySQLi-query’s ($db) - Verouderd"
         },
         "8f9bfe9d1345237cb3b2b205864da075": {
             "text": "Gebruiker"

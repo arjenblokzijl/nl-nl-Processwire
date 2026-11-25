@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--fieldtype--fieldtypedecimal--fieldtypedecimal-module",
     "translations": {
         "0f26309b1be1b637d35f604c298b57df": {
-            "text": "Bijgewerkt schema voor veld „%1$s“: %2$s => %3$s"
+            "text": "Bijgewerkt schema voor veld “%1$s”: %2$s => %3$s"
         },
         "506c2c0c7f5b70af3df68c45c46f45a7": {
             "text": "Bijvoorbeeld:"

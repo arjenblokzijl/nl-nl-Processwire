@@ -6,13 +6,13 @@
             "text": "Actief?"
         },
         "d5af3f8c985a3592422462cce67bc86c": {
-            "text": "Een zusterpagina (id=%1$d) gebruikt de naam „%2$s“ al voor de taal: %3$s"
+            "text": "Een zusterpagina (id=%1$d) gebruikt de naam “%2$s” al voor de taal: %3$s"
         },
         "35b837a5674ea74e192fc0fa8b68f46c": {
             "text": "Voorvoegsel voor paginanummers bij paginering"
         },
         "68d765216e3092d42524f9f6f14ce93c": {
-            "text": "Het paginanummer wordt aan dit woord toegevoegd in gepagineerde URL’s voor deze taal. Als je het weglaat, wordt „%s“ gebruikt."
+            "text": "Het paginanummer wordt aan dit woord toegevoegd in gepagineerde URL’s voor deze taal. Als je het weglaat, wordt “%s” gebruikt."
         },
         "5b5fec43bb1313c56d2e944d9567cd96": {
             "text": "Is de URL van de startpagina in de standaardtaal hetzelfde als de root-URL?"

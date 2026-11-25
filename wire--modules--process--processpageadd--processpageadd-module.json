@@ -9,10 +9,10 @@
             "text": "Selecteer een bovenliggende %s pagina:"
         },
         "2298e69a8c95260f81457d8bb74b91ba": {
-            "text": "Er zijn momenteel geen templates met gedefinieerde ouder-kindrelaties nodig om hier de snelkoppelingen „Nieuw toevoegen“ weer te geven."
+            "text": "Er zijn momenteel geen templates met gedefinieerde ouder-kindrelaties nodig om hier de snelkoppelingen “Nieuw toevoegen” weer te geven."
         },
         "bf4ac1b27288d052237b266bafed78a5": {
-            "text": "Om dit in te stellen, bewerk je een willekeurig template (Instellingen > Templates) en klik je op het tabblad „Family“."
+            "text": "Om dit in te stellen, bewerk je een willekeurig template (Instellingen > Templates) en klik je op het tabblad “Family”."
         },
         "a60852f204ed8028c1c58808b746d115": {
             "text": "OK"
@@ -24,13 +24,13 @@
             "text": "In de bovenliggende template is aangegeven dat hier geen onderliggende elementen mogen worden toegevoegd"
         },
         "4adda0ba499618f088c016218590568a": {
-            "text": "De template „%1$s“ staat geen bovenliggende items van het type „%2$s“ toe"
+            "text": "De template “%1$s” staat geen bovenliggende items van het type “%2$s” toe"
         },
         "8ac79db907beb1536bae6c8bebcd2d8f": {
-            "text": "Het bovenliggende element van het type „%1$s“ staat geen onderliggende elementen van het type „%2$s“ toe"
+            "text": "Het bovenliggende element van het type “%1$s” staat geen onderliggende elementen van het type “%2$s” toe"
         },
         "66734a327a9407446a6c13da6d7e88ad": {
-            "text": "Je hebt geen toestemming om pagina's toe te voegen aan de bovenliggende %s"
+            "text": "Je hebt geen toestemming om pagina’s toe te voegen aan de bovenliggende %s"
         },
         "950464785f49f016bb3488b4bead5c7e": {
             "text": "De opgegeven bovenliggende pagina is niet toegestaan (%s)"
@@ -39,10 +39,10 @@
             "text": "Deze naam is al in gebruik. Indien je het niet aanpast, maken we de naam (name) uniek nadat je het opslaat."
         },
         "d337f7f6b3b52602b84f206e80fc6a85": {
-            "text": "Geen toegestane templates om nieuwe pagina's toe te voegen"
+            "text": "Geen toegestane templates om nieuwe pagina’s toe te voegen"
         },
         "76effbf5625101a8e29d5720e986ee6a": {
-            "text": "Template \"%s\" is hier niet toegestaan."
+            "text": "Template “%s” is hier niet toegestaan."
         },
         "278c491bdd8a53618c149c4ac790da34": {
             "text": "Template"
@@ -66,7 +66,7 @@
             "text": "Pagina %1$s is aangemaakt met de volgende template: %2$s"
         },
         "bd71df4fde063d60b0fe33d87f52f7ff": {
-            "text": "Waarschuwing, de naam \"%1$s\" die je selecteert is in gebruik en is aangepast naar \"%2$s\"."
+            "text": "Waarschuwing, de naam “%1$s” die je selecteert is in gebruik en is aangepast naar “%2$s”."
         },
         "abc32b2bc5cd1b61b5d3738f09405c0d": {
             "text": "Verplicht veld ontbreekt: naam"
@@ -81,7 +81,7 @@
             "text": "Sorteervolgorde van template-snelkoppelingen"
         },
         "94eef4670f102676a952d0989f852649": {
-            "text": "Om de volgorde van de snelkoppelingen in de template voor de pagina „Nieuw toevoegen“ te wijzigen, sleep je de opties naar de gewenste volgorde."
+            "text": "Om de volgorde van de snelkoppelingen in de template voor de pagina “Nieuw toevoegen” te wijzigen, sleep je de opties naar de gewenste volgorde."
         },
         "557335482992652fdefe6cc17332688f": {
             "text": "Om templates aan deze snelkoppelingen toe te voegen of eruit te verwijderen, ga je naar het tabblad ‘Family’ in de sjablooneditor."

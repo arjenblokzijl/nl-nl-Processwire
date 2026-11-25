@@ -36,7 +36,7 @@
             "text": "De minimale lengte (in tekens) die voor dit veld vereist is."
         },
         "8eaf7dcee17c55fd550a28c803b47718": {
-            "text": "Als het veld niet „verplicht“ is, wordt de minimale lengte alleen afgedwongen als er een waarde is ingevuld."
+            "text": "Als het veld niet “verplicht” is, wordt de minimale lengte alleen afgedwongen als er een waarde is ingevuld."
         },
         "94f0e608658539187d65dddeea593677": {
             "text": "Maximale lengte"
@@ -45,7 +45,7 @@
             "text": "De maximale lengte (in tekens) die voor dit veld is toegestaan."
         },
         "62b926a914028b7677a7c1e33ae9306e": {
-            "text": "Een waarde van „0“ betekent dat er geen maximum is."
+            "text": "Een waarde van “0” betekent dat er geen maximum is."
         },
         "64d129224a5377b63e9727479ec987d9": {
             "text": "Teller"

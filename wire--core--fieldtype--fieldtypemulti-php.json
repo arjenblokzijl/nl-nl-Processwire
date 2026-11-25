@@ -24,7 +24,7 @@
             "text": "Pagineringlimiet / items per pagina"
         },
         "cc4713abaa08f23ce8f1a1143a04ee77": {
-            "text": "Dit beperkt het aantal items dat per paginering wordt geladen/bewerkt. De waarde „0“ betekent dat er geen limiet is (standaard)."
+            "text": "Dit beperkt het aantal items dat per paginering wordt geladen/bewerkt. De waarde “0” betekent dat er geen limiet is (standaard)."
         },
         "0b01fc6afe7ee324751846ccf0dfc735": {
             "text": "Paginering wordt aanbevolen als je met honderden tot duizenden items (of meer) gaat werken."

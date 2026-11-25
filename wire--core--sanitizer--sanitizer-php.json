@@ -3,7 +3,7 @@
     "textdomain": "wire--core--sanitizer--sanitizer-php",
     "translations": {
         "47ad5a71e6f7bf836f4626d67887707e": {
-            "text": "URL: Schema \"%s\" is niet toegestaan"
+            "text": "URL: Schema “%s” is niet toegestaan"
         }
     }
 }

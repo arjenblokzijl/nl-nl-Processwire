@@ -75,7 +75,7 @@
             "text": "Cache van modules vernieuwd (%d modules)"
         },
         "fdbd482a575730a7abb63cdbf62a0f6c": {
-            "text": "De module „%s“ bevat meerdere bestanden (het vetgedrukte bestand is het bestand dat wordt gebruikt)."
+            "text": "De module “%s” bevat meerdere bestanden (het vetgedrukte bestand is het bestand dat wordt gebruikt)."
         },
         "458268ddfe6f3ace67044ba7f55c7079": {
             "text": "Klik hier om te wijzigen welk bestand wordt gebruikt"
@@ -138,7 +138,7 @@
             "text": "Je kunt door de map met modules bladeren en de module zoeken die je wilt downloaden en installeren."
         },
         "a2eff7125bf22d0665eb96166b471821": {
-            "text": "Typ of plak de klassenaam van de module die je wilt installeren en klik vervolgens op de knop „%s“ om door te gaan."
+            "text": "Typ of plak de klassenaam van de module die je wilt installeren en klik vervolgens op de knop “%s” om door te gaan."
         },
         "5e836e5f23db2e182bbf94e2c151afd7": {
             "text": "De map met modules bevindt zich op %s"
@@ -171,10 +171,10 @@
             "text": "1. Kopieer de bestanden van een module naar een nieuwe map %s op de server."
         },
         "f7cc8104813457b0243bd76df9c6a3e6": {
-            "text": "2. Klik hieronder op de knop „%s“, waarmee je de nieuwe module kunt vinden."
+            "text": "2. Klik hieronder op de knop “%s”, waarmee je de nieuwe module kunt vinden."
         },
         "850f7ec6c49d2fb734785a8f52ad4a0e": {
-            "text": "3. Zoek de knop „%s“ naast de nieuwe module en klik erop."
+            "text": "3. Zoek de knop “%s” naast de nieuwe module en klik erop."
         },
         "aad2eb78d1969fc8b53488a5f5a054ba": {
             "text": "Vervang “%s” door de daadwerkelijke naam van de module, die meestal overeenkomt met de PHP-klassenaam."
@@ -195,7 +195,7 @@
             "text": "Gebruik een hoofdletter [A-Z] voor de eerste letter, een kleine letter [a-z] voor de tweede letter en [a-z A-Z 0-9] voor de rest."
         },
         "4b0877a5e7f5ee4cc39e6fdfc4cd00dd": {
-            "text": "Bijvoorbeeld: „%s“"
+            "text": "Bijvoorbeeld: “%s”"
         },
         "addec426932e71323700afa1911f8f1c": {
             "text": "meer"
@@ -207,7 +207,7 @@
             "text": "Er wordt niet aan de vereisten van de modules voldaan, dus de installatie kan problemen opleveren. Weet je zeker dat je dit wilt installeren?"
         },
         "744cbb13a2d60fe8be0889a49e0bee00": {
-            "text": "De moduleklasse moet de interface „ProcessWire\\Module“ implementeren."
+            "text": "De moduleklasse moet de interface “ProcessWire\\Module” implementeren."
         },
         "b9c21fa0192c783c8c3d3c48cd251f6c": {
             "text": "Nieuwe module gevonden"
@@ -228,7 +228,7 @@
             "text": "Fout gemeld door webservice:"
         },
         "d21a932cf85cfc399d6410838ece9e9c": {
-            "text": "Sorry, modules van het type „%s“ kun je niet installeren vanuit het beheerdersgedeelte."
+            "text": "Sorry, modules van het type “%s” kun je niet installeren vanuit het beheerdersgedeelte."
         },
         "2b0c95ea68acdfcd4e4d995f89bf3b92": {
             "text": "Deze module geeft niet aan of hij compatibel is met deze versie van ProcessWire. Hij werkt misschien nog wel, maar je kunt dit het beste even navragen bij de auteur van de module."
@@ -261,7 +261,7 @@
             "text": "Download geannuleerd"
         },
         "67f02952b064d6064216f2639a516eca": {
-            "text": "De module „%s“ moet geïnstalleerd zijn voordat deze kan worden geïnstalleerd"
+            "text": "De module “%s” moet geïnstalleerd zijn voordat deze kan worden geïnstalleerd"
         },
         "321a272463ceb9661e0951f1e3b639d5": {
             "text": "Gedownload:"
@@ -360,7 +360,7 @@
             "text": "Modulebestand niet gevonden"
         },
         "608c857d1ec057cf85a2776ae9d2e0f1": {
-            "text": "De module „%s“ staat in de database, maar niet op het bestandssysteem."
+            "text": "De module “%s” staat in de database, maar niet op het bestandssysteem."
         },
         "3f7ac7b9e02123a6f7ad6b0a30d22b6d": {
             "text": "Overweeg om de modulebestanden in %s te plaatsen of de module uit de database te verwijderen."

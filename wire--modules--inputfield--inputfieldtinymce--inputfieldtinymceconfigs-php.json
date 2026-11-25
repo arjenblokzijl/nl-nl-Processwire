@@ -39,7 +39,7 @@
             "text": "Menubalk"
         },
         "6e80e432881c796d50f54a87dd726cfb": {
-            "text": "Schakelt een aparte menubalk in met vervolgkeuzemenu's en tekstlabels, die boven de werkbalk verschijnt."
+            "text": "Schakelt een aparte menubalk in met vervolgkeuzemenu’s en tekstlabels, die boven de werkbalk verschijnt."
         },
         "e1d8009677f826c92600706adf4315c8": {
             "text": "Dit kan naar keuze naast of in plaats van de werkbalk worden gebruikt."
@@ -147,7 +147,7 @@
             "text": "Voor dit veld is een bestaand TinyMCE-veld nodig om de instellingen uit te gebruiken, en er zijn momenteel geen andere TinyMCE-velden."
         },
         "4c2f9712147b8f95ef0f6a549899582f": {
-            "text": "Maak een ProcessWire-veld van het type „textarea”, kies TinyMCE als inputfield-type en configureer het."
+            "text": "Maak een ProcessWire-veld van het type “textarea”, kies TinyMCE als inputfield-type en configureer het."
         },
         "bb2c9c0028e85b422410bd52618a3ec8": {
             "text": "Ga daarna terug naar hier om dat veld te selecteren voor de instellingen van dit veld."
@@ -216,10 +216,10 @@
             "text": "Voer de namen van de tools in die je in de werkbalk wilt gebruiken, elk gescheiden door een spatie."
         },
         "48fd51d2d4be9cfcd7ed4eb03b588e50": {
-            "text": "Gebruik als scheidingsteken tussen tools het '|'-teken."
+            "text": "Gebruik als scheidingsteken tussen tools het ‘|’-teken."
         },
         "77bb2cc12fa6815bffc81c73c1c09367": {
-            "text": "vereist de plug-in „%s“"
+            "text": "vereist de plug-in “%s”"
         },
         "b986144e3eb545524992cbdedc4036e3": {
             "text": "Opties in de werkbalk:"
@@ -351,7 +351,7 @@
             "text": "Gebruik dit om aangepaste/externe plug-ins beschikbaar te maken voor je TinyMCE-velden."
         },
         "3e55e64bae0899b6fc24f061ca6a9eee": {
-            "text": "Voer door regeleinden gescheiden URL's in naar .js-bestanden, relatief ten opzichte van de installatiemap van ProcessWire."
+            "text": "Voer door regeleinden gescheiden URL’s in naar .js-bestanden, relatief ten opzichte van de installatiemap van ProcessWire."
         },
         "f65510b3bfc928ea7b78e9a60452798b": {
             "text": "Zodra de plug-ins hier zijn toegevoegd, moet je ze ook inschakelen voor de velden waar je ze wilt gebruiken."
@@ -393,7 +393,7 @@
             "text": "Whitelist voor plakfilter"
         },
         "d7933954ef4ad07470b66f9c0382e150": {
-            "text": "Door komma's gescheiden reeks regels om een whitelist van tags (en eventueel attributen) te definiëren die behouden moeten blijven tijdens het plakken."
+            "text": "Door komma’s gescheiden reeks regels om een whitelist van tags (en eventueel attributen) te definiëren die behouden moeten blijven tijdens het plakken."
         },
         "916dbff7faf436832332bcfc7f72dba3": {
             "text": "Deze instelling wordt gebruikt wanneer de functie “Pastefilter” is geselecteerd voor een bepaald veld en de gebruiker opgemaakte tekst plakt."
@@ -402,7 +402,7 @@
             "text": "Voer de tekenreeks `default` in om de standaardconfiguratie van het plakfilter te gebruiken. Voer de tekenreeks `text` in om als platte tekst te plakken."
         },
         "805bd42c7566daeb972b0bb87f58f052": {
-            "text": "Of geef meerdere regels op, gescheiden door komma's, zoals hieronder."
+            "text": "Of geef meerdere regels op, gescheiden door komma’s, zoals hieronder."
         },
         "fa520b273b01467697bb1266d9295b3e": {
             "text": "Geef `tag` op om tags zonder attributen toe te staan, `tag[attribute]` om tags met één attribuut toe te staan, en `tag[attribute1|attribute2|etc]` om tags met meerdere attributen toe te staan."
@@ -468,7 +468,7 @@
             "text": "Je kunt stijlen in HOOFDLETTERS opgeven om ze ook als inline-stijlen in de opmaak te laten verschijnen, bijvoorbeeld `span.alert { COLOR: red; }`."
         },
         "7be896cea420ed53a067ce3158b6fdaf": {
-            "text": "Om alle items met dezelfde bovenliggende item te verwijderen (zoals alle items in „Align“), voer je `#Align { display:none }` in."
+            "text": "Om alle items met dezelfde bovenliggende item te verwijderen (zoals alle items in “Align”), voer je `#Align { display:none }` in."
         },
         "0b6b54402d8e1b6fea7c2c720859f3e9": {
             "text": "Of als je bijvoorbeeld alleen ‘Align > Center’ wilt verwijderen, typ dan `#Align (Center) { display:none }` in."
@@ -480,13 +480,13 @@
             "text": "Let op: dit geldt alleen voor de editor."
         },
         "05140c46e7f91e85fd2b65da37c04357": {
-            "text": "Je zult waarschijnlijk soortgelijke CSS-klassen (zonder de #ID's) willen toevoegen aan het stylesheet van je front-end-site, tenzij je inline-stijlen wilt gebruiken."
+            "text": "Je zult waarschijnlijk soortgelijke CSS-klassen (zonder de #ID’s) willen toevoegen aan het stylesheet van je front-end-site, tenzij je inline-stijlen wilt gebruiken."
         },
         "e74e55d9cf66793e0f5384a6fc69af6b": {
             "text": "Ongeldige stijlen"
         },
         "a08a8bd6b50ddbbd38083e8b7e27d60b": {
-            "text": "Door spaties, regeleinden of komma's gescheiden lijst met inline-stijlen die niet mogen worden toegestaan in de stijlattributen van de opmaak."
+            "text": "Door spaties, regeleinden of komma’s gescheiden lijst met inline-stijlen die niet mogen worden toegestaan in de stijlattributen van de opmaak."
         },
         "3419deb55e1e99da40c72112ac2c7317": {
             "text": "Elke stijl is uitgeschakeld voor alle elementen."
@@ -498,13 +498,13 @@
             "text": "Geef aan welke inline-stijlen niet in de opmaak mogen voorkomen (bijv. line-height, font-size, enz.)."
         },
         "92b7e4f56512a2c11e06c436d1b73419": {
-            "text": "Het gebruik van komma's of regeleinden is optioneel."
+            "text": "Het gebruik van komma’s of regeleinden is optioneel."
         },
         "bb4e6e3259950f60940f366145d48925": {
-            "text": "Dropdown-menu's in de menubalk"
+            "text": "Dropdown-menu’s in de menubalk"
         },
         "25c3936c0382b51a9b6be8f0937e39fc": {
-            "text": "Geef aan welke tools in de dropdown-menu's van de menubalk moeten verschijnen."
+            "text": "Geef aan welke tools in de dropdown-menu’s van de menubalk moeten verschijnen."
         },
         "5f0a0bb8122fc7d6416715d0c272729d": {
             "text": "De dropdown-items op het hoogste niveau die in de menubalk moeten worden weergegeven."
@@ -549,7 +549,7 @@
             "text": "Als er geen velden zijn geselecteerd, wordt tijdens de uitvoering automatisch een beschikbaar afbeeldingenveld gekozen."
         },
         "735a7b09d4c797c0801ae198bd08fe6e": {
-            "text": "Als de optie met het label „Geen“ is geselecteerd, wordt de functie uitgeschakeld."
+            "text": "Als de optie met het label “Geen” is geselecteerd, wordt de functie uitgeschakeld."
         },
         "6cebed5235cc421e425e099a1e8afb2b": {
             "text": "Als er op een bepaalde pagina meerdere afbeeldingsvelden overeenkomen, geldt de volgorde van de bovenstaande selecties."

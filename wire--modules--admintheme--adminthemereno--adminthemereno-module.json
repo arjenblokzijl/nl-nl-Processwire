@@ -18,7 +18,7 @@
             "text": "Gebruikersafbeeldingen"
         },
         "bbe7b2d443c26552faeb0e0c7d4541fe": {
-            "text": "Om deze functie te kunnen gebruiken, moeten je gebruikerssjablonen een afbeeldingsveld bevatten. Als je gebruikerssjablonen geen afbeeldingsveld hebben, wordt standaard een pictogram als avatar gebruikt. Om een afbeeldingsveld toe te voegen aan het standaardgebruikerssjabloon, ga je naar Instellingen > Templates > Filters (Systeemsjablonen weergeven). De template „gebruiker“ verschijnt nu in de lijst. Als je een extra of alternatieve gebruikerstemplate hebt aangemaakt, kun je deze functie inschakelen door een afbeeldingsveld aan die template toe te voegen."
+            "text": "Om deze functie te kunnen gebruiken, moeten je gebruikerssjablonen een afbeeldingsveld bevatten. Als je gebruikerssjablonen geen afbeeldingsveld hebben, wordt standaard een pictogram als avatar gebruikt. Om een afbeeldingsveld toe te voegen aan het standaardgebruikerssjabloon, ga je naar Instellingen > Templates > Filters (Systeemsjablonen weergeven). De template “gebruiker” verschijnt nu in de lijst. Als je een extra of alternatieve gebruikerstemplate hebt aangemaakt, kun je deze functie inschakelen door een afbeeldingsveld aan die template toe te voegen."
         },
         "b012c7da60d514a8d126979210fa1f8e": {
             "text": "Afbeeldingsveld voor de %s-template"
@@ -27,13 +27,13 @@
             "text": "Er zijn geen afbeeldingsvelden toegewezen aan dit template"
         },
         "b30e371dcaa3d2b157ef7566aa157b8a": {
-            "text": "Het veld „%s“ is toegevoegd aan de velden die de gebruiker in zijn profiel kan bewerken."
+            "text": "Het veld “%s” is toegevoegd aan de velden die de gebruiker in zijn profiel kan bewerken."
         },
         "c89a8fcd5422ef9d592d35af51ad242d": {
             "text": "Weergavenamen van gebruikers"
         },
         "713128d7e4e2ab180d2126b0cea259b9": {
-            "text": "Door komma's gescheiden lijst met velden die als weergavenaam in het beheerdersgedeelte moeten worden gebruikt. (voorbeeld: first_name, last_name)"
+            "text": "Door komma’s gescheiden lijst met velden die als weergavenaam in het beheerdersgedeelte moeten worden gebruikt. (voorbeeld: first_name, last_name)"
         },
         "ebb4a6d411a325b9c4d626f842cd6ed1": {
             "text": "Dit mogen alleen tekstvelden zijn. Andere fieldtypes worden genegeerd."

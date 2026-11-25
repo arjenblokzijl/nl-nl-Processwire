@@ -15,7 +15,7 @@
             "text": "Tekens vervangen"
         },
         "9d250aded0473671ec3f113407f9809c": {
-            "text": "Voer de vervangingen in die plaatsvinden wanneer een gebruiker tekens invoert in een veld voor paginanaam. Voer één vervanging per regel in, in de indeling sleutel=waarde. Dat betekent dat je op elke nieuwe regel het teken of de tekens invoert die je wilt vervangen, gevolgd door een gelijkteken \"=\" en het ASCII-teken of de ASCII-tekens waarmee je het wilt vervangen."
+            "text": "Voer de vervangingen in die plaatsvinden wanneer een gebruiker tekens invoert in een veld voor paginanaam. Voer één vervanging per regel in, in de indeling sleutel=waarde. Dat betekent dat je op elke nieuwe regel het teken of de tekens invoert die je wilt vervangen, gevolgd door een gelijkteken “=” en het ASCII-teken of de ASCII-tekens waarmee je het wilt vervangen."
         },
         "9bc6bf958fcb86296c17a2b2db2a00a6": {
             "text": "De vervangingswaarde voor elk moet bestaan uit één of meer van de volgende tekens: a-z, 0-9, streepje, onderstrepingsteken of punt."

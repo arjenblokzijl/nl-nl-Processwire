@@ -27,7 +27,7 @@
             "text": "**Boolean:** True of false voor ja/nee-toestanden."
         },
         "53559d654a38f34b067b188cde584853": {
-            "text": "**String:** Gebruik tekstlabels die zijn geconfigureerd met de instellingen onder „Input“."
+            "text": "**String:** Gebruik tekstlabels die zijn geconfigureerd met de instellingen onder “Input”."
         },
         "047f245cdf987a38461e1a12559ff71a": {
             "text": "**Entiteiten:** Hetzelfde als hierboven (string), maar met entiteitscodering voor HTML-uitvoer."
@@ -36,7 +36,7 @@
             "text": "Schakelaar (Ja/Nee)"
         },
         "ed4f448d518712aadb3a62be1b48236e": {
-            "text": "Configureerbare ja/nee-, aan/uit-schakelaar als alternatief voor een selectievakje, plus een optionele „overig“-optie."
+            "text": "Configureerbare ja/nee-, aan/uit-schakelaar als alternatief voor een selectievakje, plus een optionele “overig”-optie."
         }
     }
 }

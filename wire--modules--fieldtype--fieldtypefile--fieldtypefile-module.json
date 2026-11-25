@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--fieldtype--fieldtypefile--fieldtypefile-module",
     "translations": {
         "3e560c05ba6d07bcd41ac1053b5b9437": {
-            "text": "Het veld „%s“ is nog niet klaar voor gebruik en moet worden geconfigureerd."
+            "text": "Het veld “%s” is nog niet klaar voor gebruik en moet worden geconfigureerd."
         },
         "a8d5114d10f7846bf0263c4e4207137e": {
             "text": "De instellingen zijn nog niet opgeslagen."

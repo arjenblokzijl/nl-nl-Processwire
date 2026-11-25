@@ -30,19 +30,19 @@
             "text": "Let op: deze melding wordt niet nog een keer getoond. Vergeet niet de debugmodus uit te schakelen voordat je live gaat."
         },
         "233b54b5df8647fadbfb62e9c4def925": {
-            "text": "Beveiligingswaarschuwing: het bestand '%s' bestaat en moet zo snel mogelijk worden verwijderd."
+            "text": "Beveiligingswaarschuwing: het bestand ‘%s’ bestaat en moet zo snel mogelijk worden verwijderd."
         },
         "7ba9982e6cae459db14db8bad5ad68b9": {
             "text": "Waarschuwing: je %s-bestand heeft permissies die voor veel omgevingen te ruim zijn:"
         },
         "748befe7a5d432caba8b6cadc4076e92": {
-            "text": "Lees „Permissies beveiligen” voor meer informatie"
+            "text": "Lees “Permissies beveiligen” voor meer informatie"
         },
         "5ff81a1ae7c80f730595ed1100007665": {
             "text": "Om deze waarschuwing te onderdrukken, voeg je het volgende toe aan je %s-bestand:"
         },
         "359a712bdea64131ff4e83fbc7233af6": {
-            "text": "Waarschuwing: je hebt een veld met de naam „gepubliceerd“ dat in conflict is met de eigenschap „gepubliceerd“ van de pagina."
+            "text": "Waarschuwing: je hebt een veld met de naam “gepubliceerd” dat in conflict is met de eigenschap “gepubliceerd” van de pagina."
         },
         "e51b9afa44f26fb147585eda2b708808": {
             "text": "Geef je veld een andere naam en pas alle templates aan die ernaar verwijzen."
@@ -54,7 +54,7 @@
             "text": "Let op: je huidige locale-instelling op de server werkt niet zoals verwacht met de UTF-8-tekenset en kan kleine problemen veroorzaken."
         },
         "f8239d6a9013fae244731a805aa50b09": {
-            "text": "Vertaal de locale-instelling „C“ voor elke taal naar de compatibele locale in %s"
+            "text": "Vertaal de locale-instelling “C” voor elke taal naar de compatibele locale in %s"
         },
         "d5877d284caca4c9b4d55adb8e6e758c": {
             "text": "De locale-instelling voor Amerikaans Engels zou bijvoorbeeld kunnen zijn: %s"
