@@ -1,0 +1,12 @@
+{
+    "file": "wire/core/Modules/ModulesDuplicates.php",
+    "textdomain": "wire--core--modules--modulesduplicates-php",
+    "translations": {
+        "58a6d03e30331d26f3ab31c392c104ab": {
+            "text": "Er lijken meerdere kopieën van de module „%s“ op het bestandssysteem te staan."
+        },
+        "47edefbd0afb7d34d9a1ea2e99a18d1b": {
+            "text": "Pas de module-instellingen aan om ProcessWire te laten weten welke je wilt gebruiken:"
+        }
+    }
+}

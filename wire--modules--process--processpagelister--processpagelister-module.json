@@ -1,7 +1,19 @@
 {
-    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageLister.module",
+    "file": "wire/modules/Process/ProcessPageLister/ProcessPageLister.module",
     "textdomain": "wire--modules--process--processpagelister--processpagelister-module",
     "translations": {
+        "7ffc4d510260a8544e5550e62ec56bc1": {
+            "text": "rel"
+        },
+        "e4ef81cce7e4e10033ebb10962dfdd5e": {
+            "text": "Leeg"
+        },
+        "b718adec73e04ce3ec720dd11a06a308": {
+            "text": "ID"
+        },
+        "ac70412e939d72a9234cdebb1af5867b": {
+            "text": "Pad"
+        },
         "49ee3087348e8d44e1feda1917443987": {
             "text": "Naam"
         },
@@ -9,13 +21,22 @@
             "text": "Aangemaakt"
         },
         "35e0c8c0b180c95d4e122e55ed62cc64": {
-            "text": "Gewijzigt"
+            "text": "Gewijzigd"
+        },
+        "9b9d8a976b42e0bd66381797644943d5": {
+            "text": "Gepubliceerd"
         },
         "a5e3d3ad4b54f37c48d9391d5ab35eed": {
             "text": "Aangepast door"
         },
         "7b1255f8fdd0cb8751baee55621164e1": {
             "text": "Aangemaakt door"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Template"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Status"
         },
         "30269022e9d8f51beaabb52e5d0de2b7": {
             "text": "Bovenliggende pagina"
@@ -24,7 +45,7 @@
             "text": "Aantal subpagina's"
         },
         "7acdf85c69cc3c5305456a293524386e": {
-            "text": "Verborden"
+            "text": "Verborgen"
         },
         "0774e163cd7df482edd2abd498189f8b": {
             "text": "Ongepubliceerd"
@@ -33,10 +54,13 @@
             "text": "Vergrendeld"
         },
         "a7e253cd8dd95da3e20daf45519a8dc2": {
-            "text": "Prullenbank"
+            "text": "Prullenbak"
         },
         "57c17efa48d527f45393fdbf800500a0": {
             "text": "Bookmark wordt niet herkend"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Filters"
         },
         "860515850b6c6beae4343c42ecf3060f": {
             "text": "Voeg filter toe"
@@ -59,17 +83,14 @@
         "0c8ee3eeadc96eeeeb24e2a6dc9d4a5e": {
             "text": "Welke pagina's zichtbaar maken"
         },
-        "e4ef81cce7e4e10033ebb10962dfdd5e": {
-            "text": "Leeg"
+        "3361493ce22b609b5d11f463c8bd8c6a": {
+            "text": "De opgegeven 'include='-modus is hier niet toegestaan."
         },
-        "de95b43bceeb4b998aed4aed5cef1ae7": {
-            "text": "wijzig"
+        "e418dc3d6d68592a1932bb1446975acb": {
+            "text": "Niet alle opgegeven templates zijn bewerkbaar. Alleen 'include=verborgen' is toegestaan"
         },
-        "1bda80f2be4d3658e0baa43fbe7ae8c1": {
-            "text": "bekijk"
-        },
-        "22af645d1859cb5ca6da0c484f1f37ea": {
-            "text": "nieuw"
+        "12b585ee7c6e8dca3790262f321f3823": {
+            "text": "Er zijn geen templates opgegeven, dus 'include=verborgen' is de maximaal toegestane include-modus"
         },
         "a5158728109d8e67ae31b7b02bdc8b86": {
             "text": "%1$d tot %2$d van %3$d"
@@ -84,7 +105,16 @@
             "text": "Alle wijzigingen zijn hersteld."
         },
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
-            "text": "Voeg nieuwe toe"
+            "text": "Nieuwe pagina toevoegen"
+        },
+        "2cd1c7a79703fe25a98128ad343a621e": {
+            "text": "Resultaten vernieuwen"
+        },
+        "d77a4f65dfe38bdbb76371048e3ae9ea": {
+            "text": "Filters en kolommen terugzetten naar standaardinstellingen"
+        },
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Bladwijzers"
         },
         "590345301b23eb45c176da0fc139b191": {
             "text": "Kolommen"

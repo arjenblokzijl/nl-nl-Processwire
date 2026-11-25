@@ -1,0 +1,9 @@
+{
+    "file": "wire/core/Session/SessionCSRF.php",
+    "textdomain": "wire--core--session--sessioncsrf-php",
+    "translations": {
+        "f5456cee91779e33a9f38ddca5081710": {
+            "text": "Dit verzoek is afgebroken omdat het vervalst lijkt te zijn."
+        }
+    }
+}

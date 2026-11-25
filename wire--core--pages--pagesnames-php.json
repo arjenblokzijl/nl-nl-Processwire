@@ -1,0 +1,18 @@
+{
+    "file": "wire/core/Pages/PagesNames.php",
+    "textdomain": "wire--core--pages--pagesnames-php",
+    "translations": {
+        "b0c7034324356a3debb02f65432da4cb": {
+            "text": "Een andere pagina gebruikt de naam „%s“ en vereist dat deze globaal uniek is"
+        },
+        "0bfad70a433eea8a1d6211bc771098b5": {
+            "text": "Een andere gebruiker gebruikt de naam „%s“ al"
+        },
+        "dc4285f03b7d0a9a40a437530f567e94": {
+            "text": "Er is al een andere pagina met dezelfde bovenliggende pagina die de naam „%s“ gebruikt"
+        },
+        "fca123eb0b6f4465da6e62e5b07927e9": {
+            "text": "De naam „%s“ kan niet als globaal unieke naam worden gebruikt, omdat deze al door andere pagina('s) wordt gebruikt"
+        }
+    }
+}

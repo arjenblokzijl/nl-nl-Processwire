@@ -1,0 +1,36 @@
+{
+    "file": "wire/modules/Process/ProcessPermission/ProcessPermission.module",
+    "textdomain": "wire--modules--process--processpermission--processpermission-module",
+    "translations": {
+        "179e210d56ed91c1da0ac7cff7234b21": {
+            "text": "Installeer vooraf gedefinieerde systeempermissies"
+        },
+        "f6a3c2ccb1bf0db768a1e710b1bb4b8f": {
+            "text": "Vink het vakje aan naast elke optionele permissie die je wilt installeren."
+        },
+        "f42c0a03ea62c2f657939fd15ef033cb": {
+            "text": "Na installatie moet de gebruiker deze permissie hebben om de beschreven taak uit te voeren."
+        },
+        "76455df332216051d893a89ac3b39deb": {
+            "text": "Als de module NIET is geïnstalleerd, wordt aangenomen dat de gebruiker permissies heeft als hij of zij al bewerkingsrechten heeft voor de beschreven bron."
+        },
+        "3900b58fd6fe4828f0595efc2d4f574f": {
+            "text": "Als gevolg hiervan kan deze permissie, indien geïnstalleerd, bestaande toegang intrekken totdat deze aan rollen is toegewezen."
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Installeren"
+        },
+        "934d155461a5e54ed0cfed45b64272ed": {
+            "text": "Voeg een nieuwe aangepaste permissie toe"
+        },
+        "baa866af125aefed417409d878f6d013": {
+            "text": "Optionele permissie toegevoegd: %s"
+        },
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Permissies"
+        },
+        "175111b089b0e62fbde2b5344f2a547f": {
+            "text": "Systeempermissies beheren"
+        }
+    }
+}

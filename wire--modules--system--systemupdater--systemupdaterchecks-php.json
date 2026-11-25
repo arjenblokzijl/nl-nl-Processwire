@@ -1,0 +1,105 @@
+{
+    "file": "wire/modules/System/SystemUpdater/SystemUpdaterChecks.php",
+    "textdomain": "wire--modules--system--systemupdater--systemupdaterchecks-php",
+    "translations": {
+        "b39229143b1147a73a48df31c1231d8c": {
+            "text": "Er zijn meerdere problemen gedetecteerd, bekijk deze even:"
+        },
+        "cea2995cd3259dca15a20b501b1e458b": {
+            "text": "Let op: je root-%s-bestand is niet up-to-date met deze versie van ProcessWire. Werk het bij als het even kan."
+        },
+        "18dd427864e5d5894d6427b120729661": {
+            "text": "Om deze waarschuwing te onderdrukken, vervang of voeg je het volgende toe bovenaan je bestaande .htaccess-bestand:"
+        },
+        "3ce93c026eb9e6490b97440cb30648ac": {
+            "text": "Welkom bij ProcessWire!"
+        },
+        "b5e8bf8e4ff52c6a5284ed10f7951738": {
+            "text": "Als deze installatie momenteel wordt gebruikt voor ontwikkeling of testen, raden we aan de debugmodus in te schakelen."
+        },
+        "ecd4a06df60ea2b6392432bbd11f1d76": {
+            "text": "De debugmodus zorgt ervoor dat alle fouten zichtbaar zijn, wat handig kan zijn tijdens het ontwikkelen of het oplossen van problemen."
+        },
+        "917cf9b7a671b533087c8f7b0bf8d157": {
+            "text": "Hierdoor kan er ook aanvullende informatie voor ontwikkelaars in het beheerdergedeelte verschijnen."
+        },
+        "cb6a03bb5f07396e7eca71a86ad46e43": {
+            "text": "Je kunt de debugmodus inschakelen door je %s-bestand te bewerken en het volgende toe te voegen:"
+        },
+        "f1d50e08fba3212773302367c8513449": {
+            "text": "Let op: deze melding wordt niet nog een keer getoond. Vergeet niet de debugmodus uit te schakelen voordat je live gaat."
+        },
+        "233b54b5df8647fadbfb62e9c4def925": {
+            "text": "Beveiligingswaarschuwing: het bestand '%s' bestaat en moet zo snel mogelijk worden verwijderd."
+        },
+        "7ba9982e6cae459db14db8bad5ad68b9": {
+            "text": "Waarschuwing: je %s-bestand heeft permissies die voor veel omgevingen te ruim zijn:"
+        },
+        "748befe7a5d432caba8b6cadc4076e92": {
+            "text": "Lees „Permissies beveiligen” voor meer informatie"
+        },
+        "5ff81a1ae7c80f730595ed1100007665": {
+            "text": "Om deze waarschuwing te onderdrukken, voeg je het volgende toe aan je %s-bestand:"
+        },
+        "359a712bdea64131ff4e83fbc7233af6": {
+            "text": "Waarschuwing: je hebt een veld met de naam „gepubliceerd“ dat in conflict is met de eigenschap „gepubliceerd“ van de pagina."
+        },
+        "e51b9afa44f26fb147585eda2b708808": {
+            "text": "Geef je veld een andere naam en pas alle templates aan die ernaar verwijzen."
+        },
+        "60d0f1128804dfd5fa013c3d02c67012": {
+            "text": "Je huidige taalinstelling is “%s”."
+        },
+        "9cdeee8e8a463c558dc372434cc5dbb1": {
+            "text": "Let op: je huidige locale-instelling op de server werkt niet zoals verwacht met de UTF-8-tekenset en kan kleine problemen veroorzaken."
+        },
+        "f8239d6a9013fae244731a805aa50b09": {
+            "text": "Vertaal de locale-instelling „C“ voor elke taal naar de compatibele locale in %s"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "De locale-instelling voor Amerikaans Engels zou bijvoorbeeld kunnen zijn: %s"
+        },
+        "7ca79a1980d88028a56fcee7c711685e": {
+            "text": "Voeg dit toe aan je %1$s-bestand (pas “%2$s” indien nodig aan):"
+        },
+        "6ed94bc4b5b5d4c1bfd4c90792c39c68": {
+            "text": "De site staat in debugmodus, geschikt voor sites die nog in ontwikkeling zijn"
+        },
+        "1ffd655d9788eba2b285e4363eab7b51": {
+            "text": "Als dit een live-/productiesite is, moet je de debugmodus in %1$s uitschakelen met: %2$s"
+        },
+        "bac4951f14a17b95173f02192629e8b3": {
+            "text": "Je PHP memory_limit is momenteel ingesteld op %s."
+        },
+        "c57b443779cf3185492a1248dbead5a0": {
+            "text": "We raden aan om dit te verhogen tot ten minste %s."
+        },
+        "cec93480f3d9c56dd41deb0dd62594bf": {
+            "text": "Overweeg om dit, ter optimalisatie van de prestaties, te verhogen tot ten minste %s."
+        },
+        "87d16ab6475fc685c551a3deb26b0314": {
+            "text": "Waarschuwing: de tijd in de database wijkt %s af van de PHP-tijd."
+        },
+        "47d93b16dbcd03998421dc17103a206c": {
+            "text": "%s - tijd in de database"
+        },
+        "c43fe72c10f6c324e4f7bbbace58084e": {
+            "text": "%s - PHP-tijd"
+        },
+        "ccd3671a8af3a1c2f505db9228bf30b3": {
+            "text": "Bewerk je %1$s-bestand en pas je %2$s aan, zodat deze overeenkomt met die in je database."
+        },
+        "0c56b1743edd58151ac157e68e28aed4": {
+            "text": "Zie de lijst met PHP-tijdzones"
+        },
+        "8f0362971b64ae326b6a57f21f9d5ce4": {
+            "text": "Vereiste versie: %1$s, Gevonden versie: %2$s."
+        },
+        "d331f06185da085f65656f31a7a8a795": {
+            "text": "Het vereiste bestand kan niet worden gevonden: %s"
+        },
+        "0d61f8370cad1d412f80b84d143e1257": {
+            "text": "C"
+        }
+    }
+}

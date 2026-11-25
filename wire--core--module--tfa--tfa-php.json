@@ -1,0 +1,66 @@
+{
+    "file": "wire/core/Module/Tfa/Tfa.php",
+    "textdomain": "wire--core--module--tfa--tfa-php",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Annuleren"
+        },
+        "f9be528468706e84485c5baa7f553fb9": {
+            "text": "Configureer dit"
+        },
+        "c8cf6eea8f096ed51160b484d97c5bbd": {
+            "text": "INGESCHAKELD"
+        },
+        "3b4101362473ebcc69709f89fb96660b": {
+            "text": "Tweefactorauthenticatie is ingeschakeld!"
+        },
+        "6e7655b2bfff79f61f88c1d0b503ff48": {
+            "text": "Om instellingen uit te schakelen of te wijzigen, selecteer je hierboven de optie „Geen“ en sla je op."
+        },
+        "8ced11807059756862f53c217354b63a": {
+            "text": "Verlopen code"
+        },
+        "e9b342b9b4fa34f406761f626823a71b": {
+            "text": "Type tweefactorauthenticatie"
+        },
+        "90d6f81578cb44ed4be183c66d52c7f9": {
+            "text": "Nadat je een keuze hebt gemaakt of gewijzigd, verstuur je het formulier en kom je hier terug om het in te stellen."
+        },
+        "80a295c9fe7bed66295f4d8c1b52e110": {
+            "text": "Authenticatiecode"
+        },
+        "e4282a24d0473bcf155064341f71e92b": {
+            "text": "Ongeldige code"
+        },
+        "659bdd9c46c5d70535873ddb56cafd06": {
+            "text": "Maximaal aantal pogingen bereikt"
+        },
+        "e8b4a77d06cf81dc696a4a31e6a46ae2": {
+            "text": "Wis opgeslagen browsers die het invoeren van de authenticatiecode overslaan"
+        },
+        "f8b67530ae39d240111ec69291985123": {
+            "text": "Opgeslagen browsergegevens gewist"
+        },
+        "02737b9a82aa8e3b6e9090dcdbcd2431": {
+            "text": "Herinner je je deze computer nog?"
+        },
+        "4e74313cb658d8e75c33cc16caa0b078": {
+            "text": "Deze computer/browser wordt nu maximaal %d dagen onthouden."
+        },
+        "5e54e7c01119f2724ce0acbd4c8f6ed3": {
+            "text": "Als je van browser en/of locatie verandert, heb je misschien een nieuwe code nodig."
+        },
+        "287f75369eba76b6634a6cdf2f1cb915": {
+            "text": "Er was geen code nodig omdat de browser werd herkend op basis van een eerdere aanmelding."
+        },
+        "cbb29c6546b8bc6d75f7601de9fbf02b": {
+            "text": "Fout bij het aanmaken of verzenden van de verificatiecode"
+        },
+        "fcb94183c23245426ccf40bd6d531c69": {
+            "text": "De tijdslimiet is bereikt"
+        },
+        "2f8ed7fafd3c1784a3be4da8eb3d106a": {
+            "text": "…"
+        }
+    }
+}

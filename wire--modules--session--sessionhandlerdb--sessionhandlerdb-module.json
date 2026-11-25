@@ -1,0 +1,39 @@
+{
+    "file": "wire/modules/Session/SessionHandlerDB/SessionHandlerDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--sessionhandlerdb-module",
+    "translations": {
+        "6514b2122a2e569491dccb69eebe383c": {
+            "text": "Als je dit vakje aanvinkt, worden de gegevens weergegeven in je lijst met beheerderssessies."
+        },
+        "262f42ad28e2d01d7dc5afa698716099": {
+            "text": "IP-adressen bijhouden in sessiegegevens?"
+        },
+        "ab5b4b2116f61fda9325e6deb591bb8f": {
+            "text": "Moet de gebruiker in de sessiegegevens worden bijgehouden?"
+        },
+        "703fdc8134134754f6630df73ee50572": {
+            "text": "De gebruiker bevat meestal informatie over de browser die wordt gebruikt."
+        },
+        "ba361c497e1c5943748b4df7933d353f": {
+            "text": "Parallelle sessies toestaan?"
+        },
+        "34fde9e07a3a1cae09017ec0a9ae2c31": {
+            "text": "Als deze optie is ingeschakeld, worden bij een succesvolle aanmelding alle andere sessies van die gebruiker op andere apparaten/browsers beëindigd."
+        },
+        "d95cdb1f2c4fd9c3c22f548068589fa3": {
+            "text": "Als je dit vakje aanvinkt, is er maar één sessie tegelijk toegestaan voor een ingelogde gebruiker."
+        },
+        "38c612b0c7404dbf10629354dfc1ec43": {
+            "text": "Time-out sessievergrendeling (seconden)"
+        },
+        "b0736da4c0683db9382ba750a5f0073b": {
+            "text": "Als er binnen dit aantal seconden geen DB-vergrendeling voor de sessie kan worden verkregen, wordt er een “%s”-foutmelding verzonden, waarin de client wordt gevraagd het over %d seconden opnieuw te proberen."
+        },
+        "c1ab83af87ac0bb0dab8511d14260c73": {
+            "text": "429: Te veel verzoeken"
+        },
+        "8883240d9c18322fd43dfd39c8b32e14": {
+            "text": "De vorige inlogsessie voor „%s“ is verwijderd/uitgelogd."
+        }
+    }
+}

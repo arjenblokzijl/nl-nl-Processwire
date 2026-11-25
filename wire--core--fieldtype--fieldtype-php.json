@@ -1,0 +1,21 @@
+{
+    "file": "wire/core/Fieldtype/Fieldtype.php",
+    "textdomain": "wire--core--fieldtype--fieldtype-php",
+    "translations": {
+        "a528ac2d2f326703f458dec14cba03e5": {
+            "text": "Autojoin"
+        },
+        "2af316156c9ea64d6d56bfe221486efd": {
+            "text": "Als dit aangevinkt is, worden de gegevens voor dit veld bij elke weergave van de pagina geladen, ongeacht of het op dat moment wordt gebruikt. Als dit niet aangevinkt is, worden de gegevens op verzoek geladen, en alleen wanneer het veld specifiek wordt opgevraagd."
+        },
+        "4cc6684df7b4a92b1dec6fce3264fac8": {
+            "text": "Globaal"
+        },
+        "ad1bc8634063998074151ecfaaf2e6a1": {
+            "text": "Als dit aangevinkt is, moeten ALLE pagina’s dit veld bevatten. Het wordt automatisch toegevoegd aan alle veldgroepen/templates die het nog niet hebben. Dit betekent niet dat er een waarde in het veld moet staan, maar alleen dat het bewerkbare veld op alle pagina’s aanwezig zal zijn."
+        },
+        "cacb4064843717606a3301b974b6f959": {
+            "text": "De waarde is niet toegestaan voor het veld „%s“, omdat deze al in gebruik is"
+        }
+    }
+}

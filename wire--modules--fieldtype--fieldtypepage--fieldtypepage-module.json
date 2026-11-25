@@ -1,0 +1,60 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypePage/FieldtypePage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepage--fieldtypepage-module",
+    "translations": {
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Aantal"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Template"
+        },
+        "7b438db8547ac1c9ab6c7ba6cb1532db": {
+            "text": "Meerdere pagina's (PageArray)"
+        },
+        "a24fcc695edbc57c60c768a732d2f30d": {
+            "text": "Eén pagina (Page) of de booleaanse waarde false als er niets is geselecteerd"
+        },
+        "94a53712b9a34f922a776fc5aa68d31f": {
+            "text": "Eén pagina (Page) of lege pagina (NullPage) als er niets is geselecteerd"
+        },
+        "b163d440906ff7e0a02262fb1406e123": {
+            "text": "Type waarde van het paginaveld"
+        },
+        "e28f86b62065207ceeb0b5057eb98537": {
+            "text": "Als je veld meerdere pagina’s bevat, kies dan de eerste optie (PageArray). Als je veld maar één pagina hoeft te bevatten, kies dan een van de opties voor één pagina (als je niet zeker weet welke, kies dan de laatste optie)."
+        },
+        "be288f506d4d5100260d915b396a83be": {
+            "text": "Voorbeelden van API-gebruik"
+        },
+        "c563103ae743ad1643e5f3e49a2c89d5": {
+            "text": "Hetzelfde als hierboven, maar dan met een andere syntaxis"
+        },
+        "0a7cd2620545065d49a8ca58f5fc0b28": {
+            "text": "Meer over de %s-methode."
+        },
+        "7d5f7f76b51ac880e91da28dbc52df35": {
+            "text": "Niet gepubliceerde pagina's toestaan?"
+        },
+        "147ca86a29ed518210e0864f1e0d49ad": {
+            "text": "Als dit aangevinkt is, kun je niet gepubliceerde pagina’s selecteren voor invoer en zijn ze toegestaan in de *ongeformatteerde* veldwaarde. Ze worden hoe dan ook nog steeds uitgesloten van de *geformatteerde* veldwaarde."
+        },
+        "393e717c8215abdbe581b21180abfa2b": {
+            "text": "Pagina niet gevonden"
+        },
+        "34a56e6d474c258bb9f4553aae0c7b81": {
+            "text": "Template niet gevonden"
+        },
+        "2d6565614947b2a6daba1a06515124da": {
+            "text": "Zoek en verwijder verwijzingen naar verweesde pagina's"
+        },
+        "f7e35a334f1501cc0365458563f90cf5": {
+            "text": "Dit lost een probleem op in oudere versies van ProcessWire, waarbij er soms verweesde paginareferenties achterbleven voor verwijderde pagina’s. Als je onnauwkeurige resultaten krijgt bij het zoeken naar pagina’s (vooral bij selectors die pageref.count gebruiken), dan is het misschien een goed idee om dit uit te voeren."
+        },
+        "35a326c72a6584f3c7d70109b5cd45f1": {
+            "text": "Waarschuwing: Voor de zekerheid moet je een back-up van je database maken voordat je dit uitvoert."
+        },
+        "081c14de091c8761b82f930fd59c8f16": {
+            "text": "Bezig met zoeken en opschonen..."
+        }
+    }
+}

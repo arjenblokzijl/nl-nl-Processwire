@@ -1,0 +1,24 @@
+{
+    "file": "wire/modules/Jquery/JqueryWireTabs/JqueryWireTabs.module",
+    "textdomain": "wire--modules--jquery--jquerywiretabs--jquerywiretabs-module",
+    "translations": {
+        "d9f813a897729ef85bdc36fe6f9bc91a": {
+            "text": "Onthoud je de posities van de tabbladen tussen verzoeken door?"
+        },
+        "6e7b34fa59e1bd229b207892956dc41c": {
+            "text": "Nooit"
+        },
+        "3f8dfcf012a1f2c00ebbe7cc3fe0f265": {
+            "text": "Pas nadat het formulier is verzonden"
+        },
+        "68eec46437c384d8dad18d5464ebc35c": {
+            "text": "Altijd"
+        },
+        "4778324acb050ad87cef45324610ff81": {
+            "text": "jQuery Wire Tabs-plug-in"
+        },
+        "9fdc49adcef1b65060a39f7a096d09e2": {
+            "text": "Biedt een jQuery-plugin voor het genereren van tabbladen in ProcessWire."
+        }
+    }
+}

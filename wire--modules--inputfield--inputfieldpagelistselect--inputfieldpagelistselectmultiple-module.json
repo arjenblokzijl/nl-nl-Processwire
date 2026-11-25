@@ -1,0 +1,33 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldPageListSelect/InputfieldPageListSelectMultiple.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagelistselect--inputfieldpagelistselectmultiple-module",
+    "translations": {
+        "ec211f7c20af43e742bf2570c3cb84f9": {
+            "text": "Toevoegen"
+        },
+        "d3d2e617335f08df83599665eef8a418": {
+            "text": "Sluiten"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Selecteren"
+        },
+        "91b442d385b54e1418d81adc34871053": {
+            "text": "Geselecteerd"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Deselecteren"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Meer"
+        },
+        "1063e38cb53d94d386f21227fcd84717": {
+            "text": "Verwijderen"
+        },
+        "fae5139ea4669e57a1e1d43da734b60d": {
+            "text": "Paginalijst – Meerdere selecteren"
+        },
+        "3677aac44cf40763444008a08a7e33aa": {
+            "text": "Meerdere pagina's selecteren uit een paginaboom in ProcessWire"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "file": "wire/modules/Textformatter/TextformatterMarkdownExtra/TextformatterMarkdownExtra.module",
+    "textdomain": "wire--modules--textformatter--textformattermarkdownextra--textformattermarkdownextra-module",
+    "translations": {
+        "b4f85b935dcf717fdd8df0117de0cdee": {
+            "text": "Te gebruiken Markdown-variant"
+        },
+        "077f8270bf59fe6ccd6e4991ff7ee37c": {
+            "text": "Veilige modus?"
+        },
+        "089dca9f11d830e3dc229be0fef45547": {
+            "text": "Schakel dit in om aan te geven dat Markdown onbetrouwbare invoer van gebruikers verwerkt."
+        },
+        "3ec365dd533ddb7ef3d1c111186ce872": {
+            "text": "Details"
+        },
+        "24145e5174d7d87b5a7339a5ecb355ca": {
+            "text": "Test markdown"
+        },
+        "6d232b51019138d0685ce7cd48803013": {
+            "text": "Voer wat markdown in en klik op 'Verzenden' om het resultaat te testen met je huidige instellingen."
+        }
+    }
+}

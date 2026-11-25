@@ -1,0 +1,12 @@
+{
+    "file": "wire/modules/Textformatter/TextformatterEntities.module",
+    "textdomain": "wire--modules--textformatter--textformatterentities-module",
+    "translations": {
+        "895d280780a54e8c5561dea1f6a4b34d": {
+            "text": "HTML-entiteit-encoder (htmlspecialchars)"
+        },
+        "9bb1720cc990c910fd69b4b3690cfbce": {
+            "text": "Codeer ampersands, aanhalingstekens (enkele en dubbele) en groter-dan/kleiner-dan-tekens met behulp van htmlspecialchars(str, ENT_QUOTES). Het wordt aanbevolen om dit te gebruiken voor alle tekst- en tekstgebiedvelden, behalve die waarbij een rich text-editor of een opmaaktaal zoals Markdown wordt gebruikt."
+        }
+    }
+}

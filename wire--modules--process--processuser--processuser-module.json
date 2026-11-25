@@ -1,0 +1,42 @@
+{
+    "file": "wire/modules/Process/ProcessUser/ProcessUser.module",
+    "textdomain": "wire--modules--process--processuser--processuser-module",
+    "translations": {
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Rollen"
+        },
+        "5dee1c6493112af5676354d6c4243fbe": {
+            "text": "De gebruiker krijgt de permissies die aan elke rol zijn toegewezen. Je kunt een gebruiker meerdere rollen toewijzen. Bij het openen van een pagina krijgt de gebruiker alleen de permissies van de rollen die ook aan de template van die pagina zijn toegewezen."
+        },
+        "4d4587e01b893874091ed2bcb940c2a8": {
+            "text": "Je mag deze rol niet wijzigen"
+        },
+        "1dae534355f564549697cc7da0eee7e7": {
+            "text": "Je mag de rol van superuser niet van jezelf verwijderen"
+        },
+        "a756ba771ff16a33ad921b8f017a7161": {
+            "text": "Je mag de rol van de superuser niet toewijzen"
+        },
+        "903c654a1a01b07cf8dd1567b1b99b3a": {
+            "text": "Je mag de rol %s niet verwijderen"
+        },
+        "5374d65ce11cc92d3c142cc0249fde0a": {
+            "text": "Je mag de rol %s niet toevoegen"
+        },
+        "ba0bf134511b54d35d023da28eb75e39": {
+            "text": "Je hebt rol(len) verwijderd waardoor je geen bewerkingsrechten meer hebt voor deze gebruiker. De rollen zijn hersteld."
+        },
+        "f9aae5fda8d810a29f12d1e61b4ab25f": {
+            "text": "Gebruikers"
+        },
+        "242e1deb2d082e524a63f255f9f08c11": {
+            "text": "Systeemgebruikers beheren"
+        },
+        "4b99fa96a7caeeafc646d0f0a059ea4d": {
+            "text": "%d gebruiker"
+        },
+        "8103e74ea76ab74a0eabfc5d09e6588a": {
+            "text": "%d gebruikers"
+        }
+    }
+}

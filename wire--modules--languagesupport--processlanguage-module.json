@@ -1,0 +1,63 @@
+{
+    "file": "wire/modules/LanguageSupport/ProcessLanguage.module",
+    "textdomain": "wire--modules--languagesupport--processlanguage-module",
+    "translations": {
+        "e29dcc5c9ac228a6986599e4ec13613c": {
+            "text": "CSV-import:"
+        },
+        "eb277f118345e1e4c0f1b81cec469ee9": {
+            "text": "Live zoeken"
+        },
+        "585cff0204f1e344b4ea709b6e2928b4": {
+            "text": "Tekst om naar te zoeken"
+        },
+        "eb1aa189659918acda10866815cacccd": {
+            "text": "Zoektermindex vernieuwen"
+        },
+        "59b2ae438ca9f446f5cd4d79d3395446": {
+            "text": "Klik hier om een index van zoektermen aan te maken"
+        },
+        "038126bcfc832f08d96c331d0316f5da": {
+            "text": "Zoek in alle vertaalbare bestanden naar specifieke tekst of zinnen."
+        },
+        "3e6c8fe6aa8a8d75014ff9ed52aa30be": {
+            "text": "Klik op de gevonden resultaten om de vertaling te bewerken of een bestand toe te voegen (als dat er nog niet is)."
+        },
+        "3f045b24a15220ad5572f3ad51dd80e0": {
+            "text": "CSV-vertaalbestand dat na het opslaan moet worden geïmporteerd"
+        },
+        "8327b21ed9628232c90353c7c08ad16f": {
+            "text": "%d verlaten"
+        },
+        "c4337ed7fd3fa9186398110fdd126ba0": {
+            "text": "%d leeg"
+        },
+        "ed2a971bca5defe00f300999d777b058": {
+            "text": "%d fallback"
+        },
+        "7ccfd146fb192231dafacaa68c6fad13": {
+            "text": "Zoek bestanden om te vertalen"
+        },
+        "9b73fd4d710e72a212bfc7dbe5692405": {
+            "text": "ZIP downloaden"
+        },
+        "54df9536f2bc89e18bec27b0d34ab42e": {
+            "text": "CSV downloaden"
+        },
+        "3a08e2e340ab29fd9263af48193cbf8e": {
+            "text": "Talen"
+        },
+        "8ff1c082c6dbbbb942d86d0620b18aca": {
+            "text": "Systeemtalen beheren"
+        },
+        "1514a1c310fe6db41aeda8f1b1006713": {
+            "text": "Bewerken"
+        },
+        "897d3357128f316af8d6a605c545a702": {
+            "text": "%d zin"
+        },
+        "f38977b9226f40d3b86bae7d9611a880": {
+            "text": "%d zinnen"
+        }
+    }
+}

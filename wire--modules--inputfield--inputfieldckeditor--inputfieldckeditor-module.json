@@ -1,0 +1,276 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldCKEditor/InputfieldCKEditor.module",
+    "textdomain": "wire--modules--inputfield--inputfieldckeditor--inputfieldckeditor-module",
+    "translations": {
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Annuleren"
+        },
+        "259738ca35a086ce9d269623e5ab5d37": {
+            "text": "Link invoegen"
+        },
+        "ff15d4e97d08c2ab0351169af757b0f2": {
+            "text": "Link bewerken"
+        },
+        "446a6000511ab6fb0711400379a62a04": {
+            "text": "Selecteer een afbeelding"
+        },
+        "03274f27f51f0c39e06e0e6cd07e01a9": {
+            "text": "Afbeelding bewerken"
+        },
+        "c97c12dea7825a2fa7f2b23032c6aeb4": {
+            "text": "Je bijschrift hier"
+        },
+        "586dfebdb944d7af7c4720be84d7fa50": {
+            "text": "Afbeelding wordt opgeslagen"
+        },
+        "7038eac66e387c3b3a0834d786a88757": {
+            "text": "Afbeelding invoegen"
+        },
+        "0d1fae9f57cbc9a014f1c96baeef3911": {
+            "text": "Kies een andere"
+        },
+        "a2a62a977b1825230f76d3ba2a6bf3df": {
+            "text": "Voor de inline-modus van CKEditor is de module MarkupHTMLPurifier nodig. Gebruik in plaats daarvan de normale modus."
+        },
+        "c0f3672718e5216548a369b4fa6d8baf": {
+            "text": "De instellingen zijn geïmporteerd uit het veld „%s“."
+        },
+        "dd3cb0e0ae693323923326112f52c5c0": {
+            "text": "Bekijk de instellingen op het tabblad „Input“ in het veld „CKEditor-instellingen“ en klik vervolgens op „Opslaan“ om ze toe te passen."
+        },
+        "562a0d4331a8219587e48d0dca0efba5": {
+            "text": "JE MOET OPNIEUW OPSLAAN OM DEZE INSTELLINGEN TE BEVESTIGEN."
+        },
+        "34cebadb188dcc37e52cd4c7468f94a0": {
+            "text": "Wijzigingen: %s"
+        },
+        "55194ee969e62a0c12386b05cc68c8a8": {
+            "text": "Er zijn geen wijzigingen gedetecteerd bij het importeren van instellingen."
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Ja"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nee"
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Voorbeeld:"
+        },
+        "2ae61d29b7247ef3679ced4aa729fb27": {
+            "text": "CKEditor-instellingen"
+        },
+        "8ab1ca6059220b941a20c75c28c3ac55": {
+            "text": "Instellingen overnemen van een ander CKE-veld"
+        },
+        "5d35e5c18c01ae09021c67387e6d525e": {
+            "text": "Als er een veld wordt geselecteerd, worden de CKEditor-instellingen van dat veld overgenomen in plaats van de instellingen die hier zijn geconfigureerd."
+        },
+        "8a797b000e826cb39b4f8fc54ce59934": {
+            "text": "Nadat je een keuze hebt gemaakt en dit veld hebt opgeslagen, verschijnen alle onderstaande instellingen niet meer."
+        },
+        "4d354f5b452ecc54b1e8fa44b7d40b14": {
+            "text": "Instellingen importeren vanuit een ander CKE-veld"
+        },
+        "45e9c209c6f0967b6a41db728068f04a": {
+            "text": "De instellingen worden bij het opslaan geïmporteerd vanuit het geselecteerde veld en vervangen de huidige CKEditor-instellingen hieronder."
+        },
+        "29c6f6d4517d673b2003e604b4efb687": {
+            "text": "CKEditor-werkbalk"
+        },
+        "9022c2878a60d1f4ebc0f9f83a09975f": {
+            "text": "Scheid elk werkbalkitem met een komma. Groepeer items door ze op dezelfde regel te plaatsen en gebruik een koppelteken \"-\" als je binnen een groep een scheidingsteken wilt. Als je meer dan één werkbalkrij wilt, scheid elke rij dan met een lege regel."
+        },
+        "e8ddfb44ace2866e54880497acd251e3": {
+            "text": "Zet een hekje \"#\" aan het begin van een regel als je wilt dat die wordt genegeerd."
+        },
+        "f05a8abeb447b6720621d879a9197d00": {
+            "text": "Beschikbare items in de standaardwerkbalk:"
+        },
+        "ddfa2d60092cf3c924e8e03b1d2749ad": {
+            "text": "Inline-editor"
+        },
+        "cece69f97e96edb257b883fcf95e4230": {
+            "text": "Standaardeditor"
+        },
+        "dfabf65177db13369e6f60e33d626a25": {
+            "text": "Bewerkingsmodus"
+        },
+        "5876f9779e64d0cac98b54f9885e4f84": {
+            "text": "(flexibele hoogte, door de gebruiker instelbaar)"
+        },
+        "ea87bd3358b07649df3149bfffc791c8": {
+            "text": "(variabele hoogte, past zich aan de inhoud aan)"
+        },
+        "47d8cf2fe51854ad3028ba151ef9f3a1": {
+            "text": "(vaste hoogte, gebruikt de instelling ‘rijen’)"
+        },
+        "f4bbbce516de30f80d2025ca9cc9a595": {
+            "text": "Als de inline-modus is ingeschakeld, wordt de editor pas geladen als je in de tekst klikt. Dit is sneller en efficiënter als er veel CKEditor-velden op de pagina staan. Het is echter mogelijk dat er minder functies of aanpassingsmogelijkheden voor de editor beschikbaar zijn dan in de normale modus."
+        },
+        "1c4caab2cc11e882c71d23c8365e23f5": {
+            "text": "*Voor de inline-modus moet de HTML Purifier-module geïnstalleerd zijn (MarkupHTMLPurifier)."
+        },
+        "5131613c3ef9d562a3e0e095e0f1fba8": {
+            "text": "*De benodigde HTML Purifier-module is geïnstalleerd."
+        },
+        "86c0b99d54c2b5c2bbcdc74844dbb5cf": {
+            "text": "WAARSCHUWING: het is momenteel niet geïnstalleerd. Je moet het installeren voordat je de inline-modus inschakelt."
+        },
+        "fb946d5480a9eb75edd868079b14cfac": {
+            "text": "De teller wordt ondersteund voor gewone CKEditor-velden, maar niet voor inline CKEditor-velden."
+        },
+        "b71ae00b212e1c450146b7263bb791bb": {
+            "text": "ACF gebruiken?"
+        },
+        "60f803fa7569e56d3f76d2f622e4130b": {
+            "text": "Als je dit aanvinkt, wordt de CKEditor Advanced Content Filter (ACF) geactiveerd. Dit filter verwijdert automatisch alle onherkenbare opmaak of attributen uit je HTML. Aanbevolen."
+        },
+        "086f4ea637a29573ed5e10e106040ab5": {
+            "text": "Gebruik je HTML Purifier?"
+        },
+        "cab4c54f1577378e89ca8dc055075ae4": {
+            "text": "Als dat zo is, wordt de ingediende inhoud door [HTML Purifier](http://htmlpurifier.org/) gehaald om deze op te schonen. Dit is echt een must als je CKEditor gebruikt, zowel in de inline-modus als bij niet-vertrouwde gebruikers. Het wordt in beide gevallen aanbevolen."
+        },
+        "2eba31ae40d6ac1bd4d48c72f1977364": {
+            "text": "Afbeeldingsvelden die gebruikt kunnen worden voor afbeeldingen die je erin sleept of plakt"
+        },
+        "556255b8390dd04b90c0dca2b07da0aa": {
+            "text": "Als er geen velden zijn geselecteerd, wordt tijdens het uitvoeren automatisch een beschikbaar afbeeldingenveld gekozen. Als de optie „Geen“ is geselecteerd, wordt de functie uitgeschakeld."
+        },
+        "ba5c4d2fefb66dfdc969030e8d4726a6": {
+            "text": "Geen (het uploaden van afbeeldingen via slepen en neerzetten uitschakelen)"
+        },
+        "27580e5542fe0d14d78016023f38829f": {
+            "text": "Pagina die je moet gebruiken voor het opslaan van afbeeldingen/bestanden"
+        },
+        "d17026399e4b0283ab382defdc5ac109": {
+            "text": "Standaard worden geüploade afbeeldingen opgeslagen bij de pagina die je aan het bewerken bent. Als je in plaats daarvan een gedeelde pagina voor deze bestanden wilt gebruiken, selecteer die dan hier."
+        },
+        "4a4b882ebec0013773373d7983935b1c": {
+            "text": "Schakelaars voor het opschonen van markup"
+        },
+        "dbb9e7f934e4def553f1d3065635377e": {
+            "text": "Zet div-tags om in alinea-tags"
+        },
+        "ed97424627acfa23d899d27908115be3": {
+            "text": "Verwijder lege alinea-tags"
+        },
+        "ed654cac16ad0b016c80b1e0e04a86fa": {
+            "text": "Verwijder niet-afbreekbare spaties (nbsp)"
+        },
+        "e3e03267810478ccd824a13309388549": {
+            "text": "Dit zijn extra opschoningsopties (naast ACF en HTML Purifier) die we in veel situaties handig hebben gevonden. Ze worden toegepast wanneer de pagina wordt opgeslagen. Het wordt aangeraden om ze allemaal aan te vinken, tenzij je een van deze elementen bewust in de opmaak wilt laten staan."
+        },
+        "187cc7fdfc18d7eee937fb34cd6641dc": {
+            "text": "Opmaaktags"
+        },
+        "eb58d10bb9587ab21ba79859997ea7f9": {
+            "text": "Door puntkomma’s gescheiden lijst met selecteerbare tags die in de vervolgkeuzelijst „format“ worden weergegeven."
+        },
+        "73dd33fa6157ee6008e269d67a2843e3": {
+            "text": "De standaard opmaaktags zijn:"
+        },
+        "c6fd363ed202c7dd44b9a3d1b6065adc": {
+            "text": "Extra toegestane inhoud"
+        },
+        "988677b6c211741551df50fd57a5d3f4": {
+            "text": "Regels voor toegestane inhoud volgens de CKEditor-optie [extraAllowedContent](http://docs.ckeditor.com/#!/api/CKEDITOR.config-cfg-extraAllowedContent). Geldt alleen als het selectievakje „Use ACF“ hierboven is aangevinkt."
+        },
+        "69262424661d8b544ebcba617e5772c6": {
+            "text": "Je kunt meerdere regels invoeren door ze elk op een aparte regel te zetten."
+        },
+        "378f7539f13b958d62e92c063772ee37": {
+            "text": "In het bovenstaande voorbeeld zouden de attributen alt, src, width en height voor img-tags zijn toegestaan, waarbij het src-attribuut altijd verplicht is."
+        },
+        "86981868980ec998b671432713a7b65b": {
+            "text": "Zie [details](http://docs.ckeditor.com/#!/guide/dev_allowed_content_rules-section-2) in de CKEditor-documentatie."
+        },
+        "60eaab37de096deaa26bb3ff7b706095": {
+            "text": "Paden moeten relatief zijn ten opzichte van de hoofdmap van je ProcessWire-installatie (d.w.z. als de site vanuit een submap draait, laat dat deel dan weg)."
+        },
+        "b67b49a021c8f28a0be44e276cdcb145": {
+            "text": "Met deze optie kun je aanpassen hoe tekst en andere elementen in je editor worden weergegeven. Dit geldt alleen voor hoe ze er in de beheerdersomgeving uitzien en heeft niets te maken met de front-end van je site."
+        },
+        "7a20fe498ae5ceab6766124b9cb7b2a9": {
+            "text": "Bekijk onze [instructies](%s) voor het gebruik hiervan."
+        },
+        "c329380c093af757e030c47c58fc31ae": {
+            "text": "Aangepast CSS-bestand voor de editor (normale modus)"
+        },
+        "1f2a49f98f9868b764037314b9a0a2a0": {
+            "text": "Aangepast CSS-bestand voor de editor (inline-modus)"
+        },
+        "1100db92626b135374ca3ad30025a3d5": {
+            "text": "Aangepaste JS-stijlen voor de editor"
+        },
+        "749b7a2316f526ff2ec75692749211ad": {
+            "text": "Met deze optie kun je aangepaste stijlen specificeren die je in je editor kunt selecteren. Hiervoor moet je bovenaan in je werkbalkinstellingen een item „Stijlen“ hebben."
+        },
+        "2c3077a1dd5833c9dc6f49fe48e3ab71": {
+            "text": "Als je dit gebruikt, voer dan per regel één **eigenschap: waarde** in, of gebruik een JSON-string."
+        },
+        "0d26e4905e21b238948dc724daade146": {
+            "text": "Aangepaste configuratieopties"
+        },
+        "0361833f130e526c7475f0bbcda324f3": {
+            "text": "Gebruik dit als je CKEditor-configuratie-instellingen wilt specificeren die verder gaan dan wat op dit scherm beschikbaar is."
+        },
+        "8b6ac858b8ce3c2724d267695c732325": {
+            "text": "De aangepaste configuratieopties zijn niet geslaagd voor de JSON-validatie."
+        },
+        "d662e23e83bdb75f4e25b3bb7afa2324": {
+            "text": "Indien gewenst kun je deze instellingen ook in een van deze bestanden instellen:"
+        },
+        "4cf63a5e6c4eff831c232b0eb238b4ae": {
+            "text": "voor alle CKEditor-velden"
+        },
+        "bb87b90b3b4cf5290402d36011056951": {
+            "text": "alleen voor dit CKEditor-veld"
+        },
+        "bb38096ab39160dc20d44f3ea6b44507": {
+            "text": "Plug-ins"
+        },
+        "7a6472fdd6090236270ada56951bb4ad": {
+            "text": "Extra plug-ins"
+        },
+        "8cd140c060d298234e0079cb77ee8190": {
+            "text": "De volgende plug-ins zijn gevonden. Vink het vakje aan naast elke plug-in die je wilt laden."
+        },
+        "08b808bc7661d755f526f70fbcc07e44": {
+            "text": "Er moet minstens één plug-in worden aangevinkt."
+        },
+        "9252446fff7e6ba650e51955cb0dc1ad": {
+            "text": "Om meer plug-ins toe te voegen, zet je ze in **/site/modules/InputfieldCKEditor/plugins/[naam]/**, waarbij je **[naam]** vervangt door de naam van de plug-in."
+        },
+        "0aef2da721f0ab14676f8d6ffb9e7e8c": {
+            "text": "aanbevolen"
+        },
+        "7ae98f3a4b96e522d75992c305a4ec2b": {
+            "text": "%s-instellingen"
+        },
+        "ced89926ebd1c95b56710b6a873b1e93": {
+            "text": "De instellingen van de plug-in voor „%s“ zijn niet geslaagd voor de JSON-validatie."
+        },
+        "9048e64caaebf67509d533265f44414b": {
+            "text": "Door komma’s gescheiden lijst met extra plug-ins die CKEditor moet laden."
+        },
+        "7540434dd897a8f6f8118c31f2a931ab": {
+            "text": "Voorbeeld: pwlink, pwimage, myplugin, anotherplugin"
+        },
+        "973ed59e27ee4824370eaf8150cbeec9": {
+            "text": "Plug-ins verwijderen"
+        },
+        "3b9d2511fcd0e4afc3cc8c6c61b42d23": {
+            "text": "Door komma’s gescheiden lijst met verwijderde plug-ins die CKEditor niet mag laden."
+        },
+        "b6c2682ed322b5c3625338a5849b9794": {
+            "text": "CKEditor-rich-text-editor voor tekstvelden."
+        },
+        "ddb1f53de8a1598fb3d52552d6246b85": {
+            "text": "nl"
+        },
+        "68835c69c5818fea532f3ad00a91be00": {
+            "text": "nl"
+        }
+    }
+}

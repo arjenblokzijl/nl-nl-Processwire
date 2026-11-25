@@ -1,0 +1,699 @@
+{
+    "file": "wire/modules/Process/ProcessField/ProcessField.module",
+    "textdomain": "wire--modules--process--processfield--processfield-module",
+    "translations": {
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Opslaan"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Verwijder"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Importeren"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Exporteren"
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "OK"
+        },
+        "c101058e7ea21bbbf2a5ac893088e90b": {
+            "text": "Tag"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Tags"
+        },
+        "c145e5825899a7a53cf8a14b64e53639": {
+            "text": "Tags beheren"
+        },
+        "a4ca5edd20d0b5d502ebece575681f58": {
+            "text": "Velden"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Toon alles"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Filters"
+        },
+        "f62aef3d1bcf85a63cf9af0e03a46c0f": {
+            "text": "Filter op template"
+        },
+        "410267bd4e3c99784bab90c5e64b5209": {
+            "text": "Als je dit selecteert, worden alleen de velden uit een specifieke template weergegeven. Ingebouwde velden worden ook weergegeven wanneer je op template filtert. Een sterretje (*) geeft systeemsjablonen aan."
+        },
+        "363746a770985e537565b276b37c438e": {
+            "text": "Velden weergeven vanuit template: %s"
+        },
+        "a81c2112e97c64099ff86d5b97cb13c6": {
+            "text": "Velden per template"
+        },
+        "8870ba7044d8bb0fd95686ec955f9109": {
+            "text": "Filter op type"
+        },
+        "db2b4f5915e2053955edfec38776a17f": {
+            "text": "Als dit is opgegeven, worden alleen velden van het geselecteerde type weergegeven. Ingebouwde velden worden ook weergegeven bij het filteren op fieldtype."
+        },
+        "cca90d2e0854b62dc0c77ad0e1679be4": {
+            "text": "Velden van het type weergeven: %s"
+        },
+        "a922cb7ffa163fa26dfe9e44aaa24d32": {
+            "text": "Systeemvelden weergeven?"
+        },
+        "2a7b956033d031e555889f8ddd52754f": {
+            "text": "Als dit vakje is aangevinkt, worden ook de ingebouwde velden weergegeven. Dit zijn systeemvelden en permanente velden. Systeemvelden zijn verplicht voor het systeem en kunnen niet worden verwijderd of van naam worden veranderd. Permanente velden zijn velden die niet uit een template kunnen worden verwijderd. Deze velden worden intern door ProcessWire gebruikt."
+        },
+        "7db27839ce9f9208f2b52bb9a48220a9": {
+            "text": "Alle velden weergeven, inclusief ingebouwde systeemvelden en permanente velden."
+        },
+        "4cca2a863deef0fc4de9115b9164537b": {
+            "text": "Niet getagd"
+        },
+        "1bd8f22fdbf8e9e0ca28f3f1e276b085": {
+            "text": "Tag: %s"
+        },
+        "57020ebc4e816481c2fd141b4bcca835": {
+            "text": "Het veld „%s“ kan niet worden verwijderd omdat het momenteel in gebruik is"
+        },
+        "497db2bfe73864055c60f55095d94707": {
+            "text": "%d veld(en) verwijderd: %s"
+        },
+        "b9c496c6140fa0fd4855d0c51b75c41f": {
+            "text": "Er zijn geen velden verwijderd."
+        },
+        "ce47594d53bbd0db00c2aed9a9e60694": {
+            "text": "Vink een of meer selectievakjes aan om velden te verwijderen."
+        },
+        "f9757067733747aed406043e5915f1d7": {
+            "text": "Tagnaam"
+        },
+        "5da3b0e9c19f86443f6ad42f6d0d1456": {
+            "text": "Selecteer alle velden die deze tag moeten krijgen"
+        },
+        "2eea24744a636478929cd8cbbe444ded": {
+            "text": "Moet dit in de lijst met velden ingeklapt worden weergegeven?"
+        },
+        "cd83a77df71e48e6273b925549e0af71": {
+            "text": "Om deze tag te verwijderen, moet je alle velden eruit halen."
+        },
+        "ed4def612e69863794dc9c98db08b464": {
+            "text": "Tag „%1$s“ toegevoegd aan veld: %2$s"
+        },
+        "ab7c81ccbce2415afa58b092a3c58162": {
+            "text": "Tag „%1$s“ uit veld verwijderd: %2$s"
+        },
+        "d80b6b9388a3f3767f80be5c2ab78976": {
+            "text": "Met tags kun je verzamelingen van velden maken om weer te geven of te doorzoeken."
+        },
+        "718bd4be79fcb0bac1a4ff2e4528d45d": {
+            "text": "Waarschuwing: de tag „%s“ heeft dezelfde naam als een veld."
+        },
+        "9fc8691fab39cc1433cd39430edb0501": {
+            "text": "Voeg een nieuwe tag toe"
+        },
+        "0056888ec574ec487da813f9c577b27c": {
+            "text": "Je mag letters, cijfers of een onderstrepingsteken gebruiken."
+        },
+        "288fc0452049b753c8a75464d299ffe3": {
+            "text": "Er zijn geen velden gevonden die aan je filter voldoen"
+        },
+        "133027c82744d7b44344c6d2fdd3cd2e": {
+            "text": "(niet gebruikt)"
+        },
+        "4b170345be16c4cee0984c08ab54614d": {
+            "text": "te gebruiken in combinatie met: %s"
+        },
+        "aa4c25b56e75fc2bb56256932d820a04": {
+            "text": "bij gebruik met template „%1$s“ in context „%2$s“"
+        },
+        "113304cf8780906880d1e29935deab16": {
+            "text": "bij gebruik in een template: %s"
+        },
+        "94f0fa1e6b7f766dc6432b4d8fd960ae": {
+            "text": "Gecontroleerd veld:"
+        },
+        "64348e0f887e58c6002080b6153add90": {
+            "text": "%d verweesde tabelrijen gevonden"
+        },
+        "4fd5d5323fc3d2535f351e46ba740d3c": {
+            "text": "...enzovoort..."
+        },
+        "f46277b28f420e695210233a9f1401fc": {
+            "text": "Voer alsjeblieft \"Acties > Veldgegevens controleren\" uit op veld %s"
+        },
+        "bd5aef6293f875aa908466a69c08a14a": {
+            "text": "Er zijn geen problemen gevonden voor veld %s"
+        },
+        "8334c41e37dbbfb061177998028c6d0d": {
+            "text": "Onbekende eigenschappen"
+        },
+        "50092a77c044bc5d91bb703429c29157": {
+            "text": "De volgende eigenschappen zijn bij dit veld aangetroffen zonder dat er tijdens de configuratie toegang toe is geweest. Soms kan dit erop wijzen dat de eigenschappen niet meer in gebruik zijn. Vink het vakje aan naast elke eigenschap die je wilt verwijderen. Als je het niet zeker weet, kan het geen kwaad om ze gewoon te laten staan."
+        },
+        "b2ab31c6f8fbc066d4840baa6c081821": {
+            "text": "Er zijn mogelijk onbekende eigenschappen in dit veld gevonden. Kijk even bij het tabblad „Waarschuwing“."
+        },
+        "292694f229d9162dd0a6510ff0745d4f": {
+            "text": "%d overgebleven tabelrijen verwijderen?"
+        },
+        "d94836b689b2cd95f920084c5f27e770": {
+            "text": "We hebben in de tabel voor dit veld rijen met gegevens gevonden die niet bij een pagina horen, of bij pagina’s horen die dit veld niet hebben."
+        },
+        "cca387b459a5b38bdc63657a1c52c82b": {
+            "text": "Overschrijven via template"
+        },
+        "0ca08f8f4a8a19f7f1ae87c119494327": {
+            "text": "Overschrijvingen"
+        },
+        "b98e1358fd47b54afceecd12ace8e18c": {
+            "text": "De volgende instellingen worden voor dit veld overschreven door de aangegeven templates. Vink het vakje rechts van een rij aan om de overschrijving van de instelling ongedaan te maken (waardoor de oorspronkelijke waarde wordt hersteld)."
+        },
+        "be777931cbea33cf8f3a5f5cd994ea93": {
+            "text": "Overschrijvingen instellen voor veldnaamruimte: %s"
+        },
+        "4eea024c6b0c3cd104fe2b37edf668f9": {
+            "text": "Overschrijvingen instellen voor template: %s"
+        },
+        "7d10eb77b41ac086ecfca9a7d417b1c6": {
+            "text": "Instellingen overschrijven via templates"
+        },
+        "62d09c342e50351059153e99a2fdbb47": {
+            "text": "Om een override-instelling te bewerken of andere instellingen te overschrijven, bewerk je een willekeurig sjabloon en klik je op de veldnaam in de lijst met velden."
+        },
+        "f08b82b9bcde7ff240df5ed0057e7b08": {
+            "text": "Om aan te passen welke instellingen zijn toegestaan voor overschrijvingen, zie het veld hieronder."
+        },
+        "760b4bbc37693597edf00f9eeda38cd0": {
+            "text": "Er worden momenteel geen instellingen overschreven door de template."
+        },
+        "ecd6ac32b4369912ca3321c1dd169dc9": {
+            "text": "Instellingen die via een template kunnen worden overschreven"
+        },
+        "7710897a6218283716118180cd494f1e": {
+            "text": "Aangevinkte instellingen verschijnen als configuratieopties wanneer je dit veld bewerkt binnen de context van een bepaalde template."
+        },
+        "089ff074f0a08e950aae098cce20eff4": {
+            "text": "**WAARSCHUWING:** het inschakelen van instellingen die verder gaan dan wat de fieldtype/inputfield-module voorschrijft, werkt misschien niet altijd of kan problemen veroorzaken."
+        },
+        "8b55debf249cfc13cc6dc6791ee5d69f": {
+            "text": "Daarom raden we aan om eventuele wijzigingen aan deze instellingen eerst in een niet-productieomgeving (ontwikkelomgeving) te testen."
+        },
+        "a28cb5dda04811b1ee1749f8b7a5b51d": {
+            "text": "Let op:"
+        },
+        "cb69676cc6783d1f5bf44dc1680f6e2a": {
+            "text": "Instellingen in **vet** zijn de instellingen die de fieldtype/inputfield-module heeft aangemerkt als instellingen die altijd mogen worden overschreven."
+        },
+        "efd28a1fcd7d855ff111e2f110ae0b20": {
+            "text": "Andere instellingen werken al dan niet voor contextoverschrijvingen."
+        },
+        "da23f7900566628f7658f3a693d6bfda": {
+            "text": "Je moet alle instellingen uitschakelen die niet werken of anderszins problemen veroorzaken."
+        },
+        "2babe53026309ed1bc4d26626dbaf9b3": {
+            "text": "Details:"
+        },
+        "c4e024e71ba191d41926d9fcfa7cde3a": {
+            "text": "Invoer:"
+        },
+        "4759b9b64d72e5a1a226e72b31ff919e": {
+            "text": "Bewerken via de front-end"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Installeren"
+        },
+        "b35a1460619c7aebb19fddf043d4953d": {
+            "text": "Installeer de front-end pagina-editor-module om front-end bewerken van velden in te schakelen. Laad na de installatie de pagina opnieuw en kom hier terug voor meer opties."
+        },
+        "c64f8a38fc13441f6cc860a4cbae887a": {
+            "text": "Veld verwijderen"
+        },
+        "8bcb61f8472471a1619f7bd55e2c9ad2": {
+            "text": "Dit veld wordt niet gebruikt en kan veilig worden verwijderd."
+        },
+        "1fa78a97c113bed4e867ec21d9ca918f": {
+            "text": "Dit veld mag niet worden verwijderd, omdat het door een of meer templates wordt gebruikt."
+        },
+        "405231013da488699f3761636027e651": {
+            "text": "De beschrijving verschijnt hier en ziet er zo uit."
+        },
+        "d421f74dd8c605a337e57a6224f23478": {
+            "text": "Aanvullende informatie over dit veld en/of instructies voor het invoeren van de inhoud."
+        },
+        "64a747bce9561ce24781600d47b1cd66": {
+            "text": "Gebruiksaanwijzingen of aanvullende informatie die onder het invoerveld verschijnt."
+        },
+        "d3528910cb9ca888a0c859b37fe3cb28": {
+            "text": "Opmerkingen verschijnen hier en zien er zo uit."
+        },
+        "db1620090ae1c6d74219a84f00a71360": {
+            "text": "Label voor tabblad"
+        },
+        "4cadbe25399aaee62e9d2f735703a5ec": {
+            "text": "Als het veld in een eigen tabblad wordt weergegeven, kun je eventueel een alternatief tabbladlabel opgeven als dat afwijkt van het veldlabel."
+        },
+        "9578890ecca660be2de225f2a4339c8d": {
+            "text": "Het tabbladlabel moet idealiter heel kort zijn, bijvoorbeeld maar één woord."
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Pictogram"
+        },
+        "263155881b5cd9ecb7fb0698bfe6aa20": {
+            "text": "Als je een pictogram aan het veld wilt koppelen, selecteer dan hieronder een pictogram. Gebruik het zoekvak om pictogrammen op naam te zoeken, of [blader door de pictogramgalerij](https://fontawesome.com/v6/search?ic=free-collection)."
+        },
+        "c64518704ce0c0d5501a45763f464276": {
+            "text": "Gebruik"
+        },
+        "5b3a50aadfa94048d38820473b25ec57": {
+            "text": "Fieldset"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Tekst"
+        },
+        "b2ee912b91d69b435159c7c3f6df7f5f": {
+            "text": "Getal"
+        },
+        "f9ce9fb40f59e6e3f902d37ce9a6d869": {
+            "text": "Andere kernsoorten"
+        },
+        "27b392b00c460ef1af0f0607105eb198": {
+            "text": "Andere niet-kern-typen"
+        },
+        "4c70e4df2e78286835669f9b70900ba5": {
+            "text": "Nog niet geïnstalleerd"
+        },
+        "158b56553ee2e91623b2568e46a4fb82": {
+            "text": "Bestaand veld klonen"
+        },
+        "c32404a847502e9920d7582aa7fcd811": {
+            "text": "Voeg een veld toe aan templates of verwijder het daaruit"
+        },
+        "bd4e327785b1573fd5108da2d97210b5": {
+            "text": "Dit veld wordt gebruikt in de onderstaande aangevinkte templates."
+        },
+        "1abe66d94bd2d1029f681142e99454a3": {
+            "text": "Dit veld wordt momenteel in geen enkele template gebruikt."
+        },
+        "50a4257e8c785ebeb46a186bb2c3e08e": {
+            "text": "Je kunt dit veld snel aan templates toevoegen of eruit verwijderen door de betreffende vakjes aan of uit te vinken en op ‘Opslaan’ te klikken."
+        },
+        "8e4fd886f63504810bb594b41a48d32b": {
+            "text": "Op het volgende scherm word je gevraagd om toevoegingen en verwijderingen te bevestigen nadat je hebt opgeslagen."
+        },
+        "5920c0593225b73a0d667fe26c95d0f7": {
+            "text": "%d templates worden niet weergegeven omdat de geavanceerde modus is uitgeschakeld."
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Template"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Label"
+        },
+        "4dd35391663d2adc8123a95b3d725399": {
+            "text": "Kijk op het tabblad ‘Acties’ om dingen toe te voegen aan of te verwijderen uit templates."
+        },
+        "f0165e158f427105fe57cb91d5fa53df": {
+            "text": "Dit veld wordt momenteel niet gebruikt."
+        },
+        "983f66857047c1e6fc8878e54c5c9939": {
+            "text": "Dit veld dupliceren/klonen?"
+        },
+        "4debafe5cde021385dce21b063054b59": {
+            "text": "Om dit veld te klonen, voer je de naam in van het nieuwe veld dat je wilt aanmaken."
+        },
+        "ff0d9fae2d1ae47cb2e3c16ce883ed4e": {
+            "text": "Let op: nadat je dit formulier hebt verzonden, ga je je gekloonde kopie bewerken."
+        },
+        "011e30aea1ad8c8e81405e295f032cc8": {
+            "text": "Veldgegevens controleren"
+        },
+        "494bfa7cbe1a6aaf0e24e92c54664859": {
+            "text": "Controleer het veld op ongebruikte gegevens of andere mogelijke optimalisaties. Als er problemen worden gevonden, kun je deze na het opslaan corrigeren via het tabblad ‘Waarschuwingen’."
+        },
+        "65bd83537129be15c8027ec94bec5bd3": {
+            "text": "Toegangscontrole"
+        },
+        "430b7f8bb1e788c4a26b87cdb0e4e902": {
+            "text": "Dit is een systeemveld. Het inschakelen van toegangscontrole voor systeemvelden wordt niet aanbevolen voor productiesites. Om deze optie in te schakelen, voeg je %s toe aan je %s-bestand en ga je terug naar dit tabblad."
+        },
+        "94109d0b682a5ee9086924792ab5d349": {
+            "text": "Wil je de toegangscontrole voor dit veld beheren?"
+        },
+        "8c234d4afc42f71cef48c0093be30aa5": {
+            "text": "Als deze optie is ingeschakeld, kun je de weergave- en bewerkingsrechten voor dit veld beperken op basis van de rol van de gebruiker."
+        },
+        "545e847ceb606c0b8140374590f0bdc2": {
+            "text": "Dit is een systeemveld; het wordt NIET aanbevolen om toegangscontrole in te schakelen."
+        },
+        "146cec6f36689ef0531abb613c24f68d": {
+            "text": "Welke rollen kunnen dit veld bekijken en/of bewerken?"
+        },
+        "f66ca574111495a45f458a04c77f3c03": {
+            "text": "Gebruikers moeten ook toegang hebben om de pagina te bekijken of te bewerken waarop het veld staat, voordat deze permissies van kracht worden."
+        },
+        "d39bf1bfbc9aef37bb8d6b935d73e53d": {
+            "text": "Als er geen vakjes zijn aangevinkt, kan alleen de superuser de inhoud van het veld bekijken of bewerken."
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(iedereen)"
+        },
+        "f41f3f2472b654b9853580182a36144a": {
+            "text": "Toegangsschakelaars"
+        },
+        "2a154a6134b85f7f936aac0194df1bc0": {
+            "text": "Toon het veld in de pagina-editor als het zichtbaar maar niet bewerkbaar is (de gebruiker kan het zien maar niet wijzigen)"
+        },
+        "8a643d587e2bf89aa615d22c5e9efa6a": {
+            "text": "Zorg dat de veldwaarde via de API toegankelijk is, ook al is deze niet zichtbaar (zie hieronder)*"
+        },
+        "517e6c314a1ee61caa35000768dca057": {
+            "text": "Als een veld niet zichtbaar is (op de front-end met uitvoeropmaak ingeschakeld), is de waarde $page->%s een lege versie van het verwachte type, waardoor de waarde niet wordt weergegeven."
+        },
+        "5dab87f5242c802765e397e82db0840b": {
+            "text": "Vink het vakje hierboven aan om dit gedrag te omzeilen, zodat de waarde altijd via de API toegankelijk is. Je moet dan zelf zorgen voor de toegangscontrole."
+        },
+        "d96a1b8071d5f5f8eb8bc96839d85407": {
+            "text": "Je kunt de weergavetoegang voor dit veld via de API als volgt controleren:"
+        },
+        "3df354a032179f36ea493c3df6643ce1": {
+            "text": "Als je dit veld visueel wilt groeperen met andere velden in de veldenlijst, voer dan een tag van één woord in. Voer dezelfde tag in bij andere velden waarmee je het wilt groeperen. Om meerdere tags op te geven, scheid je ze met een spatie. Het gebruik van tags kan de moeite waard zijn als je site een groot aantal velden heeft."
+        },
+        "c6e44f0384ed0d130e044f153e7b772f": {
+            "text": "Elke tag moet uit één woord bestaan (onderstrepingstekens zijn toegestaan)."
+        },
+        "89e1299f98120a24c999cdffa860d2cb": {
+            "text": "Veld verwijderd"
+        },
+        "7d09843a01448bd5ac4ad4bcfb2c388e": {
+            "text": "Veldnaam is verplicht"
+        },
+        "a9c97bb1362d6960df5b6489b9454678": {
+            "text": "Het fieldtype is verplicht"
+        },
+        "584afda122df1e41e3a533afdc1b3f6e": {
+            "text": "Veld toegevoegd"
+        },
+        "f173ffbd0f010d4e164484785d07b7c1": {
+            "text": "Ongebruikte eigenschap verwijderd: %s"
+        },
+        "1d44463bf74c66ac465f0f51cee9a827": {
+            "text": "%d verweesde rijen verwijderd"
+        },
+        "d4a2d56009360cb3a587f17538631ce9": {
+            "text": "Veld opgeslagen"
+        },
+        "acdd6513356b1414e6d7ec0181240672": {
+            "text": "Je bent nu bezig met het bewerken van het veld dat je hebt gekloond."
+        },
+        "f2b83b9c6e7b4b10852e2920effd3433": {
+            "text": "Fout bij het maken van een kloon van dit veld"
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(kopie)"
+        },
+        "2f449cde553921e24ebc7b252209b1dc": {
+            "text": "Gekloond veld"
+        },
+        "48cf9aec9ee1cd5173596f31f65b83e5": {
+            "text": "De veldnaam is leeg"
+        },
+        "4072bd91cd44efb5ae4ef51a319fbd79": {
+            "text": "Veldnamen mogen alleen ASCII-letters, cijfers of een onderstrepingsteken bevatten."
+        },
+        "2d596b898eecf76afa1f7cca2490f219": {
+            "text": "Veldnaam „%s“ wordt al gebruikt"
+        },
+        "d0de87a477316bfd58f0bf2b1ae2d40d": {
+            "text": "Veldnaam „%s“ is een gereserveerd woord"
+        },
+        "65016ddfb236155b595fb479c695866b": {
+            "text": "Veldnamen mogen niet beginnen met \"_\" of cijfers"
+        },
+        "7d21b87f847b61b92648b2050c3c0529": {
+            "text": "De veldnaam mag niet hetzelfde zijn als een taalnaam"
+        },
+        "6ed7cdaf5655ad6feaf61425896fca0e": {
+            "text": "Fout bij het instellen van „%s“"
+        },
+        "86cdc0e0ad458e6450b25153b0ca0248": {
+            "text": "(je hebt “%s” opgegeven)"
+        },
+        "ce1e5086faa587952093bfb31f7af1c1": {
+            "text": "Kan niet valideren"
+        },
+        "07f32475d23721446e940087c7e26b53": {
+            "text": "Dit werkt niet, omdat waarden pagina-ID's moeten zijn"
+        },
+        "71f8bd77c0780518e62960d62ebd72bd": {
+            "text": "Context-override verwijderd"
+        },
+        "e49f1e280534321564ea8d40be20e4d0": {
+            "text": "Type voor veld wijzigen: %s"
+        },
+        "a3d843d337eabebe3e81df9bfef414ea": {
+            "text": "Verander het fieldtype van „%1$s“ naar „%2$s“"
+        },
+        "7d04592612713885f95f51cca38d5708": {
+            "text": "Let op: als je het fieldtype wijzigt, verandert het databaseschema. Als het nieuwe fieldtype niet compatibel is met het oude, of als het een aanzienlijk ander schema heeft, kan er gegevensverlies optreden. Daarom raden we je aan om een back-up van de database te maken voordat je een fieldtype wijzigt."
+        },
+        "cc84c47ce264c6a27bd49ff004d4c555": {
+            "text": "Bevestig wijziging van het fieldtype"
+        },
+        "c2311f219b7dc0a845a537a7a26fa8b3": {
+            "text": "Als je zeker weet dat je het fieldtype wilt wijzigen, vink dan het onderstaande vakje aan en verstuur dit formulier."
+        },
+        "58425be3f17ffb9574fd3e5947653330": {
+            "text": "Velden instellingen behouden?"
+        },
+        "7d912a6056deaad44add9eda5494d120": {
+            "text": "Vink dit vakje aan om alle aangepaste instellingen voor dit veld te behouden (van de tabbladen Details en Invoer). Dit is handig als het nieuwe fieldtype dezelfde of vergelijkbare configuratie-eigenschappen heeft als het oude fieldtype. Het kan er echter ook toe leiden dat onnodige of overbodige configuratiegegevens ruimte innemen in het veld. Je kunt dit later altijd nog bekijken via: Geavanceerd > Veldgegevens controleren."
+        },
+        "c2fd10d6fa7d3e1e8bd7c83de24c4d95": {
+            "text": "Wijziging van het fieldtype afgebroken"
+        },
+        "b3dd3da27d2927b5c36e28d771388c7d": {
+            "text": "Fieldtype gewijzigd"
+        },
+        "b9b9ac08c6bde335d1b5758d4dfcd1da": {
+            "text": "Verwijder het veld „%1$s“ uit de template „%2$s“"
+        },
+        "e84730e92daf0ff6f2ff21874c281f4e": {
+            "text": "Bevestig het verwijderen van het veld „%1$s“ uit de template „%2$s“"
+        },
+        "d3abfd9fce44bd366ad49c2614136c14": {
+            "text": "WAARSCHUWING: Dit zorgt ervoor dat gegevens die aan het veld zijn gekoppeld, definitief worden verwijderd."
+        },
+        "cdd2e54d443ebc672c6a53d756e682cd": {
+            "text": "Wees geduldig nadat je op Verzenden hebt geklikt, want het kan even duren voordat deze bewerking is voltooid."
+        },
+        "501a7415f8881524421e7a19287a2c62": {
+            "text": "Er lijken geen gegevensrijen te zijn die bij deze combinatie van veld en template horen"
+        },
+        "cbf08d0edf67562708d7ce679defc030": {
+            "text": "Vink het vakje aan om te bevestigen."
+        },
+        "4da66962948d7a922e24b9821417f14f": {
+            "text": "Template: %s"
+        },
+        "8aa6cad0a41ed8f9776dd6a09805c5ae": {
+            "text": "Voeg het veld „%1$s“ toe aan de template „%2$s“"
+        },
+        "968c4c39df4617d7356ee14137658f3f": {
+            "text": "Waar wil je \"%s\" toevoegen?"
+        },
+        "6620d0d6ed9996e374e77091f72102be": {
+            "text": "Vóór %s"
+        },
+        "631a909b3eb785b8b3ae6d4d1a0ed886": {
+            "text": "Na %s"
+        },
+        "57a9412e7a9b1f328ffef4cd468dabeb": {
+            "text": "Toevoegen als eerste veld"
+        },
+        "c40f632e4b3c69bbd1af89f5c5f5c617": {
+            "text": "Voeg niets toe"
+        },
+        "7c88547fdcfb8db979ff8e01a8af3cab": {
+            "text": "Toevoegen aan of verwijderen uit template(en)"
+        },
+        "c7d0e111bad6f0fd32c701944fb16475": {
+            "text": "Bekijk dit even en pas je wijzigingen aan of bevestig ze"
+        },
+        "368f6a2142a5d1f203ccd1a9bd8d974f": {
+            "text": "Veld „%1$s“ toegevoegd aan template „%2$s“ vóór „%3$s“"
+        },
+        "43f591d56700e6bc6184a8457711d4ed": {
+            "text": "Veld „%1$s“ toegevoegd aan template „%2$s“ na „%3$s“"
+        },
+        "2dc7474fc7cd98da4c757c25d5acd451": {
+            "text": "Veld „%1$s“ verwijderd uit template „%2$s“"
+        },
+        "092a2d93903f42f67e257ba6fb82d6a2": {
+            "text": "Fout bij het verwijderen van \"%1$s\" uit template \"%2$s\""
+        },
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "Aan"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Uit"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Alles"
+        },
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[leeg]"
+        },
+        "8db6f3dfa2f2e5da6a736ec49e54f6f9": {
+            "text": "Weergave/zichtbaarheid van velden"
+        },
+        "722302e393e0ef80cae21af3a433fd64": {
+            "text": "Rollen die dit veld mogen bekijken"
+        },
+        "7c5a8ae55e59746ba619775959127870": {
+            "text": "Rollen die dit veld mogen bewerken"
+        },
+        "b1176bb4251df736f9046c88f2752937": {
+            "text": "Schakel toegangscontrole in"
+        },
+        "d8b6bdb4b7004ffa8118daf92c70085d": {
+            "text": "Toegangscontrole verwijderen"
+        },
+        "4ed588740999fc9926706a97d3e6b3ff": {
+            "text": "Zorg dat de API voor veldwaarden toegankelijk blijft, ook als deze niet zichtbaar is"
+        },
+        "03161f60700feb1e18fcb34de842c31a": {
+            "text": "Zorg ervoor dat de veldwaarde NIET via de API toegankelijk is als deze niet zichtbaar is"
+        },
+        "23831f621c230fae228ca5bccd05b83e": {
+            "text": "Toon in de pagina-editor, ook al is het niet bewerkbaar"
+        },
+        "7a3d219a780c47deeba29f396adfc6d0": {
+            "text": "Verberg in de pagina-editor als het niet bewerkbaar is"
+        },
+        "7cdb55d0d84a64ee84c14621892d8e10": {
+            "text": "Terug naar de lijst met velden na het opslaan van een veld?"
+        },
+        "503eff76a9f0b3c0c78997aa4370e2f0": {
+            "text": "Standaard blijf je na het opslaan van een veld in de veldeditor. Als je in plaats daarvan terug wilt naar de lijst met velden, vink dan dit vakje aan."
+        },
+        "4b2bcb0478b24201a7d60fed561d1b42": {
+            "text": "Bewerk afzonderlijke velden die paginagegevens bevatten"
+        },
+        "0b6c421579ca54de1ee2d79df5df6f05": {
+            "text": "Naam"
+        },
+        "83cfa166d441c1b47108e5d6b3f21cbe": {
+            "text": "Label"
+        },
+        "516a15631804c8878a63ecc155a067fa": {
+            "text": "Type"
+        },
+        "b342aa8cb5e92300b8b0bda3eaf8076d": {
+            "text": "Templates"
+        },
+        "1cdcfe223f7fb1cc15748a347bf161b2": {
+            "text": "Ja"
+        },
+        "b26a4731ede28b0686cf017804aa3574": {
+            "text": "Nee"
+        },
+        "6855bfdf44496210543dabeb8f88a1c0": {
+            "text": "Systeem"
+        },
+        "d665a1b10e02b9de8f4115d5b7078976": {
+            "text": "Nieuw veld toevoegen"
+        },
+        "678cad4866392ed0961cbce7d6ff550d": {
+            "text": "autojoin"
+        },
+        "f1cb39a9250fe6002851375559d8bd85": {
+            "text": "global"
+        },
+        "f44c0dcd3537024ab1be348dffe383de": {
+            "text": "systeem"
+        },
+        "46c5d71a7ab758f0ce5b9124cd8c53a4": {
+            "text": "permanent"
+        },
+        "b1100a1a039c319674c740cdc6382e92": {
+            "text": "verplicht"
+        },
+        "06dacbad9c7587cdace10537b20b43ca": {
+            "text": "toon als..."
+        },
+        "e2159a4c36a7a7881992637d1da6e379": {
+            "text": "toegang"
+        },
+        "0151b4b3cfa88e85b9387dc9490961cf": {
+            "text": "uniek"
+        },
+        "ab17e61adc90fe446ec49fe7cd795864": {
+            "text": "overrides/contexts"
+        },
+        "dcd217d86ebc19480f6602a1835f440d": {
+            "text": "Veld bewerken: %s"
+        },
+        "f98b1dd6f292ac2dfa3f8b0f9a8df9b0": {
+            "text": "Nieuw veld toevoegen"
+        },
+        "cb4e4304ce3fbf227cdae7fecc193fbf": {
+            "text": "Waarschuwing"
+        },
+        "1f2b73286f18ea71c594652199e86dff": {
+            "text": "Annuleren"
+        },
+        "47ee982b17f699a3dffff43c76df78ec": {
+            "text": "Template"
+        },
+        "a360c947f7ea8bd51220987c073edf15": {
+            "text": "Instelling"
+        },
+        "e036648db74b48abc2b6af1d56d4596c": {
+            "text": "Wijzigingen"
+        },
+        "a90b5efafea041e94da7fffd2bd530a3": {
+            "text": "Basis"
+        },
+        "9ea1f3769ad9c72e3ebf7de539b53aa1": {
+            "text": "Beschrijving"
+        },
+        "a6f1b7f6b210b19d1d4ff7722c8fd790": {
+            "text": "Opmerkingen"
+        },
+        "a698a809093ad1c25ea277ff03ae5fc7": {
+            "text": "Acties"
+        },
+        "995ed8becc596409849c6a652fbf5cd4": {
+            "text": "Ingevulde pagina's"
+        },
+        "ceb446e97d336c84d1f870ce7840e4ba": {
+            "text": "Rijen met gegevens"
+        },
+        "799ef6a367b3b36deb5be25ef8e7c91a": {
+            "text": "Toegang"
+        },
+        "afd2f2d22bac5fd1faf1abf753685366": {
+            "text": "Rol"
+        },
+        "904c279e535c872896eab899b55e9c46": {
+            "text": "Bekijken"
+        },
+        "32bcbddae2df658b6d193932ab97720e": {
+            "text": "Bewerken"
+        },
+        "3be3efa6643b5a3f2af79ace0a5145c4": {
+            "text": "Geavanceerd"
+        },
+        "2e97680673e9f48756601bd5672b0d45": {
+            "text": "%d template"
+        },
+        "f78cb52b393842a378dcbee7bd241ffe": {
+            "text": "%d templates"
+        },
+        "c869dd452643fae1887833d527dc86d0": {
+            "text": "Hiermee worden ook %d rijen gegevens verwijderd."
+        },
+        "59da98ece56eec26f5f9edd6f051da0b": {
+            "text": "Hierdoor worden ook %d rijen met gegevens verwijderd."
+        }
+    }
+}

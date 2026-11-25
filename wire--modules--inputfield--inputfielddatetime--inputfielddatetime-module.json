@@ -1,0 +1,21 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldDatetime/InputfieldDatetime.module",
+    "textdomain": "wire--modules--inputfield--inputfielddatetime--inputfielddatetime-module",
+    "translations": {
+        "a749642e2afeea63aac9d550e51abf64": {
+            "text": "Invoertype"
+        },
+        "13f25c1325ea96579dff3ca9b5c408de": {
+            "text": "Standaard de datum van vandaag instellen?"
+        },
+        "1feebee2f4ca4af215e8b47f37695f99": {
+            "text": "Als dit vakje is aangevinkt, wordt in dit veld de huidige datum weergegeven als er geen waarde wordt ingevoerd."
+        },
+        "a1af5f0718bfae275ce162362d0e43c5": {
+            "text": "Datum en tijd"
+        },
+        "d27357121209bd712604d8af46cd2460": {
+            "text": "Inputfield dat een datum en eventueel een tijd accepteert"
+        }
+    }
+}

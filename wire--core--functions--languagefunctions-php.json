@@ -1,0 +1,54 @@
+{
+    "file": "wire/core/Functions/LanguageFunctions.php",
+    "textdomain": "wire--core--functions--languagefunctions-php",
+    "translations": {
+        "1cb251ec0d568de6a929b520c4aed8d1": {
+            "text": "tekst"
+        },
+        "fb5bc6b1ef6713a60dc29d381c94f0c0": {
+            "text": "Dit is vertaalbare tekst"
+        },
+        "83378236d008605772b0b7ad762cfad4": {
+            "text": "Je leest de pagina %s"
+        },
+        "f49588184356b1846ce48469ae3843ac": {
+            "text": "%d is het ID van de huidige pagina"
+        },
+        "e1fe2670bb21367812b567146e61221d": {
+            "text": "Vandaag is het %1$s en het is %2$s"
+        },
+        "355e4477dc80f629e33f018fac3d9836": {
+            "text": "Welkom, vriend!"
+        },
+        "e0e5bd63c9d415c7fb84eecaa74c78fc": {
+            "text": "Nieuwe tekst"
+        },
+        "42171826dd780f6993bee2dd2171d932": {
+            "text": "0-plural"
+        },
+        "777005300b355c69534803c6407f99e7": {
+            "text": "Canada Goose"
+        },
+        "d1346524ac7f6fe232016c077a9fc6ec": {
+            "text": "Klik hier voor meer"
+        },
+        "59e4da1ec2723e6d05ec5feeaf7f7924": {
+            "text": "Klik hier voor meer"
+        },
+        "eadea3a747e3696d7959fb28d1d18230": {
+            "text": "Zoeken"
+        },
+        "fbe3c412d3a00ee92f603be1b42465d5": {
+            "text": "URL"
+        },
+        "5fc84d0317482d09f3ddd893414e51dd": {
+            "text": "Er is één item gevonden"
+        },
+        "b676034ffa6131761ecc1b8e151c44ef": {
+            "text": "Er zijn meerdere items gevonden"
+        },
+        "a91d611a962e2baf78e47b720f43bfdd": {
+            "text": "%d items gevonden"
+        }
+    }
+}

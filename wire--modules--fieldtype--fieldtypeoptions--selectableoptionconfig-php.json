@@ -1,0 +1,60 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeOptions/SelectableOptionConfig.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--selectableoptionconfig-php",
+    "translations": {
+        "d5d394071928f1f25b0e3c0f0a336d13": {
+            "text": "Bevestig dat je de opties wilt verwijderen"
+        },
+        "69e27cd6eff790dbbd4b6f65275ebaf7": {
+            "text": "VERWIJDEREN:"
+        },
+        "1465fa2b1c38fd4e8579e84e2b31a6d6": {
+            "text": "Wat moet er voor de invoer worden gebruikt?"
+        },
+        "a088b8e4d1d572f82e2661ab0862f00b": {
+            "text": "Afhankelijk van het invoertype dat je kiest, kan de gebruiker één of meerdere opties selecteren. Sommige invoertypes (zoals AsmSelect) ondersteunen ook selecties die door de gebruiker kunnen worden gesorteerd. Sommige invoertypes bieden ook meer instellingen op het tabblad *Input* (zichtbaar nadat je hebt opgeslagen)."
+        },
+        "2b19b4791a203f60ffe7369493dd7b5f": {
+            "text": "Wat zijn de selecteerbare opties?"
+        },
+        "7ca00a9ac9a521d8e1d62919da2e66c6": {
+            "text": "Voer één selecteerbare optie per regel in. Nadat je hebt opgeslagen, krijgt elke optie een ID-nummer toegewezen, dat je bijvoorbeeld ziet als `123=title`. Bekijk onze [instructies voor het gebruik van dit veld](%s)."
+        },
+        "ebe68b1a7edd199230885058ca3f3351": {
+            "text": "Opmerking over meertaligheid: stel de opties eerst in de standaardtaal in en sla ze op voordat je ze naar andere talen vertaalt."
+        },
+        "0581f7830fb426e1d56efadbc1a09edb": {
+            "text": "Welke opties wil je vooraf geselecteerd hebben? (indien van toepassing)"
+        },
+        "ad560982b535502d63dbf2f46ea8b3a6": {
+            "text": "Dit veld dient ook als voorbeeld van het door jou geselecteerde invoertype (%s) en de bijbehorende opties."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Geen"
+        },
+        "69a114a946943d26c4ea03ba031b4124": {
+            "text": "Let op: Je voorselectie is niet actief, omdat dit veld geen verplicht veld is. Schakel de optie „verplicht“ in op het tabblad „Invoer“ van het veld."
+        },
+        "67f541f6547ed8217b9d81909acc241f": {
+            "text": "De voorselectie is actief omdat dit veld een verplicht veld is."
+        },
+        "7a55572484844c1b337505ee266d3007": {
+            "text": "Voorbeeld van API-gebruik"
+        },
+        "9786dd72ff72c22b5cde66e2ef3a6c6a": {
+            "text": "Geef één selectie weer:"
+        },
+        "c575fc08137bccf13da4fff3117ff3e2": {
+            "text": "Weergave bij meervoudige selectie:"
+        },
+        "d51f7ee41ebdd5252b9a4410e297b306": {
+            "text": "Als je waarden wilt weergeven in plaats van titels, vervang dan ‘title’ door ‘value’ in de bovenstaande voorbeelden."
+        },
+        "c3524d56fb147114b84d6e9dd56110a9": {
+            "text": "Verwijder deze optie"
+        },
+        "c766e5be484b0e0a2104bc2fe925000c": {
+            "text": "Verwijder deze opties"
+        }
+    }
+}

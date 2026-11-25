@@ -1,0 +1,30 @@
+{
+    "file": "wire/modules/Page/PagePathHistory/PagePathHistory.module",
+    "textdomain": "wire--modules--page--pagepathhistory--pagepathhistory-module",
+    "translations": {
+        "112a51baa056cba6320b36b7a71bcb1c": {
+            "text": "Minimumleeftijd (seconden)"
+        },
+        "6f6974b30b7af85a0b0b8e3382fc9345": {
+            "text": "Begin met het bijhouden van de geschiedenis van een pagina zoveel seconden nadat deze is aangemaakt. Minimaal 2 seconden of meer wordt aanbevolen."
+        },
+        "b26126a5fdfea23d379aa813c392d533": {
+            "text": "Standaard: %s"
+        },
+        "2bcf586c695b0ada1781efb8ac78d294": {
+            "text": "%d historische pagina's verwijderd"
+        },
+        "c6d134febe49205b49a3d50c095359e1": {
+            "text": "Wil je de hele geschiedenis van de pagina's verwijderen?"
+        },
+        "49ec38867ac66d1ebc5e03d7d27b5939": {
+            "text": "Er staan momenteel %d historische pagina's in de database."
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Weet je het zeker?"
+        },
+        "7d77cfb1efb2f2ae3b3870708b58d7ee": {
+            "text": "Deze informatie wordt gebruikt voor automatische omleidingen en meer. Als je deze gegevens verwijdert, kun je ze niet meer terugkrijgen. Vink het vakje aan om te bevestigen dat je dit echt wilt doen."
+        }
+    }
+}

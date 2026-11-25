@@ -1,0 +1,15 @@
+{
+    "file": "wire/core/Field/FieldSelectorInfo.php",
+    "textdomain": "wire--core--field--fieldselectorinfo-php",
+    "translations": {
+        "78c143802119a85c9774c0459240085d": {
+            "text": "Is leeg"
+        },
+        "cbe0970a192d6df9999f4469f0854984": {
+            "text": "Is niet leeg"
+        },
+        "f89b7999f24e670f71368f38ac517530": {
+            "text": "Niet: %s"
+        }
+    }
+}

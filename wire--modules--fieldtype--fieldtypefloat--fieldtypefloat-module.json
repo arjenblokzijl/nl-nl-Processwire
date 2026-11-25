@@ -1,0 +1,27 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeFloat/FieldtypeFloat.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefloat--fieldtypefloat-module",
+    "translations": {
+        "4fd285f4c0dd28b1380d1c8c00dd0c8f": {
+            "text": "Type databasekolom"
+        },
+        "c97dfa29a441110b29e6f9454053896a": {
+            "text": "Float (enkele precisie)"
+        },
+        "95fe32193e1075703452913edb854e9c": {
+            "text": "Double (dubbele precisie)"
+        },
+        "211efcb1aa9b0567969d0ce5a18d850c": {
+            "text": "Aantal decimalen waarop moet worden afgerond"
+        },
+        "bf8de207806af36f5a5834a4318f7818": {
+            "text": "Of gebruik een negatief getal zoals `-1` om afronding uit te schakelen."
+        },
+        "22ae0e2b89e5e3d477f988cc36d3272b": {
+            "text": "Float"
+        },
+        "21ddca6ecb798f48a109c2289ff413ec": {
+            "text": "Veld waarin een getal met drijvende komma wordt opgeslagen"
+        }
+    }
+}

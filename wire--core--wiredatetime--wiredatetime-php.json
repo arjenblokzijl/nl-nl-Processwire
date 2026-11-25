@@ -1,0 +1,243 @@
+{
+    "file": "wire/core/WireDateTime/WireDateTime.php",
+    "textdomain": "wire--core--wiredatetime--wiredatetime-php",
+    "translations": {
+        "6e7b34fa59e1bd229b207892956dc41c": {
+            "text": "Nooit"
+        },
+        "2654992d78afbd40bad349302a6f2b6a": {
+            "text": "zojuist"
+        },
+        "6d0a578ca2f2c0e792fc923002fccbe3": {
+            "text": "geleden"
+        },
+        "9aa587bfb76008ca6b764747b7e43aff": {
+            "text": "vanaf nu"
+        },
+        "97bc592b27a9ada2d9a4bb418ed0ebed": {
+            "text": "nu"
+        },
+        "13b5bfe96f3e2fe411c9f66f4a582adf": {
+            "text": "over"
+        },
+        "b7d838b2422049639db6fb2bb6ba04bf": {
+            "text": "Q P T"
+        },
+        "03c7c0ace395d80182db07ae2c30f034": {
+            "text": "s"
+        },
+        "6f8f57715090da2632453988d9a1501b": {
+            "text": "m"
+        },
+        "adab7b701f23bb82014c8506d3dc784e": {
+            "text": "u"
+        },
+        "8277e0910d750195b448797616e091ad": {
+            "text": "d"
+        },
+        "5d2bf8e6622cb88ca16a745dcf8153a0": {
+            "text": "wk"
+        },
+        "27c9d5187cd283f8d160ec1ed2b5ac89": {
+            "text": "mnd"
+        },
+        "24457c6b0ac87e9c58d80dca40b16dee": {
+            "text": "jr"
+        },
+        "2787910b1b16428d65412fca2718a92e": {
+            "text": "decennium"
+        },
+        "4ed6db01dd21186f0050084d96e6aeba": {
+            "text": "wkn"
+        },
+        "dd54b79040542ce0f6691e1a1945827a": {
+            "text": "jr"
+        },
+        "a6e311dfab473630d03ac5323d5c36e9": {
+            "text": "decennia"
+        },
+        "74459ca3cf85a81df90da95ff6e7a207": {
+            "text": "sec"
+        },
+        "d8bd79cc131920d5de426f914d17405a": {
+            "text": "min"
+        },
+        "628b7db04235f228d40adc671413a8c8": {
+            "text": "dag"
+        },
+        "172a8327fcd3685ab3c0f740d031da09": {
+            "text": "week"
+        },
+        "7436f942d5ea836cb84f1bb2527d8286": {
+            "text": "maand"
+        },
+        "84cdc76cabf41bd7c961f6ab12f117d8": {
+            "text": "jaar"
+        },
+        "975a85a4ffa56e23c70e2bbeaf405ac7": {
+            "text": "sec"
+        },
+        "1442a7b6e2c20b27775175eecba84dac": {
+            "text": "min"
+        },
+        "c760237f74bcc7e3f90ad956086edb66": {
+            "text": "u"
+        },
+        "44fdec47036f482b68b748f9d786801b": {
+            "text": "dagen"
+        },
+        "ae60f11ab51860bdb22794a943335a34": {
+            "text": "weken"
+        },
+        "da36cfaf48b9e19896e23e1207040d1e": {
+            "text": "maanden"
+        },
+        "75aeb98e5241592ad6a6c2c4c78a16ef": {
+            "text": "jaren"
+        },
+        "a9f0e61a137d86aa9db53465e0801612": {
+            "text": "seconde"
+        },
+        "0a7d55be9d12a369a6a8da0fb517fba4": {
+            "text": "minuut"
+        },
+        "896c55cc5e46fab38ce9f51ebf7bfcd3": {
+            "text": "uur"
+        },
+        "783e8e29e6a8c3e22baa58a19420eb4f": {
+            "text": "seconden"
+        },
+        "640fd0cc0ffa0316ae087652871f4486": {
+            "text": "minuten"
+        },
+        "73cdddd7730abfc13a55efb9f5685a3b": {
+            "text": "uren"
+        },
+        "86f5978d9b80124f509bdb71786e929e": {
+            "text": "januari"
+        },
+        "659e59f062c75f81259d22786d6c44aa": {
+            "text": "februari"
+        },
+        "fa3e5edac607a88d8fd7ecb9d6d67424": {
+            "text": "maart"
+        },
+        "3fcf026bbfffb63fb24b8de9d0446949": {
+            "text": "april"
+        },
+        "195fbb57ffe7449796d23466085ce6d8": {
+            "text": "mei"
+        },
+        "688937ccaf2a2b0c45a1c9bbba09698d": {
+            "text": "juni"
+        },
+        "1b539f6f34e8503c97f6d3421346b63c": {
+            "text": "juli"
+        },
+        "41ba70891fb6f39327d8ccb9b1dafb84": {
+            "text": "augustus"
+        },
+        "cc5d90569e1c8313c2b1c2aab1401174": {
+            "text": "september"
+        },
+        "eca60ae8611369fe28a02e2ab8c5d12e": {
+            "text": "oktober"
+        },
+        "7e823b37564da492ca1629b4732289a8": {
+            "text": "november"
+        },
+        "82331503174acbae012b2004f6431fa5": {
+            "text": "december"
+        },
+        "6f8522e0610541f1ef215a22ffa66ff6": {
+            "text": "maandag"
+        },
+        "5792315f09a5d54fb7e3d066672b507f": {
+            "text": "dinsdag"
+        },
+        "796c163589f295373e171842f37265d5": {
+            "text": "woensdag"
+        },
+        "78ae6f0cd191d25147e252dc54768238": {
+            "text": "donderdag"
+        },
+        "c33b138a163847cdb6caeeb7c9a126b4": {
+            "text": "vrijdag"
+        },
+        "8b7051187b9191cdcdae6ed5a10e5adc": {
+            "text": "zaterdag"
+        },
+        "9d1a0949c39e66a0cd65240bc0ac9177": {
+            "text": "zondag"
+        },
+        "cf4b0ccfeee3caa423846ed7ff56e723": {
+            "text": "jan"
+        },
+        "44762ee79035f8945f6d4d9a00f06b36": {
+            "text": "feb"
+        },
+        "d84944ac2c936b54ed71c44fb023d49e": {
+            "text": "mrt"
+        },
+        "7d97ebcdc4b5042e7106f9d255cbea82": {
+            "text": "apr"
+        },
+        "4613b9100e2834c58bad58f214c8c277": {
+            "text": "mei"
+        },
+        "ced1ade4a19b4010efcdb9d07edc30b9": {
+            "text": "jun"
+        },
+        "455c4606e84c103cac82c7170f1888e9": {
+            "text": "jul"
+        },
+        "694900da2fbfb150ce127447b49945fc": {
+            "text": "aug"
+        },
+        "66c5ca1e3a6b2841e8f97d1e259bbba5": {
+            "text": "sep"
+        },
+        "3e0e4b73d7bd654afb1e18ff1416ce3e": {
+            "text": "okt"
+        },
+        "25768ba61ead935f4d124e5e04a94e80": {
+            "text": "nov"
+        },
+        "d94865ae276ccda93d7c2245a7821349": {
+            "text": "dec"
+        },
+        "bbeedef992a6828105dd1fd4f77223a6": {
+            "text": "ma"
+        },
+        "fff18cc5f262384f35b6d681d8763114": {
+            "text": "di"
+        },
+        "82dc52827a868010435c19cf1bbd769e": {
+            "text": "wo"
+        },
+        "af5a6a7b15dd99b3a9adf4d0926e99ba": {
+            "text": "do"
+        },
+        "6ebf04c88a3ad9330e022afa0547c6d6": {
+            "text": "vr"
+        },
+        "120699eb7d14e7420feeb2ee84eba0a3": {
+            "text": "za"
+        },
+        "12a6119c682a70e899c62345ff5842fd": {
+            "text": "zo"
+        },
+        "a449fbe64d08f8531ada3458b7c3603c": {
+            "text": "am"
+        },
+        "79c8c17de2d3e4d3973b3383212b2532": {
+            "text": "pm"
+        },
+        "23b99083cabcf9cbe32ee406775188f1": {
+            "text": "AM"
+        },
+        "50abae9c86ccd00f5d4712e02b3a72ce": {
+            "text": "PM"
+        }
+    }
+}

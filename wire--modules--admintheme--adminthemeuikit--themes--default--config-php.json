@@ -1,0 +1,123 @@
+{
+    "file": "wire/modules/AdminTheme/AdminThemeUikit/themes/default/config.php",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--themes--default--config-php",
+    "translations": {
+        "5033e44261d04e84a76b8366ed44055d": {
+            "text": "Gemaakt door Diogo Oliveira en Jan Ploch bij [KONKAT Studio](https://konkat.studio/)."
+        },
+        "921a2de749c3bd0d9a186423dc8de690": {
+            "text": "Bekijk de [ontwikkelaarsgids](%s) voor dit thema."
+        },
+        "e43355c02611c14202521ab877114cdc": {
+            "text": "Wil je standaard de lichte of de donkere modus?"
+        },
+        "4b8f07e0f8886f587bfc84987682e99f": {
+            "text": "De donkere modus is uitgeschakeld via `$config->AdminThemeUikit(\"noDarkMode\")`"
+        },
+        "00f49a4200256d01064bccbd8e112b15": {
+            "text": "Individuele gebruikers kunnen ook kiezen voor de lichte, donkere of automatische modus via het menu ‘Gebruikershulpmiddelen’."
+        },
+        "f6a8e44ed3f84d6773e3cecffa604617": {
+            "text": "Deze instelling wordt gebruikt voor gebruikers die niet specifiek voor de lichte of donkere modus hebben gekozen."
+        },
+        "f945fda711522a26eef4126a1ef23553": {
+            "text": "Als ‘Auto’ is geselecteerd, wordt de modus bepaald op basis van de instellingen van de browser of het besturingssysteem van de gebruiker."
+        },
+        "9914a0ce04a7b7b6a8e39bec55064b82": {
+            "text": "Licht"
+        },
+        "a18366b217ebf811ad1886e4f4f865b2": {
+            "text": "Donker"
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "Auto"
+        },
+        "2239e2360e61c63d63dc4c01f706515c": {
+            "text": "(gebruik de instellingen van de browser/het besturingssysteem)"
+        },
+        "d4f5ff0ae84492b5ff3adbfbe81dc7bd": {
+            "text": "Schakelaars"
+        },
+        "90eb2799e706374b42f9c3b5bae0f3fb": {
+            "text": "Gebruik vetgedrukte kopteksten voor repeaters, bestanden, afbeeldingen, enz."
+        },
+        "21da914e4182023f41669aae54d9c655": {
+            "text": "Gebruik knoppen voor actielinks op pagina's"
+        },
+        "8fd11f8840e5a63dcae209670050801f": {
+            "text": "Markeer de velden waarop de focus ligt"
+        },
+        "da9bc28168cedde65bf37ec91268a8b7": {
+            "text": "(extra verduidelijking voor de invoer waarop je nu gefocust bent)"
+        },
+        "772a8b7ac14b0114cbf86ae5eec5c64a": {
+            "text": "De instelling voor licht/donker/automatisch uitschakelen in het menu ‘Gebruikershulpmiddelen’?"
+        },
+        "3e301232080f254ae14605e85fe33b28": {
+            "text": "(voorkomt dat gebruikers zelf een donkere of lichte modus kunnen kiezen)"
+        },
+        "6506e713c3e20607e6cca8ac775845c7": {
+            "text": "Wil je overal schakelvakjes gebruiken?"
+        },
+        "943e5206fd4057b606497ce7588dae68": {
+            "text": "(gebruik schakelknoppen in plaats van selectievakjes met vinkjes)"
+        },
+        "e377110b9864435d061597665db4fc30": {
+            "text": "Stel aparte hoofdkleurkiezers in voor de lichte modus en de donkere modus"
+        },
+        "a71098307fb38b55fbc63b19317f2c26": {
+            "text": "(gebruik dit voor meer contrast in de lichte of donkere modus)"
+        },
+        "4749a4b32ffdaaedd33ca793094a2b62": {
+            "text": "Hoofdkleur"
+        },
+        "ee38e4d5dd68c4e440825018d549cb47": {
+            "text": "Rood"
+        },
+        "d382816a3cbeed082c9e216e7392eed1": {
+            "text": "Groen"
+        },
+        "9594eec95be70e7b1710f730fdda33d9": {
+            "text": "Blauw"
+        },
+        "0f86e3bbfdca949fbd71e30393bbe1dc": {
+            "text": "Aangepaste kleurenkiezers…"
+        },
+        "5a87da33e33ba568704ec39dd12fe083": {
+            "text": "Aangepaste hoofdkleur"
+        },
+        "48ced7a1c56fd6d4ca7d0be9523ead4f": {
+            "text": "Aangepaste hoofdkleur (donkere modus)"
+        },
+        "78f0192ac55eba33ee88d026452952e5": {
+            "text": "Zonder rand"
+        },
+        "06b275f3c50ee6e2a9cfc31127962552": {
+            "text": "Kopbalk"
+        },
+        "30fc6bbba82125243ecf4ddb27fee645": {
+            "text": "Minimaal"
+        },
+        "fd05d7f6bfc90e815087880e8e915b43": {
+            "text": "Voorbeelden:"
+        },
+        "29e3782415f5b165d896bde27030a252": {
+            "text": "Aangepast CSS-bestand"
+        },
+        "8dcabb48188285f97a861ae83d552dfc": {
+            "text": "Voer een lokale URL in (zonder protocol) ten opzichte van de installatiemap, bijvoorbeeld `/site/templates/styles/admin.css`"
+        },
+        "2ec8e8a6300bf521515c0ebaacf0e706": {
+            "text": "Vermeld het protocol (http, https) niet in je URL"
+        },
+        "5f97964fe19d0f41543b9dfd150ff308": {
+            "text": "Bestand bestaat niet: %s"
+        },
+        "42e6feb7f76e910efcda54034ecc83ce": {
+            "text": "Aangepaste CSS"
+        },
+        "f063acf97920539cd00f4cea4fe83d8b": {
+            "text": "Alleen beschikbaar in de geavanceerde modus."
+        }
+    }
+}

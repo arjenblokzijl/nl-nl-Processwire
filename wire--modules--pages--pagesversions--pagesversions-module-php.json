@@ -1,0 +1,33 @@
+{
+    "file": "wire/modules/Pages/PagesVersions/PagesVersions.module.php",
+    "textdomain": "wire--modules--pages--pagesversions--pagesversions-module-php",
+    "translations": {
+        "f58b62f73535d235e623829d8f49efb5": {
+            "text": "Gedeeltelijke versie wordt niet ondersteund (bestandsvelden), volledige versie opgeslagen"
+        },
+        "46e5303febf0fd42bc75eb6d84f5bcc4": {
+            "text": "Onbekende versie %s kan niet worden hersteld"
+        },
+        "27edffb87c9cbaf975bb85d59d31ccd1": {
+            "text": "Herstellen is mislukt, de pagina's staan geen versies toe"
+        },
+        "9f66078634fc514b3a80712ccba99216": {
+            "text": "Een of meer van de gevraagde velden ondersteunen geen gedeeltelijk herstel."
+        },
+        "7e93a8f391ec1880dd917548c9d3ef35": {
+            "text": "Overgeslagen omdat de waarde niet kan worden gecodeerd"
+        },
+        "f12b727dae181f6ef422bda8b0c59ff3": {
+            "text": "Overgeslagen omdat de waarde te groot is om in een versie op te slaan"
+        },
+        "deb746b40b48d5a48a2a01839bd32fd8": {
+            "text": "Een gepagineerde waarde kan niet worden geversioniseerd"
+        },
+        "2a10652c119026e84c5415ebad4eebae": {
+            "text": "Pagina %d veld %s"
+        },
+        "be80256370788ee6d94e2597c3fd7a75": {
+            "text": "Pagina %d"
+        }
+    }
+}

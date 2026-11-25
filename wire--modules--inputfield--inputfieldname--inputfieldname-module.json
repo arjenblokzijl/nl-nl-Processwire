@@ -1,0 +1,15 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldName/InputfieldName.module",
+    "textdomain": "wire--modules--inputfield--inputfieldname--inputfieldname-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Naam"
+        },
+        "a04db16158cda2989364540920140f87": {
+            "text": "Letters, cijfers, onderstrepingstekens, koppeltekens en punten. Spaties en niet-ondersteunde tekens worden omgezet in onderstrepingstekens."
+        },
+        "e5e43bcb90e7ae502c28ecb1089b3aa7": {
+            "text": "Tekstinvoer gevalideerd als een ProcessWire-naamveld"
+        }
+    }
+}

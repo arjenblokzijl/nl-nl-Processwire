@@ -1,0 +1,30 @@
+{
+    "file": "wire/core/Fields/FieldsTableTools.php",
+    "textdomain": "wire--core--fields--fieldstabletools-php",
+    "translations": {
+        "94777a4cdd469b1dc32114c7b148336e": {
+            "text": "%d lege rij(en) verwijderd voor veld %s"
+        },
+        "a4db6555067e463d9e1fb57bd771d115": {
+            "text": "Er kan nog geen unieke index worden toegevoegd omdat er al niet-unieke rij(en) aanwezig zijn:"
+        },
+        "f4775f230d3ee4ca1c2dfd515cde799a": {
+            "text": "Komt %d keer voor"
+        },
+        "019b1bbcaa4011c7a88e681bc504656c": {
+            "text": "(pagina-ID's: %s)"
+        },
+        "a452be585de41c827d68057d84a60524": {
+            "text": "Unieke index toegevoegd"
+        },
+        "95295f6c09473739797030905b9e7239": {
+            "text": "Unieke index verwijderd"
+        },
+        "d019979a29c88c8d69bab3a63388da97": {
+            "text": "Uniek"
+        },
+        "2091d533e5569b95274f7f7c93cb5a73": {
+            "text": "Als dit aangevinkt is, mag een bepaalde waarde niet vaker dan één keer in dit veld worden gebruikt en dus ook niet op meer dan één pagina verschijnen."
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldHidden/InputfieldHidden.module",
+    "textdomain": "wire--modules--inputfield--inputfieldhidden--inputfieldhidden-module",
+    "translations": {
+        "689202409e48743b914713f96d93947c": {
+            "text": "Waarde"
+        },
+        "1758cb96bcb06c04bd244697d51ed7dd": {
+            "text": "Waarde die in dit verborgen veld moet worden ingevuld."
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Verborgen"
+        },
+        "8cdce0bfaf52b2e928d3cc993e3feeca": {
+            "text": "Verborgen invoerveld in een formulier"
+        }
+    }
+}

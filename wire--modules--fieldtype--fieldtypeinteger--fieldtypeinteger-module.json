@@ -1,0 +1,33 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeInteger/FieldtypeInteger.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeinteger--fieldtypeinteger-module",
+    "translations": {
+        "91c09f074736481876ccf2f97e04ed07": {
+            "text": "Zijn 'leeg' en '0' hetzelfde?"
+        },
+        "e128ed87f9f0d6401b081dd75b2dad03": {
+            "text": "Dit heeft invloed op hoe ProcessWire pagina's koppelt tijdens zoekopdrachten in de database."
+        },
+        "07be370e5cef3ea5961cdf07cb34f390": {
+            "text": "Als 0 en leeg hetzelfde betekenen (de optie Ja), dan levert een zoekopdracht naar **veld=0** of **veld=\"\"** dezelfde resultaten op."
+        },
+        "b4e4ee05aeb0d5812f77886c29c4bb53": {
+            "text": "Als ze niet gelijk zijn (de optie ‘Nee’), dan levert een zoekopdracht naar **field=0** alleen resultaten op voor velden met de waarde 0, en **field=\"\"** alleen voor velden zonder waarde."
+        },
+        "47ae95efefc63fa28854884d8c871228": {
+            "text": "Nog een voorbeeld: bij de optie Ja zou **veld<1** zowel overeenkomen met de waarde 0 als met geen waarde, en bij de optie Nee zou het alleen overeenkomen met 0."
+        },
+        "50c5d87b02ad1694c7b4603240402ef9": {
+            "text": "Ja – Leeg en 0 zijn hetzelfde"
+        },
+        "dce91550511a9cfef6fe1bc4d2e93b1b": {
+            "text": "Nee – Leeg en 0 hebben verschillende betekenissen"
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Standaardwaarde"
+        },
+        "382ee7815f7200f67e7a5735816c78d2": {
+            "text": "Deze waarde wordt als standaardwaarde voor dit veld ingesteld op pagina’s waar geen waarde is ingevoerd."
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "file": "wire/core/Users/Permissions.php",
+    "textdomain": "wire--core--users--permissions-php",
+    "translations": {
+        "811deefb4c02a58fd629b05b775dbd3a": {
+            "text": "Pagina's verbergen/weer zichtbaar maken"
+        },
+        "078d02bfb62cf6957d8295c0072eb869": {
+            "text": "Pagina’s publiceren/niet gepubliceerd of reeds gepubliceerde pagina’s bewerken"
+        },
+        "419cb8b2ecc5b9144270ebbbb7e65c92": {
+            "text": "Alleen pagina's bewerken die de gebruiker zelf heeft aangemaakt"
+        },
+        "7a3c0039ad0f29f74babc54b9d96467d": {
+            "text": "De gebruiker kan pagina's die hij of zij heeft gemaakt naar de prullenbak verplaatsen (zonder permissie om pagina's te verwijderen)."
+        },
+        "618400fc1b0f0b7a96f2d0c871bd2c6b": {
+            "text": "Gebruik de afbeeldingseditor om afbeeldingen te bewerken (bijsnijden, formaat aanpassen, enz.)"
+        },
+        "aea865164370da774405c331d6657a6f": {
+            "text": "Pas de naam aan van gepubliceerde pagina’s die ze mogen bewerken"
+        },
+        "11872ca557915bb50767c6f91d5483d5": {
+            "text": "Beheer gebruikers in elke rol (behalve superuser)"
+        },
+        "5a1dc311dc716c30ccdb008bee94e9d6": {
+            "text": "De gebruiker kan gebruikers in elke rol bekijken (inclusief superuser)"
+        },
+        "d341b36940e0a17c1d212ab5b32fafa8": {
+            "text": "De gebruiker kan zichzelf bekijken (tenzij dit al door andere permissies wordt beperkt)"
+        },
+        "9d7f65dc30d669d9000ef19ed549228e": {
+            "text": "Gebruikers in rol weergeven: %s"
+        },
+        "eecc2e81896b43d7a7fad8cd165a8107": {
+            "text": "Beheer gebruikers in de rol: %s"
+        },
+        "1cde74a0dce30621ce5a3d6541fb428d": {
+            "text": "De gebruiker kan omleidings-URL's toevoegen, bewerken of verwijderen in de pagina-editor"
+        },
+        "8048bbf682a36eb44e24af9d4996ba3d": {
+            "text": "Bewerk velden op een pagina in de taal: %s"
+        },
+        "c7ec5d220e7d4a02342efda6f6b2be98": {
+            "text": "(ook nodig om pagina's aan te maken of te verwijderen)"
+        },
+        "021ae36974d48cf90a6b204c4abe221b": {
+            "text": "Bewerk eentalige velden op een meertalige pagina"
+        },
+        "40840d28513eb3dfb7be0a1fdffae9a7": {
+            "text": "Beheer talen en statische vertaalbestanden"
+        }
+    }
+}

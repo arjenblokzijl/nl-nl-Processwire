@@ -1,0 +1,156 @@
+{
+    "file": "wire/modules/Process/ProcessField/ProcessFieldExportImport.php",
+    "textdomain": "wire--modules--process--processfield--processfieldexportimport-php",
+    "translations": {
+        "71eaa2b13692809e39c2f0c36e7f1d7f": {
+            "text": "Kies de velden die je wilt exporteren"
+        },
+        "ad32e604e17467fc435538334fbddf3e": {
+            "text": "NAAM"
+        },
+        "6f434c508ad901b8667ed22f713e52bb": {
+            "text": "LABEL"
+        },
+        "948495146facadfe8859789036313d79": {
+            "text": "TYPE"
+        },
+        "e5d07991c975607a12edce23c0da9824": {
+            "text": "Shift+klik om meerdere items achter elkaar te selecteren. Ctrl+klik (of Cmd+klik) om meerdere items afzonderlijk te selecteren. Ctrl+A (of Cmd+A) om alles te selecteren."
+        },
+        "2f1fb3d9f25082e7fdb0befdad16da5f": {
+            "text": "Gegevens exporteren"
+        },
+        "6af8cf07d769a110f0b2483692ef424c": {
+            "text": "Kopieer en plak deze gegevens in het veld „Importeren“ van een andere installatie."
+        },
+        "9d823cda278191490c2a99bbb912cc9d": {
+            "text": "Klik ergens in het vak om alle exportgegevens te selecteren. Zodra je ze hebt geselecteerd, kopieer je de gegevens met CTRL-C of CMD-C."
+        },
+        "dce8c8fe6bdf804f2a98384dedea1360": {
+            "text": "Plak de gegevens uit een export."
+        },
+        "139ef19d3b2f902827257b2ebc33d708": {
+            "text": "Kopieer de exportgegevens uit een andere installatie en plak ze vervolgens in het vak hierboven met CTRL-V of CMD-V."
+        },
+        "31fde7b05ac8952dacf4af8a704074ec": {
+            "text": "Voorbeeld"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "nieuw"
+        },
+        "c112bb3542e98308d12d5ecb10a67abc": {
+            "text": "Wijzigingen"
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "Eigenschap"
+        },
+        "56f05ff480907494bd933f4ad4faf9e2": {
+            "text": "Oude waarde"
+        },
+        "943f335b83ec6549ef45388ececff4e1": {
+            "text": "Nieuwe waarde"
+        },
+        "939704657d1c6c48005bdb67bc14ee75": {
+            "text": "We raden je aan om het fieldtype van dit veld handmatig te wijzigen in „%s“ en daarna hier terug te komen om verdere wijzigingen door te voeren."
+        },
+        "34eb90456e45e06048e287f649c4fba0": {
+            "text": "Er zijn geen wijzigingen in behandeling."
+        },
+        "c4fd77379e1e463339786fbbc671068c": {
+            "text": "Wil je dit veld aanpassen?"
+        },
+        "2f4ddf245d305802ffed479ba3b88451": {
+            "text": "Wil je dit veld aanmaken?"
+        },
+        "83e14aace19687fe9e1fbb8f913bf569": {
+            "text": "Klik op ‘Ja’ om de wijzigingen weer te geven"
+        },
+        "47a35a358887cc2c9994fb517d6a2b0b": {
+            "text": "Soms kan het twee commits duren voordat alle wijzigingen zijn doorgevoerd. Bekijk hieronder de openstaande wijzigingen en voer ze indien nodig door."
+        },
+        "b2ba5835eaaa55607da59f696dcd4a87": {
+            "text": "Bekijk de onderstaande wijzigingen even en zet ze vast als je klaar bent. Als er wijzigingen zijn die je niet wilt toepassen, vink dan de betreffende vakjes uit."
+        },
+        "b604e6f64e19eea098f6d87c63552c53": {
+            "text": "Wijzigingen opslaan"
+        },
+        "16babeb0401a3e00da9891b97e94d6fe": {
+            "text": "Je wijzigingen zijn doorgevoerd!"
+        },
+        "15055fb4c054396bf293c21c12c578be": {
+            "text": "Er zijn geen wijzigingen gevonden"
+        },
+        "426de2596501a3cff8977e60c271889c": {
+            "text": "Opgeslagen:"
+        },
+        "22e3e6ff427708ffbb7a54e2e91bc99e": {
+            "text": "Veld toegevoegd"
+        },
+        "9de8e0c21384ddfd634fd87a48f6b3b2": {
+            "text": "Veld gewijzigd"
+        },
+        "19b7fb53a85de3c8ba85672a91a7398b": {
+            "text": "Exporteren"
+        },
+        "722034114c47bfa859a1be8200469fcf": {
+            "text": "OK"
+        },
+        "e37dfad06455f0c5d79778a5020d946d": {
+            "text": "Importeren"
+        },
+        "a7820bfdb5b31eb4ee4165f2c8bef779": {
+            "text": "Ja"
+        },
+        "1354eb301e2c7c55f79a7f13adb363e3": {
+            "text": "Nee"
+        },
+        "c3005b0d579421afe9654e94b7f60c41": {
+            "text": "%d fout"
+        },
+        "2169b4627df97333ed94d1e30a9b8148": {
+            "text": "%d fouten"
+        },
+        "8ba486983cfbf272f154102c788863e6": {
+            "text": "%d eigenschap gevonden om toe te passen."
+        },
+        "dbda450b59595e4fd37fd581d205334f": {
+            "text": "%d eigenschappen gevonden om toe te passen."
+        },
+        "9e06b5dbfb31f1828888bca905c2e88e": {
+            "text": "Er zijn fouten gevonden in veld %d"
+        },
+        "68949530f08adb8c1a98b2a452c25604": {
+            "text": "Er zijn fouten gevonden in %d velden"
+        },
+        "98e916ede6d185f77336fd8e0c08bfe0": {
+            "text": "%d nieuwe velden gevonden om toe te voegen"
+        },
+        "9bdf5048d07cd31f11ccd839cc2d077a": {
+            "text": "%d nieuwe velden gevonden om toe te voegen"
+        },
+        "927d189873b1f34075deb20406d33644": {
+            "text": "%d bestaande velden gevonden om bij te werken"
+        },
+        "5cc06b731a19a2b34a1e3a0e79e35690": {
+            "text": "%d bestaande velden gevonden om bij te werken"
+        },
+        "99dc52a2961a9de2d42d6dbd498b0103": {
+            "text": "%d veld toegevoegd"
+        },
+        "46b6c6eede6b98b8ac580770f6215f35": {
+            "text": "%d velden toegevoegd"
+        },
+        "0ecf1cc5ca067272faabd8c0900efe68": {
+            "text": "Gewijzigd %d veld"
+        },
+        "18e7924633aa136c8b5ba3827b3f7058": {
+            "text": "%d velden aangepast"
+        },
+        "c9185726324b2953e521ff596b287f25": {
+            "text": "%d veld overgeslagen"
+        },
+        "0cf5f939a615a083962e96f06b8ed6ea": {
+            "text": "%d velden overgeslagen"
+        }
+    }
+}

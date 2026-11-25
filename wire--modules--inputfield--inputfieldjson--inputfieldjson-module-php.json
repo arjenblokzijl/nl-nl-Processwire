@@ -1,0 +1,39 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldJson/InputfieldJson.module.php",
+    "textdomain": "wire--modules--inputfield--inputfieldjson--inputfieldjson-module-php",
+    "translations": {
+        "d6a6d393040fe53b20243c9abeee036b": {
+            "text": "Dit veld is verplicht"
+        },
+        "c983ac6772ab19208fb309df5bb0ab32": {
+            "text": "Ongeldige JSON (verwachte tekenreeks)"
+        },
+        "567833aa67f3f1df6ceede02373fa319": {
+            "text": "vorige waarde hersteld"
+        },
+        "be04bd879a4fff70dacb75686ac54163": {
+            "text": "Boomstructuur | bewerk en voeg een boomstructuur toe"
+        },
+        "bfa885022ac7903172c8d3661b0139ad": {
+            "text": "Formulier | bewerkingsboom"
+        },
+        "8c3a27cf6996b3fd88fc514f3bf9efc8": {
+            "text": "Tekst | onbewerkte tekst bewerken"
+        },
+        "190578412d141f6979e0920bad88f377": {
+            "text": "Code | bewerk ruwe code met code-helpers"
+        },
+        "48653706eae30179138eb6720a5875bf": {
+            "text": "Weergave | alleen-lezen boomstructuur"
+        },
+        "650be61892bf690026089544abbd9d26": {
+            "text": "Modus"
+        },
+        "f34b752002ca2eb303ed095cb858f1d2": {
+            "text": "Menubalk inschakelen?"
+        },
+        "3809253f74733f3c968db15677752928": {
+            "text": "Navigatiebalk inschakelen?"
+        }
+    }
+}

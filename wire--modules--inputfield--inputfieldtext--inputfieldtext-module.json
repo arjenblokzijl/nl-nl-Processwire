@@ -1,0 +1,144 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldText/InputfieldText.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtext--inputfieldtext-module",
+    "translations": {
+        "3c046b3ba4bce0e808ae74b1f17d4cdc": {
+            "text": "1 woord"
+        },
+        "4694403722611f0dab5b4020626b289b": {
+            "text": "%d woorden"
+        },
+        "266be751f6043dd6f14366d90c02e395": {
+            "text": "1 teken"
+        },
+        "1799f67dd85c2b51921d814c95bc30dc": {
+            "text": "%d tekens"
+        },
+        "42eab4ec87a7e8c172ab10a645ab9301": {
+            "text": "(minimaal %d vereist)"
+        },
+        "cd4377f9e686f1024a3d4358bf96235e": {
+            "text": "(max. %d)"
+        },
+        "3c5d93eab9cf5f9c46905bcf44e863af": {
+            "text": "Komt niet overeen met het vereiste patroon"
+        },
+        "587a544effd13d88cb89456df1222d73": {
+            "text": "Er zijn minimaal %1$d tekens nodig (momenteel zijn er %2$d tekens)."
+        },
+        "773726357c07d9847f900eef6ed9b6af": {
+            "text": "De waarde overschrijdt de maximaal toegestane lengte van %d tekens en is ingekort."
+        },
+        "65be4bb9e294bfb3e8b7c09ca0017ef4": {
+            "text": "Minimale lengte"
+        },
+        "9df187935ceb54067692c568b45e042b": {
+            "text": "De minimale lengte (in tekens) die voor dit veld vereist is."
+        },
+        "8eaf7dcee17c55fd550a28c803b47718": {
+            "text": "Als het veld niet „verplicht“ is, wordt de minimale lengte alleen afgedwongen als er een waarde is ingevuld."
+        },
+        "94f0e608658539187d65dddeea593677": {
+            "text": "Maximale lengte"
+        },
+        "a4965347ff8523a66897b92fec81e04e": {
+            "text": "De maximale lengte (in tekens) die voor dit veld is toegestaan."
+        },
+        "62b926a914028b7677a7c1e33ae9306e": {
+            "text": "Een waarde van „0“ betekent dat er geen maximum is."
+        },
+        "64d129224a5377b63e9727479ec987d9": {
+            "text": "Teller"
+        },
+        "e98d599c27d0cc5eac6f2306b4c5891a": {
+            "text": "Geen teller"
+        },
+        "00914008e58920e2994f712269d2e306": {
+            "text": "Tekenteller"
+        },
+        "e5be16f125cae69d8a9185392d6b3393": {
+            "text": "Woordenteller"
+        },
+        "8f72b73949c8127fb6e116573cbb970c": {
+            "text": "Het wordt aanbevolen om een tekenteller weer te geven wanneer je bovenstaande instellingen voor minimale/maximale lengte gebruikt."
+        },
+        "6f6cb72d544962fa333e2e34ce64f719": {
+            "text": "Grootte"
+        },
+        "7fcc26bcb0e9d85b555592f97cde9539": {
+            "text": "De weergegeven breedte van dit veld (in tekens). Stel in op 0 voor volledige breedte."
+        },
+        "0c576bc57cb2f57f4a2632d59599c26e": {
+            "text": "Tags verwijderen"
+        },
+        "e79dbc99408f4949cb46ad5b73c7408a": {
+            "text": "Als dit aangevinkt is, worden alle HTML-tags uit de invoer verwijderd wanneer het formulier wordt verwerkt."
+        },
+        "e69230ccdb60475aa38ea2c4cdc72ea0": {
+            "text": "Dit wordt aanbevolen als het veld geen HTML hoeft te ondersteunen."
+        },
+        "6485c7641245873388f0170f472183c6": {
+            "text": "Plaatshoudertekst"
+        },
+        "dc08a8f73b667ceb56b5a22449e41d3e": {
+            "text": "Optionele plaatshoudertekst die in het veld verschijnt als het leeg is."
+        },
+        "57391192dfa1f247ad015a0fe2eca48e": {
+            "text": "Patroon"
+        },
+        "6a5e3a3d3be1a3d27b96e1e378c31ad9": {
+            "text": "Optioneel patroon met reguliere expressie dat in de invoer moet voorkomen. Dit wordt zowel aan de clientzijde (HTML5-attribuut ‘pattern’) als aan de serverzijde gebruikt voor validatie. Zorg ervoor dat je een voorbeeld van het vereiste patroon in je veldbeschrijving opneemt."
+        },
+        "5f66b8b9ead3dda0aa3b7289d83c0020": {
+            "text": "Kijk [hier](%s) voor meer informatie over het attribuut ‘pattern’."
+        },
+        "84f83bc640fb8de5e4c4551106b65f22": {
+            "text": "Automatisch aanvullen"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Geen"
+        },
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "Aan"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Uit"
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "E-mail"
+        },
+        "5a7dc2ed3675b47601bc398b41e36186": {
+            "text": "Tel (telefoonnummer)"
+        },
+        "07c77c24d238914a77a8daec46154bc4": {
+            "text": "Voornaam"
+        },
+        "4f6df2fcb02d815e654ca396cd35ffe7": {
+            "text": "Achternaam"
+        },
+        "511202d0399dbf8cdcd0a651a3b8aa65": {
+            "text": "Naam (volledige naam)"
+        },
+        "e3535bcdb8dfb7613cb70b37600f69f2": {
+            "text": "Straatadres"
+        },
+        "f6039d44b29456b20f8f373155ae4973": {
+            "text": "Gebruikersnaam"
+        },
+        "75e37fedd7b102fd56d5aff696b57094": {
+            "text": "Eenmalige code (verificatiecode)"
+        },
+        "68adfe27201a615848e5da595ae9f690": {
+            "text": "Startwaarde"
+        },
+        "c3924ea34ee91e9de3ff80493fce8527": {
+            "text": "Optionele begin-/standaardwaarde die al voor de gebruiker is ingevuld."
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Tekst"
+        },
+        "03272093fac940815539048b032444ea": {
+            "text": "Eén regel tekst"
+        }
+    }
+}

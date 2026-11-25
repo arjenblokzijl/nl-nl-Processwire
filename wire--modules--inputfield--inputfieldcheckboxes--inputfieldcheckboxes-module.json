@@ -1,0 +1,33 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldCheckboxes/InputfieldCheckboxes.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
+    "translations": {
+        "7bcfe5241d76d75be6c2edd188a3c8d4": {
+            "text": "Optie kolombreedte"
+        },
+        "7eb9cb961fc6bd6179e41f543c3d7551": {
+            "text": "Gebruik deze instelling om opties weer te geven in kolommen met een vaste breedte die meebewegen of samenvouwen, afhankelijk van de breedte van de viewport."
+        },
+        "f1a23bf1974a4b1cbbeaddc284117fd9": {
+            "text": "Voer een CSS-breedte in, inclusief een getal en een eenheid, zoals bijvoorbeeld `100px` of `10em`. Als er geen eenheid wordt opgegeven, wordt `px` (pixels) aangenomen."
+        },
+        "434bbaa0ab37f1ebd26e7509715e1aa3": {
+            "text": "Voer het getal `1` in om tijdens het uitvoeren automatisch een geschikte breedte te berekenen."
+        },
+        "e2698e70a4505aa9809823dda815aaa0": {
+            "text": "Voor de mooiste weergave voer je een breedte in die groot genoeg is voor de langste optie zonder dat de tekst wordt afgebroken, of voer je `1` in voor automatische breedte."
+        },
+        "730f32bc95f78291755d63422278eea6": {
+            "text": "Aantal opties in de kolom"
+        },
+        "4628aba09e517657ce64b1604e3156c5": {
+            "text": "Als je de opties in kolommen wilt weergeven, voer dan het aantal kolommen in dat je wilt gebruiken (maximaal 10)."
+        },
+        "197eb3e7501c01299bce92e0abaace6c": {
+            "text": "Om opties inline naast elkaar weer te geven, voer je het getal `1` in."
+        },
+        "9593e6f3bc34b5f5866e4f69f54ac96f": {
+            "text": "Let op: de instelling ‘optiekolombreedte’ heeft de voorkeur voor een responsief gedrag."
+        }
+    }
+}

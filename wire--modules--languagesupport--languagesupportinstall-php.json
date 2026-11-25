@@ -1,0 +1,33 @@
+{
+    "file": "wire/modules/LanguageSupport/LanguageSupportInstall.php",
+    "textdomain": "wire--modules--languagesupport--languagesupportinstall-php",
+    "translations": {
+        "3ae44849cea119dd44333ce66ad5b388": {
+            "text": "Klik om te installeren:"
+        },
+        "f62784baf73b04e9986e5e2e5141c1ac": {
+            "text": "Nieuwe talen toevoegen en configureren"
+        },
+        "b326de895188c390f00d3e3165a4e183": {
+            "text": "Verander het type van je veld „title“ van „Paginatitel“ naar „Paginatitel (meertalig)“"
+        },
+        "38655673ed547e757e9275d9132e8002": {
+            "text": "Verander het type van alle andere gewenste „Tekst“-velden in „Tekst (meertalig)“"
+        },
+        "e28586cd56c48fc4522b6f5838c69781": {
+            "text": "Verander het type van alle andere gewenste „Textarea“-velden naar „Textarea (Multi-language (met meerdere talen))“"
+        },
+        "cce78dc6ebbec7385a01f2146d6d01c8": {
+            "text": "Volgende stappen"
+        },
+        "11073190b7d624dffd2b0ed1d24e99be": {
+            "text": "Om door te gaan met het instellen van meertalige ondersteuning, raden we de volgende stappen aan."
+        },
+        "03936c46ccc75e527d1c061c9307cb2b": {
+            "text": "De onderstaande links worden in een nieuw venster/tabblad geopend. Sluit ze allemaal als je klaar bent om hier terug te komen."
+        },
+        "02860eb2acccc8d47fc0503ceae2b550": {
+            "text": "Installeer de module LanguageSupportFields voordat je probeert de fieldtypes van tekstvelden te wijzigen."
+        }
+    }
+}

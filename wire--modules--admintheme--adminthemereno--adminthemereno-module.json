@@ -1,0 +1,63 @@
+{
+    "file": "wire/modules/AdminTheme/AdminThemeReno/AdminThemeReno.module",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemereno-module",
+    "translations": {
+        "f0a5fc96d36fdda66a2a10b79be6d7fb": {
+            "text": "Kleurenset"
+        },
+        "77b6e24f5b78b6eb0697aa8994ce15e9": {
+            "text": "Reno"
+        },
+        "d35b51b639528d580362ca7042de6a0e": {
+            "text": "Klassiek"
+        },
+        "9594eec95be70e7b1710f730fdda33d9": {
+            "text": "Blauw"
+        },
+        "3e3780bdd59279494ba0eeed55f551d9": {
+            "text": "Gebruikersafbeeldingen"
+        },
+        "bbe7b2d443c26552faeb0e0c7d4541fe": {
+            "text": "Om deze functie te kunnen gebruiken, moeten je gebruikerssjablonen een afbeeldingsveld bevatten. Als je gebruikerssjablonen geen afbeeldingsveld hebben, wordt standaard een pictogram als avatar gebruikt. Om een afbeeldingsveld toe te voegen aan het standaardgebruikerssjabloon, ga je naar Instellingen > Templates > Filters (Systeemsjablonen weergeven). De template „gebruiker“ verschijnt nu in de lijst. Als je een extra of alternatieve gebruikerstemplate hebt aangemaakt, kun je deze functie inschakelen door een afbeeldingsveld aan die template toe te voegen."
+        },
+        "b012c7da60d514a8d126979210fa1f8e": {
+            "text": "Afbeeldingsveld voor de %s-template"
+        },
+        "20db21c89b31fa16e87dc79c98dd4afb": {
+            "text": "Er zijn geen afbeeldingsvelden toegewezen aan dit template"
+        },
+        "b30e371dcaa3d2b157ef7566aa157b8a": {
+            "text": "Het veld „%s“ is toegevoegd aan de velden die de gebruiker in zijn profiel kan bewerken."
+        },
+        "c89a8fcd5422ef9d592d35af51ad242d": {
+            "text": "Weergavenamen van gebruikers"
+        },
+        "713128d7e4e2ab180d2126b0cea259b9": {
+            "text": "Door komma's gescheiden lijst met velden die als weergavenaam in het beheerdersgedeelte moeten worden gebruikt. (voorbeeld: first_name, last_name)"
+        },
+        "ebb4a6d411a325b9c4d626f842cd6ed1": {
+            "text": "Dit mogen alleen tekstvelden zijn. Andere fieldtypes worden genegeerd."
+        },
+        "71151aa83128f4189875470f7e2a8d82": {
+            "text": "Weergavenaam voor de %s-template"
+        },
+        "8f67973007158337346584551b093be8": {
+            "text": "Pictogrammen"
+        },
+        "f69110441f08575ffbedd45591ddc4e1": {
+            "text": "Geef pictogrammen op voor navigatie-items"
+        },
+        "0fe8dceda2440ee8d71e0ed8869f075d": {
+            "text": "Hoofdnavigatie: Mededelingen"
+        },
+        "a5cf3b1e924454eb5f3b0579e2f40830": {
+            "text": "Bovenste navigatie: Startpagina bekijken"
+        },
+        "c87aacf5673fada1108c9f809d354311": {
+            "text": "Uitloggen"
+        },
+        "787989d17c5a57298dd6959fcc70ba1a": {
+            "text": "Beheerthema voor ProcessWire 2.5+ door Tom Reno (Renobird)"
+        }
+    }
+}

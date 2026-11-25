@@ -1,0 +1,36 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeDecimal/FieldtypeDecimal.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedecimal--fieldtypedecimal-module",
+    "translations": {
+        "0f26309b1be1b637d35f604c298b57df": {
+            "text": "Bijgewerkt schema voor veld „%1$s“: %2$s => %3$s"
+        },
+        "506c2c0c7f5b70af3df68c45c46f45a7": {
+            "text": "Bijvoorbeeld:"
+        },
+        "a495e52f576ff7677bb1ebe793e5cc9e": {
+            "text": "Totaal aantal ondersteunde cijfers"
+        },
+        "6bc3814dd7bc238bb8c0f906e323d4d7": {
+            "text": "Bevat cijfers zowel voor als achter de komma."
+        },
+        "7a12767f99c7a4fcac27286992c2030f": {
+            "text": "999,99 bestaat uit in totaal 5 cijfers, dus daarvoor is een waarde van 5 of hoger nodig."
+        },
+        "7d06ba10369f702102235f72dc0f34c8": {
+            "text": "Aantal cijfers achter de komma"
+        },
+        "0e2cec5723266f020033868d628d6061": {
+            "text": "Deze waarde is kleiner dan (of in sommige gevallen gelijk aan) het totale aantal cijfers."
+        },
+        "6acc82c74212c97024e366c4c20d7e3c": {
+            "text": "999,99 en 100,00 hebben 2 cijfers achter de komma"
+        },
+        "937504f318f04eaf0f1d701df4c4d7f3": {
+            "text": "Decimaal"
+        },
+        "c9abe09f2a14ec066fadf2954ea16aa6": {
+            "text": "Veld waarin een decimaal getal wordt opgeslagen"
+        }
+    }
+}

@@ -1,15 +1,21 @@
 {
-    "file": "wire\/modules\/Process\/ProcessPageClone.module",
+    "file": "wire/modules/Process/ProcessPageClone.module",
     "textdomain": "wire--modules--process--processpageclone-module",
     "translations": {
         "5fb63579fc981698f97d55bfecb213ea": {
-            "text": "Kopi\u00ebren"
+            "text": "Kopiëren"
         },
         "779e23d04b68b9515ffc345454994895": {
             "text": "Kopieer pagina"
         },
         "0ac579c02e8d96b65a4bff917771b245": {
             "text": "Pagina kan niet geladen worden"
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(kopie)"
+        },
+        "884ba0e5457b084e152567fd52b66f6c": {
+            "text": "(kopie %d)"
         },
         "3311bb66a5349309e01c99050e744f0b": {
             "text": "Een kopie maken van %s"
@@ -24,31 +30,58 @@
             "text": "Wanneer deze optie geselecteerd is, zal de pagina de status \"ongepubliceerd\" krijgen en daarom niet zichtbaar zijn voor bezoekers van de site."
         },
         "5061c76f17ce15eb2a6092a51cb22aa3": {
-            "text": "Ook de kinderen\/subpagina's kopi\u00ebren?"
+            "text": "Ook de kinderen/subpagina's kopiëren?"
         },
         "a6c4c88eb6c7d256bf2e4aa56df4430f": {
-            "text": "Selecteer deze optie om ook alle onderliggende pagina's te kopi\u00ebren."
+            "text": "Selecteer deze optie om ook alle onderliggende pagina's te kopiëren."
         },
         "06170efdb0d3840cd32dea984d32067a": {
-            "text": "Waarschuwing: wanneer er een zeer groot aantal subpagina's zijn, kan het kopi\u00ebren een langdurig proces zijn. In uitzonderlijke gevallen is het kopi\u00ebren zelfs niet mogelijk."
+            "text": "Waarschuwing: wanneer er een zeer groot aantal subpagina's zijn, kan het kopiëren een langdurig proces zijn. In uitzonderlijke gevallen is het kopiëren zelfs niet mogelijk."
+        },
+        "3d8becb7117d425cdbffe4e19bf68048": {
+            "text": "Moeten gekloonde onderliggende pagina’s niet gepubliceerd worden?"
+        },
+        "5cdef78260394826a1705b7de6dbb26b": {
+            "text": "Als dit aangevinkt is, worden alle gekloonde onderliggende pagina's, subpagina's, enzovoort, ook niet gepubliceerd."
+        },
+        "a5583243979cb2245c72a9a66b462ad3": {
+            "text": "%s + Lijst"
+        },
+        "f9772f7f5e3cf401925824dfa930143d": {
+            "text": "%s + Bewerken"
         },
         "6a26ee7a6d1234006bf3806ee697f7d0": {
-            "text": "Het kopi\u00ebren van pagina %s is mislukt"
+            "text": "Het kopiëren van pagina %s is mislukt"
         },
         "7e263f9f6a65e1126c6a599ea015a27c": {
             "text": "Pagina \"%1$s\" gekopieerd naar \"%2$s\"."
         },
-        "0a198ede7ab46185f2e9fb2a3628419b": {
-            "text": "(kopie)"
+        "04ded6e943c2cb8fab9a9b7075462f7c": {
+            "text": "Gekloond naar: %s"
         },
-        "884ba0e5457b084e152567fd52b66f6c": {
-            "text": "(kopie %d)"
+        "d52cff2047c2d3bd15b08ec62c34eb7d": {
+            "text": "Kan pagina niet klonen"
+        },
+        "ddc8d9e3b58dae52fa498a8923ce2542": {
+            "text": "Altijd het volledige kloonformulier gebruiken?"
+        },
+        "9660d6d75da8a44f742c813ff0050c48": {
+            "text": "Als een pagina geen subpagina's heeft, gebruikt deze module een tijdbesparende snelkoppeling om de pagina te klonen zonder de paginaboom te verlaten."
+        },
+        "ce989da485d32ec720265e04064b3a0d": {
+            "text": "Als je altijd het volledige formulier met kloonopties wilt gebruiken (zodat je naam, titel enz. kunt invoeren voordat je gaat klonen), vink dan dit vakje aan."
         },
         "366637b8eb1e99b85f6d6535e326a491": {
-            "text": "Pagina kopi\u00ebren"
+            "text": "Pagina kopiëren"
         },
         "fae7550bf964aa09e51752b154a6cb23": {
-            "text": "Geeft de mogelijkheden om pagina's te kopi\u00ebren\/dupliceren in het beheergedeelte. Voegt een extra optie toe in de PageList."
+            "text": "Geeft de mogelijkheden om pagina's te kopiëren/dupliceren in het beheergedeelte. Voegt een extra optie toe in de PageList."
+        },
+        "54d8e0533da1fd4efb5e7628bf83de10": {
+            "text": "(~%d pagina)"
+        },
+        "e80b151cbd7d1db53031e9e6a8214014": {
+            "text": "(~%d pagina's)"
         }
     }
 }

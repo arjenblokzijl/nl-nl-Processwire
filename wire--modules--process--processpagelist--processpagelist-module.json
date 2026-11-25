@@ -1,1 +1,126 @@
-{"file":"wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module","textdomain":"wire--modules--Process--ProcessPageList--ProcessPageList-module","translations":{"7dce122004969d56ae2e0245cb754d35":{"text":"Bewerken"},"4351cfebe4b61d8aa5efa1d020710005":{"text":"Bekijken"},"03c2e7e41ffc181a4e84080b4710e81e":{"text":"Nieuw"},"6bc362dbf494c61ea117fe3c71ca48a5":{"text":"Verplaatsen"},"ce2c8aed9c2fa0cfbed56cbda4d8bf07":{"text":"Leegmaken"},"f4ec5f57bd4d31b803312d873be40da9":{"text":"Wijzigen"},"ea4788705e6873b424c65e91c2846b19":{"text":"Annuleren"},"e0626222614bdee31951d84c64e5e9ff":{"text":"Selecteren"},"46b816f573557a53c93ac78bbcfa9493":{"text":"Deselecteren"},"d3da97e2d9aee5c8fbe03156ad051c99":{"text":"Meer"},"d95deddfb80310ff0d1d63013611777c":{"text":"Klik en sleep om te verplaatsen"},"f413b7eb4ef50a382b0fe0cfe04fdc30":{"text":"Prullenbank: sleep de pagina's hier naar toe om ze te verwijderen."},"de306d89ec101aba6fb73c6879710e6c":{"text":"404 Pagina niet gevonden"},"e3afed0047b08059d0fada10f400c1e5":{"text":"Beheer"},"a7e253cd8dd95da3e20daf45519a8dc2":{"text":"Prullenbak"},"8cf04a9734132302f96da8e113e80ce5":{"text":"Startpagina"}}}
+{
+    "file": "wire/modules/Process/ProcessPageList/ProcessPageList.module",
+    "textdomain": "wire--modules--process--processpagelist--processpagelist-module",
+    "translations": {
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Prullenbak"
+        },
+        "f4ec5f57bd4d31b803312d873be40da9": {
+            "text": "Wijzigen"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Annuleren"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Selecteren"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Deselecteren"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Meer"
+        },
+        "d95deddfb80310ff0d1d63013611777c": {
+            "text": "Klik en sleep om te verplaatsen"
+        },
+        "5ca370c3b4f85b5c8308b75ea46984cb": {
+            "text": "Netwerkfout, probeer het later nog eens"
+        },
+        "024dae797f407f0f2bd724f6301999a1": {
+            "text": "Onbekende fout, probeer het later nog eens"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Toon alles"
+        },
+        "9f8ce5c6cbebc34795f4241c8932573a": {
+            "text": "(%d pagina's)"
+        },
+        "411cec7236cb829a791512f1b67a0cc8": {
+            "text": "Verberg deze pagina's in de paginalijst(en)"
+        },
+        "41df189ac4766e373988ce9c915491bc": {
+            "text": "Kies een of meer pagina’s die je niet in de paginalijst(en) wilt laten verschijnen."
+        },
+        "7b4ae78013cd06d78b6b04f15dcbf69c": {
+            "text": "Behalve wanneer (EN-voorwaarde)"
+        },
+        "d60116abe437a67aba5ba11a37144d33": {
+            "text": "Systeem in debugmodus"
+        },
+        "03ab4ed39b0a2c874ec38105730cad72": {
+            "text": "Systeem in geavanceerde modus"
+        },
+        "0f574db5ad2d196b7b0714fb2344a865": {
+            "text": "De huidige gebruiker is superuser"
+        },
+        "e834b638a7a5df6f0de0c57b1d6ac901": {
+            "text": "Mogen redacteuren die geen superuser zijn de prullenbak gebruiken?"
+        },
+        "6288d796be4065eb3b00cf1fe1f7b613": {
+            "text": "Als dit aangevinkt is, kunnen gebruikers pagina’s in de prullenbak zien (alleen pagina’s waar ze toegang toe hebben)."
+        },
+        "98ee3deee3a12fa7795a82801d19a020": {
+            "text": "Hierdoor worden ook de acties „Prullenbak“ en „Herstellen“ ingeschakeld, voor zover de toegangsbeveiliging dit toestaat."
+        },
+        "157fa6b945671169a76bc677977f368d": {
+            "text": "Naam van het paginaveld dat moet worden weergegeven"
+        },
+        "bdfca484a650a86abab2578865834ac3": {
+            "text": "Elke pagina in een PageList wordt geïdentificeerd door een label, meestal een titel- of kopveld. Je kunt hier aangeven welk veld daarvoor moet worden gebruikt. Om meerdere velden op te geven, scheid je elke veldnaam met een spatie, of gebruik je je eigen opmaakstring met veldnamen tussen {brackets}. Als het veld verwijst naar een object (zoals een andere pagina), geef je de eigenschap aan met een punt, bijvoorbeeld {anotherpage.title}. Let op: als de door jou opgegeven opmaak een lege waarde oplevert, gebruikt ProcessWire het veld ‘paginanaam’ van de pagina."
+        },
+        "8593fb74b02478b2734e442f86507d7b": {
+            "text": "Je kunt deze instelling eventueel per template overschrijven in de „geavanceerde“ instellingen van elk template."
+        },
+        "eceb8bf0921f19bb3ae6972e7902c887": {
+            "text": "De standaardwaarde is %d."
+        },
+        "f0ebf50a114d563bc9bd51eb8df08f5a": {
+            "text": "Als je de standaardwaarde aanhoudt, kun je deze instelling ook opgeven in de array $config->pageList."
+        },
+        "43da4fffe875f34908241df94ccb535b": {
+            "text": "Aantal pagina's dat moet worden weergegeven vóór paginering"
+        },
+        "94d3f06b64640bda750ee1d7c7527fe4": {
+            "text": "Animatiesnelheid (in ms)"
+        },
+        "453420e78223c3c2ff7a28bfc3a44dde": {
+            "text": "Dit is de snelheid waarmee elke tak in de paginaboom omhoog of omlaag beweegt. Lagere getallen zijn sneller, maar minder goed zichtbaar. Geef 0 op als je geen animatie wilt."
+        },
+        "a8a530c941af87d6dc1d0d907cd4ee3f": {
+            "text": "Type ‘aantal kinderen’"
+        },
+        "f472347ec718962a0e4560a410768cf1": {
+            "text": "In de paginalijst wordt, indien van toepassing, naast elke pagina een aantal subpagina's weergegeven. Welk type aantal moet er worden weergegeven?"
+        },
+        "8c06d8c7bf685599eb5de83ad4d79d08": {
+            "text": "Bij het weergeven van onderliggende items omvat het aantal alle onderliggende items, ongeacht of deze voor de gebruikers zichtbaar zijn of niet."
+        },
+        "1cf8145a75b3d3d0f52759b1808c9cac": {
+            "text": "Directe kinderen (standaard)"
+        },
+        "f9e98f3e587cf5da4ddb460f0aa52437": {
+            "text": "Afstammelingen: kinderen, kleinkinderen, achterkleinkinderen, enzovoort…"
+        },
+        "3f842a2d7d72a4f7fb3e400a5b569f0b": {
+            "text": "Beide: kinderen/nakomelingen"
+        },
+        "d86d2e0723883a6f48c9c0c05d3584b6": {
+            "text": "Beide: nakomelingen/kinderen"
+        },
+        "69ff054adc667458622b780aabe13d60": {
+            "text": "Toon in plaats daarvan het pagina-ID-nummer"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Nieuwe pagina toevoegen"
+        },
+        "7f46e875eed0badd2516b23657f4f320": {
+            "text": "Pagina-acties weergeven bij muisaanwijzer?"
+        },
+        "04f8c71ea1d550c45b3c987978fe56b3": {
+            "text": "Standaard verschijnen acties voor een pagina pas na een klik (tenminste in het standaardbeheerthema). Vink dit vakje aan om ze in plaats daarvan te laten verschijnen wanneer je er met de muis overheen gaat."
+        },
+        "bcf77f341a0ec5189588bdad819c9ee7": {
+            "text": "Voor meer opties hier, kijk bij de instelling $config->pageList in /wire/config.php. Je kunt die instellingen kopiëren naar /site/config.php en ze daar overschrijven."
+        }
+    }
+}

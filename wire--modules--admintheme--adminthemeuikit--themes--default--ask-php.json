@@ -1,0 +1,33 @@
+{
+    "file": "wire/modules/AdminTheme/AdminThemeUikit/themes/default/ask.php",
+    "textdomain": "wire--modules--admintheme--adminthemeuikit--themes--default--ask-php",
+    "translations": {
+        "600d4140530b93b96eaf41009bf100ac": {
+            "text": "Welkom bij ProcessWire"
+        },
+        "a3d5593c10a85b344431c2c95f5a302d": {
+            "text": "Deze versie van ProcessWire bevat een optionele nieuwe look-and-feel voor het Uikit-beheerthema, ontworpen door %s."
+        },
+        "7a7afe9f2984c03584ea1f120c089b6a": {
+            "text": "Het heeft een modern ontwerp met een lichte en donkere modus, een vaste hoofdnavigatiebalk, een verbeterde zoekbalk, aanpasbare hoofdkleuren en nog veel meer."
+        },
+        "d33d4bb3fe9e914f64f1dd384a2d5279": {
+            "text": "Thema bijgewerkt naar Konkat Default"
+        },
+        "5780c62ec55362fac70d8fe8b1982b56": {
+            "text": "Probeer het nu eens"
+        },
+        "c8a59e7135a20b362f9c768b09454fdb": {
+            "text": "Sluiten"
+        },
+        "0002d3932b237bbc03f838470d9c9998": {
+            "text": "Als je het later wilt uitproberen, ga dan naar en kies het Uikit-stijlthema op:"
+        },
+        "7126f74d01ac6745edf24517892f6734": {
+            "text": "Modules > Configureren > AdminThemeUikit"
+        },
+        "61772b2d0733e6e0a9c36e7b8b8362f0": {
+            "text": "Je kunt deze instelling op elk moment wijzigen via: Modules > Configureren > AdminThemeUikit"
+        }
+    }
+}

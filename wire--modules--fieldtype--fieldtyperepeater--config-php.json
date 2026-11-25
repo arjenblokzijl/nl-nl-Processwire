@@ -1,0 +1,243 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeRepeater/config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--config-php",
+    "translations": {
+        "cb2d417d536ac6b6d8668d272b28ca47": {
+            "text": "Het Repeater-veld „%s“ heeft een afhankelijkheid „alleen verplicht als“, en dit wordt niet ondersteund in Repeaters."
+        },
+        "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
+            "text": "Voeg velden toe aan deze repeater via het tabblad „details“."
+        },
+        "f41ae5ce37aeed3613288bb8c0cc3489": {
+            "text": "Definieer de velden die door deze repeater worden gebruikt. Je kunt velden ook via slepen en neerzetten in de gewenste volgorde zetten."
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Veld toevoegen"
+        },
+        "ebfc6d0dd40c27dd753e7e6dfbf18dd2": {
+            "text": "Labels voor Repeater-items"
+        },
+        "66a81e26ad18214b582553f4d33030f2": {
+            "text": "Voer de veldnaam in die je wilt gebruiken voor repeater-labels in de pagina-editor, of laat het veld leeg om deze automatisch te genereren."
+        },
+        "699a4d80b29a2b87e8bea7946afebe8e": {
+            "text": "Om meerdere velden te gebruiken of je eigen opmaakstring op te geven, zet je de veldnamen tussen {brackets}."
+        },
+        "c5e90fa5edbe00c619ca4d69c3692627": {
+            "text": "Om bij elk label een repeater-indexnummer toe te voegen, voeg je ergens in je opmaakstring \"#n\" toe."
+        },
+        "4c95bcccf333bef2208b02fbd212af55": {
+            "text": "Voorbeeld: #n: {title}"
+        },
+        "adaafad29d53a9d0cd52885adf34e542": {
+            "text": "Repeater-niveaus/inspringingen"
+        },
+        "d0deefb333b608453cbec94b81a136de": {
+            "text": "Itemdiepte"
+        },
+        "e316c9556c1be5b536576ce4b27d0575": {
+            "text": "Om items met een hiërarchische structuur te ondersteunen, voer je de maximaal toegestane diepte in, of laat je het veld leeg om deze functie uit te schakelen."
+        },
+        "ea3a2c41fc47d9150f65147b030a3ad8": {
+            "text": "Als je een repeater bewerkt, kun je de itemdiepte aanpassen door op de sleep pijltjes van het repeater-item te klikken en het item naar rechts of links te slepen."
+        },
+        "c8a9e54dcabe5cdebed9c5bd1fa334d4": {
+            "text": "Dieptes beginnen bij nul, wat betekent dat een diepte van 3 de dieptes 0, 1, 2 en 3 toestaat."
+        },
+        "8b3964c39c4eb2db458965c40689f5a0": {
+            "text": "De diepte is toegankelijk vanuit een repeater-pagina-item via `$item->depth`."
+        },
+        "b88543bf2626f096ed455b862390b4e3": {
+            "text": "Gebruik je een gezinsvriendelijke itemdiepte?"
+        },
+        "9b7bbf35ecde2744bc2b120d7a19e425": {
+            "text": "Met deze instelling behandelt de editor van de beheerpagina de itemdiepte als een ouder-kindrelatie."
+        },
+        "fc26899013e5130bf0f035bcb6645e36": {
+            "text": "Dit betekent dat bij het verplaatsen of sorteren van een item ook de onderliggende items worden meegenomen."
+        },
+        "239509c1f5621ac1d950faf5de9d9111": {
+            "text": "Het voorkomt ook dat een onderliggend item zo wordt versleept dat de diepte meer dan 1 hoger is dan die van het bovenliggende item."
+        },
+        "0c5235bde3e119593538bdd38e7d7e9f": {
+            "text": "“Ja” wordt aanbevolen."
+        },
+        "329e08faaa82f435d1570a807a5d07de": {
+            "text": "Items als een groep openen/sluiten?"
+        },
+        "683cefb3e294cd3ddcf26b334b6dd982": {
+            "text": "Als deze optie is ingeschakeld, zorgt het openen (of sluiten) van een repeater-item er ook voor dat de volgende items die er visueel onder vallen, worden geopend (of gesloten)."
+        },
+        "011b09153e93ecdf827b80eedee84b74": {
+            "text": "Dit kun je het beste combineren met de gezinsvriendelijke itemdieptemodus."
+        },
+        "8b0903520e5aa78b9cb3e5627016d562": {
+            "text": "Let op: deze instelling is niet compatibel met de accordeonmodus."
+        },
+        "1037c53410252db4ea92a9851015c46b": {
+            "text": "Instellingen van de Repeater-editor"
+        },
+        "d347b63bb97431df68506ea3059be495": {
+            "text": "Label voor het toevoegen van een nieuw item"
+        },
+        "db9d65ca0ad208926207fbf99636b1f4": {
+            "text": "Vul het label in dat je wilt gebruiken voor de tekst/knop „Nieuw item toevoegen”, of laat het leeg voor de standaardinstelling."
+        },
+        "ef9eb3b1c72a3d00e09495aa7ecf195a": {
+            "text": "Zichtbaarheid van repeater-items in de editor"
+        },
+        "e420623b25fa348e2155e3e2bdbf5620": {
+            "text": "Repeater-items kunnen open of ingeklapt zijn (je moet erop klikken om ze te openen). De ingeklapte modus is handiger om te sorteren en al je items in één oogopslag te zien."
+        },
+        "c2d450307945339defec74620dd295d2": {
+            "text": "Nieuwe items worden geopend, bestaande items worden ingeklapt (aanbevolen in de meeste gevallen)"
+        },
+        "0905199ed34fceff86e31adf81cbc702": {
+            "text": "Items altijd openen (schakelt dynamisch laden voor bestaande items uit)"
+        },
+        "83a9d92f04fe2ce7f34ad4e7070c61aa": {
+            "text": "Items zijn altijd ingeklapt"
+        },
+        "1c1fc75d282666eeffc288a4d82594ba": {
+            "text": "Dynamisch laden van repeaters (AJAX) in de editor"
+        },
+        "78385cca5a362b333c60753b2fcf6e40": {
+            "text": "Welke items moeten dynamisch met AJAX worden geladen in de pagina-editor? Als je merkt dat je repeater een veld gebruikt dat niet werkt met dynamisch laden, kan het nodig zijn om deze functie uit te schakelen."
+        },
+        "18e57decad6ecfd57b1231426deb7f2d": {
+            "text": "Bestaande en nieuwe items (aanbevolen, vooral voor repeaters die mogelijk HEEL VEEL items bevatten)"
+        },
+        "e8b8b3345ab0076aaef6c21cd7ca5b79": {
+            "text": "Alleen nieuwe items (handig voor repeaters die maar een PAAR items zullen bevatten)"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Uit"
+        },
+        "2db718f06a27de2a35a889b205ef0bb4": {
+            "text": "Weet je nog welke repeater-items openstaan?"
+        },
+        "193b66f657e8f7ca202b160e8e701923": {
+            "text": "Als deze optie is ingeschakeld, blijven geopende repeater-items open staan na het opslaan of opnieuw laden vanuit de pagina-editor (tenzij de gebruiker ze sluit)."
+        },
+        "fc47b04d62211ce6992143d1e92e2fbe": {
+            "text": "Accordeonmodus gebruiken?"
+        },
+        "d0244dd7d1408e009350fb0bef887af2": {
+            "text": "Als deze optie is ingeschakeld, is er maar één repeater-item tegelijk geopend."
+        },
+        "aefc9b4c2d25085021b0a1df54aeff00": {
+            "text": "Wanneer moeten de bedieningselementen/acties voor repeater-items worden weergegeven?"
+        },
+        "68eec46437c384d8dad18d5464ebc35c": {
+            "text": "Altijd"
+        },
+        "eee0168be69b854c20621fc6f01cc3fc": {
+            "text": "Hover"
+        },
+        "6799fc53119a06c09eecac05d013dbf3": {
+            "text": "De hover-optie kan de interface overzichtelijker maken door de acties/bedieningselementen van het repeater-item (klonen, invoegen, verwijderen, enz.) alleen weer te geven als je met de muis over de koptekst van het item gaat."
+        },
+        "9e6025a2fc5d0a32028e42373c622d66": {
+            "text": "Let op: bedieningselementen worden altijd weergegeven op touchscreen-apparaten, ongeacht deze instelling."
+        },
+        "248e638a0f93c14ffe8c5b5d623ff1fe": {
+            "text": "Naar het nieuwe item scrollen als het wordt toegevoegd?"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Uitgeschakeld"
+        },
+        "00d23a76e43b46dae9ec7aa9dcbebb32": {
+            "text": "Ingeschakeld"
+        },
+        "90ed744894b90ce9c561d6a428cad4ee": {
+            "text": "Maximaal aantal items"
+        },
+        "528f529d4617eb805a332c782f8666fe": {
+            "text": "Als je het aantal toegestane items wilt beperken, vul je hier de limiet in (0 = geen limiet)."
+        },
+        "f504e6acf8424e003e90434b8f4ada08": {
+            "text": "Minimaal aantal items"
+        },
+        "d167f14d9682362265c133aca323b335": {
+            "text": "Dit aantal items blijft altijd open en klaar om te bewerken (0 = geen minimum)."
+        },
+        "8c50c81f9df1bb1d4bc5689f9a6e7204": {
+            "text": "Type repeater"
+        },
+        "cb1f0ec5795fd6ab9a2e980b428cfff5": {
+            "text": "Als de repeater is 'gekoppeld', regelt hij zelf zijn eigen template en bovenliggende pagina, zonder dat je daar iets van merkt of over hoeft na te denken."
+        },
+        "e3d6af2ddc6a90779dd75a3f9c753d7f": {
+            "text": "Als je de repeater hebt ‘losgekoppeld’, kun je de bovenliggende pagina en de templates van de repeater naar eigen inzicht verplaatsen en aanpassen."
+        },
+        "77e23d8e1ff8e93bfc6e188f62e409bd": {
+            "text": "Let op: zodra het veld is losgekoppeld, verwijdert ProcessWire het bovenliggende veld of de template niet wanneer het veld wordt verwijderd."
+        },
+        "ee6e6bb07faa02ed6526f941bc76b535": {
+            "text": "Opslag van repeaters"
+        },
+        "a9bc2694fa474ffcd7962d6f71a90f08": {
+            "text": "Minder pagina's gebruiken voor opslag?"
+        },
+        "4f0061e295e09ef19a1f549c23b04d0c": {
+            "text": "Als dit aangevinkt is, worden er geen bovenliggende repeaterpagina’s aangemaakt totdat er ten minste één onderliggend repeateritem bestaat."
+        },
+        "80bb7f5b0c8adda2dbafd0c186d3d162": {
+            "text": "Daarnaast worden bovenliggende pagina’s van repeaters zonder repeater-items verwijderd wanneer dat nodig is."
+        },
+        "ea27ba365637d101a399ee5ee91c95b3": {
+            "text": "Momenteel een experimentele optie om te testen (lazyParents), maar wordt later de standaardinstelling."
+        },
+        "d99d7ccd3f9f6604af4c37a3368dcac3": {
+            "text": "%d overbodige pagina's verwijderen?"
+        },
+        "fe38bd0bebd8cb2322a5fbced275bcc5": {
+            "text": "De volgende overbodige pagina's zijn gevonden:"
+        },
+        "847ec015263f8b4dc8f6065f6b7c3909": {
+            "text": "Er zijn %d overbodige repeater-ouders gevonden die ofwel 0 repeater-items hadden, ofwel geen bijbehorende bovenliggende pagina hadden."
+        },
+        "07077b028489c0f29f7433928bb27c32": {
+            "text": "Maak altijd een back-up voordat je op grote schaal gegevens verwijdert."
+        },
+        "96508e17d64d763df5bc4f802b25e99b": {
+            "text": "%d overbodige bovenliggende pagina’s van repeaters gevonden"
+        },
+        "8e281790c58e48326e41a303674aab12": {
+            "text": "Er zijn geen overbodige pagina's gevonden"
+        },
+        "57939466ad1ae6358cadab32c9b04c15": {
+            "text": "Het maximum van %d items per verzoek is bereikt; je zult dit opnieuw moeten uitvoeren."
+        },
+        "88574909be3f083f32ba1fa6a0e4dcf1": {
+            "text": "%d overbodige pagina's verwijderd"
+        },
+        "421b560a931ce0e4ec1b8018d0205b8e": {
+            "text": "Onnodige pagina's opsporen en eventueel verwijderen?"
+        },
+        "65f6a551619120fdc79329b66ab6c1fd": {
+            "text": "Oude/ongebruikte repeater-items verwijderen?"
+        },
+        "9c539ab2317d7056d5d664b083557796": {
+            "text": "Er zijn **%d** oude/ongebruikte repeater-items; vink dit vakje aan om ze te verwijderen."
+        },
+        "2878ed508d1b136f7b170f593c0ff00f": {
+            "text": "Een repeater-item wordt als oud beschouwd als het minstens 3 dagen oud is en nog niet is ingevuld of gepubliceerd."
+        },
+        "c79558badd020f417f148d0a7751e6e4": {
+            "text": "Veld „%1$s“ toegevoegd aan „%2$s“"
+        },
+        "5222d983bada8088d0a86ac0ff1e5871": {
+            "text": "Veld „%1$s“ verwijderd uit „%2$s“"
+        },
+        "27dafd7f7794d09bc001fc0acac8e1ad": {
+            "text": "%d oude/ongebruikte repeater-items verwijderd"
+        },
+        "0fe1cc90d79ebfffb11a259cc05d406d": {
+            "text": "De bovenliggende pagina %s is nu losgekoppeld en kan worden verplaatst of aangepast."
+        },
+        "678e17a04cd1c42a28cc8a9eff4f60c0": {
+            "text": "Repeater-velden"
+        }
+    }
+}

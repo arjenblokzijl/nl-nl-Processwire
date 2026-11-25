@@ -1,0 +1,9 @@
+{
+    "file": "wire/modules/Image/ImageSizerEngineIMagick/ImageSizerEngineIMagick.module",
+    "textdomain": "wire--modules--image--imagesizerengineimagick--imagesizerengineimagick-module",
+    "translations": {
+        "cb1c82cfcd691da9c744158115d1ed98": {
+            "text": "Het geladen bestand '%s' is geen geldige afbeelding"
+        }
+    }
+}

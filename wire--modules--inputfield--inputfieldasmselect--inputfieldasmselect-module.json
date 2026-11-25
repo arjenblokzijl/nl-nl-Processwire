@@ -1,0 +1,30 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldAsmSelect/InputfieldAsmSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldasmselect--inputfieldasmselect-module",
+    "translations": {
+        "81d47864028ab1d7917192d7c72a3bd4": {
+            "text": "Hoe om te gaan met verwijderde items"
+        },
+        "4a81ddae4d13f3c7c6e47f9b2f6a5e23": {
+            "text": "Markeer item voor verwijdering (met optie om ongedaan te maken)"
+        },
+        "08da7e4a00dc5f70c2845c6162f5e477": {
+            "text": "Verwijder het item onmiddellijk"
+        },
+        "74e906bc8df82271d879cf0df37fc13c": {
+            "text": "Gekoppelde pagina's naar de pagina-editor?"
+        },
+        "341aefc07b2236054d74eb4c5b312c8a": {
+            "text": "Als deze optie is ingeschakeld, leiden de geselecteerde labels naar de bewerkingspagina van de geselecteerde pagina."
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Nee"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Ja"
+        },
+        "1cd298de417a75485be2184aab1f77b2": {
+            "text": "(in een modaal venster)"
+        }
+    }
+}

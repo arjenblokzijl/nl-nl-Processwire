@@ -1,0 +1,45 @@
+{
+    "file": "wire/core/Tools/WireUpload/WireUpload.php",
+    "textdomain": "wire--core--tools--wireupload--wireupload-php",
+    "translations": {
+        "c4d20a850d6031b61534f75058ae320d": {
+            "text": "Upload geslaagd"
+        },
+        "827ac42f1bc60fab16ae517ddb410e31": {
+            "text": "Het geüploade bestand overschrijdt de directive `upload_max_filesize` in php.ini."
+        },
+        "8d9086cb60c50b568ba57e0951dc4025": {
+            "text": "Het geüploade bestand overschrijdt de MAX_FILE_SIZE-richtlijn die in het HTML-formulier is opgegeven."
+        },
+        "4f12b222c9659d62afa795987259933f": {
+            "text": "Het geüploade bestand is slechts gedeeltelijk geüpload."
+        },
+        "8c9067e52e4440d8a20e74fdc745b0c6": {
+            "text": "Er is geen bestand geüpload."
+        },
+        "7623dae1dc1a0906e7062e209e36cbdb": {
+            "text": "Er ontbreekt een tijdelijke map."
+        },
+        "93252348cf3a42ca5e38b70d5f866d33": {
+            "text": "Het is niet gelukt om het bestand naar de schijf te schrijven."
+        },
+        "361e040fc0355a657b76e6727118e6e9": {
+            "text": "Bestandsupload gestopt vanwege de extensie."
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "Limiet voor het uploaden van bestanden is bereikt."
+        },
+        "3317b878f497a7508ea5c2a02cdf8000": {
+            "text": "Ongeldige bestandsextensie, gebruik een van de volgende:"
+        },
+        "1cd97c3760708f05e24ee5eb7e6034ce": {
+            "text": "Overschrijdt de maximaal toegestane bestandsgrootte"
+        },
+        "eed87c4e1eba86a6cf5b5024572c3dd5": {
+            "text": "De inhoud van het bestand komt niet overeen met de extensie"
+        },
+        "acb6c0f25cc888a8d4e3cdc1dc2c247b": {
+            "text": "Er zijn geen bestanden gevonden in het ZIP-bestand"
+        }
+    }
+}

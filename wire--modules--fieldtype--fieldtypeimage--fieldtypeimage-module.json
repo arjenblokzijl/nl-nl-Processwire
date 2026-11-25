@@ -1,0 +1,12 @@
+{
+    "file": "wire/modules/Fieldtype/FieldtypeImage/FieldtypeImage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeimage--fieldtypeimage-module",
+    "translations": {
+        "d7fc81f3035c93de009368d94ba1440f": {
+            "text": "Eén afbeelding"
+        },
+        "40ab556c70fb92e33f2278421d7e2f9c": {
+            "text": "Meerdere afbeeldingen"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldPageListSelect/InputfieldPageListSelectCommon.php",
+    "textdomain": "wire--modules--inputfield--inputfieldpagelistselect--inputfieldpagelistselectcommon-php",
+    "translations": {
+        "3c472536e5f2ba17397ad099bf7bea1f": {
+            "text": "Pagina %d is niet zichtbaar"
+        },
+        "417c313c31381894998d5fa72eac82c8": {
+            "text": "Niet in staat om dit veld weer te geven als gevolg van ontbrekende bovenliggende pagina in de instellingen van het veld."
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldIcon/InputfieldIcon.module",
+    "textdomain": "wire--modules--inputfield--inputfieldicon--inputfieldicon-module",
+    "translations": {
+        "0688a8098567785a05cb4cf937cbb880": {
+            "text": "Zoek pictogrammen…"
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Pictogram"
+        },
+        "da16f4b493c9497089a9572292a48002": {
+            "text": "Kies een icoontje"
+        }
+    }
+}

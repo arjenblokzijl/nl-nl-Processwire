@@ -1,0 +1,222 @@
+{
+    "file": "wire/modules/Inputfield/InputfieldPage/InputfieldPage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpage--inputfieldpage-module",
+    "translations": {
+        "4349c31cba02549f2043d69b9eb0d66e": {
+            "text": "(niet gepubliceerd)"
+        },
+        "db62b7d9ccb858fb53481683f5d1d813": {
+            "text": "Dit veld moet worden geconfigureerd voordat het kan worden gebruikt."
+        },
+        "6dc3e540b29f68e1eaf558b6a2edd476": {
+            "text": "Voer de titels in van de items die je wilt toevoegen, één per regel. Ze worden aangemaakt en aan je selectie toegevoegd zodra je de pagina opslaat."
+        },
+        "b82b34c94588fc88ca4a6b18f5e18aef": {
+            "text": "Voer de titel in van het item dat je wilt toevoegen. Deze wordt geselecteerd zodra je de pagina opslaat."
+        },
+        "e3cada644043c81e6ff21250f2e53f3a": {
+            "text": "Er worden nieuwe pagina’s toegevoegd aan %s"
+        },
+        "49e5878c7a1901b0a9baae9e0c774150": {
+            "text": "Nieuw aanmaken"
+        },
+        "5e1daea70649e788db6ead8cd50f791d": {
+            "text": "De niet gepubliceerde pagina %1$s is niet toegestaan in het veld \"%2$s\""
+        },
+        "1f6147d9cbae7fa8c3e213824bce6405": {
+            "text": "Om niet gepubliceerde pagina’s toe te staan, bewerk je het veld „%s“ en bekijk je de instelling op het tabblad „Details“."
+        },
+        "f0670991d41b78617ca7810b7ce334b9": {
+            "text": "Pagina %s toegevoegd"
+        },
+        "29b43e0c70cb336d03f04f3f06a8789d": {
+            "text": "Fout bij het toevoegen van pagina „%s“"
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Voorbeeld:"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(standaard)"
+        },
+        "309980b76124ca15c19a948edcd2b820": {
+            "text": "Selecteerbare pagina's"
+        },
+        "e50655dbc7c36d40e2cf238aae3bf9c8": {
+            "text": "Gebruik minstens één van de onderstaande opties om te bepalen welke pagina’s met dit veld kunnen worden geselecteerd."
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Bovenliggende pagina"
+        },
+        "5b0591013bf2cac5ee96f90e31a5b2e9": {
+            "text": "Kies de bovenliggende pagina van de pagina’s die je kunt selecteren."
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Template"
+        },
+        "e633bd1a014a2d5f6beee84c20440cb4": {
+            "text": "Kies de template van de pagina’s die je kunt selecteren. Kan worden gebruikt in plaats van, of naast, het bovenliggende element."
+        },
+        "38c3a6e66709a7bfc48e7450e726a9b5": {
+            "text": "Extra templates"
+        },
+        "24ae2cf02f858ca0ae6dd168fe28add8": {
+            "text": "Als je extra templates nodig hebt voor selecteerbare pagina's, kies die dan hier."
+        },
+        "1bffba8c823b325ac5713f424da43182": {
+            "text": "Dit wordt mogelijk niet door alle invoertypen ondersteund."
+        },
+        "cdce55320d6f3ed4e6ac6f952d43903d": {
+            "text": "Hoewel dit de bovenstaande selecties van de bovenliggende module en de templates overschrijft, worden die selecties (indien aanwezig) nog steeds gebruikt voor validatie."
+        },
+        "83309c97a345b4921da94ff53e86da68": {
+            "text": "Voeg hieronder een of meer velden toe om een zoekopdracht te maken waarmee je de pagina’s kunt vinden die je selecteerbaar wilt maken."
+        },
+        "46ccc95f9f53fc892accee255689f495": {
+            "text": "Hiermee maak je een selector die tijdens de uitvoering pagina’s zoekt. Als je dit liever handmatig invoert, gebruik dan in plaats daarvan de optie ‘Selector string’ hieronder."
+        },
+        "533e8044020cfac547586cacca582fca": {
+            "text": "Aangepaste zoekfunctie"
+        },
+        "709109a0ca7566a6bfae0f6145c8c613": {
+            "text": "Veld toevoegen aan zoekopdracht"
+        },
+        "5742607846ab8e8f502a078e624a2f24": {
+            "text": "Selector-string"
+        },
+        "14d274b0d81592a035d1fb04ee031fb6": {
+            "text": "Als je selecteerbare pagina’s wilt vinden met behulp van een ProcessWire-selector, voer dan de selectorstring in om de selecteerbare pagina’s te vinden. Deze selector wordt doorgegeven aan een `$pages->find(\"your selector\");`-aanroep."
+        },
+        "1920ec4f46fd3f4962d351c84f69cf7e": {
+            "text": "parent=/products/, template=product, sort=name"
+        },
+        "d0188d35124b9f7887cc0d158da64328": {
+            "text": "Als je selecteerbare pagina’s wilt vinden met een stukje PHP-code in plaats van een bovenliggende pagina of template te selecteren (zie hierboven), voer dan de code in om de selecteerbare pagina’s te vinden. Deze instructie heeft toegang tot de API-variabelen $page en $pages, waarbij $page verwijst naar de pagina die je aan het bewerken bent."
+        },
+        "e8764466585c7e1a106fd67e89ce91c6": {
+            "text": "Het fragment moet een PageArray, Page of NULL teruggeven. Als het een Page teruggeeft, worden de subpagina’s van die Page gebruikt als selecteerbare pagina’s. Het gebruik hiervan is optioneel, en als je het gebruikt, overschrijft het de bovenstaande velden parent/template/selector."
+        },
+        "a9e792488572b1b5316720df20682ad3": {
+            "text": "OPMERKING: Niet compatibel met de fieldtypes PageListSelect of Autocomplete."
+        },
+        "b329c0bc717cd35d04a9362fc0d778c2": {
+            "text": "return $page->parent->parent->children(\"name=locations\")->first()->children();"
+        },
+        "c53eb6ef357cebe320e9c359e7adfaeb": {
+            "text": "Voeg de volgende hook toe aan een %s-bestand en pas deze aan naar je eigen behoeften. De hook moet selecteerbare pagina’s vinden en teruggeven in een PageArray."
+        },
+        "06d1dad5791272bfde6c76b87289a62b": {
+            "text": "Als je wilt weten welke pagina er wordt bewerkt, kun je die vinden op: %s"
+        },
+        "89ba456c93408d4bc5888a8e960dbb79": {
+            "text": "Aangepaste PHP-code"
+        },
+        "d8f9928df4675d892629c754932fad80": {
+            "text": "Veldlabel"
+        },
+        "e5c1791ec6a73eed5d8a7002e2799470": {
+            "text": "Kies het veld voor de pagina's dat je wilt gebruiken voor het genereren van de labels voor elke selecteerbare pagina."
+        },
+        "a0cb77306b6f4e96a00cdc5a0c128166": {
+            "text": "Kies ‘Aangepaste indeling’ als je meerdere velden wilt opgeven, of andere velden die je hierboven niet ziet."
+        },
+        "282acaaa24f42bb779ccb235bfc37491": {
+            "text": "Aangepaste indeling (meerdere velden)'. ' ..."
+        },
+        "ccfbd07eab619923148d98d09c91e15e": {
+            "text": "Aangepaste opmaak van paginalabels"
+        },
+        "ebebc537c9c3117a5e2304be412d83f3": {
+            "text": "Geef een of meer veldnamen op, omgeven door accolades {brackets}, samen met eventuele extra tekens, spaties of leestekens."
+        },
+        "190dcbcb68a0545eb0e38c4eca2961e0": {
+            "text": "Voorbeeld: {parent.title} - {title}, {date}"
+        },
+        "881b1a7b97bc4d70099cc59a53e8a8e5": {
+            "text": "Fieldtype invoerveld"
+        },
+        "9eeb68b4b7e0c3608f3014ad177b15fb": {
+            "text": "Het type inputfield (Inputfield-module) dat wordt gebruikt om pagina('s) voor dit veld te selecteren."
+        },
+        "215c501706b9ef0657264f0cb931dbd3": {
+            "text": "Kies een optie die overeenkomt met je keuze voor ‘Waardetype’ op het tabblad ‘Details’ voor selectie van één of meerdere pagina’s."
+        },
+        "081b70a0b1eb9e48918ebc5d3c8afc6b": {
+            "text": "Let er op dat er, nadat je een fieldtype hebt gekozen en de wijzigingen hebt opgeslagen, direct daaronder mogelijk extra configuratieopties verschijnen die specifiek zijn voor je keuze."
+        },
+        "1df666749c8b91ac260ac68b3a1dfeb3": {
+            "text": "Meerdere pagina's selecteren"
+        },
+        "c051cff56b1d25c941ba4268f2c9c8b1": {
+            "text": "Selectie van één pagina"
+        },
+        "23aec26e2b521c0e5f1061b3d04983a5": {
+            "text": "sorteerbaar"
+        },
+        "4475920d50a2c224b86ebf6e79d38dc7": {
+            "text": "Type waarde"
+        },
+        "2486017626b5debfccb828303675e52c": {
+            "text": "PageArray"
+        },
+        "0b139983f1e4b0d9c4674e0aa1f965a1": {
+            "text": "(werkt in alle gevallen, maar is verplicht bij meervoudige selectie)"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "Pagina"
+        },
+        "88bf31e0ab1be50432ec67a96ce41787": {
+            "text": "(optioneel bij selectie van één pagina)"
+        },
+        "8f23ded99b5882bf55f3aa4154cf10df": {
+            "text": "Wat betreft de invoertypen „Paginaliijst“"
+        },
+        "bbc8c6c107d8cf7e49310723820e8052": {
+            "text": "Je hebt een invoertype gekozen waarvoor specifieke vereisten gelden."
+        },
+        "d45d37464c307f05fe480979c03fd99b": {
+            "text": "Geef hieronder alleen de optie „Parent“ op bij het configureren van „Selectable pages“."
+        },
+        "a8e65bab8badd05312e21a13bc8aacf1": {
+            "text": "Let op: de ‘parent’ die je opgeeft, verwijst naar de root van de boomstructuur met selecteerbare pagina’s."
+        },
+        "d89af7d091962a34d3d666a54148e1f9": {
+            "text": "Als je alles selecteerbaar wilt maken, hoef je niets op te geven."
+        },
+        "8332fcbd80839cdcc617bee49529ad1e": {
+            "text": "Mag er vanuit dit veld een nieuwe pagina worden aangemaakt?"
+        },
+        "20463a1675fc256b438538124524746a": {
+            "text": "Als dit aangevinkt is, verschijnt er ook een optie om nieuwe pagina('s) toe te voegen als aan de aangegeven voorwaarden wordt voldaan."
+        },
+        "6bd4cf6cf4401b1a39b1fcdd57bd4c68": {
+            "text": "1. Zowel een bovenliggende pagina als een template moeten worden opgegeven in het gedeelte „Selecteerbare pagina’s” hierboven."
+        },
+        "65a208c6491dac4a6fb17f7a62f76658": {
+            "text": "2. De gebruiker die de bewerking uitvoert, moet de bevoegdheid hebben om deze pagina’s aan te maken en te publiceren."
+        },
+        "8379c940f14c74babf288df5cec8a408": {
+            "text": "3. Het „label veld“ moet worden ingesteld op „title (default)“."
+        },
+        "89f32c3a56b097c4da3f220687f2cad5": {
+            "text": "Instellingen specifiek voor „%s“"
+        },
+        "7fb6e70727f6b07ea424669253e74232": {
+            "text": "(enkelvoud)"
+        },
+        "1651eb20984eda71f6911614e46ffe1e": {
+            "text": "Eén pagina:"
+        },
+        "c15f44ca7101ca011408b0f9075c7be3": {
+            "text": "Meerdere pagina's:"
+        },
+        "d07c3ac5745e32c1ea6d73b65518d52b": {
+            "text": "Meerdere sorteerbare pagina's:"
+        },
+        "d9a5927aa49f1a766a15e692b69c1c91": {
+            "text": "Inputfield-modules die beschikbaar zijn voor paginaselectie"
+        },
+        "d5a1e1e864827e2bbb99d144e30359de": {
+            "text": "Kies de inputfield-modules die je kunt gebruiken voor selectie van pagina's. Dit moeten over het algemeen inputfields zijn waarmee je één of meerdere opties kunt selecteren."
+        }
+    }
+}

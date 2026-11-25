@@ -1,0 +1,105 @@
+{
+    "file": "wire/modules/Process/ProcessPageLister/ProcessPageListerBookmarks.php",
+    "textdomain": "wire--modules--process--processpagelister--processpagelisterbookmarks-php",
+    "translations": {
+        "7cdd12aae1c258859c039c4d544338ef": {
+            "text": "Mijn bladwijzers"
+        },
+        "7f4b49b68a661359eaa86b12fd09cdce": {
+            "text": "Openbare bladwijzers"
+        },
+        "639bae9ac6b3e1a84cebb7b403297b79": {
+            "text": "je"
+        },
+        "4195dd0db33f6f97904fd72fa4386de9": {
+            "text": "Vink het vakje aan om te bevestigen dat je deze bladwijzer wilt verwijderen"
+        },
+        "bfa974ff994bf6af816d695d88659fda": {
+            "text": "Deze bladwijzer verwijderen?"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Annuleren"
+        },
+        "1dd63dcbc0f27a97c60433bff0936901": {
+            "text": "Bladwijzer bewerken"
+        },
+        "149e49fd8162d8224947dfe253a802b5": {
+            "text": "Nieuwe bladwijzer toevoegen"
+        },
+        "a84bed79c3b725dbbd17b6c4b8337a17": {
+            "text": "Maakt een nieuwe bladwijzer aan die overeenkomt met je huidige filters, kolommen en volgorde."
+        },
+        "d448b4319171ecbd0c92be8ddbff245b": {
+            "text": "Type bladwijzer"
+        },
+        "47f9082fc380ca62d531096aa1d110f1": {
+            "text": "Privé"
+        },
+        "3d067bedfe2f4677470dd6ccf64d05ed": {
+            "text": "Openbaar"
+        },
+        "644a574fca8608c6447c23ba5c9fb907": {
+            "text": "Welke gebruikersrollen kunnen deze bladwijzer zien? Als er geen gebruikersrollen zijn geselecteerd, kunnen alle rollen met permissies om deze lister te gebruiken de bladwijzer bekijken."
+        },
+        "c8a5544122c29a7c5ad0d117b19851d6": {
+            "text": "Wil je andere gebruikers toegang geven tot deze bladwijzer-URL?"
+        },
+        "c3cb8a8cca3fc5a906f5c4aa252a856a": {
+            "text": "Als je de URL van de bladwijzer naar iemand anders stuurt die al is ingelogd in het beheerdersgedeelte, kan diegene de bladwijzer bekijken als je dit vakje aanvinkt."
+        },
+        "aea2613b569e126e1bf04794045d9214": {
+            "text": "Deelbare bladwijzer-URL: [Bekijken](%s)"
+        },
+        "a240fa27925a635b08dc28c9e4f9216d": {
+            "text": "Volgorde"
+        },
+        "6756b991b141463aebfaa74809adb83c": {
+            "text": "Bladwijzer verwijderd"
+        },
+        "4192fc415b996e703cd7368de70024b2": {
+            "text": "Een bladwijzer kan niet worden verwijderd"
+        },
+        "84233339a29fc410e77ac95e377b0318": {
+            "text": "Bladwijzers"
+        },
+        "bdb19863504282bccbd04237092c8ecb": {
+            "text": "Bladwijzer"
+        },
+        "611554e91bd3fc300cb89db36b831c82": {
+            "text": "Beschrijving"
+        },
+        "0a88328254c6d3104aaf5aa1416e5493": {
+            "text": "Toegang"
+        },
+        "5a8bc98a8e1cbe7e4aa65ef02ca4626e": {
+            "text": "Acties"
+        },
+        "97d0cf512abc18c75dc4200fb4102696": {
+            "text": "alles"
+        },
+        "3964c1856a3770efc8de99fb7d71854f": {
+            "text": "Bekijken"
+        },
+        "2403884dadada347eaf8537a2dc0e572": {
+            "text": "Aanpassen"
+        },
+        "2ae0c04d53921492ca01d03f4913b75b": {
+            "text": "Verwijderen"
+        },
+        "624cb003e73151369680ecae1fe53f47": {
+            "text": "Titel"
+        },
+        "997a44675b11fac14a95280eda5557f5": {
+            "text": "Beschrijving"
+        },
+        "8ca63fc5a95e5a226137f8dd03ad81f0": {
+            "text": "Welke pagina's moet deze bladwijzer weergeven?"
+        },
+        "e7b51c4fbf19dfd1df7c4e05d1be6ca0": {
+            "text": "Kolommen"
+        },
+        "a68194569adc7b00a73840fceb912c24": {
+            "text": "Toegang"
+        }
+    }
+}

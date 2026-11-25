@@ -1,0 +1,12 @@
+{
+    "file": "wire/modules/System/LazyCron/LazyCron.module",
+    "textdomain": "wire--modules--system--lazycron--lazycron-module",
+    "translations": {
+        "2ffcab774025b23727162ab5003e9c2d": {
+            "text": "Alleen CLI-modus (uitvoering tijdens HTTP-verzoeken uitschakelen)"
+        },
+        "16fba886aae60bb0ac8e54cfb3cbc99f": {
+            "text": "Om dit vanuit de CLI uit te voeren, gebruik je: `php index.php lazycron run`"
+        }
+    }
+}
